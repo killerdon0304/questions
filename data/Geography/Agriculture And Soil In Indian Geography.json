@@ -1,0 +1,2565 @@
+[
+    {
+        "question": "Which of the following is not a cause of soil erosion?",
+        "options": [
+            "Drainage",
+            "Deforestation",
+            "Weathering",
+            "Grazing"
+        ],
+        "correct_answer": "c",
+        "note": "Weathering is a natural process of disintegration of rocks. This leads to the formation of soil rather than erosion."
+    },
+    {
+        "question": "Which of the following is not a tropical type of soil?",
+        "options": [
+            "Red soil",
+            "Desert soil",
+            "Black soil",
+            "Brown soil"
+        ],
+        "correct_answer": "d",
+        "note": "Brown soil is not a tropical type of soil. Tropical soil are formed in areas with high annual temperature and rainfall. The intense weathering causes these soils to be nutrient poor and low in organic matter."
+    },
+    {
+        "question": "The another name of acid or alkaline soil is",
+        "options": [
+            "Regur",
+            "Bangar",
+            "Kallar",
+            "Khadar"
+        ],
+        "correct_answer": "c",
+        "note": "The another name of acid or alkaline soil is Kallar. The word alkali is of Arabic origin meaning ash-like and is used to designate hard and intractable soils generally known by the names rakkar, kallar, bara and bari."
+    },
+    {
+        "question": "Extensive subsistence agriculture is ________",
+        "options": [
+            "Farming on the slopes of Western Ghats",
+            "Farming in the thickly populated areas",
+            "Farming in the thinly populated areas",
+            "Farming in the forests of equatorial region"
+        ],
+        "correct_answer": "c",
+        "note": "Extensive subsistence agriculture is farming in the thinly populated areas. An agricultural technique where a vast expanse of land is cultivated to yield minimal output of crops and animals for the primary consumption of the grower's family. Subsistence farmers grow any crops that are native to the land."
+    },
+    {
+        "question": "Fertility of soil can be improved by ________",
+        "options": [
+            "Adding living earthworms",
+            "Adding dead earthworms",
+            "Removing dead earthworms",
+            "Removing living earthworms and adding dead earthworms"
+        ],
+        "correct_answer": "a",
+        "note": "Fertility of soil can be improved by adding living earthworms. Worms help to increase the amount of air and water that gets into the soil. They break down organic matter, like leaves and grass into things that plants can use. When they eat, they leave behind castings that are a very valuable type of fertilizer. Earthworms are like free farm help."
+    },
+    {
+        "question": "Grai Soil, like the Ash of Pine Forest, is also knows as",
+        "options": [
+            "Red and peat soil",
+            "Tundra soil",
+            "Podzol",
+            "Gray soil"
+        ],
+        "correct_answer": "c",
+        "note": "Podzol soils are also called lessive soils .These are mountain soils characterized by moderate leaching. These are ash grey in color."
+    },
+    {
+        "question": "The principal cause of soil damage in Punjab and Haryana is",
+        "options": [
+            "Deforestation",
+            "Soil erosion",
+            "Excessive cultivation",
+            "Salinity and water logging"
+        ],
+        "correct_answer": "d",
+        "note": "The principal cause of soil damage in Punjab and Haryana is salinity and water logging. The area are totally damaged due to salinization of sub soil water and did not allow any plant to grow."
+    },
+    {
+        "question": "Which of the following are true in respect of alluvial soil ?\nI. Generally confined to river basins\nII. It has been deposited by rivers\nIII. It is rich in phosphorus and poor in potash\nIV. It is the most fertile soil",
+        "options": [
+            "I and II",
+            "III and IV",
+            "I, II and IV",
+            "I, II and III"
+        ],
+        "correct_answer": "c",
+        "note": "The following that are true in respect of alluvial soil are that it is generally confined to river basins, it has been deposited by rivers and it is the most fertile soil."
+    },
+    {
+        "question": "Under which climatic conditions do the laterite soils develop ?",
+        "options": [
+            "Wet tropical Climate",
+            "Hot and dry Climate",
+            "Cold temperature Climate",
+            "Mediterranean type of Climate"
+        ],
+        "correct_answer": "a",
+        "note": "Under Wet tropical Climate the laterite soils develop. The laterite soil is formed under conditions of high temperature and heavy rainfall with alternate wet and dry periods, which leads to leaching of soil, leaving only oxides of iron and aluminum."
+    },
+    {
+        "question": "Which one of the following soil types of India is rendered infertile by the presence of excess iron?",
+        "options": [
+            "Desert sand",
+            "Alluvial",
+            "Podzolic",
+            "Lateritic"
+        ],
+        "correct_answer": "d",
+        "note": "Lateritic soil types of India is rendered infertile by the presence of excess iron. Laterite soils are those soils which are found in the areas which receive high rainfall and have very high temperature. This results in the less humus content in the soil. Also , they have excess amount of iron in them . Hence , they are not fertile soil and are not suitable for cultivation."
+    },
+    {
+        "question": "Which of the following district of Tamil Nadu is not suitable for farming due to rising salinity\nin soil?",
+        "options": [
+            "Tiruchirappalli",
+            "Nagapattinam",
+            "Ramnathpuram",
+            "Coimbatore"
+        ],
+        "correct_answer": "a",
+        "note": "It has been observed that in Tiruchirapalli which is located along the Kaveri river the salinity levels are increasing the soil making it unfit for agriculture."
+    },
+    {
+        "question": "In India the problem of utilisation of agricultural wastes is in",
+        "options": [
+            "Conversion of cellulose into sugar",
+            "Conversion of bran into molasses",
+            "Conversion of starch into alcohol",
+            "Conversion of sugar into carbohydrates"
+        ],
+        "correct_answer": "a",
+        "note": "In India the problem of utilisation of agricultural wastes is in conversion of cellulose into sugar."
+    },
+    {
+        "question": "The soil of northern plain of India is formed by",
+        "options": [
+            "Degradation",
+            "Aggradation",
+            "Weathering in situ",
+            "Erosion"
+        ],
+        "correct_answer": "b",
+        "note": "Soil of northem plains is alluvial soil which is the result of deposition of sediments by the process of aggradation. These soil cover almost 40% of the area of India."
+    },
+    {
+        "question": "Soil of Western Rajasthan have a high content of",
+        "options": [
+            "Aluminium",
+            "Calcium",
+            "Nitrogen",
+            "Phosphorus"
+        ],
+        "correct_answer": "b",
+        "note": "Soil of western Rajasthan have a high content of Calcium. These soils have rich content of iron- oxide and devoid of calcium salts because calcium salts soluble in water and are easily washed away."
+    },
+    {
+        "question": "Black cotton soil of the Deccan region of India is associated with ________ rocks.",
+        "options": [
+            "Volcanic rocks",
+            "Plutonic rocks",
+            "Sedimentary rocks",
+            "Hypabysal rocks"
+        ],
+        "correct_answer": "a",
+        "note": "Black cotton soil of the Deccan region of India is associated with volcanic rocks. Deccan relates more specifically to that area of rich volcanic soils and lava-covered plateaus in the northern part of the peninsula between the Narmada and Krishna rivers."
+    },
+    {
+        "question": "Which of the following is/are not the characteristics of red soils?\nI. They are derived from weathering of old crystalline and metamorphic rocks\nII. They contain iron oxides\nIII. They have high water retention capacity\nIV. They have high nitrogen content",
+        "options": [
+            "II and III",
+            "Only III",
+            "Only IV",
+            "III and IV"
+        ],
+        "correct_answer": "d",
+        "note": "The following that are not the characteristics of red soils are they have high water retention capacity and they have high nitrogen content."
+    },
+    {
+        "question": "Which of the following soils is formed under typical monsoonal conditions?",
+        "options": [
+            "Black Soils",
+            "Red Soils",
+            "Laterite Soils",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "Laterite Soils is formed under typical monsoonal conditions. The alternation of wet and dry seasons leads to the leaching away of the siliceous matter of the rocks and the formation of laterite soils. The soils on the higher areas are generally more acidic than on the low lying areas."
+    },
+    {
+        "question": "Which of the following types of soils have a marked capacity to retain water?",
+        "options": [
+            "Desert soil",
+            "Laterite soil",
+            "Red soil",
+            "Regur soil"
+        ],
+        "correct_answer": "d",
+        "note": "Regur soil have a marked capacity to retain water. Black soil is also called Regur soil. It is black in color and ideal for growing cotton. This type of soil is typical of the Deccan trap (Basalt) region spread over North-West Deccan plateau and is made up of lava flows."
+    },
+    {
+        "question": "Which of the following statements regarding red soils of India is/are correct?\n1. The colour of the soil is-red due to ferric oxide content.\n2. Red soils are rich in lime, humous and potash.\n3. They are porous and have friable structure.",
+        "options": [
+            "1 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "b",
+        "note": "The following statements that are correct regarding red soils of India are: The colour of the soil is-red due to ferric oxide content and they are porous and have friable structure."
+    },
+    {
+        "question": "Which of the following can be used to correct acidic soil?",
+        "options": [
+            "Gypsum",
+            "Lime",
+            "Vegetable compost",
+            "Calcium superphosphate"
+        ],
+        "correct_answer": "b",
+        "note": "Lime can be used to correct acidic soil. It increases the pH of acidic soil (the lower the pH the more acidic the soil); in other words, soil acidity is reduced and alkalinity increased. it provides a source of calcium and magnesium for plants. it permits improved water penetration for acidic soils."
+    },
+    {
+        "question": "The composition of laterite soil in higher areas is",
+        "options": [
+            "Alkaline",
+            "Saline",
+            "Acidic",
+            "Balanced"
+        ],
+        "correct_answer": "c",
+        "note": "Laterite soil is poor in lime content that's why it is found acidic in high hilly areas. Due to the presence of iron oxides the colour of laterite soil is basically red. This soil is poor in lime content and hence it is acidic. Laterite soils are found on the high level plateau and hilly areas that receive high rainfall and are specifically well developed on the Eastern Ghats in Orissa."
+    },
+    {
+        "question": "Which of the statements given are correct about the soils of India :\n1. High temperature during most of the year retards formation of humus\n2. Soils which have humus require regular application of chemical fertilizers to remove nitrogen deficiency\n3. Titanium salts in basalt impart black, colour to the soils of the Indian plateau\n4. Red soils are confined to the peripheral areas of the Indian plateau",
+        "options": [
+            "1 and 2",
+            "1, 3 and 4",
+            "2 and 3",
+            "2 and 4"
+        ],
+        "correct_answer": "b",
+        "note": "The statements that are correct about the soils of India are High temperature during most of the year retards formation of humus, Titanium salts in basalt impart black, colour to the soils of the Indian plateau and Red soils are confined to the peripheral areas of the Indian plateau."
+    },
+    {
+        "question": "Soil erosion in desert area can be prevented",
+        "options": [
+            "By strip ploughing",
+            "By using manure",
+            "By forestation",
+            "By shifting cultivation"
+        ],
+        "correct_answer": "c",
+        "note": "Soil erosion in deserts is primarily because of wind and is also known as aeolian erosion. If trees are planted in the way then high speed wind can prevent the damage to soil."
+    },
+    {
+        "question": "Which of the following states has very little alluvial soil?",
+        "options": [
+            "Bihar",
+            "Madhya Pradesh",
+            "Tamil Nadu",
+            "Punjab"
+        ],
+        "correct_answer": "b",
+        "note": "Madhya Pradesh has very little alluvial soil."
+    },
+    {
+        "question": "Which is the chief characteristic of the soil of the Indo-Gangetic plain?",
+        "options": [
+            "It is derived from Himalayan rocks",
+            "It is rich in humus",
+            "It is formed of peninsular rocks",
+            "It is derived from local rocks"
+        ],
+        "correct_answer": "a",
+        "note": "The chief characteristic of the soil of the Indo-Gangetic plain is that it is derived from Himalayan rocks. The soil is rich in silt, making the plain one of the most intensely farmed areas of the world."
+    },
+    {
+        "question": "Which of the following is the most important factor in soil formation?",
+        "options": [
+            "Relief",
+            "Climate",
+            "Natural vegetation",
+            "Rock cover"
+        ],
+        "correct_answer": "b",
+        "note": "Climate is the most important factor in soil formation. Warmer temperatures and an abundance of water have a tendency to speed up the formation of soil, in some cases rather dramatically. Whereas cooler temperatures and less precipitation slow down soil formation."
+    },
+    {
+        "question": "Soil factors are also known as",
+        "options": [
+            "Biological factors",
+            "Geo Morphological factors",
+            "Ecological factors",
+            "Edaphic factors"
+        ],
+        "correct_answer": "d",
+        "note": "Edaphic factors are those relating to or determined by conditions of soil. These abiotic factors are related to\nphysical or chemical conditions of soil of a particular area."
+    },
+    {
+        "question": "The largest and the most important soil group of India contributing to the country's major agricultural production is",
+        "options": [
+            "Laterite",
+            "Alluvial",
+            "Red",
+            "Peat"
+        ],
+        "correct_answer": "b",
+        "note": "The largest and the most important soil group of India contributing to the country's major agricultural production is Alluvial. Alluvial soils are by far the largest and the most important soil group of India. Covering about 15 lakh sq km or about 45.6 per cent of the total land area of the country, these soils contribute the largest share of our agricultural wealth and support the bulk of India's population."
+    },
+    {
+        "question": "The Red soils develop a reddish colour due to ________",
+        "options": [
+            "Deforestation and over-grazing",
+            "The presence of potash and magnesia",
+            "Tropical monsoonal climate",
+            "A wide diffusion of iron in ancient crystalline and metamorphic rocks"
+        ],
+        "correct_answer": "d",
+        "note": "The Red soils develop a reddish colour due to a wide diffusion of iron in ancient crystalline and metamorphic rocks. Red soil is formed by weathering of old crystalline igneous and metamorphic rocks. It is rich in iron and hence appears red in colour. Red soil indicates the presence of oxidized ferric oxides. Ordinarily the surface soils are red while the horizon below gets yellowish colour."
+    },
+    {
+        "question": "The Laterite soil is found in which of the following state?",
+        "options": [
+            "Kerala",
+            "Uttar Pradesh",
+            "Rajasthan",
+            "Jammu and Kashmir"
+        ],
+        "correct_answer": "a",
+        "note": "Laterite soil is found in areas of high temperature, and high rainfall. These soils have mainly developed in the higher areas of peninsular plateau. Laterite soils are found mainly in the states of Karnataka, Kerala, Tamil Nadu, Madhya Pradesh and the hilly regions of Orissa and Assam."
+    },
+    {
+        "question": "Science dealing with study of soil is called",
+        "options": [
+            "Pedology",
+            "Pedagogy",
+            "Ecology",
+            "Pomology"
+        ],
+        "correct_answer": "a",
+        "note": "Fedology (pedon+logos) which means scientific study of soil. Pedology (derived from a Greek word \"pedon\" which means oil\" and \"logos' means \"study\")."
+    },
+    {
+        "question": "What is the name of the soil, rich in Calcium?",
+        "options": [
+            "Pedocal",
+            "Pedalfer",
+            "Podzol",
+            "Laterite"
+        ],
+        "correct_answer": "a",
+        "note": "Pedocal is made up of two words pedo+cal here 'pedo' means soil and 'cal' means calcium i.e.  soils which are rich in calcium are termed as pedocals."
+    },
+    {
+        "question": "The soil formed by the deposition of silt brought by rivers is ________",
+        "options": [
+            "Alluvial soil",
+            "Red soil",
+            "Black soil",
+            "Pod soil"
+        ],
+        "correct_answer": "a",
+        "note": "The soil formed by the deposition of silt brought by rivers is Alluvial soil. Alluvial soil is the main and important soil that spreads across the river plains. They are formed by deposition of materials or sediments (alluvium) brought in down by rivers that consist of silt, sand, clay, etc."
+    },
+    {
+        "question": "Which of the following types of soils is found throughout India in all climatic zones?",
+        "options": [
+            "Saline and Alkaline soils",
+            "Red soils",
+            "Laterite soils",
+            "Alluvial soils"
+        ],
+        "correct_answer": "a",
+        "note": "Saline and Alkaline soils types of soils is found throughout India in all climatic zones. Most coastal saline soils are found in the deltaic regions of major rivers in India falling either into Bay of Bengal or the Arabian Sea. Alkaline Soils are also known as Usara soils. Various local names for saline soils are Reh, Kallar, and Chopan, Rakar, Thur, Karl etc."
+    },
+    {
+        "question": "Which type of soil retains maximum water?",
+        "options": [
+            "Sandy soil",
+            "Clayey soil",
+            "Loamy soil",
+            "Rocky soil"
+        ],
+        "correct_answer": "b",
+        "note": "Clayey soil retains maximum water. Clay soil has small, fine particles, which is why it retains the most amount of water."
+    },
+    {
+        "question": "Put in descending order of area with the following soils in India:\nI. Red soils\nII. Black soils\nIII. Laterite soils\nIV. Alluvial soils",
+        "options": [
+            "I, IV, II, III",
+            "IV, II, I, III",
+            "IV, I, III, II",
+            "I, III, IV, II"
+        ],
+        "correct_answer": "b",
+        "note": "Here's the order of these soils in descending order of area in India:\n\nAlluvial soils (IV) - These are the most extensive soils in India, found in the Indo-Gangetic plains and along river banks. They are highly fertile.\n\nBlack soils (II) - Also known as Regur soils, they are found in the Deccan Plateau region. They are suitable for cotton and some other crops.\n\n Red soils (I) - These are found in many parts of India, especially in peninsular India. They are less fertile than alluvial soils.\n\nLaterite soils (III) - These are mainly found in the western coastal areas, northeastern states, and parts of southern India. They are less fertile and may have a high iron content.\n\nSo, the correct order in descending area is Option B: IV, II, I, III."
+    },
+    {
+        "question": "The soil which is a mixture of sand, clay and silt is known as ________",
+        "options": [
+            "Loamy soil",
+            "Sandy soil",
+            "Clayey soil",
+            "Desert soil"
+        ],
+        "correct_answer": "a",
+        "note": "The soil which is a mixture of sand, clay and silt is known as Loamy soil. Loamy soil is a mixture of sand, clay and another type of soil particle known as silt."
+    },
+    {
+        "question": "Which of the following are the components of loamy soils?\nI. Red soil\nII. Clay soil\nIII. Alluvial soil\nIV. Silt soil\nV. Sandy soil",
+        "options": [
+            "I and II",
+            "I, III and IV",
+            "II and V",
+            "II, III and V"
+        ],
+        "correct_answer": "c",
+        "note": "Clay soil and Sandy soil are component of Loamy soil. Loamy soil is a mixture of sand, clay and another type of soil particle known as silt."
+    },
+    {
+        "question": "The soils of the plains have not been derived",
+        "options": [
+            "From the Himalayan rocks",
+            "From the Peninsular rocks",
+            "Only from the rocks existing locally",
+            "From material brought by the rivers"
+        ],
+        "correct_answer": "c",
+        "note": "The soils of the plains have not been derived only from the rocks existing locally. Plains are associated with high productivity due to the generally reliable summer precipitation, a long growing season, and deep, fertile soils. Productivity is greatest in the eastern region (tallgrass prairie), followed by mixed grass, then shortgrass prairie."
+    },
+    {
+        "question": "The Plantation agriculture produces?",
+        "options": [
+            "Only Food Crops",
+            "Plantation Crops",
+            "Cash Crops",
+            "Four Crops"
+        ],
+        "correct_answer": "b",
+        "note": "Tea, coffee, pepper, cardamom and coconut are crops of plantation agriculture."
+    },
+    {
+        "question": "Which of the following soil is most suited for tea plantation ?",
+        "options": [
+            "Acidic",
+            "Alkaline",
+            "Alluvial",
+            "Regur"
+        ],
+        "correct_answer": "a",
+        "note": "Acidic soil is most suited for tea plantation. Tea grows well on high land well drained soils having a good depth, acidic pH in the range 4.5 to 5.5 and more than 2% organic matter."
+    },
+    {
+        "question": "Which of the following method does not help in conservation of the fertility and moisture of\nsoil?",
+        "options": [
+            "Contour ploughing",
+            "Dry farming",
+            "Strip cropping",
+            "Shifting cultivation"
+        ],
+        "correct_answer": "d",
+        "note": "Shifting cultivation also known as slash and burn farming is harmful for soil fertility in long term."
+    },
+    {
+        "question": "Khaddar soils are found",
+        "options": [
+            "In piedmont plains",
+            "In flood plains",
+            "Over low plateaux",
+            "Over steep slopes"
+        ],
+        "correct_answer": "b",
+        "note": "Khaddar soils are found In flood plains. In India, Khadar soil is found along the Indo Ganga-Brahmaputra flood plain."
+    },
+    {
+        "question": "The Laterite soil is found in",
+        "options": [
+            "High rainfall states",
+            "In deserts",
+            "Tropical areas",
+            "Dry and humid tropical areas"
+        ],
+        "correct_answer": "d",
+        "note": "Laterite soils are formed by the process of leaching which is the flowing down of some minerals of soil along with water. Leaching requires high temperature and high rainfall."
+    },
+    {
+        "question": "Which of the following component was not the part\nof agricultural policy of Green Revolution?",
+        "options": [
+            "High density of crops",
+            "Guaranteed maximum price",
+            "New agricultural technology",
+            "Investment package"
+        ],
+        "correct_answer": "b",
+        "note": "Guaranteed maximum price instead of maximum price was a part of green revolution policy. Today it has taken the form of MSP i.e. Minimum Support Price and it is declared by ACP i.e. Commission for Agricultural Costs & Prices."
+    },
+    {
+        "question": "The soil which bleaches quickly due to rain, is called",
+        "options": [
+            "Red",
+            "Laterite",
+            "Black",
+            "Alluvial"
+        ],
+        "correct_answer": "b",
+        "note": "In lateritic soil the silica present on top percolates down with water and the process is known as leaching. Leaching requires high temperature  and high rainfall."
+    },
+    {
+        "question": "The soils which have supported agriculture for centuries without much manuring or fallowing are",
+        "options": [
+            "Alluvial and late rite soils",
+            "Red and laterite soils",
+            "Black and alluvial soils",
+            "Laterite and black soils"
+        ],
+        "correct_answer": "c",
+        "note": "The soils which have supported agriculture for centuries without much manuring or fallowing are black and alluvial soils."
+    },
+    {
+        "question": "As per the classification by agriculture ministry, how many agroclimatic zones are in India?",
+        "options": [
+            "123",
+            "126",
+            "127",
+            "122"
+        ],
+        "correct_answer": "c",
+        "note": "Although planning commission has divided India into 15 agro climatic zones, Agricultural Ministry on the other hand has divided India into 127 zones."
+    },
+    {
+        "question": "Agricultural commodities are graded with",
+        "options": [
+            "ISI",
+            "Eco-products",
+            "AGMARK",
+            "Green Product"
+        ],
+        "correct_answer": "c",
+        "note": "AGMARK is a certification given to agricultural commodities in order to comply with Agricultural Products Act 1986. It is given for the assurance of quality."
+    },
+    {
+        "question": "What is the percentage of Indian population engaged in agriculture?",
+        "options": [
+            "60",
+            "50",
+            "70",
+            "80"
+        ],
+        "correct_answer": "a",
+        "note": "Although agriculture contributes only 14% towards GDP yet more than 60% of population is engaged in it. It is still considered as backbone of economy."
+    },
+    {
+        "question": "Red soil is normally found in India in which regions?",
+        "options": [
+            "Eastern region only",
+            "Southern region only",
+            "Eastern & southern part of the Deccan Plateau",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "Red soil is found in Indian state such that Tamil Nadu, southern Karnataka, noth-eastern Andhra and some parts of M.P., Chhatisgarh and Odisha. Hence, option 3 is correct."
+    },
+    {
+        "question": "Of the following statements about the major soil types, the incorrect one is ________",
+        "options": [
+            "Alluvial soils are easy to plough",
+            "Red soils are rich in phosphorus, nitrogen and lime content",
+            "Laterite is typically a soil of tropical regions which receive heavy seasonal rainfall",
+            "Black soil is highly retentive of moisture and very productive"
+        ],
+        "correct_answer": "b",
+        "note": "Of the following statements about the major soil types, the incorrect one is Red soils are rich in phosphorus, nitrogen and lime content. Red soil is rich in iron oxide, but deficient in nitrogen and lime."
+    },
+    {
+        "question": "The plantation in a huge manner to prevent soil erosion is called",
+        "options": [
+            "Shelter Belts",
+            "Contour Farming",
+            "Strip Farming",
+            "Forestation"
+        ],
+        "correct_answer": "a",
+        "note": "The plantation in a huge manner to prevent soil erosion is called Shelter Belts. Plantation of protective belts of trees around a farmland prevents the action of external agents such as running water and wind on soil. Shelterbelt trees help to reduce soil erosion by protecting against wind and the elements and reducing the impact that severe weather has on the soil by providing much needed shelter. Shelterbelts can also provide protection to the shoreline by protecting against the impact of salt carried by the wind."
+    },
+    {
+        "question": "Which of the following indicates the types of soil erosion in decreasing order of damage caused In India",
+        "options": [
+            "Ravine erosion .and gullies, alkalinity and salinity weeds and water-logging",
+            "Alkalinity and water-logging, ravine erosion and weeds",
+            "Water-logging, weeds, salinity and ravine erosion",
+            "All are equally damaging"
+        ],
+        "correct_answer": "a",
+        "note": "the types of soil erosion in decreasing order of damage caused In India is Ravine erosion and gullies, alkalinity and salinity weeds and water-logging."
+    },
+    {
+        "question": "Peaty soil is found in ________",
+        "options": [
+            "Kerala",
+            "Kashmir",
+            "Assam",
+            "Gujarat"
+        ],
+        "correct_answer": "a",
+        "note": "Peaty soil is found in Kerala. They are low in phosphate and potash content. Peaty and marshy soils are found in a few districts of Kerala."
+    },
+    {
+        "question": "Salinization occurs when the irrigation water accumulated in the soil evaporates, leaving behind salts and minerals. What are the effects of salinization on the irrigated land?",
+        "options": [
+            "It greatly increases the crop production",
+            "It makes some soils impermeable",
+            "It raises the water table",
+            "It fills the air spaces in the soil with water"
+        ],
+        "correct_answer": "b",
+        "note": "Salinization on the irrigated land makes some soils impermeable. Salinization occurs when the irrigation water accumulated in the soil evaporates, leaving behind salts and minerals. It makes some soils impermeable which is the effect of salinization on the irrigated land."
+    },
+    {
+        "question": "How can soil erosion be controlled on hill slopes?",
+        "options": [
+            "Forestation",
+            "Step farming",
+            "Strip cropping",
+            "Linear contour ploughing"
+        ],
+        "correct_answer": "d",
+        "note": "soil erosion be controlled on hill slopes by Linear contour ploughing. For contour ploughing the mounds are made with digged zones adjacently at the edge of contours to control soil erosion. This practice takes place in hilly areas where land is not uniform."
+    },
+    {
+        "question": "The red colour of red soil is due to",
+        "options": [
+            "Nitrogen",
+            "Humus",
+            "Iron",
+            "Copper"
+        ],
+        "correct_answer": "c",
+        "note": "In this type of soil the soil particles have a coating of ferric oxides. These iron oxides have haematite or hydrous ferric oxide which is red in color."
+    },
+    {
+        "question": "Which of the following soils is best suited for cotton?",
+        "options": [
+            "Regur",
+            "Alluvial",
+            "Red",
+            "Clayey"
+        ],
+        "correct_answer": "a",
+        "note": "Regur soils is best suited for cotton. It is other name for black soil. Because of their clayey nature, black soil is much required for growing cotton. Cotton cultivation requires high moisture retention. Black soils are very fine grained and dark, contain a high proportion of calcium and magnesium carbonates and highly argillaceous."
+    },
+    {
+        "question": "Black soil derived from volcanic rocks with humus is suitable for growing",
+        "options": [
+            "Rice",
+            "Wheat",
+            "Cotton",
+            "Grapes"
+        ],
+        "correct_answer": "c",
+        "note": "Black soil derived from volcanic rocks with humus is suitable for growing Cotton. Cotton cultivation requires high moisture retention. Black soils are very fine grained and dark, contain a high proportion of calcium and magnesium carbonates and highly argillaceous. It is most suitable for the growth of cotton."
+    },
+    {
+        "question": "The formation of laterite soil is mainly due to ________",
+        "options": [
+            "Weathering",
+            "Erosion",
+            "Leaching",
+            "Deposition"
+        ],
+        "correct_answer": "c",
+        "note": "The formation of laterite soil is mainly due to Leaching. Main reason of laterite soils formation is due to intense leaching. Leaching happens due to high tropical rains and high temperature. These soils have mainly developed in the higher areas of the peninsular plateau."
+    },
+    {
+        "question": "In the agricultural resources, cereals comprise",
+        "options": [
+            "Rubber, oil seeds, groundnut",
+            "Cotton, Jute, hemp",
+            "Tea, coffee, cocoa",
+            "Rice, wheat, millets"
+        ],
+        "correct_answer": "d",
+        "note": "In the agricultural resources, cereals comprise of Rice, wheat, millets. The seven principal cereals grown in the world are wheat, maize, rice, barley, oats, rye and sorghum. Wheat became very popular because of the bread produced."
+    },
+    {
+        "question": "Which of the following is the most fertile soil in India?",
+        "options": [
+            "Black soil",
+            "Alluvial soil",
+            "Red soil",
+            "Laterite soil"
+        ],
+        "correct_answer": "b",
+        "note": "Alluvial soil is the most fertile soil in India. Alluvial soils is are formed by the deposits of the sediments brought by rivers. Most of the rivers originate from the Himalayas and bring along high amount of sediments with them. The soil is made up of particles like silt, sand and clay. It has adequate amount of phosphoric acid, potash and lime. Alluvial soil is of two types - (i) old alluvium known as bangar, and (ii) new alluvium called khaddar. It is the most important type of soil found in the country as it covers about 40% of the total land."
+    },
+    {
+        "question": "The soil found in the Eastern and Western coasts of India is ________.",
+        "options": [
+            "Red Rocky",
+            "Laterite",
+            "Black Cotton",
+            "Alluvial"
+        ],
+        "correct_answer": "b",
+        "note": "Lateritic soil Which is formed by the process of leaching is predominant on the Eastern and Western coast of India. This soil is found in the regions having high temperature and high rainfall."
+    },
+    {
+        "question": "Which of the following characteristics is not true of alluvial soils?",
+        "options": [
+            "These vary from sandy loam to clay in texture",
+            "These are generally rich in phosphorus but poor in potash",
+            "These are usually fine grained",
+            "These are by far the most fertile"
+        ],
+        "correct_answer": "b",
+        "note": "Alluvial soils are not generally rich in phosphorus but poor in potash. The alluvial soils are generally rich in potash but poor in phosphorous. In the Upper and Middle Ganga plain, two different types of alluvial soils have developed, viz. Khadar and Bhangar. Khadar is the new alluvium and is deposited by floods annually, which enriches the soil by depositing fine silts."
+    },
+    {
+        "question": "Which of the following is the correct order of increasing size of the grains of soil particles?\n1. Clay\n2. Silt\n3. Sand\n4. Gravel",
+        "options": [
+            "2, 3, 4, 1",
+            "1, 2, 3, 4",
+            "4, 3, 2, 1",
+            "1, 4, 3, 2"
+        ],
+        "correct_answer": "b",
+        "note": "Clay, Silt, Sand and Gravel is the correct order of increasing size of the grains of soil particles."
+    },
+    {
+        "question": "Which of the following factor affects the agriculture in India?",
+        "options": [
+            "Temperature",
+            "Humidity",
+            "Wind",
+            "Rain"
+        ],
+        "correct_answer": "d",
+        "note": "Among the options given above rain is the most important factor which affects the agriculture in India. Indian agriculture is heavily dependent on monsoon and the regional variations in production and type of agriculture are a manifestation of rainfall variations."
+    },
+    {
+        "question": "Which soil is best for the production of cotton?",
+        "options": [
+            "Black soil",
+            "Loam soil",
+            "Alluvial soil",
+            "Peaty soil"
+        ],
+        "correct_answer": "a",
+        "note": "Black soils are found in Deccan plateau. These soils are rich in lime,iron and alumina and have high moisture retention capacity so these are best suited for cotton cultivation."
+    },
+    {
+        "question": "On the basis of the process of their formation, which' of the following soils is formed differently from the other three?",
+        "options": [
+            "Khadar",
+            "Bhangar",
+            "Bhabar",
+            "Regur"
+        ],
+        "correct_answer": "d",
+        "note": "Regur soils is formed differently from the other three. Black soil is formed from the weathering of igneous rocks and the cooling of lava after the volcano eruption. It is known as Regur soil, cotton soil and lava soil."
+    },
+    {
+        "question": "The salinity of soil is measured by",
+        "options": [
+            "Electrical Conductivity Meter",
+            "Hygrometer",
+            "Psychrometer",
+            "Scaler"
+        ],
+        "correct_answer": "a",
+        "note": "The salinity of soil is measured by Electrical Conductivity Meter. Water and soil salinity are measured by passing an electric current between the two electrodes of a salinity meter in a sample of soil or water. The electrical conductivity or EC of a soil or water sample is influenced by the concentration and composition of dissolved salts."
+    },
+    {
+        "question": "The transfer of minerals from top soil to subsoil through soil water is called ________",
+        "options": [
+            "Percolation",
+            "Conduction",
+            "Leaching",
+            "Transpiration"
+        ],
+        "correct_answer": "c",
+        "note": "Leaching is the process by which the loss (or) extraction of essential material (like micro & macro nutrients) of soil occurs. It may be done through water, wind (or) other agents."
+    },
+    {
+        "question": "Why is crop rotation necessary?",
+        "options": [
+            "To increase the fertility of soil",
+            "To increase the quantity of minerals",
+            "To reduce the quantity of proteins",
+            "To plough various types of crops"
+        ],
+        "correct_answer": "a",
+        "note": "Soil contains many minerals and salts. Some of them are used by one type of crop while others by other crops. Crop rotation will help to regain those minerals and will prevent the over exploitation of one type of mineral."
+    },
+    {
+        "question": "The important feature of shifting cultivation is ________",
+        "options": [
+            "Cultivation by transplantation",
+            "Cultivation of Leguminous crops",
+            "Change of cultivation site",
+            "Rotating of crops"
+        ],
+        "correct_answer": "c",
+        "note": "The important feature of shifting cultivation is Change of cultivation site. Shifting cultivation is an agricultural system in which a person uses a piece of land, only to abandon or alter the initial use a short time later. This system often involves clearing of a piece of land followed by several years of wood harvesting or farming until the soil loses fertility."
+    },
+    {
+        "question": "Black soils are ideal for cultivation of cotton as",
+        "options": [
+            "Their colour is black",
+            "They can retain moisture",
+            "They are made of lava",
+            "They are found on plateau regions"
+        ],
+        "correct_answer": "b",
+        "note": "Black soils are ideal for cultivation of cotton as they can retain moisture. Cotton cultivation requires high moisture retention. Black soils are very fine grained and dark, contain a high proportion of calcium and magnesium carbonates and highly argillaceous."
+    },
+    {
+        "question": "Choose the crops which were cropped by using high yielding seeds in India during Green Revolution?",
+        "options": [
+            "Rice, wheat, pulses, oilseeds and sugarcane",
+            "Maize, gram, jowar, coffee and tea",
+            "Rice, wheat, jowar, millet and maize",
+            "Wheat, rice, sugarcane, pulses and maize"
+        ],
+        "correct_answer": "c",
+        "note": "In 1966 during the time of green revolution yielding variety seeds of wheat, rice, maize, jowar, millet were sown. It was most successful with fodder crops specially wheat and rice."
+    },
+    {
+        "question": "Which of the following is a cash crop in India?",
+        "options": [
+            "Maize",
+            "Gram",
+            "Onion",
+            "Wheat"
+        ],
+        "correct_answer": "b",
+        "note": "Gram is a cash crop in India. A cash crop or profit crop is an agricultural crop which is grown to sell for profit."
+    },
+    {
+        "question": "Green Revolution is related to which Crop",
+        "options": [
+            "Rice",
+            "Wheat",
+            "Pulses",
+            "Sugercane"
+        ],
+        "correct_answer": "b",
+        "note": "In \"Green Revolution\" new varieties of dwarf wheat such as  Lerma, Roso and Sonora were imported and the yield was increased by 562% i.e. nearly 6 times. Although there were other crops like rice and millet but main thrust was with wheat."
+    },
+    {
+        "question": "Consider the following statements:\n1. Alluvial soil is rich in chemical properties and is capable of yielding Rabi and Kharif crops.\n2. Black soil is suitable for cotton, groundnut.\n3. Rabi crops are reaped in autumn after sowing in June.\nWhich of these statements are correct ?",
+        "options": [
+            "1, 2 and 3",
+            "1 and 2",
+            "2 and 3",
+            "1 and 3"
+        ],
+        "correct_answer": "b",
+        "note": "The statements that are correct are that Alluvial soil is rich in chemical properties and is capable of yielding Rabi and Kharif crops and Black soil is suitable for cotton, groundnut."
+    },
+    {
+        "question": "Soil can best be conserved on the hills by which of the cultivating methods?",
+        "options": [
+            "Strip cropping",
+            "Crop rotation",
+            "Contour ploughing",
+            "Terracing"
+        ],
+        "correct_answer": "c",
+        "note": "Soil can best be conserved on the hills by Contour ploughing. If ploughing is done at right angles to the hill slope, the ridges and furrows break the flow of water down the hill. This prevents excessive soil loss as gullies are less likely to develop and also reduce run-off so that plants receive more water."
+    },
+    {
+        "question": "Which is the best suited soil for the cultivation of rice?",
+        "options": [
+            "Laterite soil",
+            "Red soil",
+            "Alluvial soil",
+            "Black soil"
+        ],
+        "correct_answer": "c",
+        "note": "Rice is a kharif crop which requires highly alluvial soil and a great amount of water. Major rice producing states are Andhra Pradesh, West Bengal and Uttar Pradesh."
+    },
+    {
+        "question": "How would you increase the yield of maize crop?",
+        "options": [
+            "Evolve high yielding varieties of seeds to suit different agroclimatic regions",
+            "Develop high yielding varieties",
+            "Develop disease-resistant varieties",
+            "Develop early and very early maturing varieties suitable for rainfall areas"
+        ],
+        "correct_answer": "a",
+        "note": "The yield of maize crop can be increased by evolving high yielding varieties of seeds to suit different agroclimatic regions."
+    },
+    {
+        "question": "Which one of the following groups of crops is grown in India during the Rabi season?",
+        "options": [
+            "Wheat, barley, gram",
+            "Rice, maize, wheat",
+            "Barley, maize, rice",
+            "Millet, gram, rice"
+        ],
+        "correct_answer": "a",
+        "note": "Wheat, barley, gram groups of crops is grown in India during the Rabi season.Rabi crops are sown in winter from October to December and harvested in summer from April to June. Some of the important rabi crops are wheat, barley, peas, gram and mustard."
+    },
+    {
+        "question": "The area of food crops in total area of cropping in India is",
+        "options": [
+            "More than 70%",
+            "60% - 70%",
+            "50% - 60%",
+            "Less than 50%"
+        ],
+        "correct_answer": "b",
+        "note": "Food crops in India accounts for nearly 65% area of total cropping area."
+    },
+    {
+        "question": "In which of the following crops Uttar Pradesh is not the largest producer in India?",
+        "options": [
+            "Potato",
+            "Rice",
+            "Sugarcane",
+            "Wheat"
+        ],
+        "correct_answer": "b",
+        "note": "Uttar Pradesh is not the largest producer of rice in India. With 140.22 lakh tons of rice production, Uttar Pradesh ranks on the 2nd position in the country after West Bengal."
+    },
+    {
+        "question": "During the period of ________ , the production of food crops specially wheat increased very sharply",
+        "options": [
+            "1954",
+            "1964",
+            "1965",
+            "1966"
+        ],
+        "correct_answer": "d",
+        "note": "In 1966 new varieties of wheat such as Lerma, Roso and Sonora-64 were imported. This lead to a great rise in\nproduction of food crops and it was termed as green revolution."
+    },
+    {
+        "question": "Crop rotation refers to ________",
+        "options": [
+            "Method of farming without irrigation in an area of limited rainfall",
+            "Farming done on the same land by different people turn-wise",
+            "Growing same crop in alternate years",
+            "Growing different crops in succession"
+        ],
+        "correct_answer": "d",
+        "note": "Crop rotation refers to Growing different crops in succession. Rotating different crops year after year adds various economic and environmental benefits. In addition, crop rotation is helpful in long-term soil and farm management."
+    },
+    {
+        "question": "For the cultivation of which crop is black soil most suitable?",
+        "options": [
+            "Cotton",
+            "Rice",
+            "Jute",
+            "Wheat"
+        ],
+        "correct_answer": "a",
+        "note": "It is mainly known as black cotton soil because this soil is most suitable for the cotton crop. The black soils moisture very well hence it's excellent for growing cotton. This is also popularly known as black cotton soil."
+    },
+    {
+        "question": "With reference to the area devoted to its cultivation pulses hold the third place in India. Which crops occupy the first and second places respectively?",
+        "options": [
+            "Rice and Wheat",
+            "Rice and Cotton",
+            "Jowar and Cotton",
+            "Jowar and Bajara"
+        ],
+        "correct_answer": "a",
+        "note": "Rice and Wheat occupy the first and second places respectively."
+    },
+    {
+        "question": "Among the following States, which one has the most suitable climatic conditions for the cultivation of a large variety of orchids with minimum cost of production, and can develop an export oriented industry in this field?",
+        "options": [
+            "Andhra Pradesh",
+            "Arunachal Pradesh",
+            "Madhya Pradesh",
+            "Uttar Pradesh"
+        ],
+        "correct_answer": "b",
+        "note": "Arunachal Pradesh has the most suitable climatic conditions for the cultivation of a large variety of orchids with minimum cost of production, and can develop an export oriented industry in this field."
+    },
+    {
+        "question": "The crop which is produced largely/mostly in India",
+        "options": [
+            "Wheat",
+            "Jowar",
+            "Maize",
+            "Rice"
+        ],
+        "correct_answer": "d",
+        "note": "Rice is produced largely in India and the major rice producing states are West Bengal, U.P., A.P., Punjab, Tamil Nadu, Odisha and Bihar."
+    },
+    {
+        "question": "Which amongst the following States does not cultivate wheat?",
+        "options": [
+            "Karnataka",
+            "Maharashtra",
+            "West Bengal",
+            "Tamil Nadu"
+        ],
+        "correct_answer": "d",
+        "note": "Tamil Nadu does not cultivate wheat. Because the temperature in these areas does not fall to the required level, as the temperature should not rise beyond 10° to 15° C for its proper growth."
+    },
+    {
+        "question": "A few showers of rain during the months of December and January are beneficial to the rabi crops because they",
+        "options": [
+            "Make the plant strong",
+            "Protect the crops from frost",
+            "Cause fall in temperature",
+            "Provide moisture for the germination of seeds"
+        ],
+        "correct_answer": "b",
+        "note": "A few showers of rain during the months of December and January are beneficial to the rabi crops because they protect the crops from frost."
+    },
+    {
+        "question": "Which of the following pairs of states and their important crops are correctly matched?\n1. Kerala-Tapioca\n2. Maharashtra-Cotton\n3. West Bengal-Jute\n4. Gujarat-Groundnut",
+        "options": [
+            "1, 2 and 3",
+            "1, 2 and 4",
+            "1, 3 and 4",
+            "2, 3 and 4"
+        ],
+        "correct_answer": "d",
+        "note": "The following pairs of states and their important crops  that are correctly matched are Maharashtra- Cotton, West Bengal-Jute and Gujarat-Groundnut."
+    },
+    {
+        "question": "Gujarat is noted for the cultivation of",
+        "options": [
+            "Cotton",
+            "Sugarcane",
+            "Saffron",
+            "Jute"
+        ],
+        "correct_answer": "a",
+        "note": "Gujarat is noted for the cultivation of Cotton because of availability of black soil and sunlight for more than 210 days."
+    },
+    {
+        "question": "In India, during the last decade, the total cultivated land for which one of the following crops has remained more or less stagnant?",
+        "options": [
+            "Rice",
+            "Oilseeds",
+            "Pulses",
+            "Sugarcane"
+        ],
+        "correct_answer": "c",
+        "note": "In India, during the last decade, the total cultivated land for pulses crops has remained more or less stagnant."
+    },
+    {
+        "question": "In Thanjavur delta ________ crop is cultivated three times in a year.",
+        "options": [
+            "Wheat",
+            "Rice",
+            "Sugarcane",
+            "Groundnut"
+        ],
+        "correct_answer": "b",
+        "note": "In Thanjavur delta rice crop is cultivated three times in a year. It is known as the 'Rice bowl of Tamil Nadu' and the famous Thanjavur rice, is exported to other countries."
+    },
+    {
+        "question": "Edible crops include",
+        "options": [
+            "Cotton, Tobacco, Sugarcane",
+            "Linseed, Castor, Turmeric",
+            "Foodgrains, Pulses, Oilseeds",
+            "Jute, Cotton, Chilli"
+        ],
+        "correct_answer": "c",
+        "note": "Edible crops include foodgrains, pulses & oilseeds."
+    },
+    {
+        "question": "Which of the following helps in the 'greening process' of crops?",
+        "options": [
+            "Sunshine",
+            "Phosphatic fertilizers",
+            "Nitrogenous fertilizers",
+            "Potassic fertilizers"
+        ],
+        "correct_answer": "c",
+        "note": "Nitrogenous fertilizers helps in the 'greening process' of crops. Nitrogen is part of the chlorophyll molecule, which gives plants their green color and is involved in creating food for the plant through photosynthesis."
+    },
+    {
+        "question": "Kerala is famous for the cultivation of-\n1. Coconut\n2. Blackpepper\n3. Rubber\n4. Rice",
+        "options": [
+            "1, 2 and 3",
+            "1, 2 and 4",
+            "2, 3 and 4",
+            "1 and 4"
+        ],
+        "correct_answer": "a",
+        "note": "Various crops grown in Kerala are coconut, rubber, tea, coffee and black pepper. Although rice is also grown here but the famous crop are coconut, rubber and black pepper."
+    },
+    {
+        "question": "Which of the following is/are methods of checking soil erosion?\n1. Strip cropping\n2. Contour ploughing\n3. Use of irrigation and fertilisers\n4. Terrace farming",
+        "options": [
+            "1 and 2",
+            "3 and 4",
+            "2, 3 and 4",
+            "1, 2, 3 and 4"
+        ],
+        "correct_answer": "d",
+        "note": "Strip cropping, Contour ploughing, Use of irrigation and fertilisers and Terrace farming are methods of checking soil erosion."
+    },
+    {
+        "question": "In the coastal lowland of Kerala two crops of rice is grown per year because of:\n1. high temperature in winter\n2. adequate rain throughout the year\n3. adequate irrigation facility\n4. presence of water retentive clayey loam soil",
+        "options": [
+            "Only 1",
+            "2 and 3",
+            "1 and 2",
+            "1, 3, and 4"
+        ],
+        "correct_answer": "c",
+        "note": "In the coastal lowland of Kerala two crops of rice is grown per year because of high temperature in winter and adequate rain throughout the year."
+    },
+    {
+        "question": "As we move from the Pole to the Equator along the longitude, what is true of the variety of crops and animals?",
+        "options": [
+            "Both increase",
+            "Both decrease",
+            "Variety of crops increases but that of animals decreases",
+            "Variety of animals increases but that of crops decreases"
+        ],
+        "correct_answer": "a",
+        "note": "Both increase"
+    },
+    {
+        "question": "Which of the following is a cash crop?",
+        "options": [
+            "Wheat",
+            "Millets",
+            "Rice",
+            "Rubber"
+        ],
+        "correct_answer": "d",
+        "note": "Rubber is a cash crop. Rubber is one of the important cash crops cultivated in India mainly in Kerala and North India."
+    },
+    {
+        "question": "Which of the following is a rabi crop?",
+        "options": [
+            "Cotton",
+            "Mustard",
+            "Maize",
+            "Rice"
+        ],
+        "correct_answer": "b",
+        "note": "Mustard is a rabi crop. The major rabi crop in India is wheat, followed by barley, mustard, sesame and peas. A crop is said to be Rabi or Kharif on the basis of the conditions and environment that supports it's growth."
+    },
+    {
+        "question": "Which of the following is a Horticulture Crop?",
+        "options": [
+            "Paddy",
+            "Wheat",
+            "Mango",
+            "Bajara"
+        ],
+        "correct_answer": "c",
+        "note": "Mango is a horticulture crop. Mangoes are juicy stone fruit (drupe) from numerous species of tropical trees belonging to the flowering plant Genus Mangifera, cultivated mostly for their edible fruit. The majority of these species are found in nature as wild mangoes."
+    },
+    {
+        "question": "Which of the following crops are grown mainly in the irrigated areas during Zaid ?",
+        "options": [
+            "Arhar and Gram",
+            "Moong and Urad",
+            "Rice and Millets",
+            "Maize and Groundnut"
+        ],
+        "correct_answer": "b",
+        "note": "Moong and Urad are grown mainly in the irrigated areas during Zaid. It is a rain-fed crop mostly grown in the moist areas which hardly needs irrigation."
+    },
+    {
+        "question": "What is multiple cropping?",
+        "options": [
+            "When seeds are sown on a piece of land and then seedings are transplanted in different fields",
+            "Dividing a field in two or more parts and then sowing different crops in each part",
+            "Raising in succession only one type of crop in the same piece of land",
+            "Raising two or more crops in succession in a year on the same land"
+        ],
+        "correct_answer": "b",
+        "note": "Dividing a field in two or more parts and then sowing different crops in each part is known as multiple cropping. Multiple Cropping: It is defined as “growing of two or more than two crops in the same field in the same time in a year”."
+    },
+    {
+        "question": "Among the following crops which one occupies the largest area in India?",
+        "options": [
+            "Groundnut",
+            "Mustard",
+            "Rapeseed",
+            "Sugarcane"
+        ],
+        "correct_answer": "d",
+        "note": "Sugarcane occupies the largest area in India. Sugarcane is grown on around 2.8% of Gross Cropped Area of India. India produced around 352 million tonnes of sugar."
+    },
+    {
+        "question": "Which one of the following regions experiences three cropping season for rice in India (Rice Bowl of India) ?",
+        "options": [
+            "Krishna-Godavari delta",
+            "Brahmaputra valley",
+            "Coastal Kerala",
+            "Littoral Tamil Nadu"
+        ],
+        "correct_answer": "b",
+        "note": "Brahmaputra valley experiences three cropping season for rice in India (Rice Bowl of India)."
+    },
+    {
+        "question": "Which of the following crops is grown in India mainly by dry farming?",
+        "options": [
+            "Millet",
+            "Tobacco",
+            "Maize",
+            "Groundnut"
+        ],
+        "correct_answer": "a",
+        "note": "Millet crops are grown in India mainly by dry farming. Major dry farming crops are millets such as jowar, bajra, ragi, oilseeds like mustard, rapeseed."
+    },
+    {
+        "question": "The Black soil is related to which of the following crop",
+        "options": [
+            "Cotton",
+            "Sugarcane",
+            "Tea",
+            "Coffee"
+        ],
+        "correct_answer": "a",
+        "note": "Black soil is related to cotton crop. It is also known as cotton soil. It is a self ploughing soil having high moisture retention capacity."
+    },
+    {
+        "question": "A fertile soil, suitable growing common crops, is like to have a pH value of",
+        "options": [
+            "Three",
+            "Four",
+            "Six to seven",
+            "Nine to ten"
+        ],
+        "correct_answer": "d",
+        "note": "A fertile soil, suitable growing common crops, is like to have a pH value of Nine to ten."
+    },
+    {
+        "question": "Which of the following is not primarily a rabi crop in India?",
+        "options": [
+            "Wheat",
+            "Gram",
+            "Jute",
+            "Linseed"
+        ],
+        "correct_answer": "c",
+        "note": "Jute is not primarily a rabi crop in India. Kharif crops o are domesticated plants that are cultivated and harvested in during the rainy season, which lasts from April to October depending on the area."
+    },
+    {
+        "question": "Which of the following are not kharif crops?",
+        "options": [
+            "Bajara and Maize",
+            "Rice and Jowar",
+            "Sugarcane and Groundnut",
+            "Barley and Mustard"
+        ],
+        "correct_answer": "d",
+        "note": "Barley and Mustard are not kharif crops. They are Rabi crop."
+    },
+    {
+        "question": "The Shifting cultivation is still prevalent in",
+        "options": [
+            "Mizoram",
+            "Nagaland",
+            "Manipur",
+            "All of the above"
+        ],
+        "correct_answer": "d",
+        "note": "Shifting cultivation is the use of a land for cultivation and moving to another piece of land when fertility drops. It is mainly practiced by tribal people of North east India. It is known as slash and burn or Jhum cultivation."
+    },
+    {
+        "question": "The most ideal region for cultivation of cotton in India is",
+        "options": [
+            "The Brahmaputra Valley",
+            "The Deccan Plateau",
+            "The Indo Gangetic Valley",
+            "The Rann of Kutch"
+        ],
+        "correct_answer": "b",
+        "note": "Black soil is more suitable for cotton crop. Black soil is found in Deccan plateau region of Maharashtra & some part of Telangana, Madhya Pradesh etc."
+    },
+    {
+        "question": "Which one among the following is not a plantation crop?",
+        "options": [
+            "Coffee",
+            "Sugarcane",
+            "Wheat",
+            "Rubber"
+        ],
+        "correct_answer": "c",
+        "note": "Wheat is not a plantation crop. It is a major cereal crop grown in a wide range of climates, and its cultivation does not follow the large-scale plantation system characteristic of crops like coffee, sugarcane, and rubber."
+    },
+    {
+        "question": "Which of the following is not a plantation crop?",
+        "options": [
+            "Coffee",
+            "Rubber",
+            "Sugarcane",
+            "Tea"
+        ],
+        "correct_answer": "c",
+        "note": "Sugarcane is not a plantation crop. A plantation is a large farm or estate, usually in a tropical or subtropical country, where crops that are not consumed for food are grown for sale in distant markets, rather than for local consumption."
+    },
+    {
+        "question": "Which of the following is NOT a plantation crop?",
+        "options": [
+            "Coconut",
+            "Potato",
+            "Oil Palm",
+            "Cashew"
+        ],
+        "correct_answer": "b",
+        "note": "Potato is NOT a plantation crop. Plantation crops are known as cash crops. These crops are mostly grown at tropical and subtropical areas. These crops are grown for sale but not for local consumption. such crops include rubber, coffee, tea, various oil seeds, sugar cane etc."
+    },
+    {
+        "question": "Which of the following types of soils is most suited for tea cultivation?",
+        "options": [
+            "Laterite soils",
+            "Red soils",
+            "Black soils",
+            "Alluvial soils"
+        ],
+        "correct_answer": "a",
+        "note": "Laterite soils is most suited for tea cultivation. Laterite is a soil and rock type rich in iron and aluminium and is commonly considered to have formed in hot and wet tropical areas. Nearly all laterites are of rusty-red coloration, because of high iron oxide content."
+    },
+    {
+        "question": "If it rains only for two months which of the following will yield maximum crop per hectare?",
+        "options": [
+            "Short term crops",
+            "Long term crops",
+            "Pulses",
+            "Millets"
+        ],
+        "correct_answer": "d",
+        "note": "If it rains only for two months Millets will yield maximum crop per hectare. The crop is favored due to its productivity and short growing season under dry, high-temperature conditions. Millets are indigenous to many parts of the world. The most widely grown millet is pearl millet, which is an important crop in India and parts of Africa."
+    },
+    {
+        "question": "Which one of the following is the correct sequence of crop rotation with a view to increasing soil fertility?",
+        "options": [
+            "Wheat, Potato, Barley, Pea",
+            "Potato, Wheat, Pea, Barley",
+            "Barley, Pea, Wheat, Potato",
+            "Pea, Barley, Wheat, Potato"
+        ],
+        "correct_answer": "c",
+        "note": "Barley, Pea, Wheat, Potato is the correct sequence of crop rotation with a view to increasing soil fertility."
+    },
+    {
+        "question": "The Practice of shifting cultivation is used in",
+        "options": [
+            "Himachal Pradesh",
+            "Central Highlands",
+            "Coastal Tamil Nadu",
+            "Nagaland"
+        ],
+        "correct_answer": "d",
+        "note": "The Practice of shifting cultivation is used in Nagaland. Shifting cultivation is mainly practiced by tribal people of north east region. It is known by different names such as jhumming, slash and burn agriculture."
+    },
+    {
+        "question": "The type of crop which is able to fix nitrogen from air is known as",
+        "options": [
+            "Legume",
+            "Rice",
+            "Tuber",
+            "Potato"
+        ],
+        "correct_answer": "a",
+        "note": "The type of crop which is able to fix nitrogen from air is known as Legume. When the plant stores the nitrogen in the roots, it produces a lump on the root called a nitrogen nodule. This is harmless to the plant but very beneficial to your garden."
+    },
+    {
+        "question": "Which of the following is/are correct about shifting cultivation ?\nI. It involves no ploughing\nII. It is slash and burn agriculture\nIII. It involves crop rotation\nIV. It is combined with transhumance",
+        "options": [
+            "I, II, III and IV",
+            "II, III and IV",
+            "II and III",
+            "I and II"
+        ],
+        "correct_answer": "d",
+        "note": "The following that are correct about shifting cultivation are It involves no ploughing and It is slash and burn agriculture."
+    },
+    {
+        "question": "Consider the following crops:\n1. Cotton\n2. Groundnut\n3. Maize\n4. Mustard\nWhich of the above are the Kharif crops?",
+        "options": [
+            "1 and 2",
+            "1, 2 and 3",
+            "3 and 4",
+            "1, 2, 3, and 4"
+        ],
+        "correct_answer": "b",
+        "note": "Cotton, Groundnut and Maize are the Kharif crops."
+    },
+    {
+        "question": "The remedy for soil erosion region is-\n1. Bordering the region\n2. Crop regulation\n3. Deforestation\n4. Allowing animals for grazing",
+        "options": [
+            "1, 2",
+            "1, 4",
+            "4, 3",
+            "4, 2"
+        ],
+        "correct_answer": "a",
+        "note": "Here 1 and 2 are correct whereas deforestation and allowing animals for grazing exposes the topmost layer of soil to external agents lik soil and wind to easily erode it."
+    },
+    {
+        "question": "Which of the following is NOT a cash crop?",
+        "options": [
+            "Tobacco",
+            "Cotton",
+            "Coffee",
+            "Bajara"
+        ],
+        "correct_answer": "d",
+        "note": "Bajara is NOT a cash crop. It is a cereal crop."
+    },
+    {
+        "question": "Which of the following is not a food crop?",
+        "options": [
+            "Maize",
+            "Bajra",
+            "Paddy",
+            "Cotton"
+        ],
+        "correct_answer": "d",
+        "note": "Cotton is not a food crop. It is a cereal crop. Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. The fiber is almost pure cellulose."
+    },
+    {
+        "question": "Which of the following is not a rabi crop?",
+        "options": [
+            "Wheat",
+            "Maize",
+            "Mustard",
+            "Grain"
+        ],
+        "correct_answer": "b",
+        "note": "Maize is not a rabi crop. It is a kharif crop. Rabi crops includes-wheat, barley, mustard, peas, gram etc."
+    },
+    {
+        "question": "Growing agricultural crops between rows of planted trees is known as",
+        "options": [
+            "Social forestry",
+            "Jhum",
+            "Taungya system",
+            "Agro forestry"
+        ],
+        "correct_answer": "c",
+        "note": "Taungya is a system where by villagers and some times forest plantation workers are given the right to cultivate  agricultural crops during the early stages of forest plantation establishment."
+    },
+    {
+        "question": "Which of the following soils is most suitable for cultivation of cereals?",
+        "options": [
+            "Alluvial soils",
+            "Red soils",
+            "Laterite soils",
+            "None of these"
+        ],
+        "correct_answer": "a",
+        "note": "Alluvial soils is most suitable for cultivation of cereals. The soil is generally covered by tall grasses and forests, as well as a number of crops, such as rice, wheat, sugarcane, tobacco, maize, cotton, soyabean, jute, oilseeds, fruits, vegetables, etc. This soil has very soft strata with the lowest proportion of nitrogen and humus but with an adequate amount of phosphate."
+    },
+    {
+        "question": "Rabi crop is sown in",
+        "options": [
+            "October - November",
+            "April - May",
+            "January - February",
+            "August - September"
+        ],
+        "correct_answer": "a",
+        "note": "Rabi crop is sown in October - November. Rabi crops are the crops that are sown at the end of monsoon or at the beginning of winter season. These crops are also known as winter or spring crops. These crops are not affected by the rainfall."
+    },
+    {
+        "question": "In which month are the kharif crops sown?",
+        "options": [
+            "April",
+            "June",
+            "September",
+            "November"
+        ],
+        "correct_answer": "b",
+        "note": "The kharif crops are sown in June. Kharif crops, which are also known as monsoon crops, are the crops which are grown during the monsoon or rainy season (June to October). The main Kharif crops grown in India include paddy, maize, jowar, bajra, cotton, sugarcane, groundnut, pulses etc."
+    },
+    {
+        "question": "The system or shifting cultivation in the north eastern region of India is called",
+        "options": [
+            "Jhuming",
+            "Bewar",
+            "Taungya",
+            "Ladang"
+        ],
+        "correct_answer": "a",
+        "note": "The system or shifting cultivation in the north eastern region of India is called Jhuming. In the hilly tracts of Northeast India, jhuming is the dominant economic activity. Over 86 per cent of the people living in hills are dependent on shifting cultivation."
+    },
+    {
+        "question": "Which of the following crop grown in alluvial soil requires huge amount of water?",
+        "options": [
+            "Tea",
+            "Wheat",
+            "Rice",
+            "Peanut"
+        ],
+        "correct_answer": "c",
+        "note": "Rice is a kharif crop grown in alluvial soil and requires a huge amount of water specially during paddy transplantation. The rainfall must be around 150cm."
+    },
+    {
+        "question": "There is rainfall more than 200 cm. In a sloppy mountainous tract of India. Which of the following crops can be farmed there?",
+        "options": [
+            "Cotton",
+            "Jute",
+            "Tobacco",
+            "Tea"
+        ],
+        "correct_answer": "d",
+        "note": "Mountainous tract with annual rainfall of 200cm or more is best suitable for tea plantation."
+    },
+    {
+        "question": "Rotation of crops mean",
+        "options": [
+            "Growing of different crops in succession to\nmaintain soil fertility",
+            "Some crops are grown again and again",
+            "Two or more crops are grown simultaneously\nto increase productivity",
+            "None of the above"
+        ],
+        "correct_answer": "a",
+        "note": "The practice og growing different crops in successive seasons to maintain soil fertility is termed as crop rotation. As soil contains many types of nutrients and one type of crop will exhaust a particular type of nutrient that why crop rotation is necessary."
+    },
+    {
+        "question": "In an area with more than 200 cm annual rainfall and slopy hills, which of the following crops can be cultivated best?",
+        "options": [
+            "Tea",
+            "Jute",
+            "Tobacco",
+            "Cotton"
+        ],
+        "correct_answer": "a",
+        "note": "In an area with more than 200 cm annual rainfall and slopy hills, Tea crops can be cultivated best."
+    },
+    {
+        "question": "Which of the following is not Rabi Crop in India?",
+        "options": [
+            "Wheat",
+            "Jau",
+            "Rape seed",
+            "Jute"
+        ],
+        "correct_answer": "d",
+        "note": "Wheat, Jau and Rape seed are crops of rabi season while jute is a crop of kharif season."
+    },
+    {
+        "question": "Which of the following soils is very hard to cultivate?",
+        "options": [
+            "Alluvial",
+            "Black",
+            "Red",
+            "Sandy"
+        ],
+        "correct_answer": "d",
+        "note": "Sandy soils is very hard to cultivate. The soil feels gritty between your fingers, your soil is sandy. When rolled in the hand to make a sausage shape, it crumbles and falls apart and won't hold its shape. Water drains away quickly, though sandy soils can develop a hard pan that impedes drainage."
+    },
+    {
+        "question": "The lower Gangetic plain is characterized by humid climate with high temperature throughout the year. Which one among the following pairs of crops is most suitable for this region?",
+        "options": [
+            "Paddy and Cottort",
+            "Wheat and Jute",
+            "Paddy and Jute",
+            "Wheat and Cotton"
+        ],
+        "correct_answer": "c",
+        "note": "The low and deltaic plains of the Ganges and Brahamputra rivers that is characterised by swamps and Sundarbans. So, the people out there grow Paddy and jute."
+    },
+    {
+        "question": "The share of food crops in India's total production is almost?",
+        "options": [
+            "50",
+            "60",
+            "70",
+            "80"
+        ],
+        "correct_answer": "c",
+        "note": "Under total cultivated area of India, food crops are produced on 70% area."
+    },
+    {
+        "question": "Following are the characteristics of an area in India:\n1. Hot and humid climate\n2. Annual rainfall 200 cm\n3. Hill slopes up to an altitude of 1100 metres\n4. Annual range of temperature 15° C to 30° C\nWhich one among the following crops are you most likely to find in the area described above?",
+        "options": [
+            "Mustard",
+            "Cotton",
+            "Pepper",
+            "Virginia tobacco"
+        ],
+        "correct_answer": "c",
+        "note": "Pepper are most likely to be found in the area described above. Pepper requires hot and humid climate, annual rainfall 200 cm, hill slopes up to an altitude of 1100 metres and annual range of temperature 15° C to 30° C."
+    },
+    {
+        "question": "How do the western disturbances affect the crops in north India?",
+        "options": [
+            "They cause heavy damage to the standing crops",
+            "They bring in locusts which destroy the crops",
+            "They are beneficial to the crops by causing winter rain",
+            "They help in keeping the plants warm to some extent in winter"
+        ],
+        "correct_answer": "c",
+        "note": "Western disturbances are beneficial to the crops by causing winter rain. The Western Disturbances lead to winter rainfall , which is beneficial for Rabi crop."
+    },
+    {
+        "question": "What is the main advantage of transplantation method in rice cultivation?",
+        "options": [
+            "This method ensures maximum utilization of land",
+            "It is helpful in achieving an economical use of water and a higher yield of grain",
+            "It helps in early harvesting",
+            "The draining of water from the field before harvesting is made easy"
+        ],
+        "correct_answer": "b",
+        "note": "The main advantage of transplantation method in rice cultivation is that it is helpful in achieving an economical use of water and a higher yield of grain. Transplanting is a traditional method which provides a high and stable yield but it is laborious and expensive. Due to industrialization and urbanization in recent years, the shortage of labor in agriculture has aggravated the situation, resulting in an increase in labor costs in agriculture, which in turn threatens the sustainability of the traditional rice-planting system that requires large amounts of labor."
+    },
+    {
+        "question": "In which of the following ways can soil be conserved?\nI. Contour ploughing\nII. Terracing\nIII. Shifting cultivation\nIV. Crop rotation",
+        "options": [
+            "I, II and IV",
+            "II, III and IV",
+            "II and IV",
+            "I and III"
+        ],
+        "correct_answer": "a",
+        "note": "Soil be conserved through Contour ploughing, Terracing and Crop rotation."
+    },
+    {
+        "question": "Which Crop is cultivated in Zaid season?",
+        "options": [
+            "Watermelon",
+            "Soyabean",
+            "Maize",
+            "Jute"
+        ],
+        "correct_answer": "a",
+        "note": "Zaid is short duration cropping season between rabi and kharif mainly from March to June. Examples of Zaid crops are watermelon, sugarcan cucumber & Sunflower etc."
+    },
+    {
+        "question": "Consider the following statements:\n1. In India, groundnut crop is raised mostly during the Kharif season under rainfed conditions.\n2. In India, tobacco is cultivated only in black cotton soils.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "a",
+        "note": "In India, groundnut crop is raised mostly during the Kharif season under rainfed conditions. The season for the cultivation of groundnut crop varies considerably in India on account of variations in soil and climatic conditions in different states. In India, groundnut is cultivated in 3 seasons viz., Kharif (monsoon or rainy season), Rabi (winter season) and Summer."
+    },
+    {
+        "question": "Which of the following is not primarily a kharif crop in India?",
+        "options": [
+            "Wheat",
+            "Rice",
+            "Maize",
+            "Cotton"
+        ],
+        "correct_answer": "a",
+        "note": "Wheat is not primarily a kharif crop in India. Wheat is a Rabi crop which is grown in winter. If wheat is grown in the Kharif season, it will not grow well, because wheat plants cannot tolerate too much water of the rainy season."
+    },
+    {
+        "question": "Zaid crops are",
+        "options": [
+            "Green crops which are feed to animals for grazing",
+            "Substitute crops which are cropped when regular\ncrops fail to grow",
+            "Crops which are cropped to attract insecticides",
+            "Crops which are cropped to attract such insects\nwhich are necessary to work as pesticides"
+        ],
+        "correct_answer": "b",
+        "note": "Substitute crops are those crops which are cropped when regular crops fail to grow. They require warm dry weather for majority of growth period and longer day length for flowering."
+    },
+    {
+        "question": "Dry farming in India is extensively practised in",
+        "options": [
+            "Kanara Plains",
+            "Deccan Plateau",
+            "Coromandal Plains",
+            "Ganga Plains"
+        ],
+        "correct_answer": "b",
+        "note": "Deccan plateau is a rain deficient region having rainfall less them 100cm. Dry land farming is farming  technique in which we conserve water through proper cropping, irrigation and soil management techniques."
+    },
+    {
+        "question": "Which one among the following is not a reason for practising tank irrigation in the Peninsular India?",
+        "options": [
+            "The undulating relief and hard rocks",
+            "Little percolation of rain water due to impervious rock structure",
+            "Most of the rivers of Peninsular India are perennial",
+            "There are many streams which become torrential during rainy season"
+        ],
+        "correct_answer": "c",
+        "note": "Most of the rivers of Peninsular India are perennial. Perennial rivers in India are also known as permanent rivers as they flows throughout the year mostly they originates from the mountain and the water is fed by melting of glaciers in these rivers."
+    },
+    {
+        "question": "Which of the following is not produced in the season of kharif?",
+        "options": [
+            "Millet and Rice",
+            "Maize and Jowar",
+            "Jau and Mustard",
+            "Jowar and Rice"
+        ],
+        "correct_answer": "c",
+        "note": "Kharif crops are sown, when south-west monsoon reaches India and harvested at the time of its reversal. That means it is sown from the month of May to July and harvested from September to October-November. The main crops of kharif season are rice, millet, jute, maize and cotton."
+    },
+    {
+        "question": "Which of the following is called \"brown paper\"?",
+        "options": [
+            "Jute",
+            "Cotton",
+            "Rubber",
+            "Tea"
+        ],
+        "correct_answer": "a",
+        "note": "Jute is also called \"brown paper\" as the colour of the jute fibres is brown. It is used in various fields such as making brown paper covers, sacks, jute bag etc."
+    },
+    {
+        "question": "Which of the following is incorrectly matched?",
+        "options": [
+            "Aandhi - Uttar Pradesh",
+            "Kalbaisakhi - West Bengal",
+            "Loo - North - west India",
+            "Mango-showers - Orissa"
+        ],
+        "correct_answer": "d",
+        "note": "There are pre-monsoon showers which are a common phenomena in Kerala and coastal areas of Karnataka."
+    },
+    {
+        "question": "Which state in India is known as \"Rice Bowl\"?",
+        "options": [
+            "Kerala",
+            "Karnataka",
+            "Andhra Pradesh",
+            "Tamil Nadu"
+        ],
+        "correct_answer": "c",
+        "note": "Andhra Pradesh is known as \"Rice bowl of India\" due to large production of rice. 77% of its total aerable area is under rice cultivation. Being the largest producer eggs, it also called egg bowl of Asia."
+    },
+    {
+        "question": "HYV is also known ________ in India.",
+        "options": [
+            "White revolution",
+            "Blue revolution",
+            "Traditional revolution",
+            "New agricultural policy"
+        ],
+        "correct_answer": "d",
+        "note": "High yield variety (HYV) seed programme was the main component of Agricultural Policy in India in 1966 and hence it is often termed as New Agricultural Policy. In this imported varieties of high yielding seeds were sown."
+    },
+    {
+        "question": "Which of the following spice is obtained from the roots?",
+        "options": [
+            "Cloves",
+            "Cinnamon",
+            "Turmeric",
+            "None of these"
+        ],
+        "correct_answer": "d",
+        "note": "Spice     -    Obtained from\nClove     -     Flower\nCinnamon  -    Inner bark\nTurmeric  -      Stem"
+    },
+    {
+        "question": "Which one of the following is the characteristic vegetation of regions between the snow line and about 3000 meters above mean sea level of the Himalayan region?",
+        "options": [
+            "Thick forests of birch, fir, spruce and other trees",
+            "Forests of oak, deodar, chestnut and maple trees",
+            "A few dwarf shrubs",
+            "Forests of khair, sandalwood, palas and other trees"
+        ],
+        "correct_answer": "b",
+        "note": "Forests of oak, deodar, chestnut and maple trees is the characteristic vegetation of regions between the snow line and about 3000 meters above mean sea level of the Himalayan region."
+    },
+    {
+        "question": "What is the rank of India in milk production in the world?",
+        "options": [
+            "Fourth",
+            "Third",
+            "Second",
+            "First"
+        ],
+        "correct_answer": "d",
+        "note": "India tops the list of milk producing countries in the world. In India it is Uttar Pradesh with 23.3 MT production which ranks first followed Rajasthan at second place."
+    },
+    {
+        "question": "Which of the following states has the largest concentration of tea plantation in India?",
+        "options": [
+            "Assam",
+            "Bihar",
+            "Meghalaya",
+            "Arunachal Pradesh"
+        ],
+        "correct_answer": "a",
+        "note": "Assam accounts for over 51% of total production of tea in India. Firstly, tea plantation was imported to Assam from China and then it spread to Darjeeling and then to South India."
+    },
+    {
+        "question": "Which one of the following is not essentially a species of the Himalaya vegetation?",
+        "options": [
+            "Juniper",
+            "Mahogany",
+            "Silver fir",
+            "Spruce"
+        ],
+        "correct_answer": "b",
+        "note": "Mahogany is not essentially a species of the Himalaya vegetation. Mahogany is a species of tree found throughout the Caribbean, central and South America not in Himalayas."
+    },
+    {
+        "question": "Which of the following is the main spice producer?",
+        "options": [
+            "Deccan Trap",
+            "Malabar coast",
+            "Coromandal coast",
+            "Sunder delta"
+        ],
+        "correct_answer": "b",
+        "note": "Malabar coast is the main spice producer comprising Kerala and Southern Tamil Nadu. As it lies in tropical conditions with ample rainfall. I is best suited for spice production."
+    },
+    {
+        "question": "Some people in Manipur live in houses bunt on floating islands of weeds and decaying vegetation held together by suspended slit. These islands are called",
+        "options": [
+            "Tipis",
+            "Barkhans",
+            "Phoomdis",
+            "Izba"
+        ],
+        "correct_answer": "c",
+        "note": "Some people in Manipur live in houses bunt on floating islands of weeds and decaying vegetation held together by suspended slit. These islands are called Phoomdis. Phoomdis cover about two-thirds of Loktak's surface. The two metre thick phoomdis are buoyant enough to support bamboo hutments."
+    },
+    {
+        "question": "Where is pearl fishing well developed in India?",
+        "options": [
+            "Off the Bengal coast",
+            "Off Kerala coast",
+            "Off the coast at Rameshwaram",
+            "Nowhere"
+        ],
+        "correct_answer": "c",
+        "note": "Pearl fishing is well developed in India off the coast at Rameshwaram. The Pearl Fishery Coast refers to a coastal area of southern India, extending along the Coromandel Coast from Tuticorin to Comorin ruled by Paravars."
+    },
+    {
+        "question": "\"Jhoom\" is",
+        "options": [
+            "A Folk Dance",
+            "A River",
+            "A Tribe of North-East India",
+            "A type of Cultivation"
+        ],
+        "correct_answer": "d",
+        "note": "Jhoom cultivation is a type of shifting cultivation.  In North East, it is locally known as Jhoom. It is also known as Bewar in Madhya Pradesh."
+    },
+    {
+        "question": "IR-20 and RATNA are two main variety of",
+        "options": [
+            "Wheat",
+            "Millet",
+            "Jwar",
+            "Rice"
+        ],
+        "correct_answer": "d",
+        "note": "IR-20 and RATNA are the two important varieties of rice along with others such as Jamuna, Krishna and Jaya. India is the second largest producer of rice after China."
+    },
+    {
+        "question": "Consider the following statements:\n1. India is the original home of the cotton plant.\n2. India is the first country in the world to develop hybrid cotton variety leading to increased production.\nWhich of these statements is/are correct ?",
+        "options": [
+            "Only 1",
+            "Only 2",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "Both the statements are correct. India is the original home of the cotton plant and India is the first country in the world to develop hybrid cotton variety leading to increased production."
+    },
+    {
+        "question": "Which one of the following types of erosion is responsible for the formation of Chambal Ravines?",
+        "options": [
+            "Splash",
+            "Sheet",
+            "Rill",
+            "Gully"
+        ],
+        "correct_answer": "d",
+        "note": "Gully erosion is responsible for the formation of Chambal Ravines. Ravines are a type of fluvial erosional feature and are formed as result of constant vertical erosion by streams and rivers flowing over semi arid and arid regions. The region through which the Chambal river flows does not receive enough rainfall to create ravines that are 60–80 m deep."
+    },
+    {
+        "question": "Which of the following groups of states produce rubber on commercial scale?",
+        "options": [
+            "Maharashtra-Gujarat-Madhya Pradesh",
+            "Kerala-Tamil Nadu-Karnataka",
+            "Sikkim-Madhya Pradesh-Nagaland",
+            "Orissa-Madhya Pradesh-Maharashtra"
+        ],
+        "correct_answer": "b",
+        "note": "As per new data, Kerala produces 87.6% of total Indian rubber. In current scenario, contribution of Kerala is 92%, Tamil Nadu 3.4% and Karnataka 2.1%."
+    },
+    {
+        "question": "BT seed is related to",
+        "options": [
+            "Rice",
+            "Wheat",
+            "Cotton",
+            "Oilseed"
+        ],
+        "correct_answer": "c",
+        "note": "BT cotton is Genetically Modified Crop. BT (Bacillus Thuringiensis) is a soil bacteria which is commonly used as a biological pesticide."
+    },
+    {
+        "question": "Where will you expect to find bamboo growing",
+        "options": [
+            "At a great height from sea level",
+            "At a medium height from sea level",
+            "At a very low height from sea level",
+            "There is no such condition; it can grow anywhere"
+        ],
+        "correct_answer": "c",
+        "note": "At a very low height from sea level you will expect to find bamboo growing, with the altitude of about 100 m above sea level."
+    },
+    {
+        "question": "The state which tops in production of mustard seed is?",
+        "options": [
+            "Maharashtra",
+            "Rajasthan",
+            "Uttar Pradesh",
+            "Gujarat"
+        ],
+        "correct_answer": "b",
+        "note": "According to the figures of 2013-14, Rajasthan ranks first in Mustard production followed by Madhya Pradesh & Haryana."
+    },
+    {
+        "question": "Mixed farming means ________",
+        "options": [
+            "Growing two crops at the same time",
+            "Growing different crops in succession",
+            "Producing crops",
+            "Using mixture of manures and fertilizer"
+        ],
+        "correct_answer": "a",
+        "note": "Mixed farming means growing two crops at the same time. Mixed farming is growing two or more crops simultaneously on the same piece of land. This reduces risk of crop failure and it gives some insurance against failure of one of the crops."
+    },
+    {
+        "question": "Tropical moist deciduous vegetation is to be found in Sahyadris, north-east plateau of the Peninsula and in the Shiwaliks. Which of the following is not a tree species of this group?",
+        "options": [
+            "Teak",
+            "Sal",
+            "Sandalwood",
+            "Deodar"
+        ],
+        "correct_answer": "d",
+        "note": "Deodar is not a tree species of this group. Deodar is a tall, broadly conical cedar which has drooping branches and bears large barrel- shaped cones, native to the Himalayas."
+    },
+    {
+        "question": "Another name of Green Revolution in India is",
+        "options": [
+            "Seed, Fertilizer and Irrigation Revolution",
+            "Food Security Revolution",
+            "Agricultural Revolution",
+            "Multicrop Revolution"
+        ],
+        "correct_answer": "a",
+        "note": "The main pillars of \"Green Revolution\" in India were high yielding variety seeds, use of fertilizers and improved irrigation. It was a combination of these components which made the \"Green Revolution\" a huge success."
+    },
+    {
+        "question": "In terms of money, which spice is exported most from India?",
+        "options": [
+            "Pepper",
+            "Dry Red Chilli",
+            "Turmeric",
+            "Cardamom"
+        ],
+        "correct_answer": "b",
+        "note": "In terms of Monetary value dry red chilli is the highest value export among the given options. In 2016 value of export was Rs. 399743.97 lakh."
+    },
+    {
+        "question": "Find the incorrect pair",
+        "options": [
+            "Tea - Assam",
+            "Peanut - Bihar",
+            "Coconut - Kerala",
+            "Sugarcane - Uttar Pradesh"
+        ],
+        "correct_answer": "b",
+        "note": "Major peanut production of India occurs in Gujarat rather than Bihar. All the other options are matched correctly."
+    },
+    {
+        "question": "Golden Fibre refers to",
+        "options": [
+            "Hemp",
+            "Cotton",
+            "Jute",
+            "Nylon"
+        ],
+        "correct_answer": "c",
+        "note": "Golden Fibre refers to Jute because it is in the form of the yellowish brown and natural vegetable fibre produced form the plant of the genus."
+    },
+    {
+        "question": "Murrah is a breed of ________",
+        "options": [
+            "Pig",
+            "Buffalo",
+            "Sheep",
+            "Goat"
+        ],
+        "correct_answer": "b",
+        "note": "Murrah is a breed of Buffalo. Murrah breed of buffalo, the pride of Haryana, is a milk type animal. The home tract of Murrah buffalo is Rohtak, Jind and Hisar districts of Haryana (India)."
+    },
+    {
+        "question": "Which is the home of \"AIphonso\" mango?",
+        "options": [
+            "Ratnagiri",
+            "Banaras",
+            "Malda",
+            "Vijayawada"
+        ],
+        "correct_answer": "a",
+        "note": "Alphonso mango is the best variety of mangoes in India. It is mainly found in Ratnagiri of Karnataka. These mangoes ripe very well due to moisture provided by pre monsoon showers in Southern India."
+    },
+    {
+        "question": "Which is the home of \"Alphonso mango\"?",
+        "options": [
+            "Ratnagiri",
+            "Banaras",
+            "Maida",
+            "Vijayawada"
+        ],
+        "correct_answer": "a",
+        "note": "Alphonso mango is the best variety of mangoes in India. It is mainly found in Ratnagiri of Karnataka. These mangoes ripe very well due to moisture provided by pre monsoon showers in Southern India."
+    },
+    {
+        "question": "The topography of plateau is best for",
+        "options": [
+            "Farming",
+            "Forestry",
+            "Mining",
+            "Hydropower generation"
+        ],
+        "correct_answer": "c",
+        "note": "Plateaus are generally rich in minerals and due to availability of minerals they are best for mining. Plateaus are also suitable, for forestry but it depends on the ecology and climate of the pateau."
+    },
+    {
+        "question": "Which is the main competitor of India in jute production?",
+        "options": [
+            "China",
+            "Nepal",
+            "Bangladesh",
+            "Japan"
+        ],
+        "correct_answer": "c",
+        "note": "Bangladesh is the main competitor of India in jute production. According to the data of 2013 of FAO, India ranks first in jute production followed by Bangladesh."
+    },
+    {
+        "question": "The three major cereals in India under high yielding varieties in declining order are ________",
+        "options": [
+            "Wheat, paddy and coarse cereals",
+            "Barley, wheat and coarse cereals",
+            "Paddy, wheat and coarse cereals",
+            "Coarse cereals, paddy and wheat"
+        ],
+        "correct_answer": "c",
+        "note": "The three major cereals in India under high yielding varieties in declining order are Paddy, wheat and coarse cereals."
+    },
+    {
+        "question": "Which state is a jute abundant state?",
+        "options": [
+            "West Bengal",
+            "Tamil Nadu",
+            "Tamil Nadu",
+            "Orissa"
+        ],
+        "correct_answer": "a",
+        "note": "West Bengal is the largest producer of jute in India. In year of 2013-14, Jute was cultivatedon an area of 74.4% of total area. Jute is cultivated in nearly 7 states around the Ganga delta but majority of this falls in the state of West Bengal."
+    },
+    {
+        "question": "Which state of India is known as \"Sugar Bowl\"?",
+        "options": [
+            "Uttar Pradesh",
+            "Punjab",
+            "Andhra Pradesh",
+            "Bihar"
+        ],
+        "correct_answer": "a",
+        "note": "Uttar Pradesh is the largest producer of sugarcane followed by Maharashtra and Tamil Nadu. Sugarcane is a tropical crop. Brazil is the largest producer of sugarcane in the world."
+    },
+    {
+        "question": "Which of the following Indian state is not a producer of tea?",
+        "options": [
+            "Assam",
+            "Kerala",
+            "West Bengal",
+            "Chhattisgarh"
+        ],
+        "correct_answer": "d",
+        "note": "Chhattisgarh is not a tea producing state. According to data of 2013-14, Assam tea production is 629.05 million kg. & West Bengal 312.10 million kg and Kerala 63.48 million kg."
+    },
+    {
+        "question": "Which of the following items and leading producer is not correctly matched?",
+        "options": [
+            "Red chillies - Andhra Pradesh",
+            "Saffron - Jammu & Kashmir",
+            "Ginger - Sikkim",
+            "Natural rubber- Kerala"
+        ],
+        "correct_answer": "c",
+        "note": "In India, about 70% of the total ginger production is confined to Kerala."
+    },
+    {
+        "question": "Which of the following is/are correct?\n1. Broad guage railway engines- Varanasi\n2. Electric locomotives - Bhopal\n3. Integral Coach Factory - Kolkata",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "d",
+        "note": "All the three are correct. Broad guage railway engines- Varanasi, Electric locomotives - Bhopal and Integral Coach Factory - Kolkata."
+    },
+    {
+        "question": "The approximate representation of land use classification in India is",
+        "options": [
+            "Net area sown 25%; forests 33%; other areas 42%",
+            "Net area sown 58%; forests 17%; other areas 25%",
+            "Net area sown 43%; forests 29%; other areas 28%",
+            "Net area sown 47%; forests 23%; other areas 30%"
+        ],
+        "correct_answer": "d",
+        "note": "The approximate representation of land use classification in India is Net area sown 47%; forests 23%; other areas 30%."
+    },
+    {
+        "question": "\"Operation Flood\" is related to which",
+        "options": [
+            "Milk production",
+            "Wheat production",
+            "Flood control",
+            "Water conservation"
+        ],
+        "correct_answer": "a",
+        "note": "\"Operation Flood\" is related Milk production. \"White Revolution\" was launched in Anand city of old Kheda district in Gujarat. It was the indicative of cooperative farmers to increase the production of milk."
+    },
+    {
+        "question": "Diesel locomotives are manufactured at ________",
+        "options": [
+            "Kapurthala",
+            "Perambur",
+            "Varanasi",
+            "Jamshedpur"
+        ],
+        "correct_answer": "c",
+        "note": "Diesel locomotives are manufactured at Varanasi. The Diesel Locomotive Works (DLW) in Varanasi, India, is a production unit owned by Indian Railways, that manufactures diesel-electric locomotives and its spare parts. It is the largest diesel-electric locomotive manufacturer in India."
+    },
+    {
+        "question": "In which of the state land with maximum area is unusable?",
+        "options": [
+            "Rajasthan",
+            "Gujarat",
+            "Madhya Pradesh",
+            "Jammu and Kashmir"
+        ],
+        "correct_answer": "a",
+        "note": "Most part of Rajasthan contains sandy soil. Also, rainfall in this area is very low so it has maximum unusable area in term of cultivation as well as habitation."
+    },
+    {
+        "question": "\"Yellow Revolution\" in India is related to",
+        "options": [
+            "Rice production",
+            "Oilseed production",
+            "Tea production",
+            "Flower production"
+        ],
+        "correct_answer": "b",
+        "note": "\"Yellow Revolution\" is the rapid increase in the production of edible oil due to hybrid varieties such as\nGM mustard."
+    },
+    {
+        "question": "Which one of the following is not a HYV of wheat?",
+        "options": [
+            "Sonalika",
+            "Ratna",
+            "Kalyan Sona",
+            "Girija"
+        ],
+        "correct_answer": "b",
+        "note": "Jaya and Ratna were the rice varieties that were spread lover the rice growing regions during \"Green Revolution\".  Other given option are HYV varieties of wheat"
+    },
+    {
+        "question": "Which one of the following Indian States is the largest producer of natural rubber?",
+        "options": [
+            "Tamil Nadu",
+            "Assam",
+            "Kerala",
+            "Andhra Pradesh"
+        ],
+        "correct_answer": "c",
+        "note": "Kerala is the largest producer of natural rubber. Kerala accounts for more than 90% of the total rubber production in the country. The total area under rubber cultivation in the state is 5.45 lakh hectares. Rest of the natural rubber is produced in Tamil Nadu and North East states."
+    },
+    {
+        "question": "Which one of the following States is the largest producer of black pepper in India?",
+        "options": [
+            "Tamil Nadu",
+            "Kerala",
+            "Karnataka",
+            "Andhra Pradesh"
+        ],
+        "correct_answer": "c",
+        "note": "Karnataka is the largest producer of black pepper in India. Karnataka has become the largest producer of pepper in India. Almost 50% pepper production in India is from Karnataka."
+    },
+    {
+        "question": "The leading states in the production of cotton in India are ________",
+        "options": [
+            "Maharashtra and Gujarat",
+            "Gujarat and Andhra Pradesh",
+            "Maharashtra and Punjab",
+            "Gujarat and Punjab"
+        ],
+        "correct_answer": "a",
+        "note": "The leading states in the production of cotton in India are Maharashtra and Gujarat. Gujarat is major state in cotton production. Maharashtra has the highest cotton acreage (3.13 million hectares) and has ranked second in production."
+    },
+    {
+        "question": "The Green Revolution was most successful in",
+        "options": [
+            "Punjab and Tamil Nadu",
+            "Punjab, Haryana and Uttar Pradesh",
+            "Haryana",
+            "Uttar Pradesh and MaHarasthra"
+        ],
+        "correct_answer": "b",
+        "note": "Green revolution was most successful in Punjab, Haryana and western Uttar Pradesh as these states were abundant in water supply through well developed irrigation surmounted by highly fertile alluvial soil."
+    },
+    {
+        "question": "Which of the following are true with regard to coal in India?\nI. Coal is found in sedimentary rocks\nII. The best quality of coal is lignite\nIII. The largest and oldest coalfied in india is known as the ruhr of india\nIV. The Damodar river valley is popularly known as the 'Ruhr of India'",
+        "options": [
+            "I and IV",
+            "I, II and III",
+            "I, II and IV",
+            "II, III and IV"
+        ],
+        "correct_answer": "c",
+        "note": "The following that are true with regard to coal in India are Coal is found in sedimentary rocks, The best quality of coal is lignite and The Damodar river valley is popularly known as the 'Ruhr of India'."
+    },
+    {
+        "question": "The Step farming is performed on",
+        "options": [
+            "Slopes of Hills",
+            "In Dry Areas",
+            "Terrace",
+            "Peak of the Hills"
+        ],
+        "correct_answer": "a",
+        "note": "Step farming is a technique which consists of different terraces on which cultivation is done. It is basically done to prevent soil erosion which is caused by flowing of water down the hill."
+    },
+    {
+        "question": "Petrology is the study of",
+        "options": [
+            "Land",
+            "Mineral",
+            "Rock",
+            "Soil"
+        ],
+        "correct_answer": "c",
+        "note": "Petrology is the study of rocks. Petrology, scientific study of rocks that deals with their composition, texture, and structure; their occurrence and distribution; and their origin in relation to physicochemical conditions and geologic processes. It is concerned with all three major types of rocks—igneous, metamorphic, and sedimentary."
+    },
+    {
+        "question": "Which of the following is the major silk producing state in India?",
+        "options": [
+            "Karnataka",
+            "Andhra Pradesh",
+            "Assam",
+            "Bihar"
+        ],
+        "correct_answer": "a",
+        "note": "Karnataka is the major silk producing state in India. Raw silk produced in Karnataka was 9823 metric tonne during 2015-16. It accounted 34.44% of total production of raw silk in India during the year."
+    },
+    {
+        "question": "What is the name of the largest coffee producing state in India?",
+        "options": [
+            "Andhra Pradesh",
+            "Goa",
+            "Karnataka",
+            "Tamil Nadu"
+        ],
+        "correct_answer": "c",
+        "note": "Karnataka is the largest coffee producing state of India. It accounts for 71% production with total of 8,200 tonnes."
+    },
+    {
+        "question": "Which of the following state is the largest wheat producing state in India?",
+        "options": [
+            "Punjab",
+            "Uttar Pradesh",
+            "Madhya Pradesh",
+            "Haryana"
+        ],
+        "correct_answer": "b",
+        "note": "According to the figures of 2013-14, Uttar Pradesh ranks first in wheat production followed by Punjab and Madhya Pradesh."
+    },
+    {
+        "question": "Sucrose content in sugarcane decreases ________",
+        "options": [
+            "If frost occurs during the process of ripening",
+            "If high rainfall occurs during the period of growth of the plant",
+            "If there is high temperature during the time of ripening",
+            "If there is fluctuation in temperature during the period of growth of the plant"
+        ],
+        "correct_answer": "b",
+        "note": "Sucrose content in sugarcane decreases If high rainfall occurs during the period of growth of the plant."
+    },
+    {
+        "question": "\"Blue Revolution\" is related to",
+        "options": [
+            "Fish production",
+            "Milk production",
+            "Oil production",
+            "Food production"
+        ],
+        "correct_answer": "a",
+        "note": "The rapid increase in the production of fish is termed as the \"Blue Revolution\", India ranks 3rd in the world after Peru and China."
+    },
+    {
+        "question": "India is the largest producer and exporter of ?",
+        "options": [
+            "Cotton",
+            "Copper",
+            "Tea",
+            "Mica"
+        ],
+        "correct_answer": "a",
+        "note": "According to figure of 2014-15, India ranks first in cotton production. India ranked behind China (6.48 million ton) with a production of 6.51 million ton. Chile ranks first in copper production, China in mica and tea."
+    },
+    {
+        "question": "The most important item of export among marine products from India is ________",
+        "options": [
+            "Crabs",
+            "Lobsters",
+            "Shrimp",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "The most important item of export among marine products from India is Shrimp. India is a leading exporter of sea food. India is the largest shrimp exporter to the USA by passing Thailand, Indonesia and other South East Asia countries known for seafood exports. India earned approximately $7 billion dollars from marine product export with shrimp accounting for approximately 68% of the amount in the 2017-2018 financial year."
+    },
+    {
+        "question": "Where is India's most prized tea grown?",
+        "options": [
+            "Jorhat",
+            "Darjeeling",
+            "Nilgiris",
+            "Munnar"
+        ],
+        "correct_answer": "b",
+        "note": "Costing around Rs. 1 lakh per kg. Mokaibari Tea has become one of the most expensive tea. It is grown by Makaibari Tea Estate in Darjeeling."
+    },
+    {
+        "question": "Madhya Pradesh is the biggest producer of",
+        "options": [
+            "Cotton",
+            "Oil seeds",
+            "Pulses",
+            "Maize"
+        ],
+        "correct_answer": "c",
+        "note": "Madhya Pradesh is the biggest producer of pulses accounting for 22.4% of total production in the country. Gujarat is the largest producer of oilseeds."
+    },
+    {
+        "question": "Which one of the following statements correctly defines the term transhumance ?",
+        "options": [
+            "Economy that solely depends upon animals",
+            "Farming in which' only one crop is cultivated by clearing hill slopes",
+            "Practice of growing crops on higher hill slopes in summer and foothills in winter",
+            "Seasonal migration of people with their animals up and down the mountains"
+        ],
+        "correct_answer": "d",
+        "note": "Seasonal migration of people with their animals up and down the mountains is known as transhumance. Seasonal movement of livestock (such as sheep) between mountain and lowland pastures either under the care of herders or in company with the owners."
+    },
+    {
+        "question": "The term \"Green Revolution\" is used to show higher production of",
+        "options": [
+            "Grasslands",
+            "Tree plantation",
+            "Per hectare agricultural output",
+            "Gardening in urban centres"
+        ],
+        "correct_answer": "c",
+        "note": "It was a period in India during 1966-70 in which new varieties of rice and wheat lead to a huge rise in agricultural output. New agronomic techniques were the reason for this growth."
+    },
+    {
+        "question": "Social forestry is",
+        "options": [
+            "Growing plants of various species on private land",
+            "Management of forests by cooperative council",
+            "Growing plants of same species on public land",
+            "Growing and managing useful plants on public land"
+        ],
+        "correct_answer": "d",
+        "note": "Social forestry as a concept was first used by National  Commission on Agriculture in 1977. It is the management and Protection of barren land and afforestation leading to social development."
+    },
+    {
+        "question": "Which State has the largest number of sugar mills?",
+        "options": [
+            "Punjab",
+            "Haryana",
+            "Tamil Nadu",
+            "Uttar Pradesh"
+        ],
+        "correct_answer": "d",
+        "note": "Uttar Pradesh has the largest number of sugar mills. When compared to other states given below, Uttar Pradesh has the highest sugar mills. It has around 155 sugar mills where Maharashtra has 195 sugar mills. Uttar Pradesh takes the second place when compared nationally."
+    },
+    {
+        "question": "What do you understand by the word regur ?",
+        "options": [
+            "Black soil found in the Deccan",
+            "Grey-brown soil found in Russia",
+            "Red, colour sticky soil, found in the Amazon area",
+            "Black soil found in northern Argentina"
+        ],
+        "correct_answer": "a",
+        "note": "Black soil found in the Deccan is known as Regur soil. It is black in colour and ideal for growing cotton. This type of soil is typical of the Deccan trap (Basalt) region spread over North-West Deccan plateau and is made up of lava flows."
+    },
+    {
+        "question": "The odd product out of the following is",
+        "options": [
+            "Sesame",
+            "Groundnut",
+            "Caster seed",
+            "Mustard"
+        ],
+        "correct_answer": "c",
+        "note": "Caster seed is not oilseeds but all the other three are oilseeds."
+    },
+    {
+        "question": "Which of the following state is considered as the traditional area for tank irrigation in India?",
+        "options": [
+            "Gujarat",
+            "Tamil Nadu",
+            "Assam",
+            "Orissa"
+        ],
+        "correct_answer": "b",
+        "note": "Tank irrigation is an important source of irrigation.  It is widely prevalent in Karnataka plateau, eastern M.P. eastern Maharashtra, Bundelkhand, Rajasthan and Tamil Nadu. Although practiced in areas of Gujarat and Orissa also but the traditional area is Tamil Nadu."
+    },
+    {
+        "question": "Which one of the following statements in not correct?",
+        "options": [
+            "India is the highest oil-seeds and vegetable oil producing country in the world",
+            "India is the second largest exporter of jute goods in the world",
+            "India is the largest producer of silk in world",
+            "India is the second largest producer of three-wheeler motor vehicles in the world"
+        ],
+        "correct_answer": "c",
+        "note": "China is the world's single biggest producer and chief supplier of silk to the world markets. India is the world's second largest producer."
+    },
+    {
+        "question": "With reference to India, which one of the following statements is not correct?",
+        "options": [
+            "About one-third of the area of the country records more than 750 millimetres of annual rainfall.",
+            "The dominant source of irrigation in the country is wells",
+            "Alluvial soil is the predominant type of soil in the northern plains of the country",
+            "The mountain areas account for about thirty percent of the surface area of the country"
+        ],
+        "correct_answer": "d",
+        "note": "In percentage of total area 10.6% Mountains 18.5% Hills 27.7% Plateaus 43.2% Plains."
+    },
+    {
+        "question": "Consider the following statements:\n1. India ranks first in the world in fruit production.\n2. India ranks second in the world in the export of tobacco.\nWhich of these statements is/are correct?",
+        "options": [
+            "Only 1",
+            "Only 2",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "Both the statements are correct. India ranks first in the world in fruit production and India ranks second in the world in the export of tobacco."
+    },
+    {
+        "question": "In which of the area of India, Non-Irrigated Farming is performed?",
+        "options": [
+            "Kanera Field",
+            "Deccan Plateau",
+            "Coromandal Field",
+            "Ganges Field"
+        ],
+        "correct_answer": "b",
+        "note": "Deccan Plateau is an area of low rainfall and there are only few rivers which too are seasonal so the preferred choice of people of this area is non-irrigated farming."
+    },
+    {
+        "question": "What type of farming is practised in the densely populated regions of the world?",
+        "options": [
+            "Commercial farming",
+            "Extensive farming",
+            "Intensive farming",
+            "Plantation farming"
+        ],
+        "correct_answer": "c",
+        "note": "Intensive farming is practised in the densely populated regions of the world. Many large-scale farm operators, especially in such relatively vast and agriculturally advanced nations as Canada and the United States, practice intensive agriculture in areas where land values are relatively low, and at great distances from markets, and farm enormous tracts of land with high yields."
+    },
+    {
+        "question": "Turpentine oil is obtained from",
+        "options": [
+            "Cashew nut shell",
+            "Pine tree",
+            "Eucalyptus tree",
+            "Cinchona tree"
+        ],
+        "correct_answer": "b",
+        "note": "Turpentine oil is an oil obtained from pine trees. The resins obtained from pine tree are used for this purpose."
+    },
+    {
+        "question": "Natural Vegetation' refers to ________",
+        "options": [
+            "A plant community that has been left undisturbed over a long time",
+            "Plant species which live and grow together",
+            "A protected area created by using contour bunding",
+            "All of the above"
+        ],
+        "correct_answer": "a",
+        "note": "Natural vegetation refers to a plant community which has grown naturally without human aid. They have been left undisturbed by humans for a long time. We call this virgin vegetation."
+    },
+    {
+        "question": "The following are the major oilseeds produced in India:\n1. Sesamum\n2. Mustard\n3. Groundnut\n4. Soyabean\nWhich one of the following is the correct sequence of the descending order of the quantity of their production?",
+        "options": [
+            "1, 2, 3, 4",
+            "3, 2, 4, 1",
+            "2, 4, 3, 1",
+            "3, 4, 2, 1"
+        ],
+        "correct_answer": "d",
+        "note": "The major oilseeds produced in India are Groundnut, Soyabean, Mustard and Sesamum in the correct sequence of the descending order of the quantity of their production."
+    },
+    {
+        "question": "Which one among the following pairs of States is the leading producer of tobacco in India?",
+        "options": [
+            "Andhra Pradesh and Gujarat",
+            "Karnataka and Madhya Pradesh",
+            "Maharashtra and Chhattisgarh",
+            "Uttar Pradesh and Rajasthan"
+        ],
+        "correct_answer": "a",
+        "note": "Andhra Pradesh and Gujarat is the leading producer of tobacco in India."
+    },
+    {
+        "question": "Which of the following regions has almost all prevalent types of natural vegetation in India?",
+        "options": [
+            "The Coastal Plains",
+            "The Deccan Plateau",
+            "The Himalayas",
+            "The Ganga Plain"
+        ],
+        "correct_answer": "c",
+        "note": "The Himalayas regions has almost all prevalent types of natural vegetation in India. Himalayan vegetation can be broadly classified into four types—tropical, subtropical, temperate, and alpine—each of which prevails in a zone determined mainly by elevation and precipitation."
+    },
+    {
+        "question": "Consider the following statements:\n1. Chikmagalur is well-known for sugar production.\n2. Mandya is well-known as a coffee-producing region.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "d",
+        "note": "Both the statements are incorrect. Chikmagalur is not well-known for sugar production and Mandya is not well-known as a coffee-producing region. Chikmagalur is famous for coffee. Mandya is famous for sugar and paper production."
+    },
+    {
+        "question": "Wind erosion is common in",
+        "options": [
+            "Desert",
+            "Cold areas",
+            "Areas where there is thick vegetation",
+            "Areas of heavy rainfall"
+        ],
+        "correct_answer": "a",
+        "note": "Wind erosion is common in Desert. The action of wind erosion is more prominent in deserts because there is little vegetation cover and the soil cover is loose. As such, sediments get easily carried and deposited by winds.Besides, absence of other agents of erosion like water and ice makes wind the most prominent weathering agent in the deserts."
+    },
+    {
+        "question": "In which of the following grouping of states of India is rubber grown on a commercial scale?",
+        "options": [
+            "Maharashtra-Gujarat-Madhya Pradesh",
+            "Kerala-Tamil Nadu-Karnataka",
+            "Sikkim-Arunachal Pradesh-Nagaland",
+            "Odisha-Madhya Pradesh-Maharashtra"
+        ],
+        "correct_answer": "b",
+        "note": "Rubber is a tropical crop grown primarily in Kerala. Kerala accounts for 90% of total rubber production in India. Along with Kerala, Karnataka and Tamil Nadu also grows rubber on commercial scale."
+    }
+]

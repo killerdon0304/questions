@@ -1,0 +1,2543 @@
+[
+    {
+        "question": "The chief industry of Afghanistan is ________",
+        "options": [
+            "Cotton textiles",
+            "Carpet making",
+            "Sugar refining",
+            "Automobile manufacturing"
+        ],
+        "correct_answer": "b",
+        "note": "The chief industry of Afghanistan is Carpet making. Carpet making is the most important handicraft industry, but it has suffered with the flight of rug makers during the civil war and since the 2001 US-led bombing campaign."
+    },
+    {
+        "question": "Venice in Italy and Vienna in Austria are famous for ________",
+        "options": [
+            "Pottery",
+            "Glass industry",
+            "Chemical industry",
+            "Textile industry"
+        ],
+        "correct_answer": "b",
+        "note": "Venice in Italy and Vienna in Austria are famous for Glass industry. For centuries, Venetian glassblowing was world famous. By the 13th century, glass had become a primary export for Venice. Everyone wanted it and everyone wanted to know how it was made. Vienna was also as famous as Venice."
+    },
+    {
+        "question": "The Appalachian coal fields, one of the important coal fields in the world, are located in ________",
+        "options": [
+            "China",
+            "Great Britain",
+            "U.S.A.",
+            "Russia"
+        ],
+        "correct_answer": "c",
+        "note": "The Appalachian coal fields, one of the important coal fields in the world, are located in U.S.A. Appalachia is one of three coal-mining regions in the United States; the others are the Interior coal region, and the Western coal region, which includes the Powder River Basin."
+    },
+    {
+        "question": "Which of the following is a type of farming that involves both the growing of crops as well as raising of livestock?",
+        "options": [
+            "Intensive Farming",
+            "Mixed Farming",
+            "Dairy Farming",
+            "Dry Farming"
+        ],
+        "correct_answer": "b",
+        "note": "Mixed farming is a type of farming in which crops are grown alongwith raising of livestock such as cows, buffaloes, sheep, goats."
+    },
+    {
+        "question": "Which one of the following terms for natural vegetation is associated with Siberia?",
+        "options": [
+            "Selva",
+            "Taiga",
+            "Pampas",
+            "Savanna"
+        ],
+        "correct_answer": "b",
+        "note": "Taiga vegetation is associated with Siberia. Taiga, also called boreal forest, biome (major life zone) of vegetation composed primarily of cone-bearing needle-leaved or scale-leaved evergreen trees, found in northern circumpolar forested regions characterized by long winters and moderate to high annual precipitation."
+    },
+    {
+        "question": "The method of soil conservation in which stones grass, soil are used to build barriers along contours and trenches are made in front of the barriers to collect water is called?",
+        "options": [
+            "Mulching",
+            "Contour barriers",
+            "Rock dam",
+            "Terrace farming"
+        ],
+        "correct_answer": "b",
+        "note": "The process of forming contour strips with the help of stones, grass and soil which intercept the downslope flowing of water is done to prevent soil erosion in hilly terrains. These strips of stone, grass and soil are called contour barriers."
+    },
+    {
+        "question": "Among the following countries, the only one to have about half of its area under cultivation is ________",
+        "options": [
+            "China",
+            "India",
+            "Japan",
+            "US"
+        ],
+        "correct_answer": "b",
+        "note": "Among the following countries, the only one to have about half of its area under cultivation is India. India is the world's largest producer of milk, pulses and jute, and ranks as the second largest producer of rice, wheat, sugarcane, groundnut, vegetables, fruit and cotton. It is also one of the leading producers of spices, fish, poultry, livestock and plantation crops. Worth $ 2.1 trillion, India is the world's third largest economy after the US and China."
+    },
+    {
+        "question": "World's leading producer of fertilizers is ________",
+        "options": [
+            "U.K.",
+            "India",
+            "U.S.",
+            "Russia"
+        ],
+        "correct_answer": "c",
+        "note": "World's leading producer of fertilizers is U.S. Uralkali and Belaruskali are the largest producers of potash fertilizers in Eastern Europe. EuroChem, which is headquartered in Switzerland, is the fifth largest producer by capacity, followed by CF Industries (CF), which is headquartered in the United States."
+    },
+    {
+        "question": "Which of the following gives the maximum Oxygen",
+        "options": [
+            "Green Forest",
+            "Desert",
+            "Grassland",
+            "Phytoplankton"
+        ],
+        "correct_answer": "d",
+        "note": "Phytoplanktons are the tiny ocean plants that live near the oceanic surface. These are responsible for maximum oxygen present on Earth."
+    },
+    {
+        "question": "________ affect the rate of humus formation of soil.",
+        "options": [
+            "Flora & Fauna",
+            "Time",
+            "Temperature",
+            "Parent rock"
+        ],
+        "correct_answer": "a",
+        "note": "Humus is the biotic component of soil and without humus soil is just a rock in crushed form. Humus is the life giving component of soil and is formed by the decomposition of flora and fauna."
+    },
+    {
+        "question": "The clouds float in atmosphere because of",
+        "options": [
+            "Low Temperature",
+            "Low Velocity",
+            "Low Pressure",
+            "Less Density"
+        ],
+        "correct_answer": "d",
+        "note": "As we move upwards altitudewise the density of atmosphere decreases. Lower atmosphere is denser than upper atmosphere Clouds are formed in upper tropospheric level hence are less dense when compared to lower tropospheric level (lower atmosphere)."
+    },
+    {
+        "question": "Which one of the following is a landlocked country?",
+        "options": [
+            "Bulgaria",
+            "Hungary",
+            "Romania",
+            "Ukraine"
+        ],
+        "correct_answer": "b",
+        "note": "Hungary is a landlocked country located on the Danube River Basin in Central Europe. Its bound by Slovakia to the north, Ukraine to the northeast, Romania to the east, Croatia and Serbia & Montenegro to the south as well as Slovenia and Austria to the west."
+    },
+    {
+        "question": "The Himalayas have snowline at 4300 m whereas in the Alps mountain, it is at 3000 m. This is because the ________",
+        "options": [
+            "Himalayas have denser forest cover",
+            "Himalayas face the monsoon winds",
+            "Himalayas are higher than the Alps",
+            "Himalayas are located in the lower latitudes"
+        ],
+        "correct_answer": "d",
+        "note": "The Himalayas have snowline at 4300 m whereas in the Alps mountain, it is at 3000 m. This is because the himalayas are located in the lower latitudes."
+    },
+    {
+        "question": "The world's highest hydel power project 'Rongtong' is located in ________",
+        "options": [
+            "Rangoon",
+            "Kathmandu",
+            "Himachal Pradesh",
+            "Beijing"
+        ],
+        "correct_answer": "c",
+        "note": "The world's highest hydel power project 'Rongtong' is located in Himachal Pradesh. Rongtong is a 2MW project that is located in the Lahaul-Spiti district on Rongtong Nullaha, a tributary of Spiti river. Located at an elevation of 3,600 metres in a snow adhered region, this was the first hydel project executed for the socio-economic upliftment of the tribals of this area. It is one of the highest in the world."
+    },
+    {
+        "question": "The maximum amount of energy in the present day world is provided by ________",
+        "options": [
+            "Atomic energy",
+            "Coal",
+            "Hydroelectric power resources",
+            "Liquid fuels"
+        ],
+        "correct_answer": "b",
+        "note": "The maximum amount of energy in the present day world is provided by Coal. Coal power in the United States accounted for 39% of the country's electricity production at utility-scale facilities in 2014, 33% in 2015, 30.4% in 2016 and 27.4% in 2018 Coal supplied 12.6 quadrillion BTUs of primary energy to electric power plants in 2017."
+    },
+    {
+        "question": "Factory farming is the characteristic of",
+        "options": [
+            "North-western North America",
+            "North-western Europe",
+            "Eastern Europe",
+            "South-east Asia"
+        ],
+        "correct_answer": "b",
+        "note": "Factory farming is the characteristic of North-western Europe. From its American and West European heartland factory farming became globalised in the later years of the 20th century and is still expanding and replacing traditional practices of stock rearing in an increasing number of countries. In 1990 factory farming accounted for 30% of world meat production and by 2005 this had risen to 40%."
+    },
+    {
+        "question": "Most of the Japanese industries are located on the ________",
+        "options": [
+            "Hokkaido coast",
+            "Honshu coast",
+            "Shikoko coast",
+            "Kyushu coast"
+        ],
+        "correct_answer": "a",
+        "note": "Most of the Japanese industries are located on the Hokkaido coast. The region is gaining attention as a manufacturing industry cluster. The island of Hokkaido is located at the north end of Japan."
+    },
+    {
+        "question": "Brazil has become the world's largest producer of coffee mainly because ________",
+        "options": [
+            "The Brazilian plateau is well drained land",
+            "The climatic conditions are suitable",
+            "The \"terra-rosa\" soil is very fertile",
+            "The coffee plant is native of Brazil"
+        ],
+        "correct_answer": "c",
+        "note": "Brazil has become the world's largest producer of coffee mainly because the \"terra-rosa\" soil is very fertile. It is marked by fertile, almost purple, terra rosa, because of basalt present in it."
+    },
+    {
+        "question": "What is the meaning of \"Cloud Burst\"",
+        "options": [
+            "Appearance of clouds in sky",
+            "Very heavy rain with heavy storm",
+            "Sowing of crop seeds in cloudy weather",
+            "Formation of artificial rain"
+        ],
+        "correct_answer": "b",
+        "note": "Extremely heavy precipitation in short time period alongwith hail & thunder capable of bringing flood is termed as 'cloud burst'. Such a phenomenon is observed during monsoons in Uttarakhand."
+    },
+    {
+        "question": "Which vegetation is called natural cattle country ?",
+        "options": [
+            "Savanna",
+            "Downs",
+            "Selva",
+            "Prairies"
+        ],
+        "correct_answer": "b",
+        "note": "Downs is called natural cattle country. The Darling Downs contains the largest deposit of rich black agricultural soils in Australia."
+    },
+    {
+        "question": "Which of the following trees is not a soft wood variety?",
+        "options": [
+            "Fir",
+            "Mahogany",
+            "Pine",
+            "Spruce"
+        ],
+        "correct_answer": "b",
+        "note": "Mahogany trees is not a soft wood variety. Mahogany is a straight-grained, reddish-brown timber of three tropical hardwood species of the genus Swietenia, indigenous to the Americas and part of the pantropical chinaberry family, Meliaceae."
+    },
+    {
+        "question": "What is the reason of duration of cold wave in America?",
+        "options": [
+            "Bio-diversity and Habitat",
+            "Climate and Energy",
+            "Political Administration",
+            "Polar Vortex"
+        ],
+        "correct_answer": "d",
+        "note": "Polar Vortex is low pressure area lying in the Upper Tropospheric level near Earth's pole. The Southward shifting of such a low pressure area bring cold waves in America in winter."
+    },
+    {
+        "question": "Which of the following is an example of Mid-latitude desert ?",
+        "options": [
+            "Sahara desert",
+            "Arabian desert",
+            "Thar desert",
+            "Patagonia desert"
+        ],
+        "correct_answer": "d",
+        "note": "Patagonia desert is an example of Mid-latitude desert. Patagonia is a desert in the rain shadow of the Andes. The Patagonian Desert, also known as the Patagonian Steppe or Magellanic Steppe, is the largest desert in Argentina and is the 8th largest desert in the world by area, occupying 673,000 square kilometers (260,000 mi2)."
+    },
+    {
+        "question": "Word \"Steppe\" is related to which of the following biomes?",
+        "options": [
+            "Grassland",
+            "Tropical Forest",
+            "Savanna",
+            "Coniferous Forest"
+        ],
+        "correct_answer": "a",
+        "note": "Steppes are found in South Europe, Central Asia, and parts of South America and Southern Africa etc. The complex climatic conditions like hot summers and cold winters, with an average of 250mm-500mm rain. They are of two types:- Sub Tropical and Temperate Steppes. Mostly shrubs occur here."
+    },
+    {
+        "question": "The region famous for various types of wine and champagne is",
+        "options": [
+            "Eastern Europe",
+            "Western Europe",
+            "Mediterranean Sea",
+            "Grassland"
+        ],
+        "correct_answer": "c",
+        "note": "Region around the Mediterranean Sea is famous for growing citrus fruits such as oranges, grapes etc. from which wine & champagne are made. Countries like France is famous for its wine & champagne production."
+    },
+    {
+        "question": "Nights are cooler in the deserts than in the plains because ________",
+        "options": [
+            "Sand radiates heat more quickly than the earth",
+            "The sky remains clear most of the time",
+            "Sand absorbs heat more quickly than the earth",
+            "None of the above reasons"
+        ],
+        "correct_answer": "a",
+        "note": "Nights are cooler in the deserts than in the plains because Sand radiates heat more quickly than the earth. Because deserts have such little water vapor in the air, it makes it harder to trap heat or cold in a desert. At night, the sun no longer heats the desert and the heat from the day doesn't stay trapped. Because of this, some deserts can get cold at night, dropping to below 40F, which is definitely coat weather."
+    },
+    {
+        "question": "India is the largest producer and consumer of",
+        "options": [
+            "Rice",
+            "Tea",
+            "Coffee",
+            "Sugar"
+        ],
+        "correct_answer": "b",
+        "note": "India is the largest producer and consumer of Tea. Tea is the highly famous and also highly consumed product in India. In India, tea is produced in the large amount and expert to the other countries. There are many tea plantations in Kerala, Nilgiri, Assam, Karnataka, Tripura, etc. are some of the topmost tea production states in India. Tamil Nadu plays the major role in the tea production."
+    },
+    {
+        "question": "Wind power is employed prominently in ________",
+        "options": [
+            "France",
+            "Holland",
+            "Saudi Arabia",
+            "Canada"
+        ],
+        "correct_answer": "b",
+        "note": "Wind power is employed prominently in Holland. The Dutch government has set a target of 6,000 MW of onshore wind power by 2020 and 4,450 MW of offshore wind power by 2023. This will contribute towards the Dutch target of 14% renewable energy use out of total energy use by 2020 and 16% by 2023."
+    },
+    {
+        "question": "The flower bud which is used as spice, is obtained from?",
+        "options": [
+            "Cinnamon",
+            "Cardamom",
+            "Clove",
+            "Coriander"
+        ],
+        "correct_answer": "c",
+        "note": "Cloves are flower buds with aroma which are used as spice. Their native place is Maluku Island, Indonesia."
+    },
+    {
+        "question": "Coal, which is almost pure carbons which hardly has any impurities, which is smokeless and which finds use in the steel industry is called",
+        "options": [
+            "Coking coal",
+            "Anthracite",
+            "Bituminous coal",
+            "Lignite"
+        ],
+        "correct_answer": "a",
+        "note": "Coal, which is almost pure carbons which hardly has any Impurities, which is smokeless and which finds use in the steel industry is called Coking coal. Coking coal, also known as metallurgical coal, is used to create coke, one of the key irreplaceable inputs for the production of steel. The property that really sets coking coals apart from other coals is its caking ability, which is the specific property required in order to make coke suitable for steel making."
+    },
+    {
+        "question": "Doldrums pressure belts lies in between which of the following latitudes?",
+        "options": [
+            "5°N to 5°S",
+            "35° to 60° N and S",
+            "25° to 35° N and S",
+            "35° to 45° N and S"
+        ],
+        "correct_answer": "a",
+        "note": "The Doldrums are located a little north of the equator, but the effects can be felt from 5° north of the equator to 5° south of it."
+    },
+    {
+        "question": "Where was the world's first oil-well drilled in the nineteenth century ?",
+        "options": [
+            "Baku in Russia.",
+            "Titusville in Pennsylvania, U.S.A.",
+            "Digboi in Assam, India",
+            "Dhahran in Saudi Arabia"
+        ],
+        "correct_answer": "b",
+        "note": "The world's first oil-well drilled in Titusville in Pennsylvania, U.S.A. in the nineteenth century. On August 27, 1859, George Bissell and Edwin L. Drake made the first successful use of a drilling rig on a well drilled especially to produce oil, at a site on Oil Creek near Titusville, Pennsylvania."
+    },
+    {
+        "question": "Which of the following deserts does not lie in the Northern Hemisphere?",
+        "options": [
+            "Gobi",
+            "Kalahari",
+            "Sahara",
+            "Thar"
+        ],
+        "correct_answer": "b",
+        "note": "Kalahari deserts does not lie in the Northern Hemisphere. It lies on the Southern hemisphere."
+    },
+    {
+        "question": "The thermal equator is found",
+        "options": [
+            "At the equator",
+            "South of the geographical equator",
+            "North of the geographical equator",
+            "At the tropic of cancer"
+        ],
+        "correct_answer": "c",
+        "note": "The thermal equator is found in North of the geographical equator. The thermal equator (also known as \"the heat equator\") is a belt encircling the Earth, defined by the set of locations having the highest mean annual temperature at each longitude around the globe."
+    },
+    {
+        "question": "No trees are found in Tundra biome near polar region of northern hemisphere. This is due to ________",
+        "options": [
+            "Snowfall inhibits plant respiration",
+            "Frozen ice beneath the surface soil (permafrost) restricts root growth",
+            "Less wind movement and inadequate sunlight",
+            "Low temperature which restricts development of reproductive organs"
+        ],
+        "correct_answer": "b",
+        "note": "No trees are found in Tundra biome near polar region of northern hemisphere. This is due to Frozen ice beneath the surface soil (permafrost) restricts root growth. There are no deep root systems in the vegetation of the arctic tundra, however, there are still a wide variety of plants that are able to resist the cold climate. There are about 1,700 kinds of plants in the arctic and subarctic."
+    },
+    {
+        "question": "Land breeze is a cold breeze which flows from land to",
+        "options": [
+            "Sea",
+            "Forest",
+            "Desert",
+            "None of these"
+        ],
+        "correct_answer": "a",
+        "note": "During the night hours, land cools quickly as compared to adjacent ocean. So low pressure develops lover sea as air here rises up. Hence, the land breeze rushes to fill the vacuum towards sea surface as during night high pressure is maintained over land."
+    },
+    {
+        "question": "Put the following ores in descending order of their iron content:\n1. Haemetite\n2. Magnetite\n3. Limonite\n4. Siderite",
+        "options": [
+            "1, 2, 3, 4",
+            "2, 1, 3, 4",
+            "2, 1, 4, 3",
+            "1, 2, 4, 3"
+        ],
+        "correct_answer": "b",
+        "note": "The following ores in descending order of their iron content are Magnetite, Haemetite, Limonite and Siderite."
+    },
+    {
+        "question": "Identify the correct descending order of production of wood pulp of the following countries:\n1. USA\n2. Sweden\n3. Japan\n4. Canada",
+        "options": [
+            "1, 3, 2, 4",
+            "2, 4, 1, 3",
+            "1, 4, 2, 3",
+            "2, 3, 1, 4"
+        ],
+        "correct_answer": "b",
+        "note": "The correct descending order of production of wood pulp of the following countries are Sweden, Canada, USA and Japan."
+    },
+    {
+        "question": "The Rhur-Complex is a major Industrial centre in",
+        "options": [
+            "North America",
+            "Germany",
+            "Europe",
+            "Former USSR (now defunct)"
+        ],
+        "correct_answer": "b",
+        "note": "The Rhur-Complex is a major Industrial centre in Germany.Many of the cities in the Ruhrgebiet used to have a lot of heavy industry. The Ruhr Area is bordered by the rivers Ruhr River to the south, Rhine River to the west, and Lippe to the north."
+    },
+    {
+        "question": "World's largest synthetic rubber and tyre making centre is ________",
+        "options": [
+            "Cleveland",
+            "Sharon",
+            "Akron",
+            "Wheeling"
+        ],
+        "correct_answer": "c",
+        "note": "World's largest synthetic rubber and tyre making centre is Akron. Numerous rubber companies operated in or near Akron, Ohio, making this city the \"Rubber Capital of the World.\" Among the large-scale rubber producers to have factories in the area were the B.F. Goodrich Company, the Goodyear Tire and Rubber Company, and the Firestone Tire and Rubber Company."
+    },
+    {
+        "question": "The vertical speed of air is called",
+        "options": [
+            "Wind",
+            "Air current",
+            "Air outburst",
+            "Velocity of air"
+        ],
+        "correct_answer": "b",
+        "note": "Air currents can be horizontal as well as vertical currents. The vertlcal air currents can be mechanically and thermally induced. Mechanically induced are the ones which occur at convergence & divergence points of air on earth, also locally when air rises vertically due to topography, while thermally induced vertical air currents occur when air expands & rises due to heat & the above lying cooler air comes down."
+    },
+    {
+        "question": "The hot desert of the world are generally found near ________",
+        "options": [
+            "The equator",
+            "The doldrums",
+            "The horse latitude",
+            "The Tundras"
+        ],
+        "correct_answer": "c",
+        "note": "The hot desert of the world are generally found near the horse latitude. The hot and dry weather conditions led to the formation of many well-known deserts. The Sahara desert in Africa is located in the horse latitudes north of the equator. The Kalahari desert and the Australian desert are both located in the horse latitudes south of the equator."
+    },
+    {
+        "question": "Agriculture involving both crops and livestock is known as",
+        "options": [
+            "Dairy farming",
+            "Mixed farming",
+            "Dry farming",
+            "Truck farming"
+        ],
+        "correct_answer": "b",
+        "note": "Agriculture Involving both crops and livestock is known as Mixed farming. Mixed farming is an agricultural system in which a farmer conducts different agricultural practice together, such as cash crops and livestock. The aim is to increase income through different sources and to complement land and labour demands across the year."
+    },
+    {
+        "question": "________ determines colour, texture, chemical properties, mineral content and permeability of soil.",
+        "options": [
+            "Flora & Fauna",
+            "Time",
+            "Climate",
+            "Parent rock"
+        ],
+        "correct_answer": "d",
+        "note": "Parent rock determines colour, texture, chemical properties, mineral content and permeability of soil. The most important abiotic factor in formation of soil is regarded as parent rock as the color, texture and permeability of soil are shaped according to parent rock."
+    },
+    {
+        "question": "Grasslands are called Pampas in",
+        "options": [
+            "Africa",
+            "South America",
+            "Britain",
+            "USA"
+        ],
+        "correct_answer": "b",
+        "note": "Grasslands are called Pampas in South America. The Pampas of South America are a grassland biome. They are flat, fertile plains that covers an area of 300,000 sq. miles or 777,000 square kilometers, from the Atlantic Ocean to the Andes Mountains. It is found primarily in Argentina and extends into Uruguay."
+    },
+    {
+        "question": "The Llanos and Campos of South America are examples of ________",
+        "options": [
+            "Coniferous forest regions",
+            "Deciduous regions",
+            "Equatorial regions",
+            "Savanna regions"
+        ],
+        "correct_answer": "d",
+        "note": "The Llanos and Campos of South America are examples of Savanna regions. Llanos is a vast tropical grassland plain situated to the east of the Andes in Colombia and Venezuela, in northwestern South America."
+    },
+    {
+        "question": "Fog, clouds, mist are examples of ________.",
+        "options": [
+            "Aerosol",
+            "Solid sol",
+            "Foam",
+            "Gel"
+        ],
+        "correct_answer": "a",
+        "note": "All aerosol is a cloud of solid or liquid particle in a gas. Fog, clouds and mist are examples of aerosol as these fromed in atmosphere around soild or liquid particiles."
+    },
+    {
+        "question": "Which one of the following activities occupies the largest area of the world?",
+        "options": [
+            "Commercial plantation",
+            "Pastoral herding",
+            "Commercial grain farming",
+            "Subsistence agriculture"
+        ],
+        "correct_answer": "b",
+        "note": "Pastoral herding occupies the largest area of the world. Pastoral farming (also known in some regions as ranching, livestock farming or grazing) is a form of agriculture aimed at producing livestock, rather than growing crops. Examples include dairy farming, raising beef cattle, and raising sheep for wool."
+    },
+    {
+        "question": "What is the name of the temperate grassland of South America?",
+        "options": [
+            "Pampas",
+            "Prairies",
+            "Veld",
+            "Savanna"
+        ],
+        "correct_answer": "a",
+        "note": "Pampas is the name of the temperate grassland of South America. The Pampas of South America are a grassland biome. They are flat, fertile plains that covers an area of 300,000 sq. miles or 777,000 square kilometers, from the Atlantic Ocean to the Andes Mountains. It is found primarily in Argentina and extends into Uruguay."
+    },
+    {
+        "question": "The highest annual precipitation occurs in ________",
+        "options": [
+            "Canadian Shield",
+            "Ganga basin",
+            "Siberian Plains",
+            "Amazon basin"
+        ],
+        "correct_answer": "d",
+        "note": "The highest annual precipitation occurs in Amazon basin. Relative to other large river basins in the world the Amazon receives high levels of rainfall annually. The tropical rainforest that occupies a large proportion of the basin is supported by high amounts of rainfall, where on average annual rain fall is over 3,000 millimetres."
+    },
+    {
+        "question": "Which of the following types of forests mostly grow in the belt lying between 50° N and 70° N ?",
+        "options": [
+            "Temperate hardwood forests",
+            "Temperate coniferous forests",
+            "Temperate deciduous forests",
+            "Tropical evergreen forests"
+        ],
+        "correct_answer": "b",
+        "note": "Temperate coniferous forests mostly grow in the belt lying between 50° N and 70° N. Temperate coniferous forests are found predominantly in areas with warm summers and cool winters, and vary in their kinds of plant life. Temperate coniferous forests are common in the coastal areas of regions that have mild winters and heavy rainfall, or inland in drier climates or montane areas."
+    },
+    {
+        "question": "Mid-latitude forests have:\nI. deciduous forests\nII. coniferous forests\nIII. evergreen forests",
+        "options": [
+            "I and II",
+            "II and III",
+            "I and III",
+            "Only II"
+        ],
+        "correct_answer": "a",
+        "note": "Mid-latitude forests have deciduous forests and coniferous forests."
+    },
+    {
+        "question": "Mosses and Lichens are the characteristic vegetation of ________",
+        "options": [
+            "Hot desert region",
+            "Mediterranean region",
+            "Temperate region",
+            "Tundra region"
+        ],
+        "correct_answer": "d",
+        "note": "Mosses and Lichens are the characteristic vegetation of Tundra region. Tundra lies to the north of the taiga in North America and Eurasia; the vegetation is dominated by grasses, sedges, lichens, mosses, heathers, and low shrubs."
+    },
+    {
+        "question": "In India, which type of forest among the following occupies the largest area?",
+        "options": [
+            "Montane Wet Temperate Forest",
+            "Sub- tropical Dry Evergreen Forest",
+            "Tropical Moist Deciduous Forest",
+            "Tropical Wet Evergreen Forest"
+        ],
+        "correct_answer": "c",
+        "note": "In India, Tropical Moist Deciduous Forest occupies the largest area. The tropical monsoon deciduous forests are found in areas receiving annual rainfall of 100 to 200 cms in India, with a distinct dry and rainy seasons and a small range of temperature."
+    },
+    {
+        "question": "What type or vegetation is associated with South Africa?",
+        "options": [
+            "Veld",
+            "Steppes",
+            "Pampas",
+            "Prairies"
+        ],
+        "correct_answer": "a",
+        "note": "Veld type of vegetation is associated with South Africa. To most South African farmers today the \"veld\" refers to the land they work, much of which has long since ceased to be \"natural\". Various types of veld may be discerned, depending upon local characteristics such as elevation, cultivation, and climate. Thus, there is a high veld, a middle veld, a low veld, a bush veld, a thorn veld, and a grass veld."
+    },
+    {
+        "question": "Which of the following countries is rich in oil?",
+        "options": [
+            "Indonesia",
+            "Pakistan",
+            "Singapore",
+            "Thailand"
+        ],
+        "correct_answer": "a",
+        "note": "Indonesia is rich in oil. Indonesia is rich in resources, with proven and potential conventional energy reserves of more than 7 billion barrels of oil and about 150 trillion cubic feet of gas."
+    },
+    {
+        "question": "Which of the following regions and dominant crops is wrongly matched?",
+        "options": [
+            "Tropical monsooon-rice",
+            "Tundra-market gardening",
+            "Temperate grassland-cereals",
+            "Cold Temperate-softwood"
+        ],
+        "correct_answer": "b",
+        "note": "Tundra-market gardening is wrongly matched. Approximately 1,700 species of plants live on the Arctic tundra, including flowering plants, dwarf shrubs, herbs, grasses, mosses, and lichens. The tundra is characterized by permafrost, a layer of soil and partially decomposed organic matter that is frozen year-round."
+    },
+    {
+        "question": "Which one of the following countries produces the largest amount of crude steel of the world?",
+        "options": [
+            "Japan",
+            "USA",
+            "South Korea",
+            "China"
+        ],
+        "correct_answer": "d",
+        "note": "China produces the largest amount of crude steel of the world. The biggest steel producing country is currently China, which accounted for 49.2% of world steel production in 2017."
+    },
+    {
+        "question": "Many Savanna regions are unable to support good crops because ________",
+        "options": [
+            "They have large tall grasses which form a canopy over the good crops and do not allow them to grow",
+            "There are large number of animals in this region, which eat up the crops",
+            "The climate is too hot for the crops to grow",
+            "They have poor lateritic soil"
+        ],
+        "correct_answer": "a",
+        "note": "Many Savanna regions are unable to support good crops because they have large tall grasses which form a canopy over the good crops and do not allow them to grow."
+    },
+    {
+        "question": "Which of the following towns is incorrectly matched to its chief industry ?",
+        "options": [
+            "Chicago-Agricultural Implements",
+            "Kansas-Meat Packing",
+            "Los Angeles-Automobiles",
+            "Dresden-Optical Apparatus"
+        ],
+        "correct_answer": "c",
+        "note": "Los Angeles is also a major producer of furniture and fixtures, as well as petroleum products and chemicals, print material, rubber goods, electronic equipment, and glass, pottery, ceramics, and cement products. Los Angeles is the nation's largest port in terms of value of goods handled and tonnage."
+    },
+    {
+        "question": "Deciduous trees",
+        "options": [
+            "Depend on others for its food",
+            "Lose their leaves every year",
+            "Do not lose their leaves",
+            "Do synthesis of their food"
+        ],
+        "correct_answer": "b",
+        "note": "Deciduous means \"to fall off at maturity\". It is used for trees that lose leaves seasonally,mostly in Autumn. eg. Teak, Oak, Maple, Elm."
+    },
+    {
+        "question": "Deliquescence rises in",
+        "options": [
+            "Warm, Moist and Airy Condition",
+            "Cold, Moist and Airy Condition",
+            "Cold, Dry and Still Condition",
+            "Warm, Dry and Airy Condition"
+        ],
+        "correct_answer": "a",
+        "note": "The process in which a substance absorbs moisture from atmosphere till the moment it gets totally dissolved in that moisture & forms solution is called deliquescence. For such an activity warm, moist & airy conditions are required."
+    },
+    {
+        "question": "Rice in Myanmar is cultivated along the deltas of ________ river.",
+        "options": [
+            "Salween",
+            "Menam",
+            "Mekong",
+            "Irrawaddy"
+        ],
+        "correct_answer": "d",
+        "note": "Rice in Myanmar is cultivated along the deltas of Irrawaddy river. Rice is the most important food grain in Burma (Myanmar). Nearly 60% of the country’s total rice crop comes from the 4 states that occupy the Irrawaddy River Delta and adjacent coastline to the east, around the Gulf of Martaban."
+    },
+    {
+        "question": "Which of the following is the main ore for aluminium?",
+        "options": [
+            "Calcite",
+            "Bauxite",
+            "Magnesite",
+            "Limonite"
+        ],
+        "correct_answer": "b",
+        "note": "Bauxite ore is the main source of aluminum and contains the aluminum minerals gibbsite, boehmite, and diaspore."
+    },
+    {
+        "question": "What is the meaning of Willy-Willy?",
+        "options": [
+            "Tropical Cyclone near Australia",
+            "Earthquake",
+            "High Tide",
+            "Tropical Cyclone near India"
+        ],
+        "correct_answer": "a",
+        "note": "In Austrialia a tropical cyclone is named as Willy Willy. In different parts of the world it is known by different names like, Hurricane in Caribbean Sea, U.S.A. , Mexico, Typhoon in Japan, China, Phillipines; Cyclone in South Asia."
+    },
+    {
+        "question": "Where are rare plantless forest found?",
+        "options": [
+            "Alpine",
+            "Tundra",
+            "Chaparral",
+            "Taiga"
+        ],
+        "correct_answer": "b",
+        "note": "Tundra forests occur in polar regions and also in high altitudes (alpines) of Himalayas and Andes. These forests are composed of mosses & lichens which are small living organisms."
+    },
+    {
+        "question": "The place on the Earth's surface above the focus is called the",
+        "options": [
+            "Focus",
+            "Incentre",
+            "Epicentre",
+            "Circumcentre"
+        ],
+        "correct_answer": "c",
+        "note": "During an earthquake the energy store in earth are released from focus. Epicenter is the point on earth's surface that lies directly above focus."
+    },
+    {
+        "question": "Deserts such as Sahara are generally found between 20° and 30° latitudes in western parts of the continents. This is because these regions ________",
+        "options": [
+            "Are very hot throughout the year",
+            "Have offshore winds throughout the year",
+            "Have warm offshore currents",
+            "Lie in the belt of the doldrums"
+        ],
+        "correct_answer": "b",
+        "note": "Deserts such as Sahara are generally found between 20° and 30° latitudes in western parts of the continents. This is because these regions have offshore winds throughout the year."
+    },
+    {
+        "question": "Which is the world's largest desert?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Thar",
+            "Takala Makan"
+        ],
+        "correct_answer": "a",
+        "note": "The largest (nonpolar) desert in the world is the Sahara, in north Africa, which spans an area measured at roughly 3.5 million square miles. The United States' contiguous 48 states could easily fit in the desert. It spans more than 3,000 miles across Africa, stretching from the Atlantic Ocean to the Red Sea."
+    },
+    {
+        "question": "Which of the following climatic type suffers change due to shifting of the World's Pressure Belts?",
+        "options": [
+            "Equatorial type",
+            "Tundra type",
+            "Tropical desert type",
+            "Monsoon"
+        ],
+        "correct_answer": "d",
+        "note": "Monsoon type of climate suffers change due to shifting of the World's Pressure Belts. The shifting of the pressure belts cause seasonal changes in the climate, especially between latitudes 30° and 40° in both hemispheres."
+    },
+    {
+        "question": "The major oil producing area in U.S.A. is ________",
+        "options": [
+            "Texas-Louisiana belt",
+            "California-Colorado belt",
+            "Ohio-Indiana belt",
+            "Appalachian region"
+        ],
+        "correct_answer": "a",
+        "note": "The major oil producing area in U.S.A. is Texas-Louisiana belt. Texas serve as the headquarters for oil production activities in the basin."
+    },
+    {
+        "question": "Which of the following biomes is known as \"Bread basket of the World\"?",
+        "options": [
+            "Mid Latitude Grassland",
+            "Taiga",
+            "Mediterranean",
+            "Tropical Savanna"
+        ],
+        "correct_answer": "a",
+        "note": "Mid Latitude Grasslands (prairies) termed as \"Bread basket of the world\" as it is food grain rich region. As 'Wheat' is temperate food crop. It is grown in this region extensively in big farms for commercial purpose."
+    },
+    {
+        "question": "Which one of the following regions of the world is called “the bread basket of the world”?",
+        "options": [
+            "Temperate grassland",
+            "Tropical monsoonal region",
+            "Mediterranean region",
+            "Savana grassland"
+        ],
+        "correct_answer": "a",
+        "note": "Temperate grassland of the world is called \"the bread basket of the world\". \"The breadbasket of Europe\" Ukraine is known as the breadbasket of Europe; along with the U.S. and Australia, it's one of the world's top wheat exporters. And a lot of the wheat leaves the country via the Crimean peninsula."
+    },
+    {
+        "question": "The greatest diversity of animal and plant species occurs in ________",
+        "options": [
+            "Temperate deciduous forests",
+            "Tropical moist forests",
+            "Heavily polluted rivers",
+            "Deserts and Savannas"
+        ],
+        "correct_answer": "b",
+        "note": "The greatest diversity of animal and plant species occurs in tropical moist forests. Tropical rainforests support the greatest diversity of living organisms on Earth. Although they cover less than 2% of Earth's surface, rainforests house more than 50% of the plants and animals on Earth. Rainforests have 170,000 of the world's 250,000 known plant species."
+    },
+    {
+        "question": "What is the most important edible crop of Australia?",
+        "options": [
+            "Maize",
+            "Barley",
+            "Wheat",
+            "Rice"
+        ],
+        "correct_answer": "c",
+        "note": "Wheat is the temperate crop and it is grown vastly in Australia adding its value to Australian economy. Most of southern Australia lies in temperate zone."
+    },
+    {
+        "question": "Which one of the following is found on the western coast of continents between 30° and 40° latitudes?",
+        "options": [
+            "Tropical Grassland Region",
+            "Hot Desert Climate Region",
+            "Mediterranean Climate Region",
+            "Temperate Climate Region"
+        ],
+        "correct_answer": "c",
+        "note": "Mediterranean Climate Region is found on the western coast of continents between 30° and 40° latitudes. Mediterranean climate zones are typically located along the western sides of continents, between roughly 30° and 45° north and south of the equator."
+    },
+    {
+        "question": "Which country is the largest oil producer in the world ________",
+        "options": [
+            "Kuwait",
+            "U.S.A.",
+            "Russia",
+            "None of these"
+        ],
+        "correct_answer": "b",
+        "note": "U.S.A is the largest oil producer in the world. The United States is the top oil- producing country in the world, with an average of 14.86 million b/d, which accounts for 15.3% of the world's oil."
+    },
+    {
+        "question": "In the world production of natural rubber, India ranks ________",
+        "options": [
+            "Second",
+            "Third",
+            "Fourth",
+            "Fifth"
+        ],
+        "correct_answer": "c",
+        "note": "In the world production of natural rubber, India ranks Fourth. Output estimates released by the Association of Natural Rubber Producing Countries (ANRPC) showed India had slipped to the fifth spot in production, below Vietnam and China, in 2013. India was at the fourth place in 2012 after Thailand, Indonesia and Malaysia."
+    },
+    {
+        "question": "Trees with hardwood and dense canopy are generally found in ________",
+        "options": [
+            "Deciduous forests",
+            "Evergreen forests",
+            "Tidal forests",
+            "Alpine forests"
+        ],
+        "correct_answer": "b",
+        "note": "Trees with hardwood and dense canopy are generally found in Evergreen forests. Hardwood trees like rosewood, ebony, mahogany are common."
+    },
+    {
+        "question": "Petroleum is generally found in ________",
+        "options": [
+            "Igneous intrusions into sedimentary strata",
+            "Old fold mountains",
+            "Alluvial deposits of the river valleys",
+            "Folded marine sedimentary rocks"
+        ],
+        "correct_answer": "d",
+        "note": "Petroleum is generally found in folded marine sedimentary rocks. Sedimentary rocks Petroleum may occur in any porous rock, but it is usually found in sedimentary rocks such as sandstone or limestone. Sandstones, because of the inherent porosity between their grains, often become excellent reservoirs for oil or natural gas."
+    },
+    {
+        "question": "Which of the following minerals is needed for generation of nuclear power?",
+        "options": [
+            "Potassium",
+            "Aluminium",
+            "Cadmium",
+            "Uranium"
+        ],
+        "correct_answer": "d",
+        "note": "Uranium is needed for generation of nuclear power. The isotope U-235 is important because under certain conditions it can readily be split, yielding a lot of energy. It is therefore said to be 'fissile' and we use the expression 'nuclear fission'. Meanwhile, like all radioactive isotopes, they decay."
+    },
+    {
+        "question": "A form of condensation which reduces the visibility and causes breathing problems, is",
+        "options": [
+            "Dew",
+            "Frost",
+            "Smoke fog",
+            "Fog"
+        ],
+        "correct_answer": "c",
+        "note": "In the foggy conditions mostly during winters the smoke released from industries combine with fog to form smoke fog, also known as smog. It is highly polluted & causes breathing problem."
+    },
+    {
+        "question": "During the early period of Industrial Revolution industries were located primarily",
+        "options": [
+            "Near major ports",
+            "On the banks of navigable rivers",
+            "Near coal fields",
+            "Near nodal centres"
+        ],
+        "correct_answer": "c",
+        "note": "During the early period of Industrial Revolution industries were located primarily near coal fields. Coalfields helped to make the regions where they were located prosperous."
+    },
+    {
+        "question": "The role of spines in the desert plants is ________",
+        "options": [
+            "To protect themselves from the herbivores.",
+            "To provide more surface for photosynthesis",
+            "To save the moisture from evaporation.",
+            "None of the above"
+        ],
+        "correct_answer": "c",
+        "note": "The role of spines in the desert plants is to save the moisture from evaporation. Cacti have leaves that have evolved into spines, which help minimize water loss by evaporation and screen the plant from the sun. Their thorny spines also help protect them from predators. Within hours after a rainfall, the cactus' roots sprout tiny rootlets to help absorb water even more quickly."
+    },
+    {
+        "question": "Precipitation in the form of a mixture of rain and snow is called",
+        "options": [
+            "Drizzle",
+            "Hail",
+            "Sleet",
+            "Snow"
+        ],
+        "correct_answer": "c",
+        "note": "Precipitation in the form of a mixture of rain and snow is called Sleet. When the temperature near the ground surface are lower than temperatures of above lying layers. Then precipitation occurs in the form of sleet as raindrops frezes into ice while falling. It happens mostly in winter."
+    },
+    {
+        "question": "The essential feature of shifting cultivation is",
+        "options": [
+            "Rotation of crops",
+            "Rotation of fields",
+            "Single cropping",
+            "Use of plenty of fertilizer"
+        ],
+        "correct_answer": "b",
+        "note": "The essential feature of shifting cultivation is rotation of fields. Shifting agriculture, system of cultivation that preserves soil fertility by plot (field) rotation, as distinct from crop rotation."
+    },
+    {
+        "question": "Cork is chiefly produced in ________",
+        "options": [
+            "Baku (Russia",
+            "Havana (Cuba)",
+            "Cadiz (Spain)",
+            "Leeds (England)"
+        ],
+        "correct_answer": "c",
+        "note": "Cork is chiefly produced in Cadiz (Spain). Following the disastrous forest fires in Portugal in 2003, Spain has become the world's biggest single producer of cork."
+    },
+    {
+        "question": "Fog is an Example of",
+        "options": [
+            "Gas in dispersed gas",
+            "Gas in dispersed liquid",
+            "Gas in dispersed solid",
+            "Liquid in dispersed solid"
+        ],
+        "correct_answer": "b",
+        "note": "Fog is an example of naturally occuring aerosol. A colloid of liquid droplets in air or gas is termed as aerosol."
+    },
+    {
+        "question": "Which one among the following covers the highest percentage of forest area in the world?",
+        "options": [
+            "Temperate Coniferous forests",
+            "Temperate Deciduous forests",
+            "Tropical Monsoon forests",
+            "Tropical Rainforests"
+        ],
+        "correct_answer": "a",
+        "note": "Temperate Coniferous forests covers the highest percentage of forest literacy rate in the world. Temperate coniferous forest is a terrestrial biome found in temperate regions of the world with warm summers and cool winters and adequate rainfall to sustain a forest."
+    },
+    {
+        "question": "Which of the following natural regions is not found in the Torrid Zone?",
+        "options": [
+            "Equatorial forests",
+            "Monsoon regions",
+            "Temperate deserts",
+            "Tropical grasslands"
+        ],
+        "correct_answer": "c",
+        "note": "Temperate deserts regions are not found in the Torrid Zone. Temperate deserts are found in the latitudes between tropical and polar regions. They typically have similar aridity to and lower temperatures than tropical deserts."
+    },
+    {
+        "question": "The most effective farming method for returning minerals to the soil is",
+        "options": [
+            "Contour ploughing",
+            "Terracing",
+            "Crop rotation",
+            "Furrowing"
+        ],
+        "correct_answer": "c",
+        "note": "The most effective farming method for returning minerals to the soil is Crop rotation. Crop rotation can be defined as the practice of growing several dissimilar or different crop types in the same area in sequential seasons. Crop rotation is beneficial both to the environment and to the farmer."
+    },
+    {
+        "question": "Which of the following pairings is incorrect ?",
+        "options": [
+            "Isohytes-Humidity",
+            "Isobars-Pressure",
+            "Isotherms-Temperature",
+            "Isohels-Sunshine"
+        ],
+        "correct_answer": "a",
+        "note": "An isohyet is a line on a map which connects points that have the same amounts of precipitation in a given period or for a particular storm."
+    },
+    {
+        "question": "Which one among the following countries is the largest producer of Bauxite?",
+        "options": [
+            "Australia",
+            "Brazil",
+            "West Indies",
+            "India"
+        ],
+        "correct_answer": "a",
+        "note": "Australia is the largest producer of Bauxite. Australia is the largest producer of bauxite in the world, with 74.9 million tonnes produced in 2011."
+    },
+    {
+        "question": "Which of the following generally produces the largest quantity of oranges?",
+        "options": [
+            "U.S.A",
+            "Spain",
+            "Brazil",
+            "China"
+        ],
+        "correct_answer": "c",
+        "note": "Brazil generally produces the largest quantity of oranges. Brazil is the leading orange producer in the world producing about 30% of the world's output. 94% of the country's orange production is concentrated in the state of Sao Paulo. Brazil is also the leading exporter of orange fruits and orange juice."
+    },
+    {
+        "question": "The biggest producer of Rice is",
+        "options": [
+            "India",
+            "Pakistan",
+            "China",
+            "Burma"
+        ],
+        "correct_answer": "c",
+        "note": "China is the world's largest rice producer - around 193 million metric tons (FAO 2008), which accounts for as much as 35% of total world rice production. China is the world leader in hybrid rice production. China tops the list with 144,560 million tons of rice production, India comes second."
+    },
+    {
+        "question": "Haematite is an ore of",
+        "options": [
+            "Copper",
+            "Lead",
+            "Iron",
+            "Zinc"
+        ],
+        "correct_answer": "c",
+        "note": "Haematite is an ore of Iron. It is an iron oxide with a chemical composition of Fe2O3. It is a common rock-forming mineral found in sedimentary, metamorphic, and igneous rocks at locations throughout the world. Hematite is the most important ore."
+    },
+    {
+        "question": "Which one of the African countries is richer than others in gold and diamond?",
+        "options": [
+            "Zambia",
+            "Zaire",
+            "Botswana",
+            "Angola"
+        ],
+        "correct_answer": "b",
+        "note": "Zaire is richer than others in gold and diamond in African country."
+    },
+    {
+        "question": "Arrange the following geographical regions in proper order:\nI. Tundra\nII. Shrub\nIII. Taiga\nIV. Deciduous",
+        "options": [
+            "II, IV, I, III",
+            "I, II, III, IV",
+            "II, III, I, IV",
+            "I, III, IV, II"
+        ],
+        "correct_answer": "d",
+        "note": "The following geographical regions in proper order are Tundra, Taiga, Deciduous and Shrub."
+    },
+    {
+        "question": "Which of the following countries is well known for diamond cutting industry?",
+        "options": [
+            "Belgium",
+            "Norway",
+            "The Netherlands",
+            "Switzerland"
+        ],
+        "correct_answer": "a",
+        "note": "Belgium is well known for diamond cutting industry. Antwerp's diamond district, also known as the Diamond Quarter (Diamantkwartier), and dubbed the Square Mile, is an area within the city of Antwerp, Belgium. More than 80% of Antwerp's Jewish population works in the diamond trade; Yiddish was, historically, a main language of the diamond exchange."
+    },
+    {
+        "question": "Which of the following countries is the biggest producer of mango?",
+        "options": [
+            "India",
+            "China",
+            "Indonesia",
+            "Malaysia"
+        ],
+        "correct_answer": "a",
+        "note": "India is the biggest producer of mango. It is one of the most prominently grown fruit in the world. It is also known as the King of Fruits and is a very important and cherished fruit of India. India ranks at number 1 slot in the production of Mango all over the world leaving China and Thailand behind."
+    },
+    {
+        "question": "Cooperative farming is well-developed in:\nI. Denmark\nII. Belgium\nIII. Russia\nIV. Sweden",
+        "options": [
+            "I and IV",
+            "I, III and IV",
+            "II, III and IV",
+            "I, II and IV"
+        ],
+        "correct_answer": "d",
+        "note": "Cooperative farming is well-developed in Denmark, Belgium and Sweden."
+    },
+    {
+        "question": "Which of the following is/are 'rain cloud'?\n1. Cirrus\n2. Nimbostratus\n3. Cumulonimbus\n4. Altocumulus",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "3 and 4 only",
+            "1 and 4 only"
+        ],
+        "correct_answer": "b",
+        "note": "The word 'nimbus' signifes clouds, literally meaning rain clouds. Cumulonimbus are the clouds which expand vertically and cause heavy rainfall with thunderstorm & lightening."
+    },
+    {
+        "question": "Which one of the following areas is dominant in hunting and gathering?",
+        "options": [
+            "Hot desert",
+            "Cold desert",
+            "Tropical forest",
+            "Temperate grassland"
+        ],
+        "correct_answer": "c",
+        "note": "Tropical forest areas is dominant in hunting and gathering. Hunters and gatherers living in tropical forests represent an important part of the total range of variation among contemporary hunting and gathering societies. Studies of tropical forest hunting and gathering peoples have contributed to our perceptions of the foraging way of life."
+    },
+    {
+        "question": "The hottest place in the world is ________",
+        "options": [
+            "Tehran, Iran",
+            "Jaisalmer, India",
+            "Dallol, Ethiopia",
+            "Azizia, Libya"
+        ],
+        "correct_answer": "d",
+        "note": "The hottest place in the world is Azizia, Libya. On Sept. 13, 1922, El Azizia made history after a weather station there recorded the highest temperature ever directly measured on Earth: a blistering 136.4° Fahrenheit."
+    },
+    {
+        "question": "The biggest producer of Uranium in the world is ________",
+        "options": [
+            "France",
+            "India",
+            "U.S.A.",
+            "Zaire"
+        ],
+        "correct_answer": "c",
+        "note": "The biggest producer of Uranium in the world is U.S.A. Canada, the second biggest uranium producer in the world, hosts the world's biggest - the McArthur River uranium mine - while Kazakhstan, the largest uranium producing country."
+    },
+    {
+        "question": "The largest exporter of cotton textile in the world is ________",
+        "options": [
+            "U.S. A.",
+            "China",
+            "Japan",
+            "India"
+        ],
+        "correct_answer": "d",
+        "note": "The largest exporter of cotton textile in the world is India. India exported cotton (chapter 52) of worth US$ 9,925.85 Mn in 2013-14. India has overtaken Italy and Germany, and is now the second largest textile exporter in the world. India was the third-largest supplier of textiles and clothing to the US in 2013, contributing about 6.01 per cent of its total imports."
+    },
+    {
+        "question": "The leading producer of \"bort\" variety of diamond in the world is ________",
+        "options": [
+            "South Africa",
+            "Zaire",
+            "Ghana",
+            "Angola"
+        ],
+        "correct_answer": "b",
+        "note": "The leading producer of \"bort\" variety of diamond in the world is Zaire."
+    },
+    {
+        "question": "What does acid rain contain which destroys plants?",
+        "options": [
+            "Nitrate",
+            "Ozone",
+            "Carbon Monoxide",
+            "Sulphuric Acid"
+        ],
+        "correct_answer": "d",
+        "note": "Acid rain contains sulphuric acid. The atmospheric pollution such as industrial coal burning & fossils harms forests & water bodies, gases such as oxides sulphur & nitrogen after combining with rain water and acids. Thus destroy plant."
+    },
+    {
+        "question": "Milan, Turin and Genoa industrial triangle is in",
+        "options": [
+            "USA",
+            "France",
+            "Former USSR",
+            "Italy"
+        ],
+        "correct_answer": "d",
+        "note": "The city of Turin joins Milan and Genoa to create the famous “industrial triangle” of Italy, itself playing a major economic role for the country, most notably as the “Automobile Capital of Italy.”"
+    },
+    {
+        "question": "Which is the biggest coffee producing country in the world?",
+        "options": [
+            "India",
+            "Brazil",
+            "Peru",
+            "Argentina"
+        ],
+        "correct_answer": "b",
+        "note": "Brazil lies in the tropical zone enriched by Amazon basin with humid climatic conditions through out the year.  It is the largest producer of coffee in the world. On 2nd comes Vietnam,  3rd is Colombia."
+    },
+    {
+        "question": "Which of the following industries uses mica?",
+        "options": [
+            "Glass and Pottery industry",
+            "Electrical industry",
+            "Steel industry",
+            "Textile industry"
+        ],
+        "correct_answer": "b",
+        "note": "Electrical industries uses mica. It is used in paints as a pigment extender and also helps to brighten the tone of coloured pigments. It is a superior insulator. So in the electrical industry it is used as thermal insulation, and in electronic equipment as electrical insulators."
+    },
+    {
+        "question": "Which of the following are associated with Saudi Arabia?\n1. High proportion of urban population\n2. Extensive agriculture pattern\n3. Considerable extent of land under pasture lands\nSelect the correct answer using the codes given below.",
+        "options": [
+            "1, 2 and 3",
+            "1and 2",
+            "2 and 3",
+            "1 and 3"
+        ],
+        "correct_answer": "a",
+        "note": "The following that are associated with Saudi Arabia are High proportion of urban population, Extensive agriculture pattern and Considerable extent of land under pasture lands."
+    },
+    {
+        "question": "The Appalachian highland of North America are economically important mainly because of ________",
+        "options": [
+            "Ready source of timber and water power",
+            "Natural passes facilitating easy movement",
+            "Large number of both summer and winter tourist centres",
+            "Rich mineral wealth forming the basis of flourishing industries"
+        ],
+        "correct_answer": "d",
+        "note": "The Appalachian highland of North America are economically important mainly because of rich mineral wealth forming the basis of flourishing industries."
+    },
+    {
+        "question": "The country which tops in the production of cocoa is ________.",
+        "options": [
+            "Ghana",
+            "Brazil",
+            "Ivory Coast",
+            "Nigeria"
+        ],
+        "correct_answer": "c",
+        "note": "Cocoa is tropical crop and is vastly produced western African countries. Ivory Coast is the tropical country leading in production of cocoa. It is main cash crop of Ghana. Ghana alorigwith Ivory coast, Nigeria, Cameron & Togo collective supply 2/3 of cocoa to world."
+    },
+    {
+        "question": "The greatest average annual precipitation is in ________",
+        "options": [
+            "Hawaii",
+            "India",
+            "Philippines",
+            "West Indies"
+        ],
+        "correct_answer": "c",
+        "note": "The greatest average annual precipitation is in Philippines. The mean annual rainfall of the Philippines varies from 965 to 4,064 millimeters annually."
+    },
+    {
+        "question": "Which of the following trees shed their leaves once in a year?",
+        "options": [
+            "Deciduous trees",
+            "Coniferous trees",
+            "Evergreen trees",
+            "Both deciduous and coniferous trees"
+        ],
+        "correct_answer": "a",
+        "note": "Tropical deciduous forests are those which shed their leaves for a specific period of time. Tropical decideous forests are widely spread in India specially in states of Andhra Pradesh, Chattisgarh, Jharkhand, M.P., Maharashtra, Odisha and Telangana."
+    },
+    {
+        "question": "Which of the following pairs is correctly matched?",
+        "options": [
+            "Tundra region - Lichens and Mosses",
+            "Mediterranean region - Groundnut and Potato",
+            "China Type region - Tea and Sugarbeet",
+            "West-European region - Corn and Wheat"
+        ],
+        "correct_answer": "a",
+        "note": "Lichens, which are made up to fungi and algae, grow on rocks. Many tundra animals, such as caribou, rely on lichens to survive; they dig through the layers of snow to eat lichens in winter. Mosses can grow on rocks or in very shallow soils. Many species have the ability to dry out and still grow back several years later, when more moisture may be available. Mosses can continue photosynthesis and growth in colder temperatures than the flowering plants of the tundra."
+    },
+    {
+        "question": "The production of natural rubber is dominated by ________",
+        "options": [
+            "South America",
+            "South-east Asia",
+            "Central Africa",
+            "Mediterranean region"
+        ],
+        "correct_answer": "b",
+        "note": "The production of natural rubber is dominated by South-east Asia. Rubber is replacing natural forests in Mainland Southeast Asia."
+    },
+    {
+        "question": "Which of the following is fastest growing tree ?",
+        "options": [
+            "Teak",
+            "Sal",
+            "Eucalyptus",
+            "Banyan"
+        ],
+        "correct_answer": "c",
+        "note": "Eucalyptus is fastest growing tree. Eucalyptus is a fast growing tree  and sub-species with several varieties and hybrids. It can be planted on agricultural lands both as monoculture and as a component of agro-forestry programmes."
+    },
+    {
+        "question": "Which of the following is not correctly matched?",
+        "options": [
+            "Isohaline-Lines joining points of equal salinity in sea",
+            "Isohels-Lines joining areas of equal rainfall",
+            "Lsobath-Unes joining points of equal seabed depth",
+            "Isobars-Lines joining areas of equal atmospheric pressure"
+        ],
+        "correct_answer": "b",
+        "note": "Isohels are line drawn on a map connecting points that receive equal amounts of sunlight."
+    },
+    {
+        "question": "Which of the following forest is resistant to cyclones?",
+        "options": [
+            "Alpine Forest",
+            "Mangrove Forest",
+            "Evergreen forest",
+            "Monsoon forest"
+        ],
+        "correct_answer": "b",
+        "note": "Mangroves grow in coastal areas of Tropical region and act as buffer in between land & sea. To a certain extent they can control ferocious winds & waves surging inward during cyclones."
+    },
+    {
+        "question": "The Hawaiian Islands specialise in the cultivation of",
+        "options": [
+            "Cotton",
+            "Rice",
+            "Sugarcane",
+            "Tobacco"
+        ],
+        "correct_answer": "c",
+        "note": "The hawaiian islands specialise in the cultivation of sugarcane. Sugarcane was introduced to Hawaii by its first inhabitants and was observed by Captain Hegwood upon arrival in the islands in 1841. Sugar quickly turned into a big business and generated rapid population growth in the islands with 337,000 people immigrating over the span of a century."
+    },
+    {
+        "question": "The largest quantities of bauxite is found in ________",
+        "options": [
+            "Tropical latitudes",
+            "Mid-latitudes",
+            "High-latitudes",
+            "Temperate lands"
+        ],
+        "correct_answer": "a",
+        "note": "The largest quantities of bauxite is found in Tropical latitudes. It is found mostly in wet subtropical or tropical climates, and is the chief source material for the world’s aluminum production industry."
+    },
+    {
+        "question": "Which of the following manmade calamities is social calamity?",
+        "options": [
+            "Landslide",
+            "Interpenetration of Salt Water",
+            "Home Cremation",
+            "Ozone Depletion"
+        ],
+        "correct_answer": "c",
+        "note": "During home cremation lots of pollutant as gases and smoke are released in the atmosphere directly. This cultural process lead to environmental concerns."
+    },
+    {
+        "question": "Which one of the following deserts is famous for its deposits of nitrates?",
+        "options": [
+            "Atacama",
+            "Kalahari",
+            "Gobi",
+            "Sahara"
+        ],
+        "correct_answer": "a",
+        "note": "Atacama deserts is famous for its nitrate deposits. The desert is littered with approximately 170 abandoned nitrate (or “saltpetre”) mining towns, almost all of which were shut down decades after the invention of synthetic nitrate in Germany at the turn of the 20th century. The towns include Chacabuco, Humberstone, Santa Laura, Pedro de Valdivia, Puelma, María Elena, and Oficina Anita."
+    },
+    {
+        "question": "Extensive mechanized wheat cultivation is carried out in",
+        "options": [
+            "Tropical Savannas",
+            "Temperate grasslands",
+            "Equatorial regions",
+            "Mediterranean lands"
+        ],
+        "correct_answer": "b",
+        "note": "Extensive mechanized wheat cultivation is carried out in temperate grasslands. The temperate grasslands are ideal for extensive wheat cultivation. The cool, moist spring stimulates early growth and the light showers in the ripening period help to swell the grains to ensure a good yield."
+    },
+    {
+        "question": "Which of the following regions specializes in the cultivation of citrus fruits?",
+        "options": [
+            "Equatorial region",
+            "Mediterranean region",
+            "Polar region",
+            "Tundra region"
+        ],
+        "correct_answer": "b",
+        "note": "Mediterranean regions specializes in the cultivation of citrus fruits. Citrus fruits, like lemons, oranges, and grapefruits, grow well in the Mediterranean region due to a similar root structure as olive trees, but also because the fruits have thick skins, which are well adapted to the climate."
+    },
+    {
+        "question": "Plantation agriculture is a specialised form of agricultural practice carried out in",
+        "options": [
+            "Temperate region",
+            "Tropics and subtropics",
+            "Urbanised region",
+            "Coastal region"
+        ],
+        "correct_answer": "b",
+        "note": "Plantation, a usually large estate in a tropical or subtropical region that is cultivated by unskilled or semiskilled labour under central direction. Such plantations frequently depend on foreign capital and agricultural training and tend to exploit the labour forces of native populations."
+    },
+    {
+        "question": "Llanos are the grassland of",
+        "options": [
+            "Guyana highland",
+            "Brazilian highland",
+            "Argentina",
+            "Chile"
+        ],
+        "correct_answer": "d",
+        "note": "Llanos are the grasslands of Chile."
+    },
+    {
+        "question": "Which of the following countries is the world's largest producer of coal?",
+        "options": [
+            "Russia",
+            "China",
+            "India",
+            "U.S.A."
+        ],
+        "correct_answer": "b",
+        "note": "China is the chief coal producer while the United States comes in second. Other major coal producers are India and Australia. Five countries, namely China, the United States, Russia, India and Japan accounted for over 75% of worldwide coal consumption."
+    },
+    {
+        "question": "Which of the following pair is correctly matched-\n1. Northern China - Rice\n2. Southern China - Wheat\n3. Candy Basin  - Coffee\n4. Malaysia   - Natural Rubber",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct_answer": "d",
+        "note": "Malaysia is the leading rubber producer. Wheat is grown in the North China & rice is grown in the South China"
+    },
+    {
+        "question": "Golden Revolution refers to",
+        "options": [
+            "Sericulture",
+            "Horticulture",
+            "Apiculture",
+            "Viticulture"
+        ],
+        "correct_answer": "b",
+        "note": "Golden Revolution refers to Horticulture. Golden revolution is about Honey and Horticulture production. During this period there is huge production of fruits, vegetables, honey and other horticulture products.In India , the period between 1991 to 2003 is termed as Golden Revolution."
+    },
+    {
+        "question": "Which of the following is the leading producer of rice?",
+        "options": [
+            "Australia",
+            "Argentina",
+            "China",
+            "Cuba"
+        ],
+        "correct_answer": "c",
+        "note": "China is the world's largest rice producer - around 193 million metric tons (FAO 2008), which accounts for as much as 35% of total world rice production. China is the world leader in hybrid rice production."
+    },
+    {
+        "question": "Grasses are almost absent in ________",
+        "options": [
+            "Tropical moist deciduous forest",
+            "Tropical dry evergreen forest",
+            "Tropical semi-evergreen forest",
+            "Tropical wet-evergreen forest"
+        ],
+        "correct_answer": "d",
+        "note": "Grasses are almost absent in Tropical wet-evergreen forest. An evergreen forest is a forest made up of evergreen trees. They occur across a wide range of climatic zones, and include trees such as conifers, live oak, and holly in cold climates, eucalypts, acacias and banksias in more temperate zones, and rainforest trees in tropical zones."
+    },
+    {
+        "question": "Loess is ________ soil.",
+        "options": [
+            "Wind-deposited",
+            "Water-deposited",
+            "Volcanic",
+            "Black cotton"
+        ],
+        "correct_answer": "a",
+        "note": "Loess is wind-deposited soil. Loess is a type of silt which forms fertile topsoil in some parts of the world. Loess deposits are usually a few meters thick. One of the key characteristics of these deposits is the 'cat steps'. The soil has few clay particles to hold it together."
+    },
+    {
+        "question": "In which form can the cultivable land be defined?",
+        "options": [
+            "The land which can grow the crops",
+            "Waste land + fallow land",
+            "Old fallow land + new follow land",
+            "Total fallow land + net sown land"
+        ],
+        "correct_answer": "d",
+        "note": "Cultivable land is the one in which food crops can be cultivated. These include fallow land which is used for farming normally but it is left alone for sometime in order to gain fertility & the net sown area is the land in which crops are grown presently."
+    },
+    {
+        "question": "Which of the following natural regions has specialised in cultivation of fruit trees?",
+        "options": [
+            "Mediterranean region",
+            "Warm Mid-latitude East Margin region",
+            "Tropical East Margin region",
+            "Mid-latitude Grassland region"
+        ],
+        "correct_answer": "a",
+        "note": "Mediterranean region has specialised in cultivation of fruit trees. Citrus fruits, like lemons, oranges, and grapefruits, grow well in the Mediterranean region due to a similar root structure as olive trees, but also because the fruits have thick skins, which are well adapted to the climate."
+    },
+    {
+        "question": "Economy of Brazil is mostly dependent on ________",
+        "options": [
+            "Tea",
+            "Coffee",
+            "Rice",
+            "Maize"
+        ],
+        "correct_answer": "b",
+        "note": "Economy of Brazil is mostly dependent on Coffee. Brazil leads the way as the largest coffee-producing nation in the world, achieving annual coffee production figures of 2,592,000 metric tons, compared to the second-largest producer Vietnam, with 1,650,000 metric tons, and Columbia in third spot with 810,000 metric tons."
+    },
+    {
+        "question": "Which country produces the maximum amount of timber?",
+        "options": [
+            "United States of America",
+            "Brazil",
+            "Nigeria",
+            "Sweden"
+        ],
+        "correct_answer": "a",
+        "note": "U.S.A produces maximum timber in the world. Most timber is produced from Coniferous forest of Alaska region like softwood timber of Pine, Fir, Spruce."
+    },
+    {
+        "question": "Mocha coffee is grown in",
+        "options": [
+            "Iraq",
+            "Brazil",
+            "Argentina",
+            "Yemen"
+        ],
+        "correct_answer": "d",
+        "note": "The Mocha coffee bean is a variety of coffee bean originally from Mocha, Yemen. It is harvested from the coffee-plant species Coffea arabica, which is native to Yemen."
+    },
+    {
+        "question": "Monazite is an ore of",
+        "options": [
+            "Copper",
+            "Iron",
+            "Thorium",
+            "Titanium"
+        ],
+        "correct_answer": "c",
+        "note": "Monazite is an ore of Thorium. Monazite is a rare phosphate mineral with a chemical composition of (Ce, La, Nd, Th) (PO4, SiO4). It usually occurs in small isolated grains, as an accessory mineral in igneous and metamorphic rocks such as granite, pegmatite, schist, and gneiss."
+    },
+    {
+        "question": "The location of a cement industry is mostly based on ________.",
+        "options": [
+            "Nearness to a port",
+            "Where demand is high",
+            "Where transportation facilities are available",
+            "Availability of raw materials"
+        ],
+        "correct_answer": "d",
+        "note": "The location of a cement industry is mostly based on availability of raw materials. A significant factor which aids the growth of this sector is the ready availability of the raw materials for making cement, such as limestone and coal."
+    },
+    {
+        "question": "Wheat and rice in China are cultivated in",
+        "options": [
+            "Lower Yangtse Basin",
+            "Hwang Ho Basin",
+            "The Lower Si Basin",
+            "South East Coast"
+        ],
+        "correct_answer": "a",
+        "note": "Wheat and rice in China are cultivated in Lower Yangtse Basin. Paddy rice is the major grain crop in China, grown mainly in the Yangtze River valley and southern China, and on the Yunnan-Guizhou Plateau. The output of wheat accounts for slightly more than one fifth of the total output of grain; it is planted throughout China but mainly on the North China Plain."
+    },
+    {
+        "question": "What is the main natural cause of disruption of road in hilly areas?",
+        "options": [
+            "Landslide",
+            "Falling of Trees",
+            "Traffic",
+            "Road Construction"
+        ],
+        "correct_answer": "a",
+        "note": "Landslides occur naturally as the mass of earth collapses from the mountain. Hence it becomes cause of disruption of roads in hilly areas."
+    },
+    {
+        "question": "Coniferous forests are in the region of ________",
+        "options": [
+            "High humidity and high temperature",
+            "Low rainfall and very low temperature throughout the year",
+            "Low mean annual temperature throughout the year and very cold winter",
+            "Heavy rainfall and high temperature during summer"
+        ],
+        "correct_answer": "b",
+        "note": "Coniferous forests are in the region of low rainfall and very low temperature throughout the year. Precipitation in coniferous forests varies from 300 to 900 mm annually, with some temperate coniferous forests receiving up to 2,000 mm. The amount of precipitation depends on the forest location. In the northern boreal forests, the winters are long, cold and dry, while the short summers are moderately warm and moist."
+    },
+    {
+        "question": "What does the machine tool industry produce?",
+        "options": [
+            "It produces tools for the repair of machines",
+            "It produces machines with a high component of precision tools",
+            "It produces machines which can be used by other industries for the production of their finished goods",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "The machine tool industry produces machines which can be used by other industries for the production of their finished goods."
+    },
+    {
+        "question": "Which of the following minerals is obtained from placer deposits?",
+        "options": [
+            "Copper",
+            "Tin",
+            "Manganese",
+            "Aluminium"
+        ],
+        "correct_answer": "b",
+        "note": "Tin minerals is obtained from placer deposits. Placer deposits are loose unconsolidated and semi-consolidated materials. It forms by surface weathering, erosion of the primary rocks, transportation and concentration of valuable minerals."
+    },
+    {
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Steppes are the temperate grasslands of South America",
+            "Prairies are the temperate grasslands of North America",
+            "Pampas are the temperate grasslands of South Australia",
+            "Forests-with trees which do not shed their leaves seasonally are called deciduous forests"
+        ],
+        "correct_answer": "b",
+        "note": "It is actually ‘a sea of grasses’. The prairies cover parts of the United States of America and parts of Canada. The Rocky Mountains bound them in the West. The Great Lakes cover them in the east. The tributaries of Mississippi drain the prairies in the USA. On the other hand, the tributaries of the Saskatchewan Rivers drain the prairies of Canada."
+    },
+    {
+        "question": "Which of the following cyclone had devastated Bangladesh in November 2007?",
+        "options": [
+            "Dean",
+            "Vutiye",
+            "Sidr",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "Sidr was the tropical cyclone in Indian Ocean which devastated Bangladesh coast in 2007. It was category 5 tropical storm on Saffire- Simpson Scale."
+    },
+    {
+        "question": "Silk textiles are mainly produced in ________",
+        "options": [
+            "Japan and U.S.A.",
+            "Japan and China",
+            "China and India",
+            "U.S.A. and U.K."
+        ],
+        "correct_answer": "c",
+        "note": "Silk textiles are mainly produced in China and India. China continues to lead the world in silk production, followed by its next-door neighbor, India. China and India are the two leading silk producers today. The Silk industry actually began between 5,000 and 3,000 BC in China. It reached India around 140 AD. The Silk Road also facilitated the smuggling of silkworm eggs into the Mediterranean and from there into the rest of Europe."
+    },
+    {
+        "question": "Onshore breeze develops in",
+        "options": [
+            "Day",
+            "Night",
+            "Both A and B",
+            "Season"
+        ],
+        "correct_answer": "a",
+        "note": "As the land gets heated quickly when compared to water, the air above land rises upwards, the Sea breeze rushes to fill in the vacuum hence on shore breeze develops due to low pressure over land & high presure over sea."
+    },
+    {
+        "question": "On moving from a pole to the equator we find that the population of plants and animals ________",
+        "options": [
+            "Decreases",
+            "Increases",
+            "Remains unchanged",
+            "Does not show any consistent behavior"
+        ],
+        "correct_answer": "b",
+        "note": "On moving from a pole to the equator we find that the population of plants and animals Increases. Animals and even plants, have adapted for life in a certain type of climate - and as temperatures warm, they may relocate to continue living in those same types of conditions."
+    },
+    {
+        "question": "Instrument for measuring blueness of the sky or ocean is called ________.",
+        "options": [
+            "Bathymeter",
+            "Ceraunograph",
+            "Cyanometer",
+            "Barometer"
+        ],
+        "correct_answer": "c",
+        "note": "Instrument for measuring blueness of the sky or ocean is called Cyanometer. A cyanometer is an instrument for measuring 'blueness', specifically the colour intensity of blue sky."
+    },
+    {
+        "question": "Which of the following countries is the richest coal producing nation in Europe?",
+        "options": [
+            "France",
+            "Germany",
+            "Great Britain",
+            "Poland"
+        ],
+        "correct_answer": "b",
+        "note": "Germany is the richest coal producing nation in Europe. The commercial exploitation of coal in Germany began in the mid-18th century in areas such as the Ruhr region. Germany is currently the fourth largest producer of coal in the European Union. Coal is the primary source of electricity in Germany, and its output of 43.8 million tons makes up 1.1% of the total world production. The production of coal has declined in recent years due to concerns about the environment."
+    },
+    {
+        "question": "The largest producer of coffee in the world is",
+        "options": [
+            "Ivory coast",
+            "Brazil",
+            "India",
+            "Mexico"
+        ],
+        "correct_answer": "b",
+        "note": "Brazil lies in the tropical zone enriched by Amazon basin with humid climatic conditions through out the year.  It is the largest producer of coffee in the world. On 2nd comes Vietnam,  3rd is Colombia."
+    },
+    {
+        "question": "IR-20 is a high yielding variety of which of the following",
+        "options": [
+            "Cotton",
+            "Rice",
+            "Wheat",
+            "Sugarcane"
+        ],
+        "correct_answer": "b",
+        "note": "It is an Indian variety of modern rice developed in the state of Tamil  Nadu."
+    },
+    {
+        "question": "Wine production is mainly carried out in which of the following natural regions?",
+        "options": [
+            "Equatorial region",
+            "Savanna",
+            "Mediterranean region",
+            "Coniferous forests"
+        ],
+        "correct_answer": "c",
+        "note": "Wine production is mainly carried out in Mediterranean region. Regions bordering the Mediterranean Sea account for three-quarters of the world's production of wine. Some 85% of grapes produced, go into wine. The long, sunny summer allows the grapes to ripen."
+    },
+    {
+        "question": "The Amazon forests are a type of?",
+        "options": [
+            "Tropical Forest",
+            "Temperate Forest",
+            "Temerate Evergreen Forest",
+            "Tropical Seasonal Forest"
+        ],
+        "correct_answer": "a",
+        "note": "These are Tropical Rain Forest lying with in the tropical zone in the Amazon basin of South America. It is enrich in many species."
+    },
+    {
+        "question": "Which country started the cultivation of potatoes in Europe?",
+        "options": [
+            "German",
+            "Spanish",
+            "Dutch",
+            "Portuguese"
+        ],
+        "correct_answer": "b",
+        "note": "Presumably sailors returning from South America brought Potato with themselves to Spain which were planted in the hinterland."
+    },
+    {
+        "question": "The country which leads in the production of rubber is ________",
+        "options": [
+            "Australia",
+            "Indonesia",
+            "Malaysia",
+            "Thailand"
+        ],
+        "correct_answer": "b",
+        "note": "The country which leads in the production of rubber is Indonesia. Since the 1980s, the Indonesian rubber industry has been experiencing steady production growth. Indonesia is one of the leading rubber producing country in the world, it is second largest natural rubber exporter after Thailand."
+    },
+    {
+        "question": "Oolong tea is ________",
+        "options": [
+            "A scented tea",
+            "Tea cultivated in home gardens",
+            "A variety of tea cultivated in Taiwan",
+            "Green leaf tea of China"
+        ],
+        "correct_answer": "c",
+        "note": "Oolong tea is a variety of tea cultivated in Taiwan. Oolong tea is the main type of tea that is produced and consumed in Taiwan. There are many kinds of oolong teas produced in Taiwan. Taiwanese teas can be classified according to their regional origin, seasonality and processing method. The flavors of oolong teas change dramatically from season to season."
+    },
+    {
+        "question": "Which country ranks top in the mining of gold?",
+        "options": [
+            "Canada",
+            "U.S.A.",
+            "China",
+            "South Africa"
+        ],
+        "correct_answer": "c",
+        "note": "China ranks top in the mining of gold."
+    },
+    {
+        "question": "World's largest manufacturers of Motor Vehicles are ________",
+        "options": [
+            "Russia and Japan",
+            "U.K. and France",
+            "U.S.A. and Japan",
+            "U.S.A. and Germany"
+        ],
+        "correct_answer": "c",
+        "note": "World's largest manufacturers of Motor Vehicles are U.S.A. and Japan. Japan has been one of the world’s Top 3 car producing countries since the 1960’s, securing its status as a world leader in automotive manufacturing and technology."
+    },
+    {
+        "question": "Teak and Sal are the principal trees in the forests known as ________",
+        "options": [
+            "Dry deciduous",
+            "Dry evergreen",
+            "Tropical moist deciduous",
+            "Tropical moist evergreen"
+        ],
+        "correct_answer": "c",
+        "note": "Teak and Sal are the principal trees in the forests known as Tropical moist deciduous. The trees drop their leaves during the spring and early summer when sufficient moisture is not available. The general appearance is bare in extreme summers (April-May). Tropical moist deciduous forests present irregular top storey [25 to 60 m]. Heavily buttressed trees and fairly complete undergrowth. These forests occupy a much larger area than the evergreen forests but large tracts under these forests have been cleared for cultivation."
+    },
+    {
+        "question": "Iron ore mining in the former Soviet Union are in",
+        "options": [
+            "Kiruna",
+            "Mesabi and Gegobic",
+            "Krivoi Rog and Kerch basin",
+            "Lorraine field"
+        ],
+        "correct_answer": "c",
+        "note": "Iron ore mining in the former Soviet Union are in Krivoi Rog and Kerch basin. About 70% of all iron ore production is concentrated in the Krivoy Rog Basin, which is the largest basin in the post-Soviet era with total reserves of 20 billion mt."
+    },
+    {
+        "question": "The Temperate grasslands of North America are known as",
+        "options": [
+            "Pampas",
+            "Downs",
+            "Steppe",
+            "Prairie"
+        ],
+        "correct_answer": "d",
+        "note": "Prairies are enormous stretches of flat grassland with moderate temperatures, moderate rainfall, and few trees. When people talk about the prairie, they are usually referring to the golden, wheat-covered land in the middle of North America."
+    },
+    {
+        "question": "Shifting agriculture is most commonly practised in",
+        "options": [
+            "Forests",
+            "Deserts",
+            "Plain areas",
+            "Grass lands"
+        ],
+        "correct_answer": "a",
+        "note": "Shifting agriculture is most commonly practised in forests. Shifting cultivation is an agricultural system in which areas of land are cultivated for a short time. Then they are left to grow back their natural vegetation, while the farmer moves to another area."
+    },
+    {
+        "question": "What is known as Soil-free Farming?",
+        "options": [
+            "Hydroponics",
+            "Humidity up gradation",
+            "Interlude crops",
+            "Sericulture"
+        ],
+        "correct_answer": "a",
+        "note": "Hydroponics is the process in which plants are grown in sand, gravel or liquid by adding nutrients but without soil."
+    },
+    {
+        "question": "Dry winds (Harmattan) blows in Sahara Desert from",
+        "options": [
+            "South to North",
+            "East to West",
+            "West to East",
+            "North to South"
+        ],
+        "correct_answer": "b",
+        "note": "Harmattan (hot wind) blow from North East, East direction towards the western direction in the  Sahara Desert of North Africa."
+    },
+    {
+        "question": "The sudden decline in atmospheric pressure indicates",
+        "options": [
+            "Clear Weather",
+            "Storm",
+            "Rain",
+            "Cold Weather"
+        ],
+        "correct_answer": "b",
+        "note": "The barometer drops suddenly depicting low pressure zone & unsettled weather system developing such as storm."
+    },
+    {
+        "question": "Power minerals are",
+        "options": [
+            "Manganese, platinum, tungsten",
+            "Mica, potash, sulphur",
+            "Coal, oil, natural gas",
+            "Lead, zinc, bauxite"
+        ],
+        "correct_answer": "c",
+        "note": "Power minerals are Coal, oil, natural gas. A natural resource such as coal, gas, or oil that, once consumed, cannot be replaced. Most energy resources currently in use are non-renewable while the renewable ones (such as wind and solar power) are not well developed. Also called depletable resource."
+    },
+    {
+        "question": "Which of the following is not one of the by-products of mineral oil?",
+        "options": [
+            "Naphtha",
+            "Sulphur",
+            "Aniline dyes",
+            "Paraffin wax"
+        ],
+        "correct_answer": "b",
+        "note": "Sulphur is not one of the by-products of mineral oil. Sulphur produced as a by-product of ferrous and non-ferrous metal smelting is produced in the form of sulphuric acid."
+    },
+    {
+        "question": "Wood pulp comes from ________",
+        "options": [
+            "Equatorial region",
+            "Temperate region",
+            "Mediterranean region",
+            "Coniferous forest region"
+        ],
+        "correct_answer": "d",
+        "note": "Wood pulp comes from Coniferous forest region. Coniferous forests are made up from very few tree species (pine, spruce, fir and larch) and the floor of the forest supports little vegetation. The soil is thin, acidic and low in nutrients."
+    },
+    {
+        "question": "Which of the following determines the quality of agro-products?",
+        "options": [
+            "I.S.I.",
+            "Eco Product",
+            "AGMARK",
+            "Green Product"
+        ],
+        "correct_answer": "c",
+        "note": "AGMARK certifies agro products on the basis of set standards which are approved by Directorate of Marketing & Inspection, a Government of India agency eg. Darjeeling Tea, Basmati rice etc."
+    },
+    {
+        "question": "Which of the following sequence is correct in their declining productivity?",
+        "options": [
+            "Mangrove, Ocean, Grassland, Lakes",
+            "Ocean, Lake, Grassland, Mangrove",
+            "Ocean, Mangrove, Lakes, Grassland",
+            "Mangrove, Grassland, Lake, Ocean"
+        ],
+        "correct_answer": "c",
+        "note": "The correct following sequence in their declining productivity are Ocean, Mangrove, Lakes and Grassland."
+    },
+    {
+        "question": "The leading producer of sulphur is ________",
+        "options": [
+            "Canada",
+            "Spain",
+            "U.S.A.",
+            "Italy"
+        ],
+        "correct_answer": "b",
+        "note": "The leading producer of sulphur is Spain. The main consumer of sulphur was fertilizer industry which accounted for about 77% is Spain ( Sulphur)."
+    },
+    {
+        "question": "From, the point of view of international trade, Bahrein islands are noted for petroleum and ________",
+        "options": [
+            "Fishing",
+            "Ship building",
+            "Iron and steel",
+            "Pearl fishing"
+        ],
+        "correct_answer": "d",
+        "note": "From, the point of view of international trade, Bahrein islands are noted for petroleum and Pearl fishing. \"Pearling, testimony of an island economy\" by the Bahrain Ministry of Culture, the international media has consistently referred to it as the \"Bahrain pearling trail\"."
+    },
+    {
+        "question": "Long treeless grassy palms are characteristics of ________",
+        "options": [
+            "Campos",
+            "Llanos",
+            "Pampas",
+            "Prairies"
+        ],
+        "correct_answer": "c",
+        "note": "Long treeless grassy palms are characteristics of Pampas. Pampas grass is a perennial plant and can reach 4 metres (13 feet) in height. The long sharped-edged leaves fold at the midrib and form a dense tussock (tufted bunch). Female plants bear silvery plumelike flower clusters about 30 to 90 cm (1 to 3 feet) long. The feathery seeds are readily dispersed by the wind."
+    },
+    {
+        "question": "In which of the following region, it rains throughout the year?",
+        "options": [
+            "Mediterranean",
+            "Equatorial",
+            "Tropical",
+            "Temperate"
+        ],
+        "correct_answer": "b",
+        "note": "Convectional rainfall occurs in the Equatorial region throughout the year."
+    },
+    {
+        "question": "Merino sheep rearing is the predominant pastoral activity in ________",
+        "options": [
+            "Australia",
+            "Argentina",
+            "Denmark",
+            "Sweden"
+        ],
+        "correct_answer": "a",
+        "note": "Merino sheep rearing is the predominant pastoral activity in Australia. The Merino is one of the most historically relevant and economically influential breeds of sheep. The wool of any Merino sheep, whether reared in Spain or elsewhere, is known as \"merino wool\"."
+    },
+    {
+        "question": "Which one of the following countries has the highest agricultural production in Europe?",
+        "options": [
+            "France",
+            "Switzerland",
+            "Denmark",
+            "Germany"
+        ],
+        "correct_answer": "a",
+        "note": "France has the highest agricultural production in Europe. France has the biggest utilized agricultural acreage (UAA) of Europe and is the biggest producer of agricultural goods (in value, around 116.3 billion euros). In 2012, France is also first in cow meat production, second in cow milk production and third in pig meat production."
+    },
+    {
+        "question": "Major wheat and rice producing area in China is ________",
+        "options": [
+            "Hwang-Ho basin",
+            "Yangtse-basin",
+            "Si-Kiang basin",
+            "All the above"
+        ],
+        "correct_answer": "d",
+        "note": "Major wheat and rice producing area in China is Hwang-Ho basin, Yangtse-basin and Si-Kiang basin."
+    },
+    {
+        "question": "Evergreen forests are found in",
+        "options": [
+            "Monsoon region",
+            "Deserted region",
+            "Mediterranean region",
+            "Equatorial region"
+        ],
+        "correct_answer": "d",
+        "note": "In Equatorial region, convective rain occur throughout the year providing much needed water to plants which keeps them green throughout the year. The region lies with in Tropic of Cancer & Tropic of Capricorn. It is multilayered dense forest. Few species are Westen Red Cedar, Scots, Jack Pine."
+    },
+    {
+        "question": "Grasslands which not support any trees are called ________",
+        "options": [
+            "Lanos",
+            "Campos",
+            "Savanna",
+            "Steppes"
+        ],
+        "correct_answer": "d",
+        "note": "Grasslands which not support any trees are called Steppes. A steppe is a dry, grassy plain. Steppes occur in temperate climates, which lie between the tropics and polar regions."
+    },
+    {
+        "question": "The term 'Granary of the world' is related to ________ type.",
+        "options": [
+            "Monsoon",
+            "Temperate",
+            "Mediterranean",
+            "Laurentian"
+        ],
+        "correct_answer": "c",
+        "note": "The term 'Granary of the world' is related to Mediterranean type."
+    },
+    {
+        "question": "Which type of forest belt supplies most of the world's requirement of newsprint?",
+        "options": [
+            "Coniferous forest",
+            "Deciduous forest",
+            "Evergreen forest",
+            "Mediterranear forest"
+        ],
+        "correct_answer": "a",
+        "note": "Coniferous forest belt supplies most of the world's requirement of newsprint. By mechanical and chemical means, timber is pulped to make wood pulp. This is used as a raw material for papermaking and newsprint."
+    },
+    {
+        "question": "Which of the following is the largest producer of copper?",
+        "options": [
+            "Ghana",
+            "Malaysia",
+            "Australia",
+            "Chile"
+        ],
+        "correct_answer": "d",
+        "note": "Chile is the largest producer of copper. Chile, the world's leading copper producer by far, produced an estimated 5.8 million metric tons of copper in 2017."
+    },
+    {
+        "question": "The Prairies of North America are",
+        "options": [
+            "Tropical Forest",
+            "River Basin",
+            "Animal Farm",
+            "Temperate Grasslands"
+        ],
+        "correct_answer": "d",
+        "note": "The Prairies of North America are Temperate Grasslands. Temperate grasslands, savannas and shrublands. Known as prairies in North America, pampas in South America, veld in Southern Africa and steppe in Asia, Temperate Grasslands, Savannas, and Shrublands differ largely from tropical grasslands in the annual temperature regime as well as the types of species found here."
+    },
+    {
+        "question": "Which is the largest forest covering 25% of world's land?",
+        "options": [
+            "Tropical rain forest",
+            "Taiga forest of Siberia",
+            "Monsoon forest",
+            "Temperate forest of Europe"
+        ],
+        "correct_answer": "b",
+        "note": "Also termed as Boreal Forest (snow forest) it lies in Eastern Siberia covering more than quarter of Russian territory. Amassed by coniferous trees it contains pines, spruces & larches."
+    },
+    {
+        "question": "Which of the following characterises the desert forests?",
+        "options": [
+            "Pointed leaves",
+            "Dense leaves",
+            "Canopy leaves",
+            "Broad leaves"
+        ],
+        "correct_answer": "a",
+        "note": "Pointed leaves characterises the desert forests. Most desert plants have small leaves, spikes for leaves, or no leaves at all. The smaller or fewer leaves a plant has, the less water is lost during transpiration since it has less surface area open to the sun and wind."
+    },
+    {
+        "question": "Which country leads the world in the export of oil?",
+        "options": [
+            "Venezuela",
+            "Saudi Arabia",
+            "Iraq",
+            "Iran"
+        ],
+        "correct_answer": "b",
+        "note": "Saudi Arabia leads the world in the export of oil. Saudi Arabia is the world's number one oil exporter and the country with the largest amount of oil reserves. Formed in 1932, the country was responsible for 15.9% of global oil exports in 2017, totaling $133.6 billion in value."
+    },
+    {
+        "question": "Soil having high content of aluminum and iron oxide is also known as ________.",
+        "options": [
+            "Meadow soil",
+            "Pedalfer soil",
+            "Chemozen soil",
+            "Podzols oil"
+        ],
+        "correct_answer": "b",
+        "note": "Soil having high content of aluminum and iron oxide is also known as Pedalfer soil. Pedalfer is sub-division of zonal classification of soil with high aluminium and iron oxides. It occurs in humid regions of earth's surface."
+    },
+    {
+        "question": "Los Angeles is famous for ________",
+        "options": [
+            "Golden beaches",
+            "Scenic beauty",
+            "Film studios",
+            "Rocket launching station"
+        ],
+        "correct_answer": "c",
+        "note": "Los Angeles is famous for Film studios. There are many famous film studios."
+    },
+    {
+        "question": "Which of the following set of country is known as \"Golden Crescent\", world's largest opium Industry?",
+        "options": [
+            "Myanmar, Laos and Thailand",
+            "Afghanistan, Iran and Iraq",
+            "Afghanistan, Pakistan and Iran",
+            "Myanmar, Malaysia and Thailand"
+        ],
+        "correct_answer": "c",
+        "note": "These three countries are opium producing countries located strategically between Central, Southern & Western Asia. Hence named as \"Golden Crescent\"."
+    },
+    {
+        "question": "Which of the following country is not an exporter of tea?",
+        "options": [
+            "Srilanka",
+            "United Kingdom",
+            "India",
+            "Kenya"
+        ],
+        "correct_answer": "b",
+        "note": "Kenya, India & Sri Lanka are famous tea producing tropical spots of the world exporting tea throughout the globe.  Hence, U.K. is the tea importing country."
+    },
+    {
+        "question": "Which of the following pairs of countries are the leading manufacturers of cement in the world?",
+        "options": [
+            "U.S.A. and Russia",
+            "Japan and Russia",
+            "China and India",
+            "U.S.A. and U.K."
+        ],
+        "correct_answer": "c",
+        "note": "China and India are the leading manufacturers of cement in the world. The cement industry has changed significantly in recent years through trans-national consolidations and co-operations. Much of the potential is in emerging markets, especially China and India. Emerging markets represent approximately 90% of the worldwide market today while western Europe and North America account for most of the remainder."
+    },
+    {
+        "question": "Which of the following is most important for absorption of heat radiated from the Sun as well as from the Earth?",
+        "options": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Carbon monoxide",
+            "Nitrogen"
+        ],
+        "correct_answer": "a",
+        "note": "Carbon dioxide is a greenhouse gas which helps in absorption of heat radiated from sun as well as earth. Carbon dioxide is one of the gases which absorb and reemit infrared radiations."
+    },
+    {
+        "question": "The polar regions are sparsely populated because of",
+        "options": [
+            "Lack of minerals",
+            "Unsuitable climatic conditions",
+            "Infertile land",
+            "Mountainous topography"
+        ],
+        "correct_answer": "b",
+        "note": "Polar regions have extreme climatic conditions such as permanently frozen land, very low temperature (in negatives) etc which are unsuitable for large selltements."
+    },
+    {
+        "question": "Smog is a Mixture of",
+        "options": [
+            "Air and Water Vapour",
+            "Water and Smoke",
+            "Fire and Water",
+            "Smoke and Fog"
+        ],
+        "correct_answer": "d",
+        "note": "In the foggy conditions mostly during winters the smoke released from industries combine with fog to form smoke fog, also known as smog. It is highly polluted & causes breathing problem."
+    },
+    {
+        "question": "Snow line is ________",
+        "options": [
+            "The altitude below which no snowfall occurs",
+            "The altitude only above which the snowfall occurs and this snow melts during summer",
+            "The altitude above which snow never melts",
+            "The altitude above which the snow melts regularly to give rise to perennial rivers"
+        ],
+        "correct_answer": "c",
+        "note": "Snow line is the altitude above which snow never melts. Snow-line is the limit above which snow never melts. The height of the snow-line generally varies with latitude."
+    },
+    {
+        "question": "What type or vegetation is associated with Australia?",
+        "options": [
+            "Pampas",
+            "Downs",
+            "Canada",
+            "All the above"
+        ],
+        "correct_answer": "b",
+        "note": "Vegetation associated with Australia is downs."
+    },
+    {
+        "question": "The Ruhr coal fields area of ________ is a major industrial area of the world.",
+        "options": [
+            "USA",
+            "Erstwhile USSR",
+            "Australia",
+            "Germany"
+        ],
+        "correct_answer": "d",
+        "note": "The Ruhr coal fields area of Germany is a major industrial area of the world. Ruhr is the main centre of Germany's coal, iron and steel production."
+    },
+    {
+        "question": "Which of the following statements about forests is not correct?",
+        "options": [
+            "Coniferous forests of high latitudes yield soft wood",
+            "Between 2000 m and 3000 m elevation on the Himalayas grow deodar, chinar and walnut",
+            "Forests in equatorial regions of India are less dense than the monsoon forests",
+            "Large-scale exploitation of forests has caused soil erosion and repeated floods"
+        ],
+        "correct_answer": "c",
+        "note": "Forests in equatorial regions of India are more dense than the monsoon forests. Monsoon forests are especially well developed in Southeast Asia and are typified by tall teak trees and thickets of bamboo."
+    },
+    {
+        "question": "Which one of the following countries has the largest known reserves of oil ?",
+        "options": [
+            "Kuwait",
+            "Iran",
+            "Iraq",
+            "Nigeria"
+        ],
+        "correct_answer": "a",
+        "note": "Kuwait has the largest known reserves of oil. The country has an estimated 94 billion barrels of proven oil reserves, about 9% of the world's total."
+    },
+    {
+        "question": "Consider the following statements concerning United Arab Emirates:\n1. Oman is one of the seven Emirates which form the United Arab Emirates.\n2. Dubai is the capital of United Arab Emirates.\n3. Fishing and tourism are the key industries of United Arab Emirates.\nWhich of these statements is/are correct?",
+        "options": [
+            "1 and 2",
+            "3 only",
+            "2 and 3",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "b",
+        "note": "Fishing and tourism are the key industries of United Arab Emirates. Dubai, the UAE's business and tourist centre, is the country's biggest fish consuming market followed by Abu Dhabi and Sharjah."
+    },
+    {
+        "question": "Postaz are temperate grassland in ________",
+        "options": [
+            "Australia",
+            "South Africa",
+            "Hungary",
+            "Egypt"
+        ],
+        "correct_answer": "c",
+        "note": "Postaz are temperate grassland in Hungary. Temperate grasslands are located north of the Tropic of Cancer (23.5° North) and south of the Tropic of Capricorn (23.5° South). The major temperate grasslands include the veldts of Africa, the pampas of South America, the steppes of Eurasia, and the plains of North America."
+    },
+    {
+        "question": "Which of the following minerals and their ores are correctly matched?\n1. Zinc-calamine\n2. Platinum-iridium\n3. Tin-cassiterite\n4. Copper-carnolite",
+        "options": [
+            "1, 2 and 3",
+            "1 and 4",
+            "2, 3 and 4",
+            "1 and 3"
+        ],
+        "correct_answer": "d",
+        "note": "Zinc-calamine and Tin-cassiterite minerals and their ores are correctly matched."
+    },
+    {
+        "question": "The main mineral constituents of the continental mass water ________ and alumina.",
+        "options": [
+            "Iron Oxide",
+            "Silica",
+            "Water",
+            "Oxygen"
+        ],
+        "correct_answer": "b",
+        "note": "The main constituents of Earth's continental mass are water, silica and alumina and that is why the upper portion is generally termed as \"SIAL\"."
+    },
+    {
+        "question": "The method of soil conservation in which bare ground between plants is covered with layer of organic matter like straw is called?",
+        "options": [
+            "Mulching",
+            "Contour barriers",
+            "Rockdam",
+            "Terrace farming"
+        ],
+        "correct_answer": "a",
+        "note": "Mulching is the process of forming a protective covering of rotting vegetable (organic) matter to reduce evaporation and soil erosion."
+    },
+    {
+        "question": "Which of the following forest is the forest with maximum bio diversity?",
+        "options": [
+            "Tropical",
+            "Temperate",
+            "Monsoon",
+            "Equatorial"
+        ],
+        "correct_answer": "d",
+        "note": "Equatorial forests are also termed as Evergreen forests. They are a sub-type of tropical rain forests. They have maximum bio diversity."
+    },
+    {
+        "question": "The metallic minerals are",
+        "options": [
+            "Asbestos, mica, graphite",
+            "Iron ore, copper, lead",
+            "Coal, oil, natural gas",
+            "Salt, potash, sulphur"
+        ],
+        "correct_answer": "b",
+        "note": "The metallic minerals are Iron ore, copper, lead. Metallic minerals contain metal in raw form.Metallic minerals occur in rare, naturally formed concentrations known as mineral deposits. These deposits can consist of a variety of metallic minerals containing valuable metals such as nickel (pentlandite), copper (chalcopyrite), zinc (sphalerite), lead (galena) and gold."
+    },
+    {
+        "question": "Which one of the following natural regions is best known for the production of grapes?",
+        "options": [
+            "Hot deserts",
+            "Monsoon",
+            "Equatorial",
+            "Mediterranean"
+        ],
+        "correct_answer": "d",
+        "note": "Mediterranean regions is best known for the production of grapes. Grapes, cultivated for the fruit or for making wine, grow very well in the region thanks to the mild temperature and ideal moisture conditions in many areas of the region. Each sub-region has grapes that offer specific flavors. Sherry is grown in the Andalusia in Spain, Nero d’Avola from Sicily, Patrimonio from Corsica (there are also wines in Greece, Algeria, Morocco, Israel)."
+    },
+    {
+        "question": "Over 90% of the world's biomass is in",
+        "options": [
+            "Tropical rain forests",
+            "Freshwater wetlands",
+            "Top soils",
+            "Oceans"
+        ],
+        "correct_answer": "a",
+        "note": "Over 90% of the world's biomass is in Tropical rain forests. Tropical rainforests are the most complex of the world's ecosystems in terms of the physical structure that they develop, and also in their tremendous biodiversity of species and community types. Because of these characteristics, tropical rainforests represent the acme of ecosystem development on Earth."
+    },
+    {
+        "question": "Deciduous trees are those ________",
+        "options": [
+            "That grow up straight",
+            "That grow plenty in dry places",
+            "That never bear fruits",
+            "That shed their leaves during a certain season"
+        ],
+        "correct_answer": "d",
+        "note": "Deciduous trees are those that shed their leaves during a certain season. Most deciduous trees have broad leaves that are susceptible to being damaged during cold or dry weather."
+    },
+    {
+        "question": "The Ruhr-Westphalia region is a famous industrial region of ________",
+        "options": [
+            "Scandinavia",
+            "Russia",
+            "North America",
+            "Germany"
+        ],
+        "correct_answer": "d",
+        "note": "The Ruhr-Westphalia region is a famous industrial region of Germany. The Ruhr Valley in Germany, which encompasses the industrial cities of Bochum, Dortmund, Duisburg, Essen, and others, is one of the most industrialized areas of the country."
+    },
+    {
+        "question": "In which country, slash and burn agriculture is known as \"Milpa\"?",
+        "options": [
+            "Venezuela",
+            "Brazil",
+            "Central America",
+            "Mexico and Central America"
+        ],
+        "correct_answer": "d",
+        "note": "The slash and burn agriculture is known as 'Milpa' in Mexico and Central America, 'Conuco' in Venezuela, 'Roca' in Brazil, 'Masole' in Central Africa, 'Ladang' in Indonesia, 'Ray' in Vietnam. Slash and burn agriculture is also known as shifting agriculture. It is an old agricultural method followed in many tribal regions of the world. In India such a practise is termed \"Jhum\" in the North-East."
+    },
+    {
+        "question": "Typhoon comes in",
+        "options": [
+            "Mexican gulf",
+            "Indian ocean",
+            "Arctic Ocean",
+            "China and Japan sea"
+        ],
+        "correct_answer": "d",
+        "note": "In Austrialia a tropical cyclone is named as Willy Willy. In different parts of the world it is known by different names like, Hurricane in Caribbean Sea, U.S.A. , Mexico, Typhoon in Japan, China, Phillipines;  Cyclone in South Asia."
+    },
+    {
+        "question": "The World's largest producer of wool is ________",
+        "options": [
+            "India",
+            "Russia",
+            "U.S.A",
+            "Australia"
+        ],
+        "correct_answer": "d",
+        "note": "The World's largest producer of wool is Australia. Australia is the world's number one producer of premium quality fine wool, and is the largest producer of all wools by value and volume. The total wool produced in Australia is 324, 900 tonnes (greasy)."
+    },
+    {
+        "question": "In the Semi-arid and Temperate grasslands, the most commonly found animals are ________",
+        "options": [
+            "Donkeys and horses",
+            "Reindeers",
+            "Camels",
+            "Sheep and goats"
+        ],
+        "correct_answer": "d",
+        "note": "In the Semi-arid and Temperate grasslands, the most commonly found animals are Sheep and goats."
+    },
+    {
+        "question": "A large number of species are found within a small unit of area of ________",
+        "options": [
+            "Mangrove coastal forests",
+            "Coniferous temperate forests",
+            "Deciduous monsoon forests",
+            "Wet evergreen equatorial forests"
+        ],
+        "correct_answer": "d",
+        "note": "A large number of species are found within a small unit of area of Wet evergreen equatorial forests. Wet evergreen forests are found in the south along the Western Ghats and the Nicobar and Andaman Islands and all along the north-eastern region. It is characterized by tall, straight evergreen trees that have a buttressed trunk or root on three sides like a tripod that helps to keep a tree upright during a storm."
+    },
+    {
+        "question": "Consider the following statements:\n1. Biodiversity is normally greater in the lower latitudes as compared to the higher latitudes,\n2. Along the mountain gradients, biodiversity is normally greater in the lower altitudes as compared to the higher altitudes.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both I and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "Both the given statements are correct. Biodiversity is normally greater in the lower latitudes as compared to the higher latitudes and Along the mountain gradients, biodiversity is normally greater in the lower altitudes as compared to the higher altitudes."
+    },
+    {
+        "question": "What are 'Igloos'?",
+        "options": [
+            "A kind of animal hunted by Kalahari Bushmen",
+            "A kind of animal domesticated by aboriginal inhabitants of Australia",
+            "Mammoth mammals found in the Pacific Ocean",
+            "A dome-shaped house or a hut, built of blocks of hard snow, in which the Eskimos live"
+        ],
+        "correct_answer": "d",
+        "note": "Igloo is a dome-shaped house or a hut, built of blocks of hard snow, in which the Eskimos live. An igloo is a small building made of snow. Igloos were first built by the Inuit people."
+    },
+    {
+        "question": "The prediction of storm is made, when atmospheric pressure",
+        "options": [
+            "Rises suddenly",
+            "Rises gradually",
+            "Decreases suddenly",
+            "Decreases gradually"
+        ],
+        "correct_answer": "c",
+        "note": "The prediction of storm is made, when atmospheric pressure decreases suddenly. The barometer drops suddenly depicting low pressure zone & unsettled weather system developing such as storm."
+    },
+    {
+        "question": "Which of the following pairs is incorrect ?",
+        "options": [
+            "Buenos Aires-Dairy Products",
+            "Bangkok-Aircrafts",
+            "Manchester-Cotton Textiles",
+            "Plymouth-Ship building"
+        ],
+        "correct_answer": "b",
+        "note": "Bangkok is Thailand’s capital, is a large city known for ornate shrines and vibrant street life."
+    },
+    {
+        "question": "Which of the following statements is false?",
+        "options": [
+            "Tropical evergreen forests have very little undergrowth",
+            "Tropical monsoon forests have dense undergrowth",
+            "Temperate evergreen forests have rainfall throughout the year",
+            "Coniferous forest are mostly deciduous"
+        ],
+        "correct_answer": "d",
+        "note": "Coniferous forests consist mostly of conifers, trees that grow needles instead of leaves, and cones instead of flowers. Conifers tend to be evergreen, that is, they bear needles all year long. These adaptations help conifers survive in areas that are very cold or dry. Some of the more common conifers are spruces, pines, and firs."
+    },
+    {
+        "question": "The number of economic minerals associated with sedimentary rocks is",
+        "options": [
+            "More than that associated with igneous rocks",
+            "Less than that associated with igneous rocks",
+            "Same as that in igneous rocks",
+            "Unknown"
+        ],
+        "correct_answer": "b",
+        "note": "The number of economic minerals associated with sedimentary rocks is less than that associated with igneous rocks."
+    },
+    {
+        "question": "Which is the best variety of cotton in the world?",
+        "options": [
+            "Sea Island",
+            "Upland American",
+            "Egyptian",
+            "Indian short fibres"
+        ],
+        "correct_answer": "a",
+        "note": "Sea Island cotton has extra long staple length upto 34 mm due to which it is considered the best cotton in the world."
+    },
+    {
+        "question": "Which of the following natural regions is known as 'the big game country' or 'a land of safari'?",
+        "options": [
+            "Tropical deserts",
+            "Equatorial regions",
+            "Temperate Grassland regions",
+            "Savanna or Tropical Grassland regions"
+        ],
+        "correct_answer": "d",
+        "note": "Savanna or Tropical Grassland regions is known as 'the big game country' or 'a land of safari'. It is also called 'Sudan' or 'Savannah type' or 'Tropical grassland type'. Tropical grasslands are located near the equator, between the Tropic of Cancer and the Tropic of Capricorn. They cover much of Africa as well as large areas of Australia, South America, and India. Savannas are generally found between the desert biome and the rainforest biome."
+    },
+    {
+        "question": "The Sea water is more salty than rain water because",
+        "options": [
+            "Sea creatures salt",
+            "Air around sea is salty",
+            "Rivers pours salt from the soil into sea",
+            "There are salt mines in sea surface"
+        ],
+        "correct_answer": "c",
+        "note": "Rivers while passing through rocky places weather the rocks & erode them, during weathering of rocks, its mineral content in form of salt gets eroded which is dumed in sea along with river water."
+    },
+    {
+        "question": "Which of the following regions bear mainly the Coniferous forests?",
+        "options": [
+            "Southern part of India",
+            "South America",
+            "Southern island of New Zealand",
+            "Central, Eastern and Western parts of North America"
+        ],
+        "correct_answer": "d",
+        "note": "Central, Eastern and Western parts of North America regions bear mainly the Coniferous forests. Taiga generally referred to in North America as boreal forest or snow forest, is a biome characterized by coniferous forests consisting mostly of pines, spruces, and larches."
+    },
+    {
+        "question": "Zebras inhabit ________",
+        "options": [
+            "Coniferous forest regions",
+            "Downs",
+            "Equatorial regions",
+            "Savanna lands"
+        ],
+        "correct_answer": "d",
+        "note": "Zebras inhabit Savanna lands. Zebras are native to southern and central Africa. Although zebras are very adaptable animals as far as their habitats are concerned, most zebras live in grasslands and savannas."
+    }
+]

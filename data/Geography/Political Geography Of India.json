@@ -1,0 +1,3566 @@
+[
+    {
+        "question": "India lies in the hemisphere ________",
+        "options": [
+            "Northern and eastern",
+            "Southern and eastern",
+            "Northern and western",
+            "Northern and southern"
+        ],
+        "correct_answer": "a",
+        "note": "India is located within both the eastern hemisphere, like the rest of Asia, and the northern hemisphere. India is considered part of the South Asia region, and it is the seventh-largest country in the world by geographical size."
+    },
+    {
+        "question": "Indian sovereignity in sea extends upto ________ nautical miles.",
+        "options": [
+            "8",
+            "10",
+            "12",
+            "14"
+        ],
+        "correct_answer": "c",
+        "note": "Indian sovereignty in sea extends upto 12 nautical miles. Each coastal state may claim a territorial sea that extends seaward up to 12 nautical miles (nm) from its baselines. The coastal state exercises sovereignty over its territorial sea, the airspace above it, and the seabed and subsoil beneath it."
+    },
+    {
+        "question": "The highest peak of the Himalayas in India is in ________",
+        "options": [
+            "Uttar Pradesh",
+            "Kashmir",
+            "Sikkim",
+            "Himachal Pradesh"
+        ],
+        "correct_answer": "c",
+        "note": "Kangchenjunga – 8,586 m. The Kangchenjunga is the highest mountain peak in India and ranked 3rd highest summit in the world with an elevation of 8,586 m (28,169 ft). The highest mountain Kangchenjunga is located at the border of India and Nepal in the great Himalayas range, Sikkim."
+    },
+    {
+        "question": "Port Blair is situated in ________",
+        "options": [
+            "North Andaman",
+            "South Andaman",
+            "Middle Andaman",
+            "Little Andaman"
+        ],
+        "correct_answer": "b",
+        "note": "Port Blair is the capital of the union territory of Andaman & Nicobar Islands. It is located on the east coast of the south Andaman Island."
+    },
+    {
+        "question": "In which of the following towns does the LMT (Local Meridian Time) show the greatest deviation from the IST (Indian Standard Time) ?",
+        "options": [
+            "Delhi",
+            "Cochin",
+            "Mumbai",
+            "Kohima"
+        ],
+        "correct_answer": "d",
+        "note": "In Kohima the LMT (Local Meridian Time) show the greatest deviation from the IST (Indian Standard Time)."
+    },
+    {
+        "question": "Which of the following is the correct chronological order of the formation of the following states in India?\n1. Sikkim\n2. Mizoram\n3. Goa\n4. Arunachal Pradesh",
+        "options": [
+            "3, 1, 2, 4",
+            "1, 2, 3, 4",
+            "1, 2, 4, 3",
+            "1, 4, 2, 3"
+        ],
+        "correct_answer": "c",
+        "note": "The correct chronological order of the formation of the following states in India are Sikkim, Mizoram, Arunachal Pradesh and Goa."
+    },
+    {
+        "question": "In which one of the following Islands of India is an active volcano found?",
+        "options": [
+            "Car Nicobar Island",
+            "Nancowry lsland",
+            "Barren Island",
+            "Maya Bunder Island"
+        ],
+        "correct_answer": "c",
+        "note": "Barren Island, a possession of India in the Andaman Sea about 135 km NE of Port Blair in the Andaman Islands, is the only historically active volcano along the N-S-trending volcanic arc extending between Sumatra and Burma (Myanmar). The 354-m-high island is the emergent summit of a volcano that rises from a depth of about 2250 m."
+    },
+    {
+        "question": "The Khasi and Jaintia Hills are located in ________.",
+        "options": [
+            "Arunachal Pradesh",
+            "Meghalaya",
+            "Manipur",
+            "Nagaland"
+        ],
+        "correct_answer": "b",
+        "note": "The Khasi and Jaintia Hills are a mountainous region that was mainly part of Assam and Meghalaya. Meghalaya was previously part of Assam, but on 21 January 1972, the districts of Khasi, Garo and Jaintia hills became the new state of Meghalaya."
+    },
+    {
+        "question": "Which one of the following Himalayan Passes was reopened around in the middle of the year 2006 to facilitate trade between India and China?",
+        "options": [
+            "Chang La",
+            "JaraLa",
+            "Nathu La",
+            "Shipki La"
+        ],
+        "correct_answer": "c",
+        "note": "Nathu La Himalayan Passes was reopened around in the middle of the year 2006 to facilitate trade between India and China."
+    },
+    {
+        "question": "What is the correct order of occurrence of the following places as one moves from east to west?\n1. Murshidabad\n2. Gorakhpur\n3. Bhopal\n4. Bhavnagar",
+        "options": [
+            "2-4-3-1",
+            "1-3-4-2",
+            "1-2-3-4",
+            "4-3-2-1"
+        ],
+        "correct_answer": "c",
+        "note": "The correct order of occurrence of the following places as one moves from east to west are Murshidabad, Gorakhpur, Bhopal and then Bhavnagar."
+    },
+    {
+        "question": "The Himalayas are generally divided into three ranges which do not include ________",
+        "options": [
+            "Siwalik",
+            "Greater Himalayas",
+            "Karakoram",
+            "Lesser Himalayas"
+        ],
+        "correct_answer": "c",
+        "note": "The Himalayas are generally divided into three ranges which are Siwalik, Greater Himalayas and Lesser Himalayas. The Karakoram or Karakorum is a large mountain range spanning the borders of Pakistan, India, and China, with the northwest extremity of the range extending to Afghanistan and Tajikistan."
+    },
+    {
+        "question": "Bhutan is surrounded by which of the following Indian States?",
+        "options": [
+            "Assam, Arunachal Pradesh, West Bengal, Sikkim",
+            "Assam, Mizoram, West Bengal, Bihar",
+            "Arunachal Pradesh, Meghalaya, West Bengal, Bihar",
+            "Arunachal Pradesh, Sikkim, Bihar, Meghalaya"
+        ],
+        "correct_answer": "a",
+        "note": "Bhutan is surrounded by Assam, Arunachal Pradesh, West Bengal and Sikkim. Bhutan is located on the southern slopes of the eastern Himalayas, landlocked between the Tibet autonomous region to the north and the Indian states of Sikkim, West Bengal, Assam, and Arunachal Pradesh to the west and south."
+    },
+    {
+        "question": "Which of the following tribes is not found in Central India ?",
+        "options": [
+            "Gonds",
+            "Todas",
+            "Bhils",
+            "Munda"
+        ],
+        "correct_answer": "b",
+        "note": "Todas tribes is not found in Central India. Toda Tribe is the most ancient and unusual tribe of Nilgiri Hills of Tamil nadu. The todas have their own language."
+    },
+    {
+        "question": "Which one of the following is the junction point of the Eastern Ghats and Western Ghats?",
+        "options": [
+            "Javadi Hills",
+            "Anaimalai Hills",
+            "Nilgiri Hills",
+            "Shevaroy Hills"
+        ],
+        "correct_answer": "c",
+        "note": "Nilgiri Hills is the junction point of the Eastern Ghats and Western Ghats. The Eastern Ghats are a discontinuous range of mountains along India's eastern coast whereas Western Ghats also known as Sahyadri is a mountain range that runs parallel to the western coast of the Indian peninsula. Eastern ghats and Western ghats meet at the Nilgiri hills in Tamil Nadu."
+    },
+    {
+        "question": "1. Assam shares a border with Bhutan and Bangladesh.\n2. West Bengal shares a border with Bhutan and Nepal.\n3. Mizoram shares a border with Bangladesh and Myanmar.\nWhich of the statements given above are correct?",
+        "options": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+        ],
+        "correct_answer": "a",
+        "note": "All the statements given above are correct. Assam shares a border with Bhutan and Bangladesh, West Bengal shares a border with Bhutan and Nepal and Mizoram shares a border with Bangladesh and Myanmar."
+    },
+    {
+        "question": "Which one of the following is the correct sequence of the given hills starting from the north and going towards the south?",
+        "options": [
+            "Nallamalai Hills - Nilgiri Hills - Javadi Hilis - Anaimalai Hills",
+            "Anaimalai Hills - Javadi Hills - Nilgiri Hills - Nallamalai Hills",
+            "Nallamalai Hills - Javadi Hills - Nilgiri Hills - Anaimalai Hills",
+            "Anaimalai Hills - Nilgiri Hills - Javadi Hills - Nallamalai Hills"
+        ],
+        "correct_answer": "c",
+        "note": "The correct sequence of the given hills starting from the north and going towards the south are Nallamalai Hills - Javadi Hills - Nilgiri Hills - Anaimalai Hills."
+    },
+    {
+        "question": "Which states of India have a common border with Pakistan?\nI. Jammu and Kashmir\nII. Himachal Pradesh\nIII. Punjab\nIV. Gujarat\nV. Rajasthan",
+        "options": [
+            "I, II, III, V",
+            "I, II, III, IV",
+            "I, III, IV",
+            "I, III, IV, V"
+        ],
+        "correct_answer": "d",
+        "note": "The states of India that have a common border with Pakistan are Jammu and Kashmir, Punjab, Gujarat and Rajasthan."
+    },
+    {
+        "question": "Which of the following Indian state does not have any coastal border?",
+        "options": [
+            "Gujarat",
+            "Goa",
+            "Rajasthan",
+            "Maharashtra"
+        ],
+        "correct_answer": "c",
+        "note": "Gujarat, Goa and Maharashtra all lies on western coast of India that is adjacent to Arabian sea whereas Rajasthan shares land border with Pakistan. Gujarat, Maharashtra, Goa, Kerala, Karnataka and Tamil Nadu are the six state that lies on western coast of India."
+    },
+    {
+        "question": "The highest point in the Aravalli range is",
+        "options": [
+            "Dodabetta",
+            "Anaimudi",
+            "Guru Sikhar",
+            "Panchmarhi"
+        ],
+        "correct_answer": "c",
+        "note": "The highest point in the Aravalli range is Guru Sikhar. Guru Shikhar, the highest peak in the Aravalli Range at 5650 feet (1722 meters) in Mount Abu of Rajasthan, lies near the south-western extremity of the Central Aravalli range, close to the border with Gujarat state."
+    },
+    {
+        "question": "The large States of India in the order of area are",
+        "options": [
+            "Rajasthan, Madhya Pradesh, Maharashtra",
+            "Madhya Pradesh, Rajasthan, Maharashtra",
+            "Maharashtra, Rajasthan, Madhya Pradesh",
+            "Madhya Pradesh, Maharashtra, Rajasthan"
+        ],
+        "correct_answer": "a",
+        "note": "The large States of India in the order of area are Rajasthan, Madhya Pradesh, Maharashtra. Rajasthan is a state in northern India. The state covers an area of 342,239 square kilometres (132,139 sq mi) or 10.4% of the total geographical area of India. Madhya Pradesh is a state in central India. Its total area is 308,252 km2. Maharashtra is a state in the western peninsular region of India occupying a substantial portion of the Deccan plateau. It is the second-most populous state and third-largest state by area in India. Spreadover 307,713 km2(118,809 sq mi)."
+    },
+    {
+        "question": "Which one of the following towns is situated easternmost?",
+        "options": [
+            "Kohima",
+            "Jorhat",
+            "Itanagar",
+            "Dibrugarh"
+        ],
+        "correct_answer": "d",
+        "note": "To determine the easternmost town, the geographical location (longitude) of each town must be compared.\nKohima: Located in Nagaland at approximately 94.11° E longitude.\nJorhat: Located in Assam at approximately 94.22° E longitude.\nItanagar: Located in Arunachal Pradesh at approximately 93.62° E longitude.\nDibrugarh: Located in Assam at approximately 94.90° E longitude.\nAmong these, Dibrugarh has the highest longitude, making it the easternmost town.\nTherefore, Option D is the correct answer."
+    },
+    {
+        "question": "Kodaikanal, the famous hill-station of South India, is situated on ________",
+        "options": [
+            "Palni hills",
+            "Anaimalai mountain",
+            "Nilgiri mountain",
+            "Cardamon hills"
+        ],
+        "correct_answer": "a",
+        "note": "Kodaikanal, the famous hill-station of South India, is situated on Palni hills. Its name in the Tamil language means \"The Gift of the Forest\". Kodaikanal is referred to as the \"Princess of Hill stations\" and has a long history as a retreat and popular tourist destination."
+    },
+    {
+        "question": "The most urbanised community in India is that of the ________",
+        "options": [
+            "Hindus",
+            "Muslims",
+            "Christians",
+            "Zoroastrians"
+        ],
+        "correct_answer": "d",
+        "note": "The most urbanised community in India is that of the Zoroastrians. Zoroastrianism in India has significant history within the country. The initial migration following the Muslim conquest of Persia has been canonized as a religious persecution by invading Muslims. Zoroastrianism meanwhile suffered a decline in Iran after the conquests."
+    },
+    {
+        "question": "Which of the following passes and locations is/are wrongly matched?\n1. Zojila and Burzil - Jammu & Kashmir\n2. Bara Lapcha La and Shipki La - Uttar Pradesh\n3. Thaga La, Niti Pass and Lipu Lekh - Himachal Pradesh\n4. Nathu La and Jelep La - Sikkim",
+        "options": [
+            "1 and 2",
+            "2 and 3",
+            "3 and 4",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "b",
+        "note": "The following passes and locations that are wrongly matched are Bara Lapcha La and Shipki La - Uttar Pradesh and Thaga La, Niti Pass and Lipu Lekh - Himachal Pradesh. Bara-lacha la is a high mountain pass in Zanskar range, connecting Lahaul district in Himachal Pradesh to Ladakh in Jammu and Kashmir, situated along the Leh–Manali Highway. The Shipki La Pass or Shipki Pass is a hill pass in India. It also serves as the boundary post on the frontier between China and India. Niti Pass is an international high mountain pass at an elevation of 5.070m (16,633ft) connecting Uttarakhand, a state in the northern part of India and southern Tibet, an autonomous region of the People's Republic of China. Lipulekh is a Himalayan pass on the border between Uttarakhand, India and Tibet, China. The southern side of the pass is controlled by India but claimed by Nepal."
+    },
+    {
+        "question": "The capital of Lakshadweep is ________",
+        "options": [
+            "Port Blair",
+            "Silvassa",
+            "Aizawl",
+            "Kavaratti"
+        ],
+        "correct_answer": "d",
+        "note": "Kavaratti is the capital of the union territory Lakshadweep in India. The Island of Kavaratti lies 360 Km of the coast of the State of Kerala at 10.57°N 72.64°E."
+    },
+    {
+        "question": "Out of the four southern States: Andhra Pradesh, Karnataka, Kerala and Tamil Nadu.which shares boundaries with the maximum number of Indian States?",
+        "options": [
+            "Andhra Pradesh only",
+            "Karnataka only",
+            "Each of Andhra Pradesh and Karnataka",
+            "Each of Tamil Nadu and Kerala"
+        ],
+        "correct_answer": "c",
+        "note": "Andhra Pradesh and Karnataka in southern shares boundaries with the maximum number of Indian States."
+    },
+    {
+        "question": "Through which one of the following Indian states the Tropic of Cancer does not pass?",
+        "options": [
+            "Manipur",
+            "Tripura",
+            "Gujarat",
+            "Rajasthan"
+        ],
+        "correct_answer": "a",
+        "note": "Tropic of cancer does not pass through Manipur. The tropic of cancer passes through 8 Indian states. They are Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, West Bengal, Jharkhand, Tripura, and Mizoram."
+    },
+    {
+        "question": "28.38 N. and 77.12 E are the respective latitude and longitude of which one of the following places?",
+        "options": [
+            "Jaipur",
+            "Delhi",
+            "Lucknow",
+            "Allahabad"
+        ],
+        "correct_answer": "b",
+        "note": "The latitude of New Delhi, Delhi, India is 28.644800, and the longitude is 77.216721. New Delhi, Delhi, India is located at India country in the Cities place category with the gps coordinates of 28° 38' 41.2800'' N and 77° 13' 0.1956'' E."
+    },
+    {
+        "question": "The hill station of Coonoor is located in which one of the following states?",
+        "options": [
+            "Karnataka",
+            "Andhra Pradesh",
+            "Kerala",
+            "Tamil Nadu"
+        ],
+        "correct_answer": "d",
+        "note": "Coonoor is a Taluk and a municipality of the Nilgiris district in the Indian State of Tamil Nadu."
+    },
+    {
+        "question": "Kanchipuram is in which of the following states?",
+        "options": [
+            "Kerala",
+            "Andhra Pradesh",
+            "Tamil Nadu",
+            "Karnataka"
+        ],
+        "correct_answer": "c",
+        "note": "Kanchipuram, also known as Kanchi, is an ancient city in southern India’s Tamil Nadu state. Considered a holy pilgrimage site by Hindus, it is home to many temples. The 8th-century Kailasanathar Temple, dedicated to Lord Shiva, is a vast complex with intricate sandstone carvings."
+    },
+    {
+        "question": "Palghat joins which of the following states?",
+        "options": [
+            "Sikkim and West Bengal",
+            "Maharashtra and Gujarat",
+            "Kerala and Tamil Nadu",
+            "Arunachal Pradesh and Sikkim"
+        ],
+        "correct_answer": "c",
+        "note": "Palghat Gap, major break in the Western Ghats mountain range, in southwestern India. Located between the Nilgiri Hills to the north and the Anaimalai Hills to the south, it is about 20 miles (32 km) wide and straddles the Kerala–Tamil Nadu border, serving as a major communication route between those two states."
+    },
+    {
+        "question": "The place Sabarimala is situatad in which of the following states?",
+        "options": [
+            "Andhra pradesh",
+            "Tamil Nadu",
+            "Kerala",
+            "Karnataka"
+        ],
+        "correct_answer": "c",
+        "note": "Sabarimala is a Hindu pilgrimage centre located at the Periyar Tiger Reserve in the Western Ghat mountain ranges of Pathanamthitta District, Perunad grama panchayat in Kerala."
+    },
+    {
+        "question": "Which of the following Indian states does not lie on in 1do-Bangla border?",
+        "options": [
+            "Assam",
+            "Mizoram",
+            "Tripura",
+            "Manipur"
+        ],
+        "correct_answer": "d",
+        "note": "Manipur does not lie in 1do-Bangla border. Assam, Mizoram and Tripura lie in 1do-Bangla border."
+    },
+    {
+        "question": "Which mountain is not the part of Himalayan range?",
+        "options": [
+            "Aravalli",
+            "Kunlun",
+            "Karakoram",
+            "Hindukush"
+        ],
+        "correct_answer": "a",
+        "note": "The Himalayan range is a vast mountain system in Asia, primarily associated with the collision of the Indian Plate and the Eurasian Plate, forming several sub-ranges and adjacent systems.\nAravalli is not part of the Himalayan range; it is an older, separate mountain range located in western India, primarily in Rajasthan, formed by ancient tectonic processes unrelated to the Himalayas.\nKunlun lies to the north of the Himalayas in the Tibetan Plateau and is geologically linked to the broader Himalayan system, though it is distinct, it is often considered in the context of Himalayan tectonics.\nKarakoram is a sub-range closely associated with the Himalayas, located on the India-China-Pakistan border, and is part of the greater Himalayan orogeny.\nHindukush extends westward from the Himalayas, forming a connected mountain system in Afghanistan and Pakistan, and is also tied to the Himalayan tectonic activity.\nThus, Option A: Aravalli is the correct answer as it is the only mountain range not part of or directly linked to the Himalayan system."
+    },
+    {
+        "question": "What separates Daman and Diu?",
+        "options": [
+            "Narmada River",
+            "Gulf of Khambat",
+            "Gir Hills",
+            "Tapti River"
+        ],
+        "correct_answer": "b",
+        "note": "Daman and Diu is a union territory in western India. With an area of 112 km square it is the smallest federal division of India on the mainland. The territory comprises two distinct regions Daman and Diu, geographically separated by the Gulf of Khambhat."
+    },
+    {
+        "question": "The latitudes that pass through Sikkim also pass through",
+        "options": [
+            "Rajasthan",
+            "Punjab",
+            "Himachal Pradesh",
+            "Jammu & Kashmir"
+        ],
+        "correct_answer": "a",
+        "note": "The latitude that pass through Sikkim also pass through Rajasthan. 27° latitude passes through Gangtok of Sikkim and Alwar in Rajasthan."
+    },
+    {
+        "question": "The highest peak in South India is ________",
+        "options": [
+            "Doda Betta",
+            "Makurti",
+            "Anamudi",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "Anamudi Peak -2,695 metres (8,842 ft) -Kerala. Anamudi is the highest mountain peak in the Western Ghats and also the highest point in South India, located in the southern region of Eravikulam National Park."
+    },
+    {
+        "question": "What is the name of the highest summit of Nilgiri Hills?",
+        "options": [
+            "Coonoor-betta",
+            "Anaimudi",
+            "Doda-betta",
+            "Vellangiri"
+        ],
+        "correct_answer": "c",
+        "note": "Doda Betta, mountain peak, the highest point in Tamil Nadu state, southeastern India, near Udhagamandalam. Rising to an elevation of 8,652 feet (2,637 metres), Doda Betta is a grass-covered hill that is frequently climbed by summer visitors, and the summit is accessible by automobile."
+    },
+    {
+        "question": "Which of the following gives the correct sequence of hills in the east-west direction?",
+        "options": [
+            "Naga, Mikir, Khasi, Garo",
+            "Garo, Khasi, Mkir, Naga",
+            "Khasi,Garo, Naga, Mikir",
+            "Mikir, Naga, Khasi, Garo"
+        ],
+        "correct_answer": "a",
+        "note": "The following that gives the correct sequence of hills in the east-west direction are Naga, Mikir, Khasi and Garo."
+    },
+    {
+        "question": "Among the following States, which one has the largest forest area?",
+        "options": [
+            "Gujarat",
+            "Karnataka",
+            "Orissa",
+            "Tamil Nadu"
+        ],
+        "correct_answer": "c",
+        "note": "In terms of area, Madhya Pradesh has the largest forest cover in the country followed by Arunachal Pradesh, Chhattisgarh, Odisha and Maharashtra."
+    },
+    {
+        "question": "Lakshadweep Islands are the product of ________",
+        "options": [
+            "Volcanic activity",
+            "Wave action",
+            "Sea-floor expansion",
+            "Reef formation"
+        ],
+        "correct_answer": "d",
+        "note": "Lakshadweep Islands are the product of Reef formation. Lakshadweep is an archipelago of twelve atolls, three reefs and five submerged banks, with a total of about thirty-nine islands and islets."
+    },
+    {
+        "question": "Which one of the following is the southern-most city ?",
+        "options": [
+            "Bhopal",
+            "Kolkata",
+            "Raipur",
+            "Udaipur"
+        ],
+        "correct_answer": "c",
+        "note": "Raipur is the southern-most city. Raipur city had been the capital of the Haihaya Kings, controlling the traditional forts of the Chhattisgarh for a long time. The town of Raipur has been in existence since the 9th century. The old site and ruins of the fort can be seen in the southern part of the city."
+    },
+    {
+        "question": "Which one among the following is nearest to the Tropic of Cancer?",
+        "options": [
+            "Agra",
+            "Delhi",
+            "Gwalior",
+            "Jhansi"
+        ],
+        "correct_answer": "d",
+        "note": "Jhansi among the following is nearest to the Tropic of Cancer."
+    },
+    {
+        "question": "Among the following cities, which one is nearest to the Tropic of Cancer?",
+        "options": [
+            "Delhi",
+            "Kolkata",
+            "Jodhpur",
+            "Nagpur"
+        ],
+        "correct_answer": "b",
+        "note": "Among the following cities, Kolkata one is nearest to the Tropic of Cancer. Distance between Kolkata, India and the Tropic of Cancer, 97 km = 61 miles."
+    },
+    {
+        "question": "Select the following correct statements regarding Andaman and Nicobar Islands:\n1. It enjoys equatorial climate\n2. This is the only place in India where a volcano is located\n3. This is the only place in India where coral bed is found",
+        "options": [
+            "1, 2 and 3",
+            "1 and 2",
+            "2 and 3",
+            "1 only"
+        ],
+        "correct_answer": "b",
+        "note": "The following statements are correct regarding Andaman and Nicobar Islands - it enjoys equatorial climate and this is the only place in India where a volcano is located."
+    },
+    {
+        "question": "Himalayan mountain range falls under which type of mountains?",
+        "options": [
+            "Block Mountain",
+            "Residual Mountain",
+            "Accumulated Mountain",
+            "Fold Mountain"
+        ],
+        "correct_answer": "d",
+        "note": "Himalayan mountain range falls under Fold Mountain. Himalayas are fold mountains that were formed when Eurasian plate and Indian Plate collided. In the event of  collision the sediments of Tethyian sea got squeezed and towering Himalayas were formed."
+    },
+    {
+        "question": "If India adopts two time zones based on 75°E meridian for western India and 90°E meridian for eastern India, which one among the following states of eastern India will be benefited most?",
+        "options": [
+            "Manipur",
+            "West Bengal",
+            "Assam",
+            "Bihar"
+        ],
+        "correct_answer": "c",
+        "note": "If India adopts two time zones based on 75°E meridian for western India and 90°E meridian for eastern India, Assam of eastern India will be benefitted most. Places located on the eastern side of India like Assam witness sunrise as early as 4.30 am due to single time zone. Sun rises very early in these eastern parts of India. Normally, there is a lag of about two hours in the sunrise of eastern part & the western part of India. In summer times, the sun rises 90 minutes earlier in the eastern part of India than the western part of India. Due to earlier sun rise & earlier sunset, these eastern states loose productivity because of the decrease in the office hours."
+    },
+    {
+        "question": "Which of the following arrangements is correct according to their locations from north to south mountain ranges of Jammu and Kashmir:\n1. Karakoram\n2. Ladakh\n3. Zanskar\n4. Pir Panjal",
+        "options": [
+            "2, 3, 1, 4",
+            "1, 4, 3, 2",
+            "1, 2, 3, 4",
+            "2, 4, 1, 3"
+        ],
+        "correct_answer": "c",
+        "note": "The following arrangements that is correct according to their locations from north to south mountain ranges of Jammu and Kashmir, Karakoram, Ladakh, Zanskar and Pir Panjal."
+    },
+    {
+        "question": "Which of the following organization composes\nTopographic Map of India",
+        "options": [
+            "Geographical Survey of India",
+            "Survey of India",
+            "Geological survey of India",
+            "Archaeological survey of India"
+        ],
+        "correct_answer": "b",
+        "note": "A topographic map is characterized by large scale detail and quantitative representation of relief with the help of contour lines. It is prepared by Survey of India."
+    },
+    {
+        "question": "Mount Everest, the highest peak in the world, is located in ________",
+        "options": [
+            "Bhutan",
+            "China",
+            "India",
+            "Nepal"
+        ],
+        "correct_answer": "d",
+        "note": "Mount Everest, the highest peak in the world, is located in Nepal.  Mt Everest is highest peak of the world, located in a Northeastern part of Nepal. The elevation of Highest Peak Mount Everest has 8848m above the sea-level. Mount Everest is called “Sagarmatha” in Nepali or Chomolungma in Tibetan."
+    },
+    {
+        "question": "The longitudinal valley lying between Lesser Himalaya and the ________ are known as Duns.",
+        "options": [
+            "Himadri",
+            "Himachal",
+            "Shiwaliks",
+            "Tibet"
+        ],
+        "correct_answer": "c",
+        "note": "The Longitudinal valleys that lie between Lesser Himalayas and Outer Himalayas (Shivaliks) are known as Duns. Dehradun is an example such valley."
+    },
+    {
+        "question": "The Tropic of Cancer which passes through India is ________ to/of the equator.",
+        "options": [
+            "At right angles",
+            "To the North",
+            "To the South",
+            "90º to the South"
+        ],
+        "correct_answer": "b",
+        "note": "The Tropic of Cancer which passes through India is to the North of the equator. The Tropic of Cancer, also referred to as the Northern Tropic is 23°26′13.5″ (or 23.43708°) north of the Equator. It is the most northerly circle of latitude on the Earth at which the Sun can be directly overhead."
+    },
+    {
+        "question": "Arrange the following places from north to south of Kashmir region :\n1. Srinagar\n2. Gilgit\n3. Kargil\n4. Banihal",
+        "options": [
+            "1 - 2 - 3 - 4",
+            "4 - 3 – 2 - 1",
+            "2 - 3 -1 - 4",
+            "2 - 1 – 3 - 4"
+        ],
+        "correct_answer": "c",
+        "note": "Following places from north to south are Gilgit, Kargil, Srinagar and Banihal"
+    },
+    {
+        "question": "Arrange the following Himalayan peaks in order as they occur from west to east:\nI. Kanchenjunga\nII. Mt. Everest\nIII. Nanda Devi\nIV. Dhaulagiri",
+        "options": [
+            "I, II, III, IV",
+            "I, II, IV, III",
+            "III, II, I, IV",
+            "III, IV, II, I"
+        ],
+        "correct_answer": "d",
+        "note": "The Himalayan peaks in order as they occur from west to east are Nanda Devi, Dhaulagiri, Mt. Everest and Kanchenjunga."
+    },
+    {
+        "question": "The southernmost point of India is located in ________",
+        "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Little Andaman",
+            "Great Nicobar"
+        ],
+        "correct_answer": "d",
+        "note": "The southernmost point of India is located in Great Nicobar. Indira Point is the name of the southernmost point of Republic of India. It is situated on Great Nicobar Island in the Nicobar Islands, which are located in the eastern Indian Ocean at 6°45'10″N and 93°49'36″E. This is not on the Indian mainland, but within the Union Territory of Andaman and Nicobar Islands."
+    },
+    {
+        "question": "Zozila Pass connects ________",
+        "options": [
+            "Kashmir and Tibet",
+            "Nepal and Tibet",
+            "Leh and Kargil",
+            "Leh and Srinagar"
+        ],
+        "correct_answer": "d",
+        "note": "Zojila Pass connects Leh and Srinagar. Zoji La is a high mountain pass in the Indian state of Jammu and Kashmir, located on National Highway 1 between Srinagar and Leh in the western section of the Himalayan mountain range."
+    },
+    {
+        "question": "Why has the Green Revolution benefitted only a small section of India?",
+        "options": [
+            "Large dependence on manual labour",
+            "Poor storage facilities",
+            "Poor farm management and administration",
+            "All of the above"
+        ],
+        "correct_answer": "d",
+        "note": "The Green Revolution had benefitted only a small section of India because large dependence on manual labour, poor storage facilities and poor farm management and administration."
+    },
+    {
+        "question": "Arrange the following hill ranges in order from north to south:\nI. Nallamala Hills\nII. Nilgiri\nIII. Anaimalai\nIV. Cardamon Hills",
+        "options": [
+            "I, IV, III, II",
+            "I, II, III, IV",
+            "II, I, III, IV",
+            "I, II, IV, III"
+        ],
+        "correct_answer": "b",
+        "note": "The following hill ranges in order from north to south are Nallamala Hills, Nilgiri, Anaimalai and Cardamon Hills."
+    },
+    {
+        "question": "The highest mountain peak of peninsular India is",
+        "options": [
+            "Anaimudi",
+            "Doddabetta",
+            "Mahendragiri",
+            "Nilgiri"
+        ],
+        "correct_answer": "a",
+        "note": "Anaimudi peak lies in Anamalai hills near Palghat gap. With an height of about 2695 m it is the highest mountain peak of peninsular India."
+    },
+    {
+        "question": "The Eastern Coastal Plain is also named as",
+        "options": [
+            "Konkan Coastal Plains",
+            "Gujarat Plains",
+            "Coromandel coastal plains",
+            "Malabar coastal plains"
+        ],
+        "correct_answer": "c",
+        "note": "The Eastern Coastal Plain is also named as Coromandel coastal plains. These plains lie between Eastern Ghats and Bay of Bengal. In ancient times Chola dynasty ruled over this region and the land was called Cholamandalam from where these plains derived the name Coromandel."
+    },
+    {
+        "question": "Which Himalayan peak is also called as Sagarmatha",
+        "options": [
+            "Nanga Parvat",
+            "Dhaulagiri",
+            "Mt. Everest",
+            "Kanchenjunga"
+        ],
+        "correct_answer": "c",
+        "note": "Mt. Everest is also called as Sagarmatha. The Mount Everest also known as Sagarmatha in Nepal and Chomolongma in China of the height of 8848m (29,029ft) above sea level is the highest peak in the world."
+    },
+    {
+        "question": "Which of the following is east of the Andaman and Nicobar Islands?",
+        "options": [
+            "Thailand",
+            "Sri Lanka",
+            "Indonesia",
+            "All of them"
+        ],
+        "correct_answer": "c",
+        "note": "Indonesia is in east of the Andaman and Nicobar Islands."
+    },
+    {
+        "question": "What is the another name of Greater Himalayas?",
+        "options": [
+            "Himadri",
+            "Sahyadri",
+            "Assam Himalaya",
+            "Shivalik"
+        ],
+        "correct_answer": "a",
+        "note": "The Himalayas consist of three parallel ranges, the Greater Himalayas known as the Himadri, the Lesser Himalayas called the Himachal, and the Shivalik hills, which comprise the foothills. Greater Himalayas are the innermost Himalayan range and are also known as inner Himalayas. They are also known as Himadri. Majority of mountain ranges and peaks lies in this range."
+    },
+    {
+        "question": "The largest southernmost single island in India is ________",
+        "options": [
+            "Rameswaram Island",
+            "Minicoy Island",
+            "Car Nicobar Island",
+            "Great Nicobar Island"
+        ],
+        "correct_answer": "d",
+        "note": "The largest southernmost single island in India is Great Nicobar Island. Indira Point is the name of the southernmost point of Republic of India. It is situated on Great Nicobar Island in the Nicobar Islands, which are located in the eastern Indian Ocean at 6°45'10″N and 93°49'36″E."
+    },
+    {
+        "question": "The hill range that separates the state of Manipur from the state of Nagaland is known as ________",
+        "options": [
+            "Arakan hills",
+            "Patkai hills",
+            "Barail hills",
+            "Manipu"
+        ],
+        "correct_answer": "c",
+        "note": "The hill range that separates the state of Manipur from the state of Nagaland is known as Barail hills. The Barail is the highest hill range in Assam."
+    },
+    {
+        "question": "Which of the following mountain range is located in India?",
+        "options": [
+            "Arakan yoma",
+            "Sulaiman",
+            "Salt range",
+            "Pir Panjal"
+        ],
+        "correct_answer": "d",
+        "note": "Pir Panjal Range, mountain range in the northern Indian subcontinent. It is part of the western (Punjab) Himalayas, the western outlier of the vast Himalayas system."
+    },
+    {
+        "question": "Nine Degree Channel separates ________",
+        "options": [
+            "Car Nicobar and Great Nicobar",
+            "Lakshadweep and Minicoy",
+            "Little Andaman and Car Nicobar",
+            "North Andaman and South Andaman"
+        ],
+        "correct_answer": "b",
+        "note": "Nine Degree Channel separates Lakshadweep and Minicoy. The Nine Degree Channel is a channel in the Indian Ocean between the Laccadive Islands of Kalpeni and Suheli Par, and Maliku Atoll. These two subgroups of islands, together with the Amindivi Subgroup, form the Indian Union Territory (UT) of Lakshadweep."
+    },
+    {
+        "question": "Badland topography is characteristic of",
+        "options": [
+            "Chambal valley",
+            "Coastal area",
+            "Sundarban delta",
+            "Gulf of Kachchh"
+        ],
+        "correct_answer": "a",
+        "note": "Badland topography is characteristic of Chambal valley. Badland topography is a topography with deep vertical ravines due to  vertical erosion caused by river. Rivers such as Chambal when flows through Malwa region makes headward or vertical erosion to cut deep ravines. These ravines were  used by dacoits to hide from police."
+    },
+    {
+        "question": "The Lakshadweep Islands are situated in ________",
+        "options": [
+            "Indian Ocean",
+            "Arabian Sea",
+            "Bay of Bengal",
+            "None of these"
+        ],
+        "correct_answer": "b",
+        "note": "The Lakshadweep Islands are situated in Arabian Sea. Lakshadweep, formerly (1956–73) Laccadive, Minicoy, and Amindivi Islands, union territory of India. It is a group of some three dozen islands scattered over some 30,000 square miles (78,000 square km) of the Arabian Sea off the southwestern coast of India."
+    },
+    {
+        "question": "How many islands are there in Lakshadweep?",
+        "options": [
+            "17",
+            "27",
+            "36",
+            "47"
+        ],
+        "correct_answer": "c",
+        "note": "Lakshadweep is a coral archipelago which consists 36 islands. Its capital is Kavaratti. It is a group of about 36 islands and has a total land area of 32 square kilometers which is scattered over 30,000 square miles of the Arabian Sea. Out of the 36 islands, only ten are inhabited and they are Andrott, Amini, Agatti, Bitra, Chetlat, Kadmat, Kalpeni, Kavaratti, Kiltan and Minicoy."
+    },
+    {
+        "question": "Which of the following higher ground is not the part of Telangana Plateau?",
+        "options": [
+            "Aravalli",
+            "Western ghat",
+            "Eastern ghat",
+            "Satpura"
+        ],
+        "correct_answer": "a",
+        "note": "Aravalli higher ground is not the part of Telangana Plateau. Aravalli hills are one of the oldest mountain ranges in world and they lie in North western part of India. Telangana plateau forms a part of Eastern Ghats, Western Ghats and Satpura range."
+    },
+    {
+        "question": "Which State has the longest coastline?",
+        "options": [
+            "Andhra Pradesh",
+            "Maharashtra",
+            "Gujarat",
+            "Karnataka"
+        ],
+        "correct_answer": "c",
+        "note": "Gujarat has the longest coastline in mainland India. Its length is about 1600 km. But if we take all states & UTs, Andaman & Nicobar Islands have the longest coastline in India  about 1962 km."
+    },
+    {
+        "question": "Duncan passage is located between",
+        "options": [
+            "South and Little Andaman",
+            "North and South Andaman",
+            "North and Middle Andaman",
+            "Andaman and Nicobar"
+        ],
+        "correct_answer": "a",
+        "note": "South and Little Andaman Duncan passage is a strait which separates South and Little Andaman. It lies just above the 11°."
+    },
+    {
+        "question": "The northern part of the west coast is known as ________",
+        "options": [
+            "Konkan coast",
+            "Coromandal coast",
+            "Malabar coast",
+            "None of these"
+        ],
+        "correct_answer": "a",
+        "note": "The northern part of the west coast is known as Konkan coast. Konkan, also called Aparanta, coastal plain of western India, lying between the Arabian Sea (west) and the Western Ghats (east). The plain stretches approximately 330 miles (530 km) from the Daman Ganga River north of Mumbai (Bombay) to the Terekhol River between Maharashtra and Goa states and Daman and Diu union territory in the south."
+    },
+    {
+        "question": "Which one of the following gives the correct sequence of places going from the east to the west of India?",
+        "options": [
+            "Sikhar, Tinsukhia, lndore, Vadodara",
+            "Tinsukhia, Phulpur, Udaipur, Kota",
+            "Jorhat, Bhopal, Ahmedabad, Rajkot",
+            "Guwahati, Silchar, Bhopal, Rajkot"
+        ],
+        "correct_answer": "c",
+        "note": "The following places that gives the correct sequence of places going from the east to the west of India are Jorhat, Bhopal, Ahmedabad and Rajkot."
+    },
+    {
+        "question": "Beyond the ________ ,the Himalayas bend sharply to the south and spread along the eastern boundary of India.",
+        "options": [
+            "Zoji La Pass",
+            "Dihang gorge",
+            "Bhutan border",
+            "Nepal Border"
+        ],
+        "correct_answer": "b",
+        "note": "Himalayas take a sharp turn to south after Dihang gorge. Dihang gorge is a narrow valley formed by Brahmaputra river."
+    },
+    {
+        "question": "Which of the following hill stations is not located in Himachal Pradesh?",
+        "options": [
+            "Kulu",
+            "Manali",
+            "Shimla",
+            "Ranikhet"
+        ],
+        "correct_answer": "d",
+        "note": "Ranikhet hill stations is not located in Himachal Pradesh. It is a serene and beautiful hill station built up by British and is situated in Almora district in the state of Uttaranchal."
+    },
+    {
+        "question": "In India, how many States share the coastline?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "correct_answer": "c",
+        "note": "The total coastline of India measures about 7,517 km, which is distributed among nine coastal states and four Union Territories; and almost entire coast of India falls within tropics. The nine coastal states are Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu, Andhra Pradesh, Odisha and West Bengal"
+    },
+    {
+        "question": "A famous hill station in Uttarakhand is",
+        "options": [
+            "Nainital",
+            "Darjeeling",
+            "Dalhousie",
+            "Kulu"
+        ],
+        "correct_answer": "a",
+        "note": "Nainital is the most popular hill stations in Uttarakhand. Situated at an elevation of 1,938 m above the sea-level, the quaint hill station is best known for the Naina Devi temple & the Naini Lake that lies amidst a forested valley."
+    },
+    {
+        "question": "Arakan Yoma is the extension of the Himalayas located in ________",
+        "options": [
+            "Kashmir",
+            "Nepal",
+            "Baluchistan",
+            "Myanmar"
+        ],
+        "correct_answer": "d",
+        "note": "Arakan Yoma is the extension of the Himalayas located in Myanmar. The Arakan Mountains are also known as the Rakhine Mountains. These are a mountain range in western Myanmar, between the coast of Rakhine State and the Central Myanmar Basin, in which the Irrawaddy River flows."
+    },
+    {
+        "question": "Saddle peak the highest peak of Andaman and Nicobar Islands is located in",
+        "options": [
+            "Great Nicobar",
+            "Middle Andaman",
+            "Little Andaman",
+            "North Andaman"
+        ],
+        "correct_answer": "d",
+        "note": "Saddle peak is the highest peak in Bay of Bengal's Andaman and Nicobar archipelago. Its elevation is about 732m and it lies in North Andaman."
+    },
+    {
+        "question": "Identify from the following states of India through which the Tropic of Cancer passes and arrange them from east to west:\n1. Gujarat\n2. West Bengal\n3. Uttar Pradesh\n4. Jharkhand\n5. Madhya Pradesh\n6. Bihar\n7. Chhattisgarh",
+        "options": [
+            "2-5-7-4-1",
+            "2-4-7-5-1",
+            "3-2-6-7-5",
+            "3-7-4-6-2"
+        ],
+        "correct_answer": "b",
+        "note": "The following states of India that through the Tropic of Cancer passes east to west direction are West Bengal, Jharkhand, Chhattisgarh, Madhya Pradesh and Gujarat."
+    },
+    {
+        "question": "Which of the following gives the correct match of states and concentration of religious groups?\n1. Maharashtra- Zaroastrians\n2. Maharashtra and Arunachal Pradesh - Buddhists\n3. Rajasthan and Gujarat - Jains\n4. Sikkim - Christians",
+        "options": [
+            "1, 2 and 4",
+            "2, 3 and 4",
+            "1, 2 and 3",
+            "1 and 3"
+        ],
+        "correct_answer": "c",
+        "note": "The following that gives the correct match of states and concentration of religious groups are Maharashtra- Zaroastrians, Maharashtra and Arunachal Pradesh - Buddhists and Rajasthan and Gujarat - Jains."
+    },
+    {
+        "question": "The oldest mountains in India according to geographical history are ________",
+        "options": [
+            "Satpuras",
+            "Nilgiris",
+            "Vindhyas",
+            "Aravallis"
+        ],
+        "correct_answer": "d",
+        "note": "The oldest mountains in India according to geographical history are Aravallis. The Aravalli Range, an eroded stub of ancient mountains, is the oldest range of fold mountains in India. The natural history of the Aravalli Range dates back to times when the Indian Plate was separated from the Eurasian Plate by an ocean."
+    },
+    {
+        "question": "In our country, the Tropic of Cancer passes through the",
+        "options": [
+            "Central part",
+            "Northern part",
+            "Southern part",
+            "Western part"
+        ],
+        "correct_answer": "a",
+        "note": "In our country, the Tropic of Cancer passes through the Central part. The Tropic of Cancer divides India into almost two equal parts by passing through 8 states, namely- Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura & Mizoram. South of 22° north latitude, the country tapers off over 800 km into the Indian Ocean as a peninsula."
+    },
+    {
+        "question": "India shares its border with China along the Himalayan range. Which of the following states touches the border of China?",
+        "options": [
+            "Punjab",
+            "Bihar",
+            "Arunachal Pradesh",
+            "Chhattisgarh"
+        ],
+        "correct_answer": "c",
+        "note": "Arunachal Pradesh touches the border of China. Arunachal Pradesh borders the states of Assam and Nagaland to the south and shares international borders with Bhutan in the west, Myanmar in the east and is separated from China in the north by the McMahon Line."
+    },
+    {
+        "question": "Which of the following is not true with regard to the coastal plains of India ?",
+        "options": [
+            "The west coast has a narrow alluvial margin interspersed by hilly terrain",
+            "The eastern coast has a wide plain with well-developed deltas of the major rivers",
+            "The west coast has little indentation except towards the south",
+            "The west and east coasts, have the same alluvial features"
+        ],
+        "correct_answer": "d",
+        "note": "The East Coast Plain is formed by fine alluvial soil and is fertile especially on the deltas. Consequently agriculture is developed. The West Coast Plain lies along the west coast of India and is washed by the Arabian Sea."
+    },
+    {
+        "question": "The part of the Himalayas lying between Satluj and Kali rivers is known as",
+        "options": [
+            "Punjab Himalaya",
+            "Nepal Himalayas",
+            "Kumaon Himalayas",
+            "Assam Himalayas"
+        ],
+        "correct_answer": "c",
+        "note": "The part of the Himalayas lying between the rivers Satluj and Kali is known as Kumaon Himalayas . Kumaun Himalayas, west-central section of the Himalayas in northern India, extending 200 miles ( 320 km) from the Sutlej River east to the Kali River."
+    },
+    {
+        "question": "A rift valley is formed mainly due to ________",
+        "options": [
+            "Forces of tension in the earth's crust",
+            "The subsidence of the floor of a river valley",
+            "The valley formed after the formation of fold mountains",
+            "The deepening of a valley by ice action"
+        ],
+        "correct_answer": "b",
+        "note": "A rift valley is formed mainly due to the subsidence of the floor of a river valley. A rift valley is formed on a divergent plate boundary, a crustal extension or spreading apart of the surface, which is subsequently further deepened by the forces of erosion."
+    },
+    {
+        "question": "The Cuddapah Ranges lie between",
+        "options": [
+            "Godavari and Palkonda Range",
+            "Godavari and Jamshedpur",
+            "Palar and Cauvery",
+            "Satpura and Mohadeo-Maikal range"
+        ],
+        "correct_answer": "a",
+        "note": "The Cuddapah Ranges lie between Godavari and Palkonda Range. Kadapa (alternatively spelled Cuddapah) is a city in the Rayalseema region of the south-central part of Andhra Pradesh, India . It is the district headquarters of Kadapa district."
+    },
+    {
+        "question": "Madhya Pradesh shares its border with how many States?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct_answer": "c",
+        "note": "Madhya Pradesh shares its border with 5 states namely Uttar Pradesh to the northeast, Chhattisgarh to the southeast, Maharashtra to the south, Gujarat to the west, and Rajasthan to the northwest."
+    },
+    {
+        "question": "Which of the following latitudes passes through India?",
+        "options": [
+            "Equator",
+            "Arctic Circle",
+            "Tropic of Capricorn",
+            "Tropic of Cancer"
+        ],
+        "correct_answer": "d",
+        "note": "Tropic of Cancer latitudes passes through India. The Tropic of Cancer divides India into almost two equal parts by passing through 8 states, namely- Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura & Mizoram. South of 22° north latitude, the country tapers off over 800 km into the Indian Ocean as a peninsula."
+    },
+    {
+        "question": "The Eastern Coast of India is known as ________",
+        "options": [
+            "Eastern Plateau",
+            "Bengal Coast",
+            "Coromandal Coast",
+            "Cyclonic Coast"
+        ],
+        "correct_answer": "c",
+        "note": "The Eastern Coast of India is known as Coromandal Coast. Coromandel Coast, broad coastal plain in eastern Tamil Nadu state, southern India. Extending over an area of about 8,800 square miles (22,800 square km), it is bounded by the Utkal Plains to the north, the Bay of Bengal to the east, the Kaveri delta to the south, and the Eastern Ghats to the west."
+    },
+    {
+        "question": "Which of the following is the highest peak in undisputed Indian territory",
+        "options": [
+            "Mount Everest",
+            "Kanchenjunga",
+            "Nanada Devi",
+            "Nanga parbat"
+        ],
+        "correct_answer": "b",
+        "note": "Kanchenjunga is the highest peak in undisputed Indian territory. Although highest peak in India is K2 i.e. Godwin Austin but it lies in the disputed POK region. After K2 it is Kanchenjunga with an elevation of about 8598m which is the highest peak in India."
+    },
+    {
+        "question": "Diu is an Island",
+        "options": [
+            "Besides Daman",
+            "Besides Goa",
+            "Besides Gujarat",
+            "Besides Maharashtra"
+        ],
+        "correct_answer": "c",
+        "note": "Diu is an island besides Gujarat. Diu Island is an island off the southern coast of Gujarat's Kathiawar peninsula, separated from the mainland by a tidal creek. It has an area of 40 km², and a population of 44,110. It belongs to Diu district and lies 5 km to the east of Diu head. Diu is part of the union territory of Daman and Diu."
+    },
+    {
+        "question": "Aravalli ranges are an example of ________",
+        "options": [
+            "Straight mountains",
+            "Block mountains",
+            "Residual mountains",
+            "Volcanic mountains"
+        ],
+        "correct_answer": "c",
+        "note": "Aravalli ranges are an example of Residual mountains. Residual mountains are those mountains which have been eroded by the agents of degradation such as winds, rain, frost and running water. The hard rocks that are left behind are called residual mountains."
+    },
+    {
+        "question": "Jharkhand does not share boundary with ________",
+        "options": [
+            "West Bengal",
+            "Orissa",
+            "Chhattisgarh",
+            "Madhya Pradesh"
+        ],
+        "correct_answer": "d",
+        "note": "Jharkhand does not share boundary with Madhya Pradesh. Jharkhand shares its border with the states of Bihar to the north, Uttar Pradesh and Chhattisgarh to the west, Odisha to the south, and West Bengal to the east."
+    },
+    {
+        "question": "Which one of the following gives the correct sequence of Himalayan peaks in the direction east to west?",
+        "options": [
+            "Dhaulagiri, Kanchenjunga, Makalu, Mt. Everest",
+            "Kanchenjunga, Makalu, Dhaulagiri, Mt. Everest",
+            "Makalu, Dhaulagiri, Kumaun, Namcha Barwa",
+            "Namcha Barwa, Kanchenjunga, Mt. Everest, Nanda Devi"
+        ],
+        "correct_answer": "d",
+        "note": "The following that gives the correct sequence of Himalayan peaks in the direction east to west are Namcha Barwa, Kanchenjunga, Mt. Everest, Nanda Devi."
+    },
+    {
+        "question": "The Northern plain of India has been formed by the interplay of the three major river systems, namely the Indus, the Ganga and the ________.",
+        "options": [
+            "Brahmaputra",
+            "Krishna",
+            "Kaveri",
+            "Mahanadi"
+        ],
+        "correct_answer": "a",
+        "note": "The Northern plains of India are young depositional landforms. These are formed by interplay of Indus, Ganga, Brahmaputra and various other small rivers."
+    },
+    {
+        "question": "Which state has smallest land area?",
+        "options": [
+            "Goa",
+            "Nagaland",
+            "Sikkim",
+            "Tripura"
+        ],
+        "correct_answer": "a",
+        "note": "Goa is the smallest state with land area of 3,702 sq km of land."
+    },
+    {
+        "question": "Nallamala hills are located in the state of",
+        "options": [
+            "Odisha",
+            "Meghalaya",
+            "Andhra pradesh",
+            "Gujarat"
+        ],
+        "correct_answer": "c",
+        "note": "Nallamalla hills area part of Eastern Ghats which are spread over two states i.e. Andhra Pradesh and Telangana. These ranges runs from north to south parallel to Coromandel coast."
+    },
+    {
+        "question": "In which one of the following Union Territories, people of the Onge tribe live?",
+        "options": [
+            "Andaman and Nicobar Islands",
+            "Dadra and Nagar Haveli",
+            "Daman and Diu",
+            "Lakshadweep"
+        ],
+        "correct_answer": "a",
+        "note": "In Andaman and Nicobar Islands Union Territories, people of the Onge tribe live. The Onge are one of the Andamanese indigenous peoples of the Andaman Islands. Traditionally hunter-gatherers, they are a designated as a Scheduled Tribe of India."
+    },
+    {
+        "question": "Where are Shevaroy Hills located?",
+        "options": [
+            "Andhra Pradesh",
+            "Karnataka",
+            "Kerala",
+            "Tamil Nadu"
+        ],
+        "correct_answer": "d",
+        "note": "Shevaroy Hills are located in Tamil Nadu. The Servarayan hills, with the anglicised name Shevaroy Hills, are a towering mountain range near the city of Salem, in Tamil Nadu state, southern India. It is one of the major hill stations in Tamil Nadu and in the Eastern Ghats. The local Tamil name comes from a local deity, Servarayan."
+    },
+    {
+        "question": "Consider the following statements:\n1. Longitude of Jabalpur's location is between those of Indore and Bhopal.\n2. Latitude of Aurangabad's location is between those of Vadodara and Pune.\n3. Bangalore is situated more southward than Chennai.",
+        "options": [
+            "1 and 3",
+            "Only 2",
+            "2 and 3",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "c",
+        "note": "Latitude of Aurangabad's location is between those of Vadodara and Pune and Bangalore is situated more southward than Chennai."
+    },
+    {
+        "question": "Which of the following cities lies to the western-most longitude?",
+        "options": [
+            "Jaipur",
+            "Nagpur",
+            "Bhopal",
+            "Hyderabad"
+        ],
+        "correct_answer": "a",
+        "note": "Jaipur lies to the western-most longitude. Longitude: 75.8059809."
+    },
+    {
+        "question": "The highest Himalayan peak in India is ________",
+        "options": [
+            "Kanchenjunga",
+            "K-2",
+            "Nandadevi",
+            "Nanga Parbat"
+        ],
+        "correct_answer": "a",
+        "note": "The Kangchenjunga is the highest mountain peak in India and ranked 3rd highest summit in the world with an elevation of 8,586 m (28,169 ft). The highest mountain Kangchenjunga is located at the border of India and Nepal in the great Himalayas range,Sikkim."
+    },
+    {
+        "question": "The Garo, Khasi and Jaintia hills were formed in the same age as the",
+        "options": [
+            "Himalayas",
+            "Shiwalik Range",
+            "Malwa Plateau",
+            "Himachal Range"
+        ],
+        "correct_answer": "c",
+        "note": "The Garo, Khasi and Jaintia hills were formed in the same age as the Malwa Plateau. The Garo, Khasi and jaintia are part of the Peninsular India. The Peninsular plateau continues far eastward from Rajmahal hills into north-east as the Shillong plateau, the gap between them is known as the Rajmahal-Garo gap."
+    },
+    {
+        "question": "Nathu La a place where India China border trade has been resumed after 44 years is located on the India border in",
+        "options": [
+            "Sikkim",
+            "Arunachal Pradesh",
+            "Himachal Pradesh",
+            "Jammu and Kashmir"
+        ],
+        "correct_answer": "a",
+        "note": "Nathu La a place where India China border trade has been resumed after 44 years is located on the India border in Sikkim. For trading between India and China there are trading border posts of which Nathu la pass in Sikkim is one. The other two pass are Shipkila in H.P. and Lipulekh in Uttarakhand. After 1962 Sino-India war, Nathula was closed but from 2006 it has been reopened for restricted trade."
+    },
+    {
+        "question": "The range that acts as watershed between India and Turkistan is",
+        "options": [
+            "Zaskar",
+            "Kailash",
+            "Karakoram",
+            "Ladakh"
+        ],
+        "correct_answer": "c",
+        "note": "Karakoram forms India's frontiers with Afghanistan and China and acts as watershed between India and Turkistan."
+    },
+    {
+        "question": "Considering the location of mountains in India which one of the following is in right sequence from south to north?",
+        "options": [
+            "Dodabetta, Kailash, Dhaulagiri, Vindhyachal",
+            "Dodabetta, Vindhyachal, Dhaulagiri, Kailash",
+            "Dhaulagiri, Kailash, Dodabetta, Vindhyachal",
+            "Dhaulagiri, Vindhyachal, Dodabetta, Kailash"
+        ],
+        "correct_answer": "b",
+        "note": "Considering the location of mountains in India, the right sequence from south to north are Dodabetta, Vindhyachal, Dhaulagiri and Kailash."
+    },
+    {
+        "question": "The correct sequence of the different sections of the Himalayas in terms of their stretch (in kilometre) in the descending order is ________",
+        "options": [
+            "Punjab Him., Kumaon Him., Nepal Him., Assam Him.",
+            "Nepal Him., Assam Him., Punjab Him., Kumaon Him.",
+            "Kumaon, Hlm., Nepal Him., Assam Him., Punjab Him.",
+            "Nepal Him., Assam Him., Kumaon Him., Punjab Him."
+        ],
+        "correct_answer": "b",
+        "note": "The correct sequence of the different sections of the Himalayas in terms of their stretch (in kilometre) in the descending order is Nepal Him., Assam Him., Punjab Him., and Kumaon Him."
+    },
+    {
+        "question": "What is the name of India's permanent research station in southern hemisphere Antarctica",
+        "options": [
+            "Dakshin Bharat",
+            "Dakshin Niwas",
+            "Dakshin Chitra",
+            "Dakshin Gangotri"
+        ],
+        "correct_answer": "d",
+        "note": "Dakshin Gangotri is the name of India's permanent research station in southern hemisphere Antarctica. It is located at a distance of 2,500 kilometres (1,600 mi) from the South Pole."
+    },
+    {
+        "question": "Panchmarhi is near the highest point on the range of",
+        "options": [
+            "Vindhyas",
+            "Aravallis",
+            "Nilgiris",
+            "Satpuras"
+        ],
+        "correct_answer": "d",
+        "note": "Panchmarhi is near the highest point on the range of Satpuras. Mount Dhupgarh or Dhoopgarh is the highest point in the Satpura Range and in Madhya Pradesh, India. Located in Pachmarhi, it has an elevation of 1,350 metres (4,429 ft).It is the highest point of Madhya Pradesh."
+    },
+    {
+        "question": "Which of the following is the main difference between the Western and Eastern Ghats?",
+        "options": [
+            "Height",
+            "Continuity",
+            "Proximity to the coast",
+            "Vegetation"
+        ],
+        "correct_answer": "b",
+        "note": "Continuity is the main difference between the Western and Eastern Ghats. Western Ghats are continuous and can be crossed through passes only. But Eastern Ghats has been divided into several parts by large rivers."
+    },
+    {
+        "question": "India is the seventh largest country in the world and it covers a total area of approximately ________",
+        "options": [
+            "2700000 sq. km",
+            "3000000 sq. km",
+            "3200000 sq. km",
+            "3600000 sq. km"
+        ],
+        "correct_answer": "c",
+        "note": "India is the seventh largest country in the world and it covers a total area of approximately 3200000 sq. km. It is the seventh-largest country in the world, with a total area of 3,287,263 square kilometres (1,269,219 sq. mi)."
+    },
+    {
+        "question": "Which of the following is the capital of the union territory of Dadra and Nagar Haveli?",
+        "options": [
+            "Dadra",
+            "Nagar Haveli",
+            "Kavaratti",
+            "Silvassa"
+        ],
+        "correct_answer": "d",
+        "note": "The capital of the union territory of Dadra and Nagar Haveli is Silvassa. Silvassa serves as the administrative and political center of the union territory.\n\nTherefore, the correct answer is Option D: Silvassa. Options A and B represent the names of the two regions within the union territory, but Silvassa is the capital. Option C, Kavaratti, is the capital of the union territory of Lakshadweep, not Dadra and Nagar Haveli."
+    },
+    {
+        "question": "Which one of the following States shares boundaries with the maximum number of other States of India ?",
+        "options": [
+            "Madhya Pradesh",
+            "Maharashtra",
+            "Assam",
+            "Bihar"
+        ],
+        "correct_answer": "c",
+        "note": "Assam shares its boundaries with as many as seven states, apart from sharing international boundaries with Bhutan and Bangladesh. Arunachal Pradesh is in north, West Bengal is located in west, Nagaland and Manipur in the east whereas Meghalaya, Tripura and Mizoram in the south. Assam is the only state among the seven sisters which shares its borders with the rest of the six states that comprise the seven sisters."
+    },
+    {
+        "question": "Which of the statement(s) given below is/are correct?\n1. The continental shelves of Lakshadweep are originated due to coral reefs.\n2. The continental shelves of western coast are due to faulting and submergence.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "Both the statements given below are correct. The continental shelves of Lakshadweep are originated due to coral reefs. The continental shelves of western coast are due to faulting and submergence."
+    },
+    {
+        "question": "Which of the following sets of cities is located on the reference longitude for Indian standard time?",
+        "options": [
+            "Bangalore-Varanasi",
+            "Chennai-Varanasi",
+            "Kakinanda-Pondicherry",
+            "Pondicherry-Varanasi"
+        ],
+        "correct_answer": "c",
+        "note": "Kakinanda-Pondicherry is located on the reference longitude for Indian standard time. Kakinada is globally known for its sweet called kaaja. Along with these it is also known for its town planning. The Indian Standard Time (IST) passes through this city."
+    },
+    {
+        "question": "Nanda Devi peak forms a part of ________",
+        "options": [
+            "Assam Himalayas",
+            "Kumaon Himalayas",
+            "Nepal Himalayas",
+            "Punjab Himalayas"
+        ],
+        "correct_answer": "b",
+        "note": "Nanda Devi peak forms a part of Kumaon Himalayas located in Chamoli district of Uttaranchal."
+    },
+    {
+        "question": "________ is a cold desert lying in the Great Himalayas.",
+        "options": [
+            "Ladakh",
+            "Satpura",
+            "Aravalli",
+            "Vindhya"
+        ],
+        "correct_answer": "a",
+        "note": "Ladakh is a cold desert lying in the Great Himalayas. It lies in the Great Himalayas, on the eastern side of Jammu and Kashmir. It has the mighty Karakoram Range in the North and in the south, it is bound by the Zanskar mountains."
+    },
+    {
+        "question": "Which one of the following statements is wrong regarding the \"Vale of Kashmir\" ?",
+        "options": [
+            "It is a synclinal valley",
+            "It is situated 'between the Pir Panjal Range and the Lesser Himalayas",
+            "It is drained by the river Jhelum",
+            "Previously it was a bed of a great lake, subsequently uplifted."
+        ],
+        "correct_answer": "b",
+        "note": "The Kashmir Valley, also known as the Vale of Kashmir, is an intermontane valley in the portion of the Kashmir region administered by India. The valley is bounded on the southwest by the Pir Panjal Range and on the northeast by the main Himalayas range."
+    },
+    {
+        "question": "Naga, Khasi and Garo hills are located in",
+        "options": [
+            "Eastern range",
+            "Karakoram range",
+            "Zanskar range",
+            "Himalayan range"
+        ],
+        "correct_answer": "a",
+        "note": "Naga, Khasi and Garo hills al are located in North eastern India. Karakoram, Zanskar and Himalayan range are in North western part of India."
+    },
+    {
+        "question": "Godwin Austin is a",
+        "options": [
+            "Pass",
+            "Peak",
+            "Telescope inventor",
+            "Geologist"
+        ],
+        "correct_answer": "b",
+        "note": "Godwin Austin is the 2nd highest peak in world after Mount Everest. It is also called K2. Its height is about 8611 meters."
+    },
+    {
+        "question": "The States which have common borders with China are:\n1. Jammu and Kashmir\n2. Sikkim\n3. Arunachal Pradesh\n4. Himachal Pradesh",
+        "options": [
+            "1, 3 and 4",
+            "1, 2 and 3",
+            "1 and 3",
+            "1, 2, 3 and 4"
+        ],
+        "correct_answer": "d",
+        "note": "The States which have common borders with China are Jammu and Kashmir, Sikkim, Arunachal Pradesh and Himachal Pradesh."
+    },
+    {
+        "question": "Palakkad gap connects which of the following states",
+        "options": [
+            "Sikkim and West Bengal",
+            "Maharashtra and Gujarat",
+            "Kerala and Tamil Nadu",
+            "Arunachal Pradesh and Sikkim"
+        ],
+        "correct_answer": "c",
+        "note": "It is a pass situated in Western Ghats between Tamil Nadu and Kerala. It is also known as Palghat gap. Other famous passes of Western Ghats are Thalghat and Bhorghat."
+    },
+    {
+        "question": "\"Himadri\" is the term by which the ________ are known.",
+        "options": [
+            "Western Ghats",
+            "Siwalik Ranges",
+            "Middle Himalayas",
+            "Greater Himalayas"
+        ],
+        "correct_answer": "d",
+        "note": "\"Himadri\" is the term by which the Greater Himalayas are known. Greater Himalayas or Himadri or Himagiri comprises all major mountain ranges of the Himalayas. Greater Himalayas is also known as “Mahaan Himalaya”in Hindi."
+    },
+    {
+        "question": "The Coast line of India is",
+        "options": [
+            "5500km",
+            "6500km",
+            "7500km",
+            "8400km"
+        ],
+        "correct_answer": "c",
+        "note": "Length of coastline of Indian mainland is 6100 km whereas the length of coastline of India including Andaman and Nicobar and Lakshadweep islands is 7500km."
+    },
+    {
+        "question": "Which one of the following is the correct sequence of the age of formation-from the youngest to the oldest-of the given mountain ranges?",
+        "options": [
+            "Himalayas, Vindhyas, Western Ghats, Deccan Traps",
+            "Deccan Traps, Western Ghats, Vindhyas, Himalayas",
+            "Himalayas, Western Ghats, Vindhayas, Deccan Traps",
+            "Vindhyas, Himalayas, Deccan Traps, Western Ghats"
+        ],
+        "correct_answer": "a",
+        "note": "The following is the correct sequence of the age of formation-from the youngest to the oldest-of the given mountain ranges are Himalayas, Vindhyas, Western Ghats and Deccan Traps."
+    },
+    {
+        "question": "Among the Union Territories which has the highest literacy rate?",
+        "options": [
+            "Lakshadweep",
+            "Pondicherry",
+            "Delhi",
+            "Daman and Diu"
+        ],
+        "correct_answer": "a",
+        "note": "Among the Union Territories Lakshadweep has the highest literacy rate. Lakshadweep has the highest literacy rate of 91.85%."
+    },
+    {
+        "question": "Which is the highest peak in India?",
+        "options": [
+            "Kamet",
+            "Nandakot",
+            "Nanda Devi",
+            "K2 (GodwinAustin)"
+        ],
+        "correct_answer": "d",
+        "note": "K2 is highest peak in India with an height of about 8611 meters. It is the Karakoram range."
+    },
+    {
+        "question": "Which state has the largest area in India?",
+        "options": [
+            "Uttar Pradesh",
+            "Madhya Pradesh",
+            "Maharashtra",
+            "Rajasthan"
+        ],
+        "correct_answer": "d",
+        "note": "Rajasthan is a state in northern India. The state covers an area of 342,239 square kilometres. It is the largest Indian state by area and the seventh largest by population."
+    },
+    {
+        "question": "The mountain range which stretches from Gujarat in west to Delhi in the north is the ________",
+        "options": [
+            "Aravallis",
+            "Vindhyas",
+            "Satpuras",
+            "Kaimur range"
+        ],
+        "correct_answer": "a",
+        "note": "The mountain range which stretches from Gujarat in the west to Delhi in the north is the Aravallis."
+    },
+    {
+        "question": "Which one of the following mountains is not the part of Eastern Ghats?",
+        "options": [
+            "Sheravoy hills",
+            "Javadi hills",
+            "Nallamala hills",
+            "Elamalai hills"
+        ],
+        "correct_answer": "d",
+        "note": "Elamalai hills is not the part of Eastern Ghats. Elumalai  is a Panchayat town in the district of Madurai, in the Indian state of Tamil Nadu. Originally named Aezhumalai (Seven Hills), the town is located near Usilampatti (16 km) and Peraiyur, in the Western ghats."
+    },
+    {
+        "question": "Where is the Saltoro Range located?",
+        "options": [
+            "Ladakh",
+            "Along the Vindhyas",
+            "Part of the Karakoram Ranges",
+            "Part of the Western Ghats"
+        ],
+        "correct_answer": "c",
+        "note": "Saltoro ranges are located in Karakoram ranges. It lies in Indian state of Jammu and Kashmir. Saltoro glacier is also situated here."
+    },
+    {
+        "question": "Which is the highest peak to the south of the Vindhyas?",
+        "options": [
+            "Baba Budan Hills",
+            "Mullayanagiri",
+            "Annaimudi",
+            "Nilgiri"
+        ],
+        "correct_answer": "c",
+        "note": "Vindhyas separates North India from South India. South of Vindhyas it is Anaimudi in Anaimalai hills which is the highest peak of South India. Its elevation is about 2695m."
+    },
+    {
+        "question": "Consider the following mountain ranges:\n1. Ladakh Range\n2. Karakoram\n3. Greater Himalayas\n4. Zanskar Range\nWhat is the correct sequence of these from south to north?",
+        "options": [
+            "3, 4, 1, 2",
+            "3, 1, 4, 2",
+            "4, 2, 3, 1",
+            "4, 3, 2, 1"
+        ],
+        "correct_answer": "a",
+        "note": "The correct sequence of these mountain ranges from south to north are Greater Himalayas, Zanskar Range, Ladakh Range and Karakoram."
+    },
+    {
+        "question": "Which statement is correct",
+        "options": [
+            "Mahadev Mountains are in the west of Maikal\nMountains",
+            "Mahadev Mountains are the part of Karnataka\nPlateau",
+            "Mahadev Mountains are inthe East of Plateau\nof Chotanagpur",
+            "Mahadev Mountains are part of Aravalli Range."
+        ],
+        "correct_answer": "a",
+        "note": "Mahadeo hills are in Madhya Pradesh which lies on the west of Maikal Mountains located in Chhattisgarh. Both of these hills are a part of Satpura range."
+    },
+    {
+        "question": "Arrange the following ranges in order as they occur from north to south:\nI. Pir Panjal\nII. Karakoram\nIII. Zanskar\nIV. Ladakh",
+        "options": [
+            "II, IV, III, I",
+            "II, III, IV, I",
+            "I, II, IV, III",
+            "III, II, IV, I"
+        ],
+        "correct_answer": "a",
+        "note": "The following ranges in order as they occur from north to south are Karakoram, Ladakh, Zanskar and Pir Panjal."
+    },
+    {
+        "question": "The northern plain of India is formed of ________.",
+        "options": [
+            "Metamorphic soil",
+            "Igneous rocks",
+            "Alluvial soil",
+            "Old crystalline rocks"
+        ],
+        "correct_answer": "c",
+        "note": "Northern plain of India are formed due to depositional action of Indus, Gangetic and Brahmaputra river systems. These are formed by alluvial soil which is further subdivided into Bangar (old alluvium) and Khadar (new \nalluvium)."
+    },
+    {
+        "question": "The Himalayan mountain system belongs to which one of the following?",
+        "options": [
+            "Fold mountains",
+            "Volcanic mountains",
+            "Block mountains",
+            "None of these"
+        ],
+        "correct_answer": "a",
+        "note": "The Himalayan mountain system belongs to fold mountain system. Fold mountains are created where two of Earth’s tectonic plates are pushed together."
+    },
+    {
+        "question": "Which of the following passes lies in the Sutlej valley?",
+        "options": [
+            "Nathu La",
+            "Jelep La",
+            "Shipki La",
+            "Sharabathanga"
+        ],
+        "correct_answer": "c",
+        "note": "Sultej river originates from Rakas Lake near Mansarovar lake and enters Indian state of Himachal Pradesh through Shipki La Pass."
+    },
+    {
+        "question": "Which one of the following mountain peaks of Himalayas is not in India?",
+        "options": [
+            "Annapurna",
+            "Nanda Devi",
+            "Mt. Kamet",
+            "Kanchenjunga"
+        ],
+        "correct_answer": "a",
+        "note": "Annapurna mountain peaks of Himalayas is not in India. Annapurna is the mountain range which is not present in India and it is present in Nepal."
+    },
+    {
+        "question": "Amongst the following Indian States which one has the minimum total forest cover?",
+        "options": [
+            "Sikkim",
+            "Goa",
+            "Haryana",
+            "Kerala"
+        ],
+        "correct_answer": "c",
+        "note": "Amongst the following Indian States Haryana has the minimum total forest cover. Haryana has 1588 sq km forest cover that is 3.59% of its total land area. Haryana has the least forest cover in India."
+    },
+    {
+        "question": "The new alluvial deposits found in the Gangetic plain are known as ________",
+        "options": [
+            "Bhabar",
+            "Bhangar",
+            "Khadar",
+            "Terai"
+        ],
+        "correct_answer": "c",
+        "note": "The new alluvial deposits found in the Gangetic plain are known as Khadar. In the Gangetic plains, it has a low upland covered by laterite deposits. The Khadar belt lies in lowland areas after the Bangar belt. It is made up of fresh newer alluvium which is deposited by the rivers flowing down the plain."
+    },
+    {
+        "question": "Himalayan mountain range is an Example of",
+        "options": [
+            "Volcanic Mountains",
+            "Residual Mountains",
+            "Block Mountains",
+            "Fold Mountains"
+        ],
+        "correct_answer": "d",
+        "note": "Himalayas are fold mountains formed due to folding of sediments between Eurasian plate and Indian Plate. These are youngest fold mountain range."
+    },
+    {
+        "question": "Nag Tibba and Mahabharat Mountain Ranges are included in",
+        "options": [
+            "Cross Himalayan",
+            "Greater Himalayan",
+            "Lesser Himalayan",
+            "Down Ward Himalayan"
+        ],
+        "correct_answer": "c",
+        "note": "Mahabharat nad Nag Tibba range are included in Lesser Himalayas. Lesser Himalayas are major eastwest mountain ranges along Greater Himalayas. These are also called \"Himachal\"."
+    },
+    {
+        "question": "The second highest peak in the world is ________",
+        "options": [
+            "Kanchenjunga",
+            "K-2 (Godwin Austin)",
+            "Nandadevi",
+            "Lhotse"
+        ],
+        "correct_answer": "b",
+        "note": "K2, Chinese Qogir Feng, also called Mount Godwin Austen, called locally Dapsang or Chogori, the world's second highest peak (28,251 feet [8,611 metres]), second only to Mount Everest."
+    },
+    {
+        "question": "Yercaud, a hill station of South India, is situated on the",
+        "options": [
+            "Cardamom Hills",
+            "Nilgiris",
+            "Shevaroy Hills",
+            "Javadi Hills"
+        ],
+        "correct_answer": "c",
+        "note": "Yercaud, a hill station of South India, is situated on the Shevaroy Hills. It is located in the Shevaroys range of hills in the Eastern Ghats."
+    },
+    {
+        "question": "Indian desert is known as",
+        "options": [
+            "Gobi",
+            "Sahara",
+            "Thar",
+            "Atacama"
+        ],
+        "correct_answer": "c",
+        "note": "Thar desert is located in North western part of India. It is also known as Great Indian desert. The rainfall here generally remains around 20cm."
+    },
+    {
+        "question": "Which one of the following pairs is correctly matched?",
+        "options": [
+            "Plimsoll Line : India and Afghanistan",
+            "Durand Line : India and Myanmar",
+            "Macmohan Line : India and Nepal",
+            "Radcliffe Line : India and Pakistan"
+        ],
+        "correct_answer": "d",
+        "note": "Radcliffe Line : India and Pakistan is correctly matched. The Radcliffe Line was the boundary demarcation line between the Indian and Pakistani portions of the Punjab and Bengal provinces of British India."
+    },
+    {
+        "question": "Where is Anaimudi peak located?",
+        "options": [
+            "Sahyadri",
+            "Eastern Ghats",
+            "Nilgiri mountain range",
+            "Palani range"
+        ],
+        "correct_answer": "a",
+        "note": "Anaimudi is the highest peak of Peninsular India. It is located in the state of Kerala in Western Ghats (Sahyadri). It lies near Anamalai and Cardamom hills."
+    },
+    {
+        "question": "Which one among the following major Indian cities is most eastward located?",
+        "options": [
+            "Hyderabad",
+            "Bhopal",
+            "Lucknow",
+            "Benguluru (Bangalore)"
+        ],
+        "correct_answer": "c",
+        "note": "Lucknow is most eastward located. Lucknow, the capital of Uttar Pradesh, lies in the middle of the Heritage Arc. It is home to extraordinary monuments depicting a fascinating blend of ancient, colonial and oriental architecture."
+    },
+    {
+        "question": "The States of India having common border with Myanmar are ________",
+        "options": [
+            "Mizoram, Manipur, Nagaland, Arunachal Pradesh",
+            "Mizoram, Tripura, Meghalaya, Assam",
+            "Mizoram, Manipur, Tripura, Meghalaya",
+            "Assam, Manipur, Tripura, Arunachal Pradesh"
+        ],
+        "correct_answer": "a",
+        "note": "The States of India having common border with Myanmar are Mizoram, Manipur, Nagaland and Arunachal Pradesh."
+    },
+    {
+        "question": "Duncan Passage is situated between ________",
+        "options": [
+            "Minicoy and Amindiv",
+            "Minicoy and Maldives",
+            "Little Andaman and Car Nicobar",
+            "South Andaman and Little Andaman"
+        ],
+        "correct_answer": "d",
+        "note": "Duncan Passage is situated between South Andaman and Little Andaman. Duncan pass is located between South and little Andaman. Duncan Passage is a strait in the Indian Ocean. It is about 48 km (30 mi) wide; it separates Rutland Island (part of Great Andaman) to the north, and Little Andaman to the south. West of Duncan Passage is the Bay of Bengal, east is the Andaman Sea."
+    },
+    {
+        "question": "Where is Lakshadweep Island located?",
+        "options": [
+            "Indian Ocean",
+            "Bay of Bengal",
+            "Arabian Sea",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "Lakshadweep Island is located in Arabian sea. It has an area of only 32 sqkm. It is a Coral island which is sarated from Maldives by 8° channel."
+    },
+    {
+        "question": "Which one of the following Indian states does not have a common international border with Bangladesh?",
+        "options": [
+            "Manipur",
+            "West Bengal",
+            "Tripura",
+            "Assam"
+        ],
+        "correct_answer": "a",
+        "note": "Manipur does not have a common international border with Bangladesh. India enjoys close relations with Bangladesh and shares a 4,096-km-long border which touches Assam, Tripura, Mizoram, Meghalaya and West Bengal."
+    },
+    {
+        "question": "Which one of the following is a famous hill station of South India?",
+        "options": [
+            "Panchmarhi",
+            "Ootacamund",
+            "Madurai",
+            "Araku Valley"
+        ],
+        "correct_answer": "b",
+        "note": "Ootacamund is a famous hill station of south India. Ootacamund, now frequently known as Ooty (but officially called Udhagamandalam), is a town in the Nilgiri Hills."
+    },
+    {
+        "question": "Which hill station's name means 'place of the thunderbolt'?",
+        "options": [
+            "Gangtok",
+            "Shillong",
+            "Oottacarnand",
+            "Darjeeling"
+        ],
+        "correct_answer": "d",
+        "note": "Darjeeling is derived from the word 'Dorje' meaning 'thunderbolt' & 'ling' meaning 'place or land'. Both 'Dorje' & 'ling' are Tibetan words."
+    },
+    {
+        "question": "The outer most range of Himalayas is called ________.",
+        "options": [
+            "Kali",
+            "Shiwaliks",
+            "Dehradun",
+            "Kumaon"
+        ],
+        "correct_answer": "b",
+        "note": "The Outer Himalayas (the Siwalik Range) The southernmost of the three mountain belts are the Outer Himalayas, also called the Siwalik (or Shiwalik)."
+    },
+    {
+        "question": "Nandadevi peak is located in ________ State",
+        "options": [
+            "Himachal Pradesh",
+            "Uttarakhand",
+            "Uttar Pradesh",
+            "Sikkim"
+        ],
+        "correct_answer": "b",
+        "note": "Situated in the Chamoli district of Uttarakhand, Nanda Devi is the highest mountain entirely in India, (if we exclude Kanchenjunga that lies on the border of India and Nepal). It is also the highest mountain in the State of Uttarakhand with a towering altitude of 7,816 meters."
+    },
+    {
+        "question": "Which one of the following states does not form border with Bangladesh?",
+        "options": [
+            "Meghalaya",
+            "Tripura",
+            "Manipur",
+            "Mizoram"
+        ],
+        "correct_answer": "c",
+        "note": "Manipur does not form border with Bangladesh. Bangladesh and India share a 4,156 km (2,582 mi)-long international border, the fifth-longest land border in the world, including 262 km (163 mi) in Assam, 856 km (532 mi) in Tripura, 180 km (110 mi) in Mizoram, 443 km (275 mi) in Meghalaya, and 2,217 km (1,378 mi) in West Bengal."
+    },
+    {
+        "question": "Consider the following:\n1. Mahadeo Hills\n2. Sahyadri Parvat\n3. Satpura Range\nWhat is the correct sequence of the above from the north of the south?",
+        "options": [
+            "1, 2, 3",
+            "2, 1, 3",
+            "1, 3, 2",
+            "2, 3, 1"
+        ],
+        "correct_answer": "c",
+        "note": "The correct sequence of the above from the north of the south are Mahadeo Hills, Satpura Range and Sahyadri Parvat."
+    },
+    {
+        "question": "Amritsar and Shimla are almost on the same latitude, but their climate difference is due to",
+        "options": [
+            "The difference in their altitudes",
+            "Their distance from sea",
+            "Snowfall in Shimla",
+            "Pollution in Amritsar"
+        ],
+        "correct_answer": "a",
+        "note": "Amritsar and Shimla are almost on the same latitude, but their climate difference is due to the difference in their altitudes."
+    },
+    {
+        "question": "Which one of the following groups of Indian states has a common frontier with Bhutan?",
+        "options": [
+            "Assam, Bihar, Sikkim and West Bengal",
+            "Bihar, Meghalaya, Sikkim and West Bengal",
+            "Arunachal Pradesh, Assam, Sikkim and West Bengal",
+            "None of the above"
+        ],
+        "correct_answer": "c",
+        "note": "Arunachal Pradesh, Assam, Sikkim and West Bengal groups of Indian states has a common frontier with Bhutan."
+    },
+    {
+        "question": "Where do the Western and Eastern Ghats meet?",
+        "options": [
+            "Nilgiri hills",
+            "Cardamom hills",
+            "Palani hills",
+            "Annamalai hills"
+        ],
+        "correct_answer": "a",
+        "note": "Western and Eastern Ghats meet at Nilgiri hills, which is situated at the boundary of three states i.e. Tamil Nadu, Kerala & Karnataka."
+    },
+    {
+        "question": "Which of the following are true with respect to the Indian Peninsular Plateau?\nI. The southern plateau block is formed mainly of granites and gneiss\nII. The Deccan lava plateau is an elevated tableland consisting of horizontally arranged lava sheets\nIII. The Malwa plateau dominates the Vindhyan scarps forming the northern flank of the plateau\nIV. The troughs of the Narmada and the Tapti are interposed between the Vindhyan and the Satpura ranges.",
+        "options": [
+            "I, II and III",
+            "I and II",
+            "I, II, III and IV",
+            "I, III and IV"
+        ],
+        "correct_answer": "c",
+        "note": "The following that are true with respect to the Indian Peninsular Plateau are The southern plateau block is formed mainly of granites and gneiss. The Deccan lava plateau is an elevated tableland consisting of horizontally arranged lava sheets. The Malwa plateau dominates the Vindhyan scarps forming the northern flank of the plateau. The troughs of the Narmada and the Tapti are interposed between the Vindhyan and the Satpura ranges."
+    },
+    {
+        "question": "In which one of the following is the Himalayan pass Shipki La located?",
+        "options": [
+            "Chandra valley",
+            "Hunza valley",
+            "Nubra valley",
+            "Sutlej valley"
+        ],
+        "correct_answer": "d",
+        "note": "In Sutlej valley the Himalayan pass Shipki La is located. A spur road on the Indian side rises to an altitude of 4,720 metres (15,490 ft) four km southwest of Shipki La. It is located in Kinnaur district in the state of Himachal Pradesh, India, and Ngari Prefecture in Tibet, China."
+    },
+    {
+        "question": "The transport route connecting Kashmir from Leh crosses the high mountain ranges at the ________",
+        "options": [
+            "Pir Panjal pass",
+            "Karakoram pass",
+            "Banihal pass",
+            "Zoji La pass"
+        ],
+        "correct_answer": "d",
+        "note": "Option A: Pir Panjal pass\nThe Pir Panjal Pass is situated in the Pir Panjal Range of the Himalayas. It serves as a significant mountain pass connecting the Kashmir Valley with the outer Himalayan range. Historically, it has been an important route for trade and transportation between the Indian subcontinent and Central Asia. However, it is not directly associated with the transport route connecting Kashmir from Leh.\n\nOption B: Karakoram pass\nThe Karakoram Pass is located in the Karakoram Range of the Himalayas. It lies on the border between India and China, serving as a historic route for trade and travel between the Indian subcontinent and Central Asia. While it is an important pass in terms of geopolitical significance, it is not directly related to the transport route connecting Kashmir from Leh.\n\nOption C: Banihal pass\nThe Banihal Pass is situated in the Pir Panjal Range of the Himalayas. It is an important mountain pass in Jammu and Kashmir, providing a vital road link between the Kashmir Valley and the rest of India. The Jawahar Tunnel, one of the longest road tunnels in India, passes through the Banihal Pass. However, it is not directly associated with the transport route connecting Kashmir from Leh.\n\nOption D: Zoji La pass\nThe Zoji La Pass is located in the Zanskar Range of the Himalayas. It serves as a crucial mountain pass connecting the Kashmir Valley with Ladakh, specifically the town of Leh. This pass is significant for providing the only road access to Leh from Srinagar, especially during the summer months when other high-altitude passes are closed due to snow. The Zoji La Pass is known for its challenging terrain and harsh weather conditions, making it a strategically important route in the region.\n\nTherefore, in the context of the transport route connecting Kashmir from Leh, Option D: Zoji La pass is the correct answer as it specifically refers to the pass that crosses high mountain ranges on this route."
+    },
+    {
+        "question": "The two volcanic islands in the Indian territory are ________",
+        "options": [
+            "Kavaratti and New Moor",
+            "Bitra and Kavaratti",
+            "Pamban and Barren",
+            "Narcondam and Barren"
+        ],
+        "correct_answer": "d",
+        "note": "The two volcanic islands in the Indian territory are Narcondam and Barren. Narcondam is a small volcanic island located in the Andaman Sea. The island's peak rises to 710 m above mean sea level, and it is formed of andesite. It is part of the Andaman Islands, the main body of which lie approximately 124 km (77 mi) to the west. Barren Island is an island located in the Andaman Sea, dominated by Barren Volcano, the only confirmed active volcano in South Asia, and the only active volcano along a chain of volcanoes from Sumatra to Myanmar."
+    },
+    {
+        "question": "The gap of a Mountain which provides natural path is known as?",
+        "options": [
+            "Valley",
+            "Highway",
+            "Pass",
+            "Highland"
+        ],
+        "correct_answer": "c",
+        "note": "A pass is a location in a range of mountains of a geological formation that is lower than the surrounding peaks. It acts as a natural path through the mountains."
+    },
+    {
+        "question": "The region which is a water divide between the Ganga and Indus river systems is",
+        "options": [
+            "Haridwar",
+            "Namchobarva",
+            "Alakananda",
+            "Ambala"
+        ],
+        "correct_answer": "d",
+        "note": "Ambala is the city located on the water divide between Indus and Ganga river systems. Any elevated area, such as a mountain or upland, separates two drainage basins. Such upland is known as water divide."
+    },
+    {
+        "question": "To which group do the tribals of central and southern India belong?",
+        "options": [
+            "Proto-Australoids",
+            "Negritos",
+            "Mongoloids",
+            "Brachycephals"
+        ],
+        "correct_answer": "a",
+        "note": "To Proto-Australoids group the tribes of central and southern India belong, the people belonging to the Proto-Australoid race came here just after the Negritos. Their sources are Australian aborigines."
+    },
+    {
+        "question": "The Coastal terrain of Andhra Pradesh and Tamil Nadu is known as",
+        "options": [
+            "Konkan",
+            "Coromandel",
+            "East coast",
+            "Malabar coast"
+        ],
+        "correct_answer": "b",
+        "note": "Parts of Andhra coast and coast of Tamil Nadu together are known as Coromandel coast or Payan Ghat. It lies between Flase Divi point in A.P. in North and Kanyakumari in South."
+    },
+    {
+        "question": "Indian subcontinent was mainly a part of",
+        "options": [
+            "Jurassic land",
+            "Angara land",
+            "Aryavarta",
+            "Gondwanaland"
+        ],
+        "correct_answer": "d",
+        "note": "Initially earth was a big landmass called Pangea which was surrounded by a large water body called\nPanthalasa. The big landmass was broken into two pieces known as Angaraland and Gondwanaland. India was the part of Gondwanaland."
+    },
+    {
+        "question": "Which of the following processes is responsible for producing the sand dunes in western Rajasthan?",
+        "options": [
+            "Wind erosion",
+            "Erosion by water",
+            "Wind deposition",
+            "Mechanical weathering"
+        ],
+        "correct_answer": "c",
+        "note": "Wind deposition processes is responsible for producing the sand dunes in western Rajasthan. Sand dunes are the depositional features which are formed due to the deposition of sand particles carried by wind. A sand dunes shape depends upon direction and speed of wind."
+    },
+    {
+        "question": "Most Indians belong to the group ________",
+        "options": [
+            "Caucasoid",
+            "Mongoloid",
+            "Australoid",
+            "Negroid"
+        ],
+        "correct_answer": "a",
+        "note": "Most Indians belong to the group Caucasoid. North West Indians belong mostly to the Caucasoid race because of genetics and looks. Dravidians are genetically very distanced from all other racial groups so they can be considered their own race, but they have some Caucasoid influence."
+    },
+    {
+        "question": "Which of the following States has the largest number of people belonging to Scheduled Caste?",
+        "options": [
+            "Bihar",
+            "West Bengal",
+            "Uttar Pradesh",
+            "Punjab"
+        ],
+        "correct_answer": "c",
+        "note": "Uttar Pradesh has the largest Scheduled Caste population, followed by West Bengal and Bihar."
+    },
+    {
+        "question": "Ten Degree Channel is between ________",
+        "options": [
+            "Dover and Calais",
+            "Alaska and Russia",
+            "Little Andaman and Car Nicobar",
+            "North Korea and South Korea"
+        ],
+        "correct_answer": "c",
+        "note": "Ten Degree Channel is between Little Andaman and Car Nicobar, about 77 miles to the South, is deep and clear. The Channel is approximately 150 km wide, running essentially along an east-west orientation. It is so named as it lies on the 10° line of latitude, north of the equator."
+    },
+    {
+        "question": "Which of the following is known as Sahyadri Mountain",
+        "options": [
+            "Eastern Ghats",
+            "Western Ghats",
+            "Shivalik ranges",
+            "Vindhya range"
+        ],
+        "correct_answer": "b",
+        "note": "Western Ghats is known as Sahyadri Mountain. It is a mountain range that covers an area of 140,000 km² in a stretch of 1,600 km parallel to the western coast of the Indian peninsula, traverse the States of Kerala, Tamil Nadu, Karnataka, Goa, Maharashtra and Gujarat."
+    },
+    {
+        "question": "Longitude is geographically significant to India because ________",
+        "options": [
+            "It determines the Indian standard time",
+            "It has a bearing on the tropical climate of India",
+            "It divides India into eastern and western zones",
+            "It enables determining local time in eastern India"
+        ],
+        "correct_answer": "a",
+        "note": "Longitude is geographically significant to India because it determines the Indian standard time. 82°30' E has been selected as the Standard Meridian of India because it is situated roughly in the centre of all longitudes and latitudes in which our country is located."
+    },
+    {
+        "question": "Which one of the following States in India has the broadest continental shelf?",
+        "options": [
+            "Andhra Pradesh",
+            "Gujarat",
+            "Karnataka",
+            "Tamil Nadu"
+        ],
+        "correct_answer": "d",
+        "note": "Tamil Nadu in India has the broadest continental shelf. A continental shelf is the edge of a continent that lies under the ocean. Continents are the seven main divisions of land on Earth."
+    },
+    {
+        "question": "The northern part of the west coast in India is known as",
+        "options": [
+            "Konkan coast",
+            "Coromandel coast",
+            "Malabar coast",
+            "Godavari Coast"
+        ],
+        "correct_answer": "a",
+        "note": "The northern part of the west coast in India is known as konkan coast. It streches in Maharastra, Goa and some part of Karnataka."
+    },
+    {
+        "question": "Which one of the following shows the correct sequence of occurrence of the following towns/cities as one proceeds from west to east?",
+        "options": [
+            "Ajmer, Darbhanga, Kohima, Sikhar",
+            "Surat, Wardha, Rourkela, Bharuch",
+            "Pandharpur, Gulbarga, Kottagudem, Vishakhapatnam",
+            "Anand, Rajkot, Dhanbad, Aizawl"
+        ],
+        "correct_answer": "c",
+        "note": "The following that shows the correct sequence of occurrence of the following towns/cities as one proceeds from west to east are Pandharpur, Gulbarga, Kottagudem, Vishakhapatnam."
+    },
+    {
+        "question": "Arrange the following hills of southern India from north to south ________ \n1. Nilgiri\n2. Cardamom\n3. Nallamala\n4. Anaimalai\nSelect the correct answer using the code given below ________",
+        "options": [
+            "3-1-4-2",
+            "4-3-1-2",
+            "1-3-4-2",
+            "1-2-3-4"
+        ],
+        "correct_answer": "a",
+        "note": "The hills of southern India from north to south are Nallamala, Nilgiri, Anaimalai and Cardamom."
+    },
+    {
+        "question": "The approximate age of the Aravallis range is",
+        "options": [
+            "370 million years",
+            "470 million years",
+            "570 million years",
+            "670 million years"
+        ],
+        "correct_answer": "d",
+        "note": "The Aravallis range are the oldest mountain in India. The approximate age of the Aravillis range is 670 million years."
+    },
+    {
+        "question": "Port Blair - the capital of Andaman and Nicobar Islands, is located in which one of the following islands?",
+        "options": [
+            "North Andaman",
+            "Little Andaman",
+            "Middle Andaman",
+            "South Andaman"
+        ],
+        "correct_answer": "d",
+        "note": "Port Blair is the capital of Andaman and Nicobar Islands, is located in South Andaman. They belongs to the South Andaman administrative district, part of the Indian union territory of Andaman and Nicobar Islands."
+    },
+    {
+        "question": "Which of the following organisations prepares topographical maps of India?",
+        "options": [
+            "Geographical Survey of India",
+            "Survey of India",
+            "Geological Survey of India",
+            "Archaeological Survey of India"
+        ],
+        "correct_answer": "b",
+        "note": "The Survey of India is the organization responsible for preparing topographical maps of India. Topographical maps represent the physical features of a region, including its terrain, elevation, and natural and man-made structures. The Survey of India is the national mapping and surveying organization of the country and plays a crucial role in providing accurate and detailed geographical information. The other organizations mentioned do not specialize in this specific function."
+    },
+    {
+        "question": "The Himalayas are formed of parallel fold ranges of which the oldest range is ________",
+        "options": [
+            "The Siwalik Range",
+            "The Lesser Himalayas",
+            "The Great Himalayan Range",
+            "The Dhaula Dhar Range"
+        ],
+        "correct_answer": "c",
+        "note": "The Himalayas are formed of parallel fold ranges of which the oldest range is The Great Himalayan Range. The Great Himalayas are situated to the north of the Lower Himalayan Mountain Range. These mountains are bordered by the Indus River to the west and north. Subsequently, the river takes a southerly bend at Sazin."
+    },
+    {
+        "question": "The Union Territory of Dadra and Nagar Haveli lies between which of the following states of India?",
+        "options": [
+            "Andhra Pradesh and Madhya Pradesh",
+            "Gujarat and Madhya Pradesh",
+            "Madhya Pradesh and Maharashtra",
+            "Gujarat and Maharashtra"
+        ],
+        "correct_answer": "d",
+        "note": "Dadra and Nagar Haveli, union territory of India, located in the western part of the country and situated between the states of Gujarat to the north and Maharashtra to the south. It lies some 15 miles (24 km) from the Arabian Sea and about 80 miles (130 km) north of Mumbai (Bombay)."
+    },
+    {
+        "question": "Kullu valley is located among which of the following\nmountain ranges?",
+        "options": [
+            "Ladakh and Pir Panjal",
+            "Lesser Himalaya and Shivalik",
+            "Dhauladhar and Pir Panjal",
+            "Ranjoti and Nanga Parvat"
+        ],
+        "correct_answer": "c",
+        "note": "Kullu valley is located among Dhauladhar and Pir Panjal. Kullu Valley is a broad open valley in Himachal Pradesh, India, formed by the Beas River between Manali and Largi."
+    },
+    {
+        "question": "The smallest Union Territory is ________",
+        "options": [
+            "Chandigarh",
+            "Pondicherry",
+            "Lakshadweep",
+            "Andaman and Nicobar Islands"
+        ],
+        "correct_answer": "c",
+        "note": "The smallest Union Territory is Lakshadweep. India's smallest Union Territory Lakshadweep is an archipelago consisting of 36 islands with an area of 32 sq km."
+    },
+    {
+        "question": "The 'Mahe region' located on the western coast of India is politically a part of the Union Territory of ________",
+        "options": [
+            "Dadra and Nagar Haveli",
+            "Diu and Daman",
+            "Lakshadweep",
+            "Pondicherry"
+        ],
+        "correct_answer": "d",
+        "note": "The 'Mahe region' located on the western coast of India is politically a part of the Union Territory of Pondicherry. Mahe is situated on the Malabar coast on the Western Ghats surrounded by Kerala."
+    },
+    {
+        "question": "Which one of the following countries has the longest international boundary with India?",
+        "options": [
+            "Bangladesh",
+            "Bhutan",
+            "China",
+            "Pakistan"
+        ],
+        "correct_answer": "a",
+        "note": "Bangladesh has the longest international boundary with India. Bangladesh and India share a 4,096-kilometer (2,545-mile) long international border, the fifth-longest land border in the world. West Bengal with 2,217 km share longest border with Bangladesh."
+    },
+    {
+        "question": "Among the following Union Territories of India, which one has the largest size?",
+        "options": [
+            "Pondicherry",
+            "Lakshadweep",
+            "Daman and Diu",
+            "Chandigarh"
+        ],
+        "correct_answer": "a",
+        "note": "Pondicherry has the largest size and has four administrative divisions: four districts, viz. Pondicherry , Mahé, Yanam and Karaikal. Pondicherry district has the largest area and population."
+    },
+    {
+        "question": "The oldest inhabitants of India are considered to be ________",
+        "options": [
+            "Mongoloids",
+            "Negritoes",
+            "Indo-Aryans",
+            "Mediterraneans"
+        ],
+        "correct_answer": "b",
+        "note": "The oldest inhabitants of India are considered to be Negritoes. Perhaps they were the first of the racial groups that came to India. They got settled in the hilly areas of Kerala and the Andaman Islands. Kadar, Irula and Puliyan tribes of Kerala resemble to a great extent with the Negritos. They are related to Africa, Australia and their neighbouring islands. The Negritos have black (dark) skin, woolly hair, broad and flat nose and slightly protruded jaws."
+    },
+    {
+        "question": "Why is it that the Himalayan region is poor in mineral resources?",
+        "options": [
+            "Displacement of rock strata has disturbed the arrangement of rocks and made it complex",
+            "It is made up of crystalline rock",
+            "The terrain makes exploitation of minerals difficult",
+            "The climatic conditions are not suitable, for exploitation of minerals"
+        ],
+        "correct_answer": "a",
+        "note": "Himalayan region is poor in mineral resources because displacement of rock strata has disturbed the arrangement of rocks and made it complex."
+    },
+    {
+        "question": "Which of the following States of India do not lie entirely in the Tropical Zone of the Earth?",
+        "options": [
+            "Kerala and Tamil Nadu",
+            "Gujarat",
+            "Karnataka",
+            "Maharashtra and Andhra Pradesh"
+        ],
+        "correct_answer": "b",
+        "note": "Gujarat do not lie entirely in the Tropical Zone of the Earth. The tropics are the region of the Earth near to the equator and between the Tropic of Cancer in the northern hemisphere and the Tropic of Capricorn in the southern hemisphere. This region is also referred to as the tropical zone and the torrid zone."
+    },
+    {
+        "question": "How many States and Union Territories are there in India?",
+        "options": [
+            "25 States and 7 Union territories",
+            "28 States and 8 Union territories (including National capital territory-1)",
+            "24 States and 6 Union territories.",
+            "None of the above"
+        ],
+        "correct_answer": "b",
+        "note": "There are 29 states and seven Union territories in the country."
+    },
+    {
+        "question": "Among the following States of India, which one has the oldest rock formations in the country?",
+        "options": [
+            "Assam",
+            "Bihar",
+            "Karnataka",
+            "Uttar Pradesh"
+        ],
+        "correct_answer": "c",
+        "note": "Karnataka has the oldest rock formations in the country. Dharwad is the district headquarters of Dharwad district in the state of Karnataka, India. It was merged with the city of Hubballi in 1961 to form the twin cities of Hubballi-Dharwad. It covers an area of 200.23 km² and is located 425 km northwest of Bengaluru, on NH-48, between Bengaluru and Pune. The oldest rocks in India are reported from Dharwar region, Karnataka."
+    },
+    {
+        "question": "Baltoro glacier is located in",
+        "options": [
+            "Karakoram mountain range",
+            "Pamir mountains",
+            "Shivalik",
+            "Alps"
+        ],
+        "correct_answer": "a",
+        "note": "If Polar Regions are not counted, Baltoro glacier is the longest glacier (63 km). It lies in Gilgit-Balitistan region of karakoram mountain ranges."
+    },
+    {
+        "question": "Which foreign country is closest to Andaman Islands?",
+        "options": [
+            "Sri Lanka",
+            "Myanmar",
+            "Indonesia",
+            "Pakistan"
+        ],
+        "correct_answer": "b",
+        "note": "Myanmar is the nearest mainland and foreign country from Andaman. The Andaman and Nicobar Islands, one of the eight union territories of India, are a group of islands at the juncture of the Bay of Bengal and Andaman Sea."
+    },
+    {
+        "question": "Which one of the following is most prone to earthquakes?",
+        "options": [
+            "Coastal plains",
+            "Old shields",
+            "Plateaus",
+            "Young folded mountains"
+        ],
+        "correct_answer": "d",
+        "note": "Young folded mountains is most prone to earthquakes. The movement of the two plates forces sedimentary rocks upwards into a series of folds. Mostly earthquakes occur in the belt of young-fold mountains becuse young fold mountains are formed because of tectonic activities."
+    },
+    {
+        "question": "The Tropic of Cancer does not pass through ________",
+        "options": [
+            "Madhya Pradesh",
+            "West Bengal",
+            "Rajasthan",
+            "Orissa"
+        ],
+        "correct_answer": "d",
+        "note": "The tropic of cancer does not pass through Odisha. The tropic of cancer passes through 8 Indian states. They are Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, West Bengal, Jharkhand, Tripura, and Mizoram."
+    },
+    {
+        "question": "Mac Mohan Line demarcates the boundary between ________",
+        "options": [
+            "India and Pakistan",
+            "India and China",
+            "India and Nepal",
+            "India and Bangladesh"
+        ],
+        "correct_answer": "b",
+        "note": "Mac Mohan Line demarcates the boundary between India and China. The McMahon Line is the demarcation line between the Tibetan region of China and the North-east region of India proposed by British colonial administrator Henry McMahon at the 1914 Simla Convention signed between British and Tibetan representatives."
+    },
+    {
+        "question": "Which of the following is the highest peak",
+        "options": [
+            "Kamet",
+            "Kunlun",
+            "Nangaparbat",
+            "Nanda Devi"
+        ],
+        "correct_answer": "c",
+        "note": "Nangaparbat is the highest peak. It is the ninth highest peak in the world, at 26,660 feet (8,130 m) high. In 1953, an Austrian German named Hermann Buhl was the first to climb it."
+    },
+    {
+        "question": "The piligrims of Kailash Mansarovar have to pass through which pass to enter into Tibet?",
+        "options": [
+            "Khardungala",
+            "Rohtanga",
+            "Lipu Lekh",
+            "Nathu La"
+        ],
+        "correct_answer": "c",
+        "note": "Lipu lekh pass in Uttarkhand is the way through which pilgrims of Kailash Mansarovar enters Tibet."
+    },
+    {
+        "question": "The group of languages spoken by the largest number of people in India is ________",
+        "options": [
+            "Austro-Asiatic",
+            "Indo-Aryan",
+            "Dravidian",
+            "None of these"
+        ],
+        "correct_answer": "b",
+        "note": "The group of languages spoken by the largest number of people in India is Indo-Aryan. It is part of the Indo-European family of languages, which came to India with the Aryans. It is the biggest of the language groups in India and accounts for about 74% of the total Indian population."
+    },
+    {
+        "question": "What is the other name of Sahyadri Range?",
+        "options": [
+            "Lesser Himalayas",
+            "Shivaliks",
+            "Western Ghats",
+            "Eastern Ghats"
+        ],
+        "correct_answer": "c",
+        "note": "Sahyadri range (Western Ghats) are mountain escarpments formed due to collapse of western side of India plateau during the formation of Himalayan mountain system."
+    },
+    {
+        "question": "The State with the largest area under waste land is ________",
+        "options": [
+            "Gujarat",
+            "Madhya Pradesh",
+            "Jammu and Kashmir",
+            "Rajasthan"
+        ],
+        "correct_answer": "d",
+        "note": "The state with the largest area under waste land is Rajasthan."
+    },
+    {
+        "question": "The Tropic of Cancer passes through the States of:\n1. Gujarat\n2. Jharkhand\n3. Assam\n4. Mizoram",
+        "options": [
+            "1, 2 and 4",
+            "1 and 2",
+            "1, 3 and 4",
+            "1, 2, 3 and 4"
+        ],
+        "correct_answer": "a",
+        "note": "The Tropic of Cancer passes through the States of Gujarat, Jharkhand and Mizoram."
+    },
+    {
+        "question": "Which one of the following sequences in the ascending order of their geographical size is correct?",
+        "options": [
+            "Bihar - Chhattisgarh - Jharkhand - Orissa",
+            "Jharkhand - West Bengal - Tamil Nadu - Chattisgarh",
+            "West Bengal - Bihar - Chhattisgarh - Tamil Nadu",
+            "Chhattisgrah - Jharkhand - Tamil Nadu - Orissa"
+        ],
+        "correct_answer": "b",
+        "note": "The following sequences in the ascending order of their geographical size is Jharkhand, West Bengal, Tamil Nadu and Chattisgarh"
+    },
+    {
+        "question": "Which one of the following groups comprises of States sharing borders with Chhattisgarh ?",
+        "options": [
+            "Andhra Pradesh, Jharkhand, Maharashtra and Orissa",
+            "Andhra Pradesh, Bihar, Maharashtra and Uttar Pradesh",
+            "Bihar, Maharashtra, Jharkhand and Orissa",
+            "Andhra Pradesh, Jharkhand, Uttar Pradesh and West Bengal"
+        ],
+        "correct_answer": "a",
+        "note": "The following groups comprises of States sharing borders with Chhattisgarh are Andhra Pradesh, Jharkhand, Maharashtra and Orissa."
+    },
+    {
+        "question": "Where exactly is Aksai Chin?",
+        "options": [
+            "Near Leh",
+            "The north-east corner of Jammu and Kashmir",
+            "Along the Zaskar mountains",
+            "South of the Siachen Glacier"
+        ],
+        "correct_answer": "b",
+        "note": "Aksai Chin is in the north-east corner of Jammu and Kashmir. Aksai Chin is one of the two large disputed border areas between India and China. India claims Aksai Chin as the easternmost part of the Jammu and Kashmir state."
+    },
+    {
+        "question": "The Konkan Coast stretches between ________",
+        "options": [
+            "Goa and Cochin",
+            "Goa and Mumbai",
+            "Goa and Daman",
+            "Goa and Diu"
+        ],
+        "correct_answer": "c",
+        "note": "The Konkan Coast stretches between Goa and Daman. Konkan, also called Aparanta, coastal plain of western India, lying between the Arabian Sea (west) and the Western Ghats (east)."
+    },
+    {
+        "question": "Which of the following would have to be crossed to reach Sri Lanka from Nagercoil ?",
+        "options": [
+            "Sunda Strait",
+            "Gulf of Mannar",
+            "Palk Strait",
+            "Cook Strait"
+        ],
+        "correct_answer": "b",
+        "note": "Gulf of Mannar have to be crossed to reach Sri Lanka from Nagercoil. Nagar Kovil or Nagerkovil or Nakarkovil or Nagarcoil is a small town in Jaffna District, Sri Lanka."
+    },
+    {
+        "question": "Which of the statements given are correct?\n1. Korba is west to Rourkela.\n2. Rourkela is south to Ranchi.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "Both the statements given are correct. Korba is west to Rourkela. Korba is located at22.35°N 82.68°E. It has an average elevation of 252 metres (826 feet). As of 2011 India census, Korba city had a population of 365,253. Rourkela is south to Ranchi. Rourkela is located at 84.54E longitude and 22.12N latitude in Sundergarh district of Odisha at an elevation of about 219 m (719 ft) above mean sea level. The area of Rourkela is 200 square kilometres"
+    },
+    {
+        "question": "Which of the following relates to the formation of the Himalayas?",
+        "options": [
+            "Folding of the earth's crust",
+            "Accumulation of loess deposits",
+            "Folding of the geosyncline",
+            "Faulting of the earth's crust"
+        ],
+        "correct_answer": "c",
+        "note": "Folding of the geosyncline relates to the formation of the Himalayas. The geosynclinal sediments of Tethys sea were squeezed and folded into Alpine-Himalayan mountain chains due to lateral compressive forces caused by the convergence and collision of Eurasian and African-Indian continental plates during Cenozoic Era."
+    },
+    {
+        "question": "Which is the eastern most peak of Himalaya?",
+        "options": [
+            "Namcha Barwa",
+            "Annapurna",
+            "Kanchenjunga",
+            "Mt. Everest"
+        ],
+        "correct_answer": "a",
+        "note": "The eastern most peak of Himalaya is Namcha Barwa from where Brahmaputra river enters India. The westernmost peak is Nangaparbat."
+    },
+    {
+        "question": "The climate of India is mainly tropical because ________",
+        "options": [
+            "Of the location of the Himalayas in its North",
+            "Major part of India lies within the tropics",
+            "Of the overpowering influence of India Ocean",
+            "Of the seasonal influence of jet streams"
+        ],
+        "correct_answer": "a",
+        "note": "The climate of India is mainly tropical because of the location of the Himalayas in its North. India is home to an extraordinary variety of climatic regions, ranging from tropical in the south to temperate and alpine in the Himalayan north, where elevated regions receive sustained winter snowfall. The nation's climate is strongly influenced by the Himalayas and the Thar Desert."
+    },
+    {
+        "question": "Lakshadweep is a group of how many islands?",
+        "options": [
+            "22",
+            "36",
+            "32",
+            "35"
+        ],
+        "correct_answer": "b",
+        "note": "Lakshadweep is a group of 36 islands. It is a group of about 36 islands and has a total land area of 32 square kilometers which is scattered over 30,000 square miles of the Arabian Sea. Out of the 36 islands, only ten are inhabited and they are Andrott, Amini, Agatti, Bitra, Chetlat, Kadmat, Kalpeni, Kavaratti, Kiltan and Minicoy."
+    },
+    {
+        "question": "If the usual rule of calculation of time were applied for the extremes of Gujrat and Arunachal Pradesh, then approximately time ________",
+        "options": [
+            "At Gujarat would be ahead of that at Arunachal Pradesh by about 3 hours",
+            "At Gujarat would be ahead of that at Arunachal Pradesh by about 2 hours",
+            "At Arunachal Pradesh would be ahead of that at Gujarat by about 3 hours",
+            "At Arunachal Pradesh would be ahead of that at Gujarat by about 2 hours"
+        ],
+        "correct_answer": "d",
+        "note": "If the usual rule of calculation of time were applied for the extremes of Gujrat and Arunachal Pradesh, then approximately time at Arunachal Pradesh would be ahead of that at Gujarat by about 2 hours."
+    },
+    {
+        "question": "Between which one of the following pairs of islands is Duncan Passage located?",
+        "options": [
+            "South Andaman and Little Andaman",
+            "Little Andaman and Car Nicobar Island",
+            "Car Nicobar Island and Little Nicobar Island",
+            "Little Nicobar Island and Great Nicobar Island"
+        ],
+        "correct_answer": "a",
+        "note": "Duncan Passage is a strait in the Bay of Bengal that lies between the South Andaman Island and Little Andaman Island.\nIt serves as an important waterway separating these two islands, both of which are part of the Andaman Islands group belonging to India.\nThis passage is strategically significant and also important for navigation and maritime routes in the region.\nCorrect Answer: Option A"
+    },
+    {
+        "question": "With which of the following countries India has no boundary ?",
+        "options": [
+            "Nepal",
+            "Mongolia",
+            "Myanmar",
+            "Bhutan"
+        ],
+        "correct_answer": "b",
+        "note": "Mongolia has no boundary with India. Mongolia is a vast and sparsely populated, landlocked country in eastern Asia between Russia to the north and China to the south, east of Kazakhstan."
+    },
+    {
+        "question": "The present demographic transition of India is indicative of ________",
+        "options": [
+            "High population growth potential but low actual growth",
+            "High population growth potential and high actual growth",
+            "Partial industrialised economy",
+            "Typically increasing urbanization"
+        ],
+        "correct_answer": "d",
+        "note": "The present demographic transition of India is indicative of typically increasing urbanization. Urbanisation is the increase in the proportion of people living in towns and cities."
+    },
+    {
+        "question": "Which of the following towns is located at easternmost?",
+        "options": [
+            "Bokaro",
+            "Jamshedpur",
+            "Patna",
+            "Ranchi"
+        ],
+        "correct_answer": "b",
+        "note": "Jamshedpur is located at easternmost. Jamshedpur is located in the south-eastern part of Jharkhand. Jamshedpur was formed on 16th January, 1990 after isolating nine blocks from the Singhbhum district. Jamshedpur is located in the Chhota Nagpur plateau and covers an area of 3533 square kilometers."
+    },
+    {
+        "question": "Which one of the following does not lie in Maharashtra?",
+        "options": [
+            "Balaghat Range",
+            "Harishchandra Range",
+            "Mandav Hills",
+            "Satmala Hills"
+        ],
+        "correct_answer": "c",
+        "note": "Mandav Hills does not lie in Maharashtra. Mandav is a town and a nagar panchayat in Dhar district in the Indian state of Madhya Pradesh."
+    },
+    {
+        "question": "Which of the following is/are correct about the Rann of Kachchh?\n1. It is a flat saline marsh land\n2. It is in Rajasthan\n3. It is the home of the Indian Wild Ass\n4. It is a unique land formation supporting several singular species of fauna",
+        "options": [
+            "1, 2 and 3",
+            "2, 3 and 4",
+            "1, 3 and 4",
+            "1, 2, 3 and 4"
+        ],
+        "correct_answer": "c",
+        "note": "The following that are correct about the Rann of Kachchh are that it is a flat saline marsh land, it is the home of the Indian Wild Ass and it is a unique land formation supporting several singular species of fauna."
+    },
+    {
+        "question": "Siwaliks are ________",
+        "options": [
+            "To the north of Himadri",
+            "Foothills of Himalayan ranges",
+            "In Meghalaya",
+            "The plateau between Pamirs and Myanmar"
+        ],
+        "correct_answer": "b",
+        "note": "Siwaliks are Foothills of Himalayan ranges. Siwalik ranges are the southern-most hills of the Himalayas, foothills of the mighty Himalayas. They mostly maintain a regular course from the River Yamuna to River Ravi on the south of the Western Himalaya."
+    },
+    {
+        "question": "Which among the following is the smallest state area wise?",
+        "options": [
+            "Nagaland",
+            "Mizoram",
+            "Meghalaya",
+            "Manipur"
+        ],
+        "correct_answer": "a",
+        "note": "Nagaland is one of India's smallest states, with a total area of 16,579 sq km (6400 sq mi). The Naga Hills run through this small state, which has Saramati as its highest peak at a height of about 12,600 ft."
+    },
+    {
+        "question": "A pass in Himachal Pradesh is",
+        "options": [
+            "Shipkila",
+            "Zoji la",
+            "Nathula",
+            "Jelep la"
+        ],
+        "correct_answer": "a",
+        "note": "Shipkila pass in Himachal Pradesh is a border post on India China border. The penetration of Sutlej river into India takes place through this pass."
+    },
+    {
+        "question": "Which of the following mountain passes lies outside India ?",
+        "options": [
+            "Khyber",
+            "Bomdila",
+            "Bara Lacha La",
+            "Shipkila"
+        ],
+        "correct_answer": "a",
+        "note": "Khyber passes lies outside India, most northerly and important of the passes between Afghanistan and Pakistan. The pass connects Kābul with Peshāwar. The pass has historically been the gateway for invasions of the Indian subcontinent from the northwest."
+    },
+    {
+        "question": "The length of India's coastline is about ________",
+        "options": [
+            "5900 km",
+            "6100 km",
+            "7000 km",
+            "7500 km"
+        ],
+        "correct_answer": "d",
+        "note": "The length of India's coastline is about 7500 km. India measures 3,214 km (1,997 mi) from north to south and 2,933 km(1,822 mi) from east to west. It has a land frontier of 15,200 km (9,445 mi) and a coastline of 7,517 km (4,671 mi)."
+    },
+    {
+        "question": "Which of the statements given are correct?\n1. The equatorial forests are evergreen.\n2. The Mediterranean region has deciduous forests of broad-leaved trees.\n3. Taiga forests are found in Kashmir.",
+        "options": [
+            "1 and 2",
+            "2 and 3",
+            "1 and 3",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "d",
+        "note": "All the statements given are correct. The equatorial forests are evergreen, the Mediterranean region has deciduous forests of broad-leaved trees and Taiga forests are found in Kashmir."
+    },
+    {
+        "question": "Which of the following are true regarding Chhota Nagpur?\n1. It is one of the former princely states.\n2. It is a plateau area in Jharkhand inhabited mainly by the tribals.\n3. It is a name given to the contiguous tribal areas in Bihar, West Bengal, Orissa and M.P.",
+        "options": [
+            "1 and 3",
+            "2 and 3",
+            "1 and 2",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "c",
+        "note": "The following that are true regarding Chhota Nagpur are that It is one of the former princely states and It is a plateau area in Jharkhand inhabited mainly by the tribals."
+    },
+    {
+        "question": "The highest point of the Nilgiri Hills is",
+        "options": [
+            "Kalsubai",
+            "Salher",
+            "Doda Betta",
+            "Pushpagiri"
+        ],
+        "correct_answer": "c",
+        "note": "The highest point of the Nilgiri Hills is Doda Betta. Doda Betta, mountain peak, the highest point in Tamil Nadu state, southeastern India, near Udhagamandalam. Rising to an elevation of 8,652 feet (2,637 metres), Doda Betta is a grass-covered hill that is frequently climbed by summer visitors, and the summit is accessible by automobile."
+    },
+    {
+        "question": "What do you understand by the term 'Doab' ?",
+        "options": [
+            "Where the delta of river begins",
+            "Where two or more rivers meet",
+            "Land between two separate river systems",
+            "Land between two tributaries of a river"
+        ],
+        "correct_answer": "d",
+        "note": "Land between two tributaries of a river means 'Doab'. The place where two small streams join together and results in the formation of a big river is called a doab. The small streams might be the tributaries of a river also."
+    },
+    {
+        "question": "Which one of the following statements is not correct?",
+        "options": [
+            "Black cotton soil of north-west India was formed by the weathering of basaltic lava rocks",
+            "Sedimentary rocks are distinguished from other types of rocks by the presence of distinct layers",
+            "Granite has large crystals of quartz, feldspar and mica in it",
+            "A metamorphic rock is softer and less compact than its original type"
+        ],
+        "correct_answer": "d",
+        "note": "The following statements that is not correct is that metamorphic rock is softer and less compact than its original type. Metamorphic rocks form from heat and pressure changing the original or parent rock into a completely new rock."
+    },
+    {
+        "question": "Which one of the following statements is not correct?",
+        "options": [
+            "The Western Ghats are relatively higher in their northern region",
+            "The Anaimudi is the highest peak in the Western Ghats",
+            "Tapi river lies to the south of Satpura",
+            "The Narmada and the Tapi river valleys are said to be old rift valleys"
+        ],
+        "correct_answer": "a",
+        "note": "The statement that is not correct is that the Western Ghats are relatively higher in their northern region. The Western Ghats are relatively lower in their northern region."
+    },
+    {
+        "question": "Indian Standard Meridian passes through the states of UP, MP ________",
+        "options": [
+            "AP and Karnataka",
+            "AP and Tamil Nadu",
+            "Karnataka and Tamil Nadu",
+            "Orissa and AP"
+        ],
+        "correct_answer": "d",
+        "note": "Indian Standard Meridian passes through the states of UP, MP, Orissa and AP."
+    },
+    {
+        "question": "The percentage of literates in India is ________",
+        "options": [
+            "Almost equal among males and females",
+            "Lower among males than females",
+            "Higher among males than females",
+            "Lower in urban areas than in rural areas"
+        ],
+        "correct_answer": "c",
+        "note": "The percentage of literates in India is higher among males than females. The major reasons for higher literacy rate among the males than that among female are: Tradition: In Indian tradition education among males is encouraged. Women are generally kept confined in domestic sphere. However, this situation has been changing now."
+    },
+    {
+        "question": "The first range of Himalayas to the North of Ganga Plains is the",
+        "options": [
+            "Satpura Mountains",
+            "Shiwaliks",
+            "Garo Hills",
+            "Khasi Hills"
+        ],
+        "correct_answer": "b",
+        "note": "The first range of Himalayas to the North of Ganga Plains is the Shiwaliks. The Shivalik Hills is a mountain range of the outer Himalayas. The hills consist of 6000 meters of layered rocks. They are known as the sub-Himalayas or the foothills and were formed by the erosion caused by the rise of the Himalayas."
+    },
+    {
+        "question": "The area of India is ________ times larger than the area of Pakistan",
+        "options": [
+            "3",
+            "4",
+            "6",
+            "7"
+        ],
+        "correct_answer": "b",
+        "note": "Pakistan has an area about 796, 095 sq.km. whereas area of India is 3,287,263 sq.km. which is roughly 4 times larger."
+    },
+    {
+        "question": "The highest peak in India",
+        "options": [
+            "Kamet",
+            "Nandakot",
+            "Nanda Devi",
+            "K2 (Godwin Austin)"
+        ],
+        "correct_answer": "d",
+        "note": "K2 also known as Godwin Austin is the highest peak in India. Its elevation is about 8611m. Apart from being world's second highest mountain it is also known as \"Savag mountain\" due to extreme weather."
+    },
+    {
+        "question": "Which one of the following longitudes determines the Indian Standard Time?",
+        "options": [
+            "86.5ºE",
+            "85.5ºE",
+            "84.5ºE",
+            "82.5ºE"
+        ],
+        "correct_answer": "d",
+        "note": "82.5ºE longitudes determines the Indian Standard Time. The 82½o east longitude is considered as the standard meridian of India.The local time along this longitude is generally considered as the common time of India.This is known as Indian Standard Time. Indian Standard Time is 5.5 hours (5 hours 30 minutes) ahead of Greenwich Mean Time(GMT+5.5)."
+    },
+    {
+        "question": "________ forms the western boundary of the Indian sub-continent.",
+        "options": [
+            "Aravalli",
+            "Pirpanjal",
+            "Karakoram",
+            "Hindukush"
+        ],
+        "correct_answer": "d",
+        "note": "Hindukush forms the western boundary of the Indian sub-continent. The mountain rage on the western boundary of the Indian Sub continent is called the Hindu Kush. The Hindu Kush is an 800 km long mountain range which stretches across the Afghanistan Pakistan border. It divides the valley of the Amu Darya in the north from the Indus River valley to the south."
+    },
+    {
+        "question": "Name the longest lake in India",
+        "options": [
+            "Pangong lake",
+            "Pulicat Lake",
+            "Kolleru Lake",
+            "Vembanad Lake"
+        ],
+        "correct_answer": "d",
+        "note": "Vembanad is the longest lake in India. It's length streches upto 96.5km and width of this lake is about 14km and it is the largest lake in the state of Kerala."
+    },
+    {
+        "question": "The Patkai hills belong to which mountain ranges?",
+        "options": [
+            "Himachal",
+            "Purvanchal",
+            "Himgiri",
+            "Hindu Kush"
+        ],
+        "correct_answer": "b",
+        "note": "Patkai hills are part of Purvanchal hills in North-Eastern part of India. Patkai includes three hills namely -\n(i) Patkai Bum\n(ii) Garo-Khasi-Jaintia\n(iii) Lushai hills"
+    },
+    {
+        "question": "Maharashtrian Plateau is made up of ________",
+        "options": [
+            "Alluvial soil",
+            "Coral reef",
+            "Sandstone",
+            "Lava"
+        ],
+        "correct_answer": "d",
+        "note": "Maharashtrian Plateau is made up of lava."
+    },
+    {
+        "question": "Why is that India has one of the lowest agricultural yields in the world?",
+        "options": [
+            "Summers are very hot",
+            "Lack of fertile soil",
+            "Farmers being poor and illiterate do not use modern farming techniques",
+            "Occurrence of frost at night"
+        ],
+        "correct_answer": "c",
+        "note": "India has one of the lowest agricultural yields in the world because farmers being poor and illiterate do not use modern farming techniques. Indian farmers are facing the problem of low income from their marketable surplus crops in the absence of proper organized markets and adequate transportation facilities. Scattered and sub-divided holdings are also creating serious problem for marketing their products."
+    },
+    {
+        "question": "In which state is the Guru Shikhar Peak located?",
+        "options": [
+            "Rajasthan",
+            "Gujarat",
+            "Madhya Pradesh",
+            "Maharashtra"
+        ],
+        "correct_answer": "a",
+        "note": "The Guru Shikhar Peak is located in Rajasthan. Guru Shikar is located at a height of 1772 meters above sea level, and one can enjoy the view of Mount Abu region from this peak. It is 15 km from Mount Abu and a road from there leads almost to the top of the mountain."
+    },
+    {
+        "question": "Consider the following statements:\n1. Cherrapunji is located on the south side of Garo hills.\n2. Cherrapunji is about 1700 m above mean sea level.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "The statements that are correct are Cherrapunji is located on the south side of Garo hills and Cherrapunji is about 1700 m above mean sea level. Cherrapunji is a subdivisional town in the East Khasi Hills district in the Indian state of Meghalaya."
+    },
+    {
+        "question": "Which one of the following cities will never get the vertical rays of the sun?",
+        "options": [
+            "Srinagar",
+            "Mumbai",
+            "Kolkata",
+            "Thiruvananthapuram"
+        ],
+        "correct_answer": "a",
+        "note": "Since Srinagar lies to the north of the Tropic of Cancer, it never gets the vertical rays of the sun."
+    },
+    {
+        "question": "West Bengal shares boundaries with how many foreign countries?",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "correct_answer": "c",
+        "note": "West Bengal shares boundaries with three foreign countries. The state has international boundaries with Bangladesh in the east, Bhutan and Nepal in the north."
+    },
+    {
+        "question": "The correct order of the given hills from west to east is ________",
+        "options": [
+            "Garo-Jaintia-Naga-Khasi",
+            "Khasi-Naga-Jaintia-Garo",
+            "Khasi-Garo-Jaintia-Naga",
+            "Garo-Khasi-Jaintia-Naga"
+        ],
+        "correct_answer": "d",
+        "note": "The correct order of the given hills from west to east is Garo-Khasi-Jaintia-Naga."
+    },
+    {
+        "question": "The Vindhyas belong to which class of mountains?",
+        "options": [
+            "Block mountains",
+            "Fold mountains",
+            "Volcanic mountains",
+            "Residual mountains"
+        ],
+        "correct_answer": "a",
+        "note": "The Vindhyas belong to block mountains. Mountains are created when large areas or blocks of earth are broken and displaced vertically."
+    },
+    {
+        "question": "Which is Raisina Hills?",
+        "options": [
+            "Where Rashtrapati Bhavan is situated",
+            "The Hill feature in Srinagar otherwise known\nas Shnkara charya Bill",
+            "The place where the Dogra rulers of J & K built\ntheir fort in Jammu",
+            "The rock feature at Kanyakumari where\nSwami Vivekananda's statue was ereted"
+        ],
+        "correct_answer": "a",
+        "note": "Raisina hills is an extension of Aravali hills in Delhi. Rashtrapati Bhavan is situated on these hills and hence often termed as Raisna Hills."
+    },
+    {
+        "question": "The Himalayas are formed of parallel fold ranges. Among them which is the oldest range?",
+        "options": [
+            "The Shiwalik Range",
+            "The Lesser Himalayas",
+            "The Great Himalayan Range",
+            "The Dhaula Dhar Range"
+        ],
+        "correct_answer": "c",
+        "note": "The Himalayas are formed of parallel fold ranges. The range's total length is some 1,400 miles (2,300 km), and it has an average elevation of more than 20,000 feet (6,100 metres). The Great Himalayas contain many of the world's tallest peaks, including (from west to east) Nanga Parbat, Annapurna, Mount Everest, and Kanchenjunga."
+    },
+    {
+        "question": "One of the states not bisected by the Tropic of Cancer is",
+        "options": [
+            "Odisha",
+            "Gujarat",
+            "West Bengal",
+            "Rajasthan"
+        ],
+        "correct_answer": "a",
+        "note": "One of the states not bisected by the Tropic of Cancer is Odisha. Tropic of cancer passes through Rajasthan, Gujarat, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram."
+    },
+    {
+        "question": "Zoji la pass connects",
+        "options": [
+            "Srinagar and Leh",
+            "Arunachal and Tibet",
+            "Chamba and Spiti",
+            "Kalimpong and Lhasa"
+        ],
+        "correct_answer": "a",
+        "note": "Zoji La pass is located on National highway ID between Srinagar and Leh. It is located 11,580 Ft. above the sea level."
+    },
+    {
+        "question": "In the Andaman Islands live the",
+        "options": [
+            "Todas",
+            "Onge",
+            "Gonda",
+            "Lepcha"
+        ],
+        "correct_answer": "b",
+        "note": "In the Andaman Islands lives the Onge. The Onge call themselves En-iregale, which means 'perfect person.' They have long lived on Little Andaman Island, the most southerly island in the Andaman archipelago."
+    },
+    {
+        "question": "Where is Saddle Peak in Andaman and Nicobar Island situated?",
+        "options": [
+            "Great Nicobar",
+            "Middle Andaman",
+            "Little Andaman",
+            "Northern Andaman"
+        ],
+        "correct_answer": "d",
+        "note": "Surrounded by Saddle Peak National Park at an height of about 732 m, Saddle Peak is located on North Andaman Island."
+    },
+    {
+        "question": "The latitudes of main land of India extends between",
+        "options": [
+            "8°4' N and 37°6' N",
+            "8°4' W and 37°6' W",
+            "8°4' E and 37°6' E",
+            "8°4' S and 37°6' S"
+        ],
+        "correct_answer": "a",
+        "note": "The latitudes of main land of India extends between 8°4' N and 37°6' N. Lying entirely in the Northern Hemisphere, the Country extends between 8° 4' and 37° 6' latitudes north of the Equator, and 68° 7' and 97° 25' longitudes east of it."
+    },
+    {
+        "question": "What is the name of India's Southern Tip?",
+        "options": [
+            "Kanyakumari",
+            "Point Calimere",
+            "Indira Point",
+            "Kovalam"
+        ],
+        "correct_answer": "c",
+        "note": "Indira Point is the name of India's Southern Tip. Indira Point is a village in the Nicobar district at Great Nicobar Island of Andaman and Nicobar Islands in India. It is located in the Great Nicobar tehsil. It is the location of the southernmost point of India's territory."
+    },
+    {
+        "question": "Sun Temple is situated in the state of",
+        "options": [
+            "Rajasthan",
+            "Andhra Pradesh",
+            "Odisha",
+            "Tamil Nadu"
+        ],
+        "correct_answer": "c",
+        "note": "Sun temple is at Konark in Odisha. It is also called \"Black Pagoda' and it is listed in UNESCO World Heritage Site."
+    },
+    {
+        "question": "Correct pair of the state and its capital is",
+        "options": [
+            "Nagaland - Shillong",
+            "Jharkhand - Ranchi",
+            "Uttarakhand - Nainital",
+            "Chattisgarh - Bilaspur"
+        ],
+        "correct_answer": "b",
+        "note": "State   -  Capital\nNagaland - Kohima\nJharkhand - Ranchi\nUttarakhand - Dehradun\nChattisgarh - Atalnagar"
+    },
+    {
+        "question": "West Bengal makes borders with how many countries?",
+        "options": [
+            "None",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "correct_answer": "c",
+        "note": "West Bengal shares boundaries with three foreign countries. The state has international boundaries with Bangladesh in the east, Bhutan and Nepal in the north."
+    },
+    {
+        "question": "Bangladesh does not share its border with which Indian state?",
+        "options": [
+            "Assam",
+            "Tripura",
+            "Jharkand",
+            "Meghalaya"
+        ],
+        "correct_answer": "c",
+        "note": "Bangladesh does not share its border with which Indian state Jharkand. Indian states that shares their border with Bangladesh are:- West Bengal, Tripura, Assam, Meghalya and Mizoram."
+    },
+    {
+        "question": "Arrange the following cities in an order from North to South-\n1. Bhubaneshwar\n2. Chennai\n3. Hyderabad\n4. Cochin",
+        "options": [
+            "1, 3, 2, 4",
+            "1, 2, 3, 4",
+            "1, 2, 4, 3",
+            "1, 3, 4, 2"
+        ],
+        "correct_answer": "a",
+        "note": "Bhubaneshwar, Hyderabad, Chennai and Cochin."
+    },
+    {
+        "question": "The land mass of lndia has an area of ________ million square km.",
+        "options": [
+            "1.28",
+            "2.28",
+            "3.28",
+            "4.28"
+        ],
+        "correct_answer": "c",
+        "note": "Area of India is 3.28 million sq.km which includes Pakistan occupied Kashmir (POK) and Aksai Chin under illegal occupation of China."
+    },
+    {
+        "question": "In the north-west, India shares its land boundaries with which country?",
+        "options": [
+            "Sri Lanka",
+            "Myanmar",
+            "Bangladesh",
+            "Pakistan"
+        ],
+        "correct_answer": "d",
+        "note": "In north-west, India shares its land boundaries with Pakistan running through hilly terrain in J&K, Riverine parts of Punjab, marshy Rann of Kutch and sandy wasteland Rajasthan."
+    },
+    {
+        "question": "India has a land boundary of about ________ km.",
+        "options": [
+            "5200",
+            "10200",
+            "15200",
+            "20200"
+        ],
+        "correct_answer": "c",
+        "note": "Total land boundary of India with seven countries 15,200 km. Its maritime boundary is 7516km."
+    },
+    {
+        "question": "Which of following city is situated in the farthest east?",
+        "options": [
+            "Lucknow",
+            "Jabalpur",
+            "Hyderabad",
+            "Chennai"
+        ],
+        "correct_answer": "a",
+        "note": "Lucknow city is situated in the farthest east. Situated on the northern Gangetic plains of India, Lucknow is the capital city of Uttar Pradesh. The geographical location of Lucknow is between 26.50° North and 80.50° East. Lucknow is located at an elevation of 123 meters above sea level. This city was known by the name of Awadh during ancient times."
+    },
+    {
+        "question": "Which border line separates India from Pakistan?",
+        "options": [
+            "McMohan Line",
+            "Radcliffe Line",
+            "17th Parallel Line",
+            "Durand Line"
+        ],
+        "correct_answer": "b",
+        "note": "Radcliffe line demarcates the boundary between India & Pakistan. It runs from mountainous Kashmir to riverine Punjab & then through sandy Rajasthan. It was published on 17 August, 1947 just after Independence."
+    },
+    {
+        "question": "Which of the following country is not a member of BRICS association?",
+        "options": [
+            "Brazil",
+            "Russia",
+            "Iceland",
+            "China"
+        ],
+        "correct_answer": "c",
+        "note": "Iceland is not a member of BRICS association. BRICS is acronym for association of five member countries:-  Brazil, Russia, India, China and South Africa. This association was set up in 2009 after Yekaterinburg summit in Russia."
+    },
+    {
+        "question": "Which state does not share a common border with Chhattisgarh?",
+        "options": [
+            "Andhra Pradesh",
+            "Odisha",
+            "Jharkhand",
+            "Maharashtra"
+        ],
+        "correct_answer": "a",
+        "note": "Andhra Pradesh does not share a common border with Chhattisgarh. The border of Chattisgarh is shared by Uttar Pradesh, Jharkhand, Odisha, Telangana, Maharashtra and Madhya Pradesh."
+    },
+    {
+        "question": "The border of Union Territory of Puducherry does not meet with",
+        "options": [
+            "Karnataka",
+            "Tamil Nadu",
+            "Andhra Pradesh",
+            "Kerala"
+        ],
+        "correct_answer": "a",
+        "note": "The border of Union Territory of Puducherry does not meet with Karnataka. Puducherry is spread over 3 states:- Yanam - Andhra Pradesh, Puducherry & Karaikal - Tamil Nadu and Mahe - Kerala."
+    },
+    {
+        "question": "Which district of Himachal Pradesh touches the border of China?",
+        "options": [
+            "Kinnaur",
+            "Chamba",
+            "Kullu",
+            "Sirmaur"
+        ],
+        "correct_answer": "a",
+        "note": "Kinnaur district of Himachal Pradesh touches the border of China. Chitkul (Chittkul) is a village in Kinnaur district of Himachal Pradesh. It is the last inhabited village near the Indo-China border. The Indian road ends here."
+    },
+    {
+        "question": "The EEZ (Exclusive Economic Zone) of India is",
+        "options": [
+            "12 miles",
+            "360 km",
+            "140 km",
+            "None of these"
+        ],
+        "correct_answer": "b",
+        "note": "The EEZ (Exclusive Economic Zone) of India is 360 km. Exclusive Economic Zone is an area beyond to the territorial sea. Extending seaward to 200 nmi (360 km) out from its coastline."
+    },
+    {
+        "question": "The Standard Meridian of India is",
+        "options": [
+            "75.5 E longitude",
+            "82.5 E longitude",
+            "90.5 E longitude",
+            "0 E longitude"
+        ],
+        "correct_answer": "b",
+        "note": "The Standard Meridian of India is 82.5 E longitude. The 82˚5' E longitude is taken as the Standard Time Meridian of India or reference letters longitude for IST, as it passes through the middle of India (from Mirzapur, near Allahabad)."
+    },
+    {
+        "question": "Which group of following states shares the boundary with Nagaland?",
+        "options": [
+            "Arunachal Pradesh, Assam and Meghalaya",
+            "Arunachal Pradesh, Assam and Manipur",
+            "Assam, Meghalaya and Manipur",
+            "Arunachal Pradesh, Assam and Mizoram"
+        ],
+        "correct_answer": "b",
+        "note": "States sharing their borders with Nagaland are Arunachal Pradesh, Assam & Manipur. Its capital is Kohima."
+    },
+    {
+        "question": "Which of the following Indian States broadly as large as the European nation Poland?",
+        "options": [
+            "Bihar",
+            "Odisha",
+            "Maharashtra",
+            "Madhya pradesh"
+        ],
+        "correct_answer": "d",
+        "note": "Madhya pradesh is broadly as large as the European nation Poland. Madhya Pradesh means middle province, and it is located in the geographic heart of India. Except for the valleys of the Narmada and the Tapti, Madhya Pradesh consists of a plateau with a mean elevation of 1600 ft above sea level, interspersed with the mountains of the Vindhya and the Satpura ranges."
+    },
+    {
+        "question": "For transporting large quantities of crude oil on land, over long distances the most economical mode is",
+        "options": [
+            "By pipelines",
+            "By rail tankers",
+            "By road tankers",
+            "By river barges"
+        ],
+        "correct_answer": "a",
+        "note": "For transporting large quantities of crude oil on land, over long distances the most economic model is by pipelines. Pipelines are generally the most economical way to transport large quantities of oil, refined oil products or natural gas over land. For example, in 2014, pipeline transport of crude oil cost about $5 per barrel, while rail transport cost about $10 to $15 per barrel."
+    },
+    {
+        "question": "Which among the following districts is not situated in the terai of Uttar pradesh?",
+        "options": [
+            "Pilibhit",
+            "Bahraich",
+            "Lakhimpur",
+            "Hardoi"
+        ],
+        "correct_answer": "d",
+        "note": "Hardoi district of Lucknow administrative division does not fall in the terai of UP, Terai is a water logged region having small sized sediments good for agriculture and lies just below the Bhabar region."
+    },
+    {
+        "question": "Which of the following state is the member of \"Seven Sisters\"?",
+        "options": [
+            "West Bengal",
+            "Tripura",
+            "Orissa",
+            "Bihar"
+        ],
+        "correct_answer": "b",
+        "note": "Orissa is the member of \"Seven Sisters\". Seven Sisters include Arunachal Pradesh, Nagaland Manipur, Mizoram, Tripura, Meghalya and Assam."
+    },
+    {
+        "question": "Nepal shares a border with which other country besides India?",
+        "options": [
+            "China",
+            "Bhutan",
+            "Bangladesh",
+            "Afghanistan"
+        ],
+        "correct_answer": "a",
+        "note": "Nepal shares its boundaries with China besides India. It acts as a buffer state between India and China."
+    },
+    {
+        "question": "Name the estuary on the border of India and Pakistan?",
+        "options": [
+            "Daman Creek",
+            "Sir Creek",
+            "Karwar Creek",
+            "Mandovi Creek"
+        ],
+        "correct_answer": "b",
+        "note": "Sir creek is an estuary between Gujarat state (India) and Sind province (Pakistan). The dispute between India & Pakistan is mainly because of the presence of high reserve of oil and gas."
+    },
+    {
+        "question": "Which city is served by Diamond Harbour?",
+        "options": [
+            "Mumbai",
+            "Visakhapatnam",
+            "Kolkata",
+            "Rangoon"
+        ],
+        "correct_answer": "c",
+        "note": "Kolkata city is served by Diamond Harbour. Diamond Harbour is a small town of 33,000 in South 24 Parganas District of West Bengal in India. It is situated on the banks of the river Hoogly, 51km south of Calcutta. It is located at the point where the Ganges River turns south toward the Bay of Bengal."
+    },
+    {
+        "question": "The longitudes of main land of India extends between ________.",
+        "options": [
+            "68°7' E and 97°25' E",
+            "68°.7' W and 97°25' W",
+            "68°7' N and 97°25' N",
+            "68°7' S and 97°25' S"
+        ],
+        "correct_answer": "a",
+        "note": "The mainland extends between latitudes 8° 4' and 37° 6' north, longitudes 68° 7' and 97° 25' east and measures about 3,214 km from north to south between the extreme latitudes and about 2,933 km from east to west between the extreme longitudes."
+    },
+    {
+        "question": "India is the largest country in the world",
+        "options": [
+            "3rd",
+            "5th",
+            "7th",
+            "9th"
+        ],
+        "correct_answer": "c",
+        "note": "In terms of area India is the 7th largest country in World whereas, Russia is the largest country. On the other hand in term of population India is 2nd largest just after China."
+    },
+    {
+        "question": "Which state is the protectorate of India?",
+        "options": [
+            "Arunachal Pradesh",
+            "Nagaland",
+            "Meghalaya",
+            "Sikkim"
+        ],
+        "correct_answer": "d",
+        "note": "After 1947, popular vote for Sikkim to join the Indian Union failed and a special protectorate status was provided to it by Jawaharlal Nehru. In 1975 by a Referendum Sikkim\nbecame the part of India."
+    },
+    {
+        "question": "The dispute over Siachen Glacier is between",
+        "options": [
+            "India and China",
+            "India and Afghanistan",
+            "India and Pakistan",
+            "India and Nepal"
+        ],
+        "correct_answer": "c",
+        "note": "The dispute over Siachen Glacier is between India and Pakistan. They also fought war for this disputed territory in 1984. Siachen Glacier is the 2nd longest glacier in the world's non-polar area (76km)."
+    },
+    {
+        "question": "Which country is not a member of Bay of Bengal Initiative for Multi-Sectoral Technical and\nEconomic Cooperation (BIMSTEC)?",
+        "options": [
+            "Thailand",
+            "Myanmar",
+            "India",
+            "Pakistan"
+        ],
+        "correct_answer": "d",
+        "note": "Pakistan is not a member of Bay of Bengal Initiative for Multi-Sectoral Technical and\nEconomic Cooperation (BIMSTEC). BIMSTEC was established on 6th June 1997 as international organisation involving countries of South Asia and South-East Asia. It includes Bangladesh, India, Mayanmar, Sri Lanka, Thailand, Bhutan and Nepal."
+    },
+    {
+        "question": "The Indian state of Sikkim does not share a border with which neighbouring country?",
+        "options": [
+            "Nepal",
+            "Bangladesh",
+            "Bhutan",
+            "China"
+        ],
+        "correct_answer": "b",
+        "note": "The Indian State of Sikkim does not share a border with Bangladesh. Indian state of Sikkim share border with only 3 countries China, Nepal and Bhutan."
+    },
+    {
+        "question": "The latitude which passes through Sikkim also passes through",
+        "options": [
+            "Haryana",
+            "Rajasthan",
+            "Uttarakhand",
+            "Himachal Pradesh"
+        ],
+        "correct_answer": "b",
+        "note": "The latitude which passes through Sikkim also passes through Rajasthan. 27° centigrade latitude passes through Gangtok of sikkim and Alwar in Rajasthan."
+    },
+    {
+        "question": "How many Indian states share their boundaries with Nepal?",
+        "options": [
+            "3",
+            "4",
+            "8",
+            "5"
+        ],
+        "correct_answer": "d",
+        "note": "Five Indian states share their boundaries with Nepal. Indian states having border with Nepal are :- Uttrakhand, Uttar Pradesh, Bihar, West Bengal and Sikkim"
+    },
+    {
+        "question": "Which is not correctly matched?",
+        "options": [
+            "Darjeeling - West Bengal",
+            "Mount Abu - Rajasthan",
+            "Kodaikanal - Tamil Nadu",
+            "Shimla - Uttar Pradesh"
+        ],
+        "correct_answer": "d",
+        "note": "Shimla is the capital of Himachal Pradesh."
+    },
+    {
+        "question": "Which of the following is India's military offensive against Pakistan in the Kargil war?",
+        "options": [
+            "Operation Kargil",
+            "Operation LOC",
+            "Operation Vijay",
+            "Operation Success"
+        ],
+        "correct_answer": "c",
+        "note": "The Indian military operation against Pakistan in the Kargil war was \"Operation Vijay\" to clear the Kargill\nsector. The Kargil sector was reoccupied by Indian military  on July 1999."
+    },
+    {
+        "question": "With which of the following country, India has a land dispute near Tawang?",
+        "options": [
+            "Pakistan",
+            "China",
+            "Afghanistan",
+            "Bangladesh"
+        ],
+        "correct_answer": "b",
+        "note": "Tawang is located in the state of Arunachal Pradesh, India. It is separated from China by McMohan line. However China consider the region as disputed land and denies to acknowledge McMohan line as international boundary."
+    },
+    {
+        "question": "In India economically exploitable lignite deposits occur at",
+        "options": [
+            "Neyveli, Tamil Nadu",
+            "Singareni, Andhra Pradesh",
+            "Talcher, Odisha",
+            "Jharia, Bihar"
+        ],
+        "correct_answer": "a",
+        "note": "In India economically exploitable lignite deposits occur at Neyveli, Tamil Nadu. It annually produces about 30 million tonne lignite from opencast mines at Neyveli in the state of Tamil Nadu in southern India and at Barsingsar in Bikaner district of Rajasthan state."
+    },
+    {
+        "question": "Economically exploitable gypsum occurs in",
+        "options": [
+            "Andhra Pradesh",
+            "Bihar",
+            "Rajasthan",
+            "Maharashtra"
+        ],
+        "correct_answer": "c",
+        "note": "Economically exploitable gypsum occurs in Rajasthan. Gypsum is formed by the hydration of anhydrite."
+    },
+    {
+        "question": "Which of the following union territory of India has four districts but the border of its district do not meet with other district?",
+        "options": [
+            "Chandigarh",
+            "Puducherry",
+            "Dadra and Nagar Haveli",
+            "Andaman and Nicobar islands"
+        ],
+        "correct_answer": "b",
+        "note": "The union territory of puducherry has four districts namely Yanam, Puducherry, Karaikal and Mahe. These four districts do not share any border with each other."
+    },
+    {
+        "question": "Which of the following city located on Northern most Latitude?",
+        "options": [
+            "Patna",
+            "Allahabad",
+            "Panchmarhi",
+            "Ahmedabad"
+        ],
+        "correct_answer": "a",
+        "note": "Patna city located on Northern most Latitude. Patna is a city found in Bihar, India. It is located 25.60 latitude and 85.12 longitude and it is situated at elevation 57 meters above sea level."
+    },
+    {
+        "question": "Which of the nations are connected with Palk Strait?",
+        "options": [
+            "India and Sri Lanka",
+            "North Korea and South Korea",
+            "Pakistan and China",
+            "Britain and France"
+        ],
+        "correct_answer": "a",
+        "note": "A Strait is a narrow channel of the water joining two larger bodies of water, Palk Strait connects Bay of Bengal and Gulf of Mannar separating India and Sri Lanka."
+    },
+    {
+        "question": "Which of the following Indian state does not share International land border?",
+        "options": [
+            "Jammu and Kashmir",
+            "Uttar Pradesh",
+            "Bihar",
+            "Madhya Pradesh"
+        ],
+        "correct_answer": "d",
+        "note": "Madhya Pradesh is a state that lies in Central India, and does not share any international border. Indian States sharing their border with Madhya Pradesh are Chhattisgarh, Maharashtra, Gujarat, Rajasthan and Uttar Pradesh."
+    },
+    {
+        "question": "India's neighbour country with minimum area is",
+        "options": [
+            "Bhutan",
+            "Nepal",
+            "Srilanka",
+            "Bangladesh"
+        ],
+        "correct_answer": "a",
+        "note": "Bhutan is the smallest neighbouring country of India on land with 38,394 km area. It ranks 137th in the World by area."
+    },
+    {
+        "question": "Indian Standard Time is ahead of Greenwich Mean Time by",
+        "options": [
+            "5.30 hours",
+            "4:30 hours",
+            "4 hours",
+            "5 hours"
+        ],
+        "correct_answer": "a",
+        "note": "Indian Standard Time is ahead of Greenwich Mean Time by 5.30 hours."
+    },
+    {
+        "question": "Economically exploitable lignite occurs in",
+        "options": [
+            "Andhra Pradesh",
+            "Tamil Nadu",
+            "Karnataka",
+            "Kerala"
+        ],
+        "correct_answer": "b",
+        "note": "Economically exploitable lignite occurs in Tamil Nadu. The development of lignite mines and lignite based thermal power stations has to be confined here."
+    },
+    {
+        "question": "Which of the following countries shares the longest border with India?",
+        "options": [
+            "Bangladesh",
+            "Bhutan",
+            "China",
+            "Pakistan"
+        ],
+        "correct_answer": "a",
+        "note": "India shares a 4096 km long border with Bangladesh. States sharing their border with Bangladesh are as following :-\n1. Assam (262 km)\n2. Tripura (856 km)\n3. Mizoram (180 km)\n4. Meghalaya (44 km)\n5. West Bengal (2,217 km)"
+    },
+    {
+        "question": "India has longest international border with which country?",
+        "options": [
+            "Bhutan",
+            "Nepal",
+            "Bangladesh",
+            "Pakistan"
+        ],
+        "correct_answer": "c",
+        "note": "India has the longest international boundary with Bangladesh (4096.70 km).\n\n\nCountry\nLength of boundary\n\n\n1. Bangladesh\n4,096.70 km\n\n\n2. China\n3,488 km\n\n\n3. Pakistan\n3,323 km\n\n\n4. Nepal\n1,751 km\n\n\n5. Myanmar\n1,643 km\n\n\n6. Bhutan\n699 km\n\n\n7. Afghanistan\n106 km"
+    },
+    {
+        "question": "With which of its neighbouring country India has Kalapani territorial dispute?",
+        "options": [
+            "Nepal",
+            "Bangladesh",
+            "Pakistan",
+            "Sri Lanka"
+        ],
+        "correct_answer": "a",
+        "note": "Kalapani is an area of 400 sq. km and is bone of contention between India and Nepal. In India, it lies in pithoragarh district of Uttrakhand."
+    },
+    {
+        "question": "The nations, separated by McMahon line are",
+        "options": [
+            "Afghanistan and Pakistan",
+            "Bangladesh and India",
+            "China and India",
+            "Pakistan and India"
+        ],
+        "correct_answer": "c",
+        "note": "McMahon line separates India from China. It stretches from eastern border of Bhutan to Brahamputra Gorge in the easternmost part of India near Namcha Barua."
+    },
+    {
+        "question": "With which country India has signed a bilateral contract for development and operations of\nChabahar port?",
+        "options": [
+            "Israel",
+            "Iran",
+            "Tehran",
+            "Turkey"
+        ],
+        "correct_answer": "b",
+        "note": "Chabahar seaport is a port located in Gulf of Oman. India has signed a bilateral agreement with Iran to develop and operate this port. Development of this port will reduce India's dependency on Pakistan in terms of contact with Central Asia."
+    },
+    {
+        "question": "Which of the following state does not share boundary with Myanmar?",
+        "options": [
+            "Assam",
+            "Manipur",
+            "Arunachal Pradesh",
+            "Nagaland"
+        ],
+        "correct_answer": "a",
+        "note": "Assam does not share boundary with Myanmar. The states bordering Myanmar are Arunachal Pradesh, Manipur, Nagaland and Mizoram."
+    },
+    {
+        "question": "The Portuguese possessions Goa, Daman and Diu were liberated in ________.",
+        "options": [
+            "1961",
+            "1971",
+            "1981",
+            "1951"
+        ],
+        "correct_answer": "a",
+        "note": "The Portuguese possessions Goa, Daman and Diu were liberated in 1961. The Annexation of Goa was the process in which the Republic of India annexed the former Portuguese Indian territories of Goa, Daman and Diu, starting with the \"armed action\" carried out by the Indian Armed Forces in December 1961. Depending on the view, this action is referred as the \"Liberation of Goa\" or the \"Invasion of Goa\". Following the end of Portuguese rule in 1961, Goa was placed under military administration headed by Kunhiraman Palat Candeth as Lieutenant Governor."
+    },
+    {
+        "question": "Which state has the largest coastline in India?",
+        "options": [
+            "Andhra Pradesh",
+            "Maharashtra",
+            "Orissa",
+            "Tamil Nadu"
+        ],
+        "correct_answer": "a",
+        "note": "From the given options Andhra Pradesh has the largest coastline with a length of about 974 km. Overall in India, Gujarat has the longest coast line."
+    },
+    {
+        "question": "Which of the following state/union territory land is situated on eastern and western coasts?",
+        "options": [
+            "Puducherry",
+            "Kerala",
+            "Andhra Pradesh",
+            "Maharashtra"
+        ],
+        "correct_answer": "a",
+        "note": "Pondicherry is spread over following regions.\nYanam  - Andhra Pradesh \nPondicherry - Tamilnadu\nKaraikal - Tamilnadu\nMahe - Kerala"
+    },
+    {
+        "question": "Which of the following will not get direct rays of sun?",
+        "options": [
+            "Mumbai",
+            "Chennai",
+            "Thiruvananthapuram",
+            "Srinagar"
+        ],
+        "correct_answer": "d",
+        "note": "From the given options Srinagar lies above the Tropic of Cancer and Sun's apparent movement takes place \nbetween Tropic of Cancer and Tropic of Capricorn."
+    },
+    {
+        "question": "With which country, India has the longest international boundary?",
+        "options": [
+            "Nepal",
+            "Pakistan",
+            "China",
+            "Bangladesh"
+        ],
+        "correct_answer": "d",
+        "note": "India has the longest international boundary with Bangladesh(4096.70 km).\n\n\nCountry\nLength of boundary\n\n\n1. Bangladesh\n4,096.70 km\n\n\n2. China\n3,488 km\n\n\n3. Pakistan\n3,323 km\n\n\n4. Nepal\n1,751 km\n\n\n5. Myanmar\n1,643 km\n\n\n6. Bhutan\n699 km\n\n\n7. Afghanistan POK(disputed area)\n106 km"
+    },
+    {
+        "question": "Katchatheevu Island was ceded by India to which country in 1974?",
+        "options": [
+            "Sri Lanka",
+            "Maldives",
+            "Indonesia",
+            "Myanmar"
+        ],
+        "correct_answer": "a",
+        "note": "Katchatheevu is a volcanic island located between India and Sri Lanka near Palk Strait. Till 1974 this island to was administered by India but the then Prime Minister of India ceded it to Sri Lanka. Presently it is under the administrative control Sri Lankan Government."
+    },
+    {
+        "question": "What is the name of the disputed coastal area located far from Gujarat coast in between India and Pakistan?",
+        "options": [
+            "Gulf of Cambay",
+            "Sir Creek",
+            "Gulf of Khambhat",
+            "Mouth of Indus"
+        ],
+        "correct_answer": "b",
+        "note": "Sir Creek is the disputed territory forming a tidal estuary of 96 km between India and Pakistan. It lies in Rann of Kuchh."
+    },
+    {
+        "question": "Which of the following are included in the World-Heritage List of UNESCO? :\n1. Champaner-Pavagadh Archaeological Park\n2. Chhatrapati Shivaji Railway Station, Mumbai\n3. Mamallapuram\n4. Sun Temple (Konark Temple)",
+        "options": [
+            "1, 2, 3 and 4",
+            "1, 3 and 4",
+            "2 and 4",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "a",
+        "note": "The following are included in the World-Heritage List of UNESCO are Champaner-Pavagadh Archaeological Park, Chhatrapati Shivaji Railway Station, Mumbai, Mamallapuram and Sun Temple (Konark Temple)."
+    },
+    {
+        "question": "Which of the following is the largest union territory of India?",
+        "options": [
+            "Chandigarh",
+            "Puducherry",
+            "Andaman and Nicobar Islands",
+            "Lakshadweep"
+        ],
+        "correct_answer": "c",
+        "note": "Andaman & Nicobar Islands is a group of 572 islands / islets and the largest union territory in India with an area of 8,249 sq km. They are situated between 6o and 14o North Latitude and 92o and 94o East Longitude."
+    },
+    {
+        "question": "Andaman and Nicobar Islands are separated by which of the following?",
+        "options": [
+            "Ten degree channel",
+            "Great Channel",
+            "Bay of Bengal",
+            "Andaman Sea"
+        ],
+        "correct_answer": "a",
+        "note": "Andaman and Nicobar Islands are separated by Ten degree channel. The Ten Degree Channel is a channel that separates the Andaman Islands and Nicobar Islands from each other in the Bay of Bengal. The two sets of islands together form the Indian Union Territory (UT) of Andaman and Nicobar Islands."
+    }
+]

@@ -1,0 +1,1366 @@
+[
+    {
+        "question": "Which planet is known as the 'Watery Planet' ?",
+        "options": [
+            "Mercury",
+            "Earth",
+            "Mars",
+            "Jupiter"
+        ],
+        "correct_answer": "b",
+        "note": "If you look down at our planet from outer space, most of what you see is water; 71% of the planet's surface is covered by ocean and it is because of this that the Earth is sometimes called \"the water planet\". Only about three-tenths of our globe is covered with land."
+    },
+    {
+        "question": "In order of their distances from the Sun, which of the following planets lie between Mars and Uranus?",
+        "options": [
+            "Earth and Jupiter",
+            "Jupiter and Saturn",
+            "Saturn and Earth",
+            "Saturn and Neptune"
+        ],
+        "correct_answer": "b",
+        "note": "Jupiter and Saturn are located between Mars and Uranus."
+    },
+    {
+        "question": "A black hole is a ________",
+        "options": [
+            "Contracted star with intense gravitational pull",
+            "Star with very low surface temperature",
+            "Star with no atmosphere",
+            "Pulsating star"
+        ],
+        "correct_answer": "a",
+        "note": "Black hole, cosmic body of extremely intense gravity from which nothing, not even light, can escape. A black hole can be formed by the death of a massive star. They are regions of space where gravity is so powerful that even light can't escape."
+    },
+    {
+        "question": "Messenger satellite has been launched by NASA for the study of",
+        "options": [
+            "Mercury",
+            "Venus",
+            "Saturn",
+            "Jupiter"
+        ],
+        "correct_answer": "a",
+        "note": "\"MESSENGER\" was a robotic spacecraft sent by NASA.\nThe name is a reference to the messenger deity of the same name from Roman mythology was a NASA robotic spacecraft that orbited the planet Mercury between 2011 and 2015. The probe was launched aboard a Delta II rocket in August 2004 to study Mercury's chemical composition, geology, and magnetic field."
+    },
+    {
+        "question": "Which of the following is indicated by the colour of a star?",
+        "options": [
+            "Weight",
+            "Distance",
+            "Temperature",
+            "Size"
+        ],
+        "correct_answer": "c",
+        "note": "The color of a star mostly indicates a star's temperature, and it can also suggest the star's age. Class O stars, which are blue in color, are the hottest, and class M stars, which are red in color, are the coldest."
+    },
+    {
+        "question": "Milky Way Galaxy was first seen by",
+        "options": [
+            "Galileo",
+            "Martin Schmidt",
+            "Marconi",
+            "Newton"
+        ],
+        "correct_answer": "a",
+        "note": "Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610. Until the early 1920s, most astronomers thought that the Milky Way contained all the stars in the Universe."
+    },
+    {
+        "question": "Halley's comet appears once in a period of ________",
+        "options": [
+            "24 years",
+            "32 years",
+            "76 years",
+            "84 years"
+        ],
+        "correct_answer": "c",
+        "note": "Halley's comet will next appear in the night sky in the year 2062. It orbits the sun every 75-76 years, so this is the time between appearances. Halley's comet was recorded by Edmund Halley in 1682. It was seen again in 1758, 1835, 1910, and 1986."
+    },
+    {
+        "question": "The radiant energy of the sun is transmitted in the form of ________",
+        "options": [
+            "Short waves",
+            "Long waves",
+            "Particles",
+            "None of these"
+        ],
+        "correct_answer": "a",
+        "note": "Radiant energy is the energy of electromagnetic waves. It is a form of energy that can travel through space. For example, we receive the heat from the sun, which is located very far from the earth via radiation. The sun's heat is not transmitted through any solid medium, but through a vacuum. They are short waves."
+    },
+    {
+        "question": "\"Sirius\", the brightest star outside of the Solar System, is also called ________.",
+        "options": [
+            "Cat star",
+            "Dog star",
+            "Fox star",
+            "Lion star"
+        ],
+        "correct_answer": "b",
+        "note": "The brightest star in the sky is Sirius, also known as the “Dog Star” or, more officially, Alpha Canis Majoris, for its position in the constellation Canis Major. Sirius is a binary star dominated by a luminous main sequence star, Sirius A, with an apparent magnitude of -1.46."
+    },
+    {
+        "question": "Which of the following is called \"Blue Planet\"?",
+        "options": [
+            "Saturn",
+            "Earth",
+            "Jupiter",
+            "Mars"
+        ],
+        "correct_answer": "b",
+        "note": "Planet Earth has been called the \"Blue Planet\" due to the abundant water on its surface. Here on Earth, we take liquid water for granted; after all, our bodies are mostly made of water. However, liquid water is a rare commodity in our solar system."
+    },
+    {
+        "question": "Which of the planets is nearest to the earth?",
+        "options": [
+            "Jupiter",
+            "Venus",
+            "Mercury",
+            "Mars"
+        ],
+        "correct_answer": "b",
+        "note": "When Venus is in the middle of the Sun and Earth, it is at its closest point to Earth. During this period, Venus would be the closest planet to Earth. However, there are times when Mars is actually the closest planet."
+    },
+    {
+        "question": "Which of the following is the brightest planet?",
+        "options": [
+            "Mercury",
+            "Venus",
+            "Mars",
+            "Jupiter"
+        ],
+        "correct_answer": "b",
+        "note": "Venus, which can be seen with the unaided eye from Earth, is the brightest planet in our Solar System. Venus was given the nickname evening star and morning star because of its bright, consistent presence."
+    },
+    {
+        "question": "Which planet is known as 'Morning Star'?",
+        "options": [
+            "Mercury",
+            "Venus",
+            "Mars",
+            "Jupiter"
+        ],
+        "correct_answer": "b",
+        "note": "Venus because it seems In addition to being known as the evening star, Venus was also called the morning star because it could be seen for a few hours before the Sun grew too bright. The planet actually becomes brightest before the Sun rises or just after sunset."
+    },
+    {
+        "question": "Parsec is the unit of measurement of ________",
+        "options": [
+            "Density of stars",
+            "Astronomical distance",
+            "Brightness of heavenly bodies",
+            "Orbital velocity of giant stars"
+        ],
+        "correct_answer": "b",
+        "note": "Basically, it's a unit of length used to measure the astronomically large distances between objects beyond our Solar System. One parsec is the distance at which one astronomical unit subtends an angle of one arcsecond."
+    },
+    {
+        "question": "Which of the following planets is known as Earth's twin?",
+        "options": [
+            "Mars",
+            "Saturn",
+            "Uranus",
+            "Venus"
+        ],
+        "correct_answer": "d",
+        "note": "Venus is sometimes called Earth's twin because Venus and Earth are almost the same size, have about the same mass (they weigh about the same), and have a very similar composition (are made of the same material)."
+    },
+    {
+        "question": "Rotational axis of which of the following planet is highly tilted?",
+        "options": [
+            "Earth",
+            "Uranus",
+            "Neptune",
+            "Jupiter"
+        ],
+        "correct_answer": "b",
+        "note": "Uranus is a real oddball in our solar system. Its spin axis is tilted by a whopping 98°, meaning it essentially spins on its side. No other planet has anywhere near such a tilt."
+    },
+    {
+        "question": "Which of the following is not related to solar system?",
+        "options": [
+            "Small planet",
+            "Comets",
+            "Planet",
+            "Nebula"
+        ],
+        "correct_answer": "d",
+        "note": "Nebula is the dense cloud of gases mainly Helium & Hydrogen & dust. They occur at primary stages & then from them galaxies are formed. It is a cloud of gas and dust in outer space, visible in the night sky either as an indistinct bright patch or as a dark silhouette against other luminous matter."
+    },
+    {
+        "question": "Comets revolve around ________",
+        "options": [
+            "Sun",
+            "Earth",
+            "Venus",
+            "No single heavenly body"
+        ],
+        "correct_answer": "a",
+        "note": "Comets go around the Sun in a highly elliptical orbit. They can spend hundreds and thousands of years out in the depths of the solar system before they return to Sun at their perihelion. Like all orbiting bodies, comets follow Kepler's Laws - the closer they are to the Sun, the faster they move."
+    },
+    {
+        "question": "Which one of the following planets takes the same number of days for rotation and revolution?",
+        "options": [
+            "Mars",
+            "Venus",
+            "Mercury",
+            "Jupiter"
+        ],
+        "correct_answer": "b",
+        "note": "Venus is the planet that takes nearly the same number of days for rotation as it does for revolution around the Sun. This phenomenon is known as synchronous rotation or tidal locking. As a result, Venus rotates on its axis very slowly and in the opposite direction compared to most other planets. It takes about 243 Earth days for Venus to complete one rotation on its axis, and it also takes about 225 Earth days to complete one orbit around the Sun. This means that a day (rotation) on Venus is longer than its year (revolution). Therefore, the correct answer is Option B, which is Venus."
+    },
+    {
+        "question": "The Planets that have no natural satellites are ________.",
+        "options": [
+            "Mercury and Venus",
+            "Earth and Mars",
+            "Jupiter and Saturn",
+            "Uranus and Neptune"
+        ],
+        "correct_answer": "a",
+        "note": "Mercury and Venus are the only planets with no natural satellites."
+    },
+    {
+        "question": "The darkest part of the shadow during eclipse is",
+        "options": [
+            "Halo",
+            "Umbra",
+            "Penumbra",
+            "Black Hole"
+        ],
+        "correct_answer": "b",
+        "note": "The umbra (Latin for \"shadow\") is the innermost and darkest part of a shadow, where the light source is completely blocked by the occluding body. An observer in the umbra experiences a total eclipse."
+    },
+    {
+        "question": "The sunspots cause ________",
+        "options": [
+            "Aurora borealis and aurora australis",
+            "Magnetic storms on the surface of the sun",
+            "Polar auroras",
+            "All of these"
+        ],
+        "correct_answer": "d",
+        "note": "The sunspots cause Aurora borealis and aurora australis, magnetic storms on the surface of the sun and polar auroras."
+    },
+    {
+        "question": "Which of these is a dwarf planet?",
+        "options": [
+            "Neptune",
+            "Titan",
+            "Eris",
+            "Hydra"
+        ],
+        "correct_answer": "c",
+        "note": "Eris is the largest dwarf planet in the solar system and is the largest object found in orbit around the Sun since the discovery of Neptune and its moon Triton in 1846. It has a diameter between 2,400 and 3,000 kilometres (1,490 to 1,860 miles) and is 27% more massive than Pluto."
+    },
+    {
+        "question": "The altitudes of heavenly bodies appear to be greater than they actually are. This is due to ________",
+        "options": [
+            "Vertical motion of these heavenly bodies",
+            "Motions of the earth",
+            "Atmospheric refraction",
+            "These are visible because of light of the sun reflected from their surface"
+        ],
+        "correct_answer": "c",
+        "note": "Atmospheric refraction is the deviation of light or other electromagnetic wave from a straight line as it passes through the atmosphere due to the variation in air density as a function of height. This refraction is due to the velocity of light through air, decreasing (the refractive index increases) with increased density. Atmospheric refraction near the ground produces mirages. Such refraction can also raise or lower, or stretch or shorten, the images of distant objects without involving mirages."
+    },
+    {
+        "question": "The Planet amongst the following (other than Saturn), that shows a faint ring is ________.",
+        "options": [
+            "Earth",
+            "Jupiter",
+            "Mars",
+            "Pluto"
+        ],
+        "correct_answer": "b",
+        "note": "Jupiter’s dusty main ring system is harder to see than Saturn’s, but it’s there nonetheless. Jupiter’s largely invisible torus of ionized plasma continually being ejected from its third-largest moon Io. This ring of superheated plasma orbits around Jupiter at a staggering minimum temperature of 99,700° Celsius, and drastically affects Jupiter’s magnetosphere and the other particles orbiting around Jupiter."
+    },
+    {
+        "question": "Comets are celestial bodies moving about the solar system in",
+        "options": [
+            "Elliptical or hyperbolic orbits, usually accompanied by a shining tail",
+            "Elliptical orbits usually accompanied by a long shining tail",
+            "Hyperbolic orbit always accompanied by a shining head",
+            "Hyperbolic orbit without projecting any tail or head"
+        ],
+        "correct_answer": "b",
+        "note": "Comets are celestial bodies moving about the solar system in Elliptical orbits usually accompanied by a long shining tail. A comet is an icy, small Solar System body that, when passing close to the Sun, warms and begins to release gases, a process called outgassing. This produces a visible atmosphere or coma, and sometimes also a tail. These phenomena are due to the effects of solar radiation and the solar wind acting upon the nucleus of the comet."
+    },
+    {
+        "question": "The period of one revolution of sun around the centre of galaxy is called ________",
+        "options": [
+            "Parsec",
+            "Astronomical year",
+            "Cosmic year",
+            "Light year"
+        ],
+        "correct_answer": "c",
+        "note": "The galactic year, also known as a cosmic year, is the duration of time required for the Sun to orbit once around the center of the Milky Way Galaxy. Estimates of the length of one orbit range from 225 to 250 million terrestrial years."
+    },
+    {
+        "question": "Which is the hottest planet in the solar system?",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Venus",
+            "Uranus"
+        ],
+        "correct_answer": "c",
+        "note": "Venus is the hottest planet in the solar system. Although Venus is not the planet closest to the sun, its dense atmosphere traps heat in a runaway version of the greenhouse effect that warms Earth. As a result, temperatures on Venus reach 870° Fahrenheit (465° Celsius), more than hot enough to melt lead."
+    },
+    {
+        "question": "Which is the brightest planet of the solar system?",
+        "options": [
+            "Jupiter",
+            "Mercury",
+            "Uranus",
+            "Venus"
+        ],
+        "correct_answer": "d",
+        "note": "Venus, which can be seen with the unaided eye from Earth, is the brightest planet in our Solar System. Venus was given the nickname evening star and morning star because of its bright, consistent presence."
+    },
+    {
+        "question": "The planet that is nearly comparable to Earth as regards its size and mass is",
+        "options": [
+            "Pluto",
+            "Mars",
+            "Venus",
+            "Mercury"
+        ],
+        "correct_answer": "c",
+        "note": "Venus is often called the Earth's sister planet. The Earth and Venus are very similar in size with only a 638 km difference in diameter, Venus having 81.5% of the Earth's mass."
+    },
+    {
+        "question": "Which planet of the solar system spins on its axis at the fastest rate?",
+        "options": [
+            "Mercury",
+            "Earth",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correct_answer": "c",
+        "note": "Jupiter is the fastest spinning planet in our Solar System rotating on average once in just under 10 hours. That is very fast especially considering how large Jupiter is. This means that Jupiter has the shortest days of all the planets in the Solar System."
+    },
+    {
+        "question": "To a space traveller on moon, the lunar sky during day time appears ________",
+        "options": [
+            "White",
+            "Blue",
+            "Black",
+            "Red"
+        ],
+        "correct_answer": "c",
+        "note": "The Moon's atmosphere is negligibly thin, essentially vacuum, so its sky is always black, as in the case of Mercury. However, the Sun is so bright that it is impossible to see stars during the daytime, unless the observer is well shielded from sunlight (direct or reflected from the ground)."
+    },
+    {
+        "question": "The time required by moonlight to reach the earth is ________",
+        "options": [
+            "1 sec",
+            "1.3 sec",
+            "2 sec",
+            "2.3 sec"
+        ],
+        "correct_answer": "b",
+        "note": "Light travels through space at just over 186,000 miles per second. The moon is just under 250,000 miles from Earth, so light from the Moon's surface has to travel more than one second (about 1.3 seconds) to reach us."
+    },
+    {
+        "question": "Comets moves around the",
+        "options": [
+            "Earth",
+            "Venus",
+            "Sun",
+            "Jupiter"
+        ],
+        "correct_answer": "c",
+        "note": "Comets go around the Sun in a highly elliptical orbit. They can spend hundreds and thousands of years out in the depths of the solar system before they return to Sun at their perihelion. Like all orbiting bodies, comets follow Kepler's Laws - the closer they are to the Sun, the faster they move."
+    },
+    {
+        "question": "The planets are kept in motion in their respective orbits by ________",
+        "options": [
+            "Their great size and spherical shape",
+            "The rotation and density",
+            "Gravitation and centrifugal force",
+            "Rotation of the sun on its axis"
+        ],
+        "correct_answer": "c",
+        "note": "The planets are kept in motion in their respective orbits by Gravitation and centrifugal force. The Sun's gravity pulls on the planets, just as Earth's gravity pulls down anything that is not held up by some other force and keeps you and me on the ground."
+    },
+    {
+        "question": "Which of the following celestial bodies bear, 'The Sea of Tranquility' and 'The Ocean of Storms' ?",
+        "options": [
+            "Mars",
+            "Venus",
+            "Moon",
+            "Sun"
+        ],
+        "correct_answer": "c",
+        "note": "There are three sides to the moon that are visible to us on earth: the near side of the moon, the western far side, and the eastern far side. The side of the moon that is the most valuable is the near side of the moon since it faces the earth at all times and contains four of the five largest seas/oceans on the moon. These seas/oceans are:\nThe Ocean of Storms (Oceanus Procellarum) - 2568 km in diameter, The Sea of Cold (Mare Frigoris) - 1596 km in diameter, The Sea of Showers (Mare Imbrium) - 1123 km in diameter, The Sea of Fecundity (Mare Fecunditatis) - 909 km in diameter, The Sea of Tranquility (Mare Tranquillitatis) - 873 km in diameter."
+    },
+    {
+        "question": "Who founded the word \"Geography\"?",
+        "options": [
+            "Ptolemy",
+            "Eratosthenes",
+            "Hicatus",
+            "Herodotus"
+        ],
+        "correct_answer": "b",
+        "note": "Geography (from Greek: geographia, literally \"earth description\") is a field of science devoted to the study of the lands, features, inhabitants, and phenomena of the Earth and planets. The first person to use the word geography was Eratosthenes (276–194 BC)."
+    },
+    {
+        "question": "The Saturn rings were discovered by ________",
+        "options": [
+            "Copernicus",
+            "Newton",
+            "Galileo",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "Galileo Galilei was the first to see Saturn's rings in 1610, although from his telescope they resembled handles or arms. It took Dutch astronomer Christiaan Huygens, who had a more powerful telescope, to propose that Saturn had a thin, flat ring."
+    },
+    {
+        "question": "The same side of the moon always faces the Earth because ________",
+        "options": [
+            "Moon and the Earth have gravitational force",
+            "Moon cannot change its position",
+            "The period of rotation of the Moon on its axis and period of revolution around' the Earth is almost the same",
+            "The period of rotation of the Moon is not equal to the period of rotation of the Earth"
+        ],
+        "correct_answer": "c",
+        "note": "Only one side of the Moon is visible from Earth because the Moon rotates on its axis at the same rate that the Moon orbits the Earth – a situation known as synchronous rotation, or tidal locking. The Moon is directly illuminated by the Sun, and the cyclically varying viewing conditions cause the lunar phases."
+    },
+    {
+        "question": "The orbits of planets around the Sun, or of satellites around the Earth, can be ________",
+        "options": [
+            "Circular and elliptic",
+            "Circular and hyperbolic",
+            "Elliptic and parabolic",
+            "Parabolic and hyperbolic"
+        ],
+        "correct_answer": "a",
+        "note": "All the planets are satellites around the Sun. Almost every ship launched from Earth can be considered a satellite, as it is orbiting either the Earth or the Sun. Even though a space probe is going \"out\" from the Earth to Jupiter, it is still in orbit around the Sun, so it is still a satellite. It is certainly possible to set up a satellite so that it has a circular orbit (a circle is just an ellipse whose foci coincide). Gravity can only pull in the direction toward the planet."
+    },
+    {
+        "question": "The light coming from stars gives the idea of their ________",
+        "options": [
+            "Size",
+            "Rotational speed",
+            "Mass",
+            "Temperature"
+        ],
+        "correct_answer": "d",
+        "note": "Stars emit colors of many different wavelengths, but the wavelength of light where a star's emission is concentrated is related to the star's temperature - the hotter the star, the more blue it is; the cooler the star, the more red it is."
+    },
+    {
+        "question": "Stars which appear single to the naked eye but are double stars when observed by a telescope, are known as ________",
+        "options": [
+            "Cosmic stars",
+            "Quasars",
+            "Binaries",
+            "Novae and supernovae"
+        ],
+        "correct_answer": "c",
+        "note": "In observational astronomy, a double star or visual double is a pair of stars that appear close to each other as viewed from Earth, especially with the aid of optical telescopes. This occurs because the pair either forms a binary star (i.e. a binary system of stars in mutual orbit, gravitationally bound to each other) or is an optical double, a chance line-of-sight alignment of two stars at different distances from the observer."
+    },
+    {
+        "question": "Asteroids have their orbits between the planets ________",
+        "options": [
+            "Mercury and Venus",
+            "Earth and Mars",
+            "Mars and Jupiter",
+            "Jupiter and Saturn"
+        ],
+        "correct_answer": "c",
+        "note": "The asteroid belt is the circumstellar disc in the Solar System located roughly between the orbits of the planets Mars and Jupiter. It is occupied by numerous irregularly shaped bodies called asteroids or minor planets. The remaining bodies range down to the size of a dust particle."
+    },
+    {
+        "question": "Which one of the following statements is correct with reference to our solar system?",
+        "options": [
+            "The Earth is the densest of all the planets in our solar system",
+            "The predominant element in the composition of Earth is silicon",
+            "The Sun contains 75% of the mass of the solar system",
+            "The diameter of the Sun is 190 times that of the Earth"
+        ],
+        "correct_answer": "a",
+        "note": "Earth is the fourth smallest of the planets-though in terms of the rocky planets, it's the largest-but it's the most dense."
+    },
+    {
+        "question": "The correct sequence of the following planets in terms of gravity, in the descending order is ________",
+        "options": [
+            "Saturn, Earth, Neptune, Uranus",
+            "Neptune, Uranus, Saturn, Earth",
+            "Uranus, Earth, Saturn, Neptune",
+            "Neptune, Saturn, Earth, Uranus"
+        ],
+        "correct_answer": "d",
+        "note": "The correct sequence of the planets in terms of gravity, in the descending order is Neptune, Saturn, Earth, Uranus.\nJupiter - 24.79 m/s2 (81.33 ft/s2)\nNeptune - 11.15 m/s2 (36.58 ft/s2)\nSaturn - 10.44 m/s2 (34.25 ft/s2)\nEarth - 9.807 m/s2 (32.18 ft/s2)\nVenus - 8.87 m/s2 (29.1 ft/s2)\nUranus - 8.69 m/s2 (29.4 ft/s2)\nMars - 3.711 m/s2 (12.8 ft/s2) \nMercury - 3.7 m/s2 (12.4 ft/s2)"
+    },
+    {
+        "question": "Consider the following astral bodies:\n1. Sirius\n2. Venus\n3. Mars\nThe correct sequence in decreasing order of their brightness is:",
+        "options": [
+            "2, 3, 1",
+            "1, 2, 3",
+            "3, 2, 1",
+            "2, 1, 3"
+        ],
+        "correct_answer": "d",
+        "note": "The correct sequence in decreasing order of their brightness is Venus, Sirius and Mars."
+    },
+    {
+        "question": "Which planet is considered as the Dwarf planet?",
+        "options": [
+            "Earth",
+            "Jupiter",
+            "Pluto",
+            "Saturn"
+        ],
+        "correct_answer": "c",
+        "note": "Pluto is considered as a dwarf planet. This is called so because it has not cleared its neighbourhood around its orbit. International Astronomic Unit declared it a Dwarf Panet in 2006. It orbits in a disc-like zone beyond the orbit of Neptune called the Kuiper belt, a distant region populated with frozen bodies left over from the solar system's formation."
+    },
+    {
+        "question": "Which of the following is the largest of the inner planets?",
+        "options": [
+            "Venus",
+            "Mercury",
+            "Mars",
+            "Earth"
+        ],
+        "correct_answer": "d",
+        "note": "Earth is the third inner planet and the one we know best. Of the four terrestrial planets, Earth is the largest, and the only one that currently has liquid water, which is necessary for life as we know it."
+    },
+    {
+        "question": "Which of the following scientist had proven that every planet has an elongated path?",
+        "options": [
+            "Galileo",
+            "Newton",
+            "Copernicus",
+            "Kepler"
+        ],
+        "correct_answer": "d",
+        "note": "Kepler through his 'planetary law of motion' proved that every planet has an elongated path. Kepler had believed in the Copernican model of the solar system, which called for circular orbits, but he could not reconcile Brahe's highly precise observations with a circular fit to Mars' orbit – Mars coincidentally having the highest eccentricity of all planets except Mercury."
+    },
+    {
+        "question": "The orbit in which of the following planet is nearest to the Sun?",
+        "options": [
+            "Saturn",
+            "Jupiter",
+            "Mars",
+            "Uranus"
+        ],
+        "correct_answer": "c",
+        "note": "As compared to the orbit of the other given planets, Mars has nearest orbit to Sun. In the so-called perihelic opposition Mars is closest to the Sun and is particularly close to Earth: Oppositions range from about 0.68 AU when Mars is near aphelion to only about 0.37 AU when Mars is near perihelion."
+    },
+    {
+        "question": "Among the following which planet takes maximum time for one revolution around the Sun?",
+        "options": [
+            "Earth",
+            "Jupiter",
+            "Mars",
+            "Venus"
+        ],
+        "correct_answer": "b",
+        "note": "Jupiter revolves or orbits around the Sun once every 11.86 Earth years, or once every 4,330.6 Earth days."
+    },
+    {
+        "question": "The only planet whose period of rotation is longer than the period of revolution around the Sun?",
+        "options": [
+            "Mercury",
+            "Jupiter",
+            "Venus",
+            "Neptune"
+        ],
+        "correct_answer": "c",
+        "note": "Venus takes 243 Earth days to rotate on its axis whereas it takes 224.7 Earth days to revolve round the Sun."
+    },
+    {
+        "question": "The planet with the maximum number of satellites is ________.",
+        "options": [
+            "Uranus",
+            "Jupiter",
+            "Saturn",
+            "Neptune"
+        ],
+        "correct_answer": "c",
+        "note": "We need to figure out which of these planets has the most moons.\n\nOption A: Uranus is a large, icy planet, but it doesn't have the most moons.\nOption B: Jupiter is a giant planet known for its Great Red Spot and has many moons.\nOption C: Saturn is famous for its beautiful rings, and it also has a large number of moons. Currently, Saturn has the maximum number of satellites.\nOption D: Neptune is another icy giant planet, but it has fewer moons than Saturn.\n\nTherefore, the correct answer is C: Saturn."
+    },
+    {
+        "question": "The outermost layer of Sun is called ________",
+        "options": [
+            "Convection zone",
+            "Photosphere",
+            "Chromosphere",
+            "Corona"
+        ],
+        "correct_answer": "d",
+        "note": "The atmosphere of the sun is composed of several layers, mainly the photosphere, the chromosphere and the corona. It's in these outer layers that the sun's energy, which has bubbled up from the sun's interior layers, is detected as sunlight. The lowest layer of the sun's atmosphere is the photosphere."
+    },
+    {
+        "question": "Which of the following celestial bodies is located farthermost to the Earth?",
+        "options": [
+            "Saturn",
+            "Uranus",
+            "Neptune",
+            "Pluto"
+        ],
+        "correct_answer": "d",
+        "note": "After 26th General Assembly of International Astronomical Union held in 2006 in Prague (Czech Republic), Pluto was categorised as 'Dwarf Planet'. Its orbit around the Sun larger than the other 3 given planets. Sometimes Neptune is far from sun and sometimes Pluto , before 1999 Neptune was the farthest planet but after 1999 Pluto is the farthest planet for next 238 years ."
+    },
+    {
+        "question": "In how many parts the shadow of Earth is divided during solar or lunar eclipse?",
+        "options": [
+            "Five",
+            "Two",
+            "Four",
+            "Three"
+        ],
+        "correct_answer": "d",
+        "note": "In a solar or lunar eclipse, the region of earth's shadow is divided into three parts. The three parts are – Umbra, Penumbra and Antumbra."
+    },
+    {
+        "question": "Which one of the following is correct? Great Bear is a ________",
+        "options": [
+            "Galaxy",
+            "Planet",
+            "Star",
+            "Constellation"
+        ],
+        "correct_answer": "d",
+        "note": "Ursa Major is a constellation in the northern sky, whose associated mythology likely dates back into prehistory. Its latin name means \"greater she-bear\", standing as a reference to and in direct contrast with nearby Ursa Minor, the lesser bear."
+    },
+    {
+        "question": "In astrophysics, what is the name of hole in outer space which emits stars and energy?",
+        "options": [
+            "Black Hole",
+            "Ozone Hole",
+            "Asteroid Belt",
+            "White Hole"
+        ],
+        "correct_answer": "d",
+        "note": "In astrophysics, it is a hypothetical concept. In this theory white hole which is opposite to black hole emits stars and energy. In general relativity, a white hole is a hypothetical region of spacetime which cannot be entered from the outside, although matter and light can escape from it. In this sense, it is the reverse of a black hole, which can only be entered from the outside and from which matter and light cannot escape."
+    },
+    {
+        "question": "The Srnith-tuttle comet will crash with Earth in ________",
+        "options": [
+            "2106 AD",
+            "2116 AD",
+            "2126 AD",
+            "2136 AD"
+        ],
+        "correct_answer": "c",
+        "note": "In 2126 it will be a bright naked-eye comet reaching about apparent magnitude 0.7."
+    },
+    {
+        "question": "Which is the nearest planet to Sun?",
+        "options": [
+            "Earth",
+            "Mercury",
+            "Mars",
+            "Venus"
+        ],
+        "correct_answer": "b",
+        "note": "Mercury is the closest planet to the Sun, orbiting at an average distance of 57.9 million km."
+    },
+    {
+        "question": "If there is no Sun, the colour of the sky would be ________",
+        "options": [
+            "Orange",
+            "Blue",
+            "Yellow",
+            "Black"
+        ],
+        "correct_answer": "d",
+        "note": "The sky appears blue because the sunlight is scattered by the gas molecules in the atmosphere - a phenomenon known as Rayleigh scattering - named after the discoverer - a British physicist who also discovered Argon - Lord Rayleigh (1842-1919). So, if there was no atmosphere, the sky would appear black."
+    },
+    {
+        "question": "The planet Mercury is difficult to be observed most of the time because ________",
+        "options": [
+            "It gets hidden behind Venus",
+            "It goes too far away from the Earth",
+            "It being too close to the Sun, gets hidden by the glare of the Sun",
+            "It cannot be seen at night as at that time no sunlight falls on it."
+        ],
+        "correct_answer": "c",
+        "note": "The planet Mercury is often cited as the most difficult of the five brightest naked-eye planets to see. Because it's the planet closest to the Sun, it never strays too far from the Sun's vicinity in our sky."
+    },
+    {
+        "question": "The correct sequence of planets in the descending order of their equatorial diameter is ________",
+        "options": [
+            "Mars, Mercury, Uranus, Earth",
+            "Earth, Mars, Mercury, Uranus",
+            "Mercury, Uranus, Mars, Earth",
+            "Uranus, Earth, Mars, Mercury"
+        ],
+        "correct_answer": "d",
+        "note": "The correct sequence of planets in the descending order of their equatorial diameter is Uranus, Earth, Mars, Mercury."
+    },
+    {
+        "question": "Foucault experiment is proof of which one of the following?",
+        "options": [
+            "Revolution of Earth",
+            "Rotation of Earth",
+            "Rotation of Moon",
+            "Revolution of Moon"
+        ],
+        "correct_answer": "b",
+        "note": "The Foucault pendulum is a simple device named after French physicist Léon Foucault and conceived as an experiment to demonstrate the Earth's rotation."
+    },
+    {
+        "question": "The distance between the Earth and the Sun (in million kms) is ________",
+        "options": [
+            "111",
+            "149",
+            "168",
+            "193"
+        ],
+        "correct_answer": "b",
+        "note": "Our solar system is so big it is almost impossible to imagine its size if you use ordinary units like feet or miles. The distance from Earth to the Sun is 93 million miles (149 million kilometers), but the distance to the farthest planet Neptune is nearly 3 billion miles (4.5 billion kilometers)."
+    },
+    {
+        "question": "Which of the following is called Red Planet?",
+        "options": [
+            "Venus",
+            "Mercury",
+            "Mars",
+            "Jupiter"
+        ],
+        "correct_answer": "c",
+        "note": "Mars is often called the 'Red Planet' because it appears in the sky as an orange-red star. The colour caused the ancient Greeks and Romans to name it after their god of war. Today, thanks to visiting spacecraft, we know that the planet's appearance is due to rust in the Martian rocks."
+    },
+    {
+        "question": "Which of the following statements is/are correct with regard to Milky Way?\n1. It is a spiral galaxy.\n2. The solar system resides in one of its spiral arms.\nSelect the correct answer using the codes given below",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "The statements that are correct with regard to Milky Way are - it is a spiral galaxy and the solar system resides in one of its spiral arms."
+    },
+    {
+        "question": "The planet having fourteen moons is ________",
+        "options": [
+            "Venus",
+            "Mars",
+            "Uranus",
+            "Neptune"
+        ],
+        "correct_answer": "d",
+        "note": "Neptune has 14 moons, all named after various sea gods and nymphs in Greek mythology. Almost half of Neptune's moon discoveries occurred decades after NASA's Voyager 2 spacecraft swung past the planet and its system, demonstrating how far telescope technology has progressed.\n\nAll of Neptune's moons derive their respective names from Greek mythology. They are: Naiad, Thalassa, Despina, Galatea, Larissa, Hippocamp, Proteus, Triton, Nereid, Halimede, Sao, Laomedeia, Psamathe and Neso. This arrangement has been done keeping in mind their closeness to their planet."
+    },
+    {
+        "question": "The exact time taken by the earth for single rotation on its own axis is ________",
+        "options": [
+            "24 hrs",
+            "24 hrs 35 sec",
+            "23 hrs 50 minutes 7.2 sec",
+            "23 hrs 56 minutes 4.09 sec"
+        ],
+        "correct_answer": "d",
+        "note": "It's the time it takes for a distant star to return to the same position in the sky, and it differs from the solar day because the Earth revolves around the Sun as it rotates on its own axis; there is one more sidereal day than solar day each year. A sidereal day is approximately 23 hours, 56 minutes, 4.0916 seconds."
+    },
+    {
+        "question": "The Planet which comes close to the size of Earth is ________.",
+        "options": [
+            "Venus",
+            "Jupiter",
+            "Saturn",
+            "Mercury"
+        ],
+        "correct_answer": "a",
+        "note": "Venus is the closest planet to Earth (it's also the most similar in size). But its proximity to our planet depends on the orbits of both. The two planets travel in ellipses around the sun, and so the distance between them is constantly shifting."
+    },
+    {
+        "question": "Why stars look more in west than east?",
+        "options": [
+            "Universe is moving from east to west",
+            "Earth is moving around the Sun",
+            "Earth is moving from east to west",
+            "Earth is moving from west to east"
+        ],
+        "correct_answer": "d",
+        "note": "As Earth moves (rotates) from West to East, so stars appear to be more in West than East. So when we say that stars \"move\", it could be because of the Earth, because of their own movements, or because of both the Earth takes roughly 24 hours to spin on its axis, moving from east to west."
+    },
+    {
+        "question": "The largest of the planets is",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune"
+        ],
+        "correct_answer": "a",
+        "note": "The largest planet in our solar system by far is Jupiter, which beats out all the other planets in both mass and volume. Jupiter's mass is more than 300 times that of Earth, and its diameter, at 140,000 km, is about 11 times Earth's diameter."
+    },
+    {
+        "question": "Who of the following discovered the laws of planetary orbits?",
+        "options": [
+            "Galileo Galilei",
+            "Nicholas Copernicus",
+            "Johannes Kepler",
+            "Isaac Newton"
+        ],
+        "correct_answer": "c",
+        "note": "Johannes Kepler published his first two laws about planetary motion in 1609, having found them by analyzing the astronomical observations of Tycho Brahe."
+    },
+    {
+        "question": "The four largest planets of the solar system in descending order are",
+        "options": [
+            "Jupiter, Mercury, Saturn and Uranus",
+            "Mercury, Jupiter, Saturn and Neptune",
+            "Jupiter, Saturn, Uranus and Neptune",
+            "Jupiter, Mercury, Saturn and Neptune"
+        ],
+        "correct_answer": "c",
+        "note": "According to the size of the planets the descending order will be Jupiter (largest planet), Saturn (2nd largest), Uranus (3rd largest) & Neptune (4th Largest)."
+    },
+    {
+        "question": "The mass of Jupiter is almost",
+        "options": [
+            "Tenth of the mass of the Sun",
+            "One Thousandth of the mass of the Sun",
+            "Hundred of the mass of the Sun",
+            "Half of the mass of the Sun"
+        ],
+        "correct_answer": "b",
+        "note": "Being the largest planet of solar system, its mass is one thousandth of the mass of the Sun. Jupiter, the giant among giants, has enough mass to make 318 Earths. Its diameter is about 11 times that of Earth (and about one tenth that of the Sun)."
+    },
+    {
+        "question": "One astronomical unit is the average distance between which of the following?",
+        "options": [
+            "Earth and Sun",
+            "Earth and Moon",
+            "Jupiter and Sun",
+            "Pluto and Sun"
+        ],
+        "correct_answer": "a",
+        "note": "We can say that one astronomical unit (AU) represents the mean distance between the Earth and our sun. An AU is approximately 93 million miles (150 million km). It's approximately 8 light-minutes. More exactly, one astronomical unit (AU) = 92,955,807 miles (149,597,871 km)."
+    },
+    {
+        "question": "Which of the following Scientist proved that the path of each planet around the Sun is elliptical?",
+        "options": [
+            "Kepler",
+            "Galileo",
+            "Newton",
+            "Copernicus"
+        ],
+        "correct_answer": "a",
+        "note": "While Copernicus rightly observed that the planets revolve around the Sun, it was Kepler who correctly defined their orbits. At the age of 27, Kepler became the assistant of a wealthy astronomer, Tycho Brahe, who asked him to define the orbit of Mars. Brahe had collected a lifetime of astronomical observations, which, on his death, passed into Kepler’s hands. (Brahe, who had his own Earth-centered model of the Universe, withheld the bulk of his observations from Kepler at least in part because he did not want Kepler to use them to prove Copernican theory correct.) Using these observations, Kepler found that the orbits of the planets followed three laws."
+    },
+    {
+        "question": "Which of the following planet is farthest from Sun?",
+        "options": [
+            "Saturn",
+            "Jupiter",
+            "Neptune",
+            "Uranus"
+        ],
+        "correct_answer": "c",
+        "note": "Neptune is the eighth and farthest planet from the Sun, at a distance of about 4.5 billion km (2.8 billion miles) or 30.07 AU."
+    },
+    {
+        "question": "What is the total number of planets move around the Sun?",
+        "options": [
+            "Five",
+            "Eight",
+            "Seven",
+            "Six"
+        ],
+        "correct_answer": "b",
+        "note": "Our Solar System has eight planets which orbit the sun. In order of distance from the sun they are; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+    },
+    {
+        "question": "Which of the following is the largest planet?",
+        "options": [
+            "Jupiter",
+            "Venus",
+            "Saturn",
+            "Uranus"
+        ],
+        "correct_answer": "a",
+        "note": "The largest planet in our solar system by far is Jupiter, which beats out all the other planets in both mass and volume. Jupiter's mass is more than 300 times that of Earth, and its diameter, at 140,000 km, is about 11 times Earth's diameter."
+    },
+    {
+        "question": "The constellations of stars appear at different positions in the sky at different times during night mainly ________",
+        "options": [
+            "Because earth rotates about its axis",
+            "Because earth revolves round the sun",
+            "Because of optical illusion",
+            "Because celestial bodies are changing their positions all the time"
+        ],
+        "correct_answer": "a",
+        "note": "Due to the earth's rotation, stars appear to move. As the Earth rotates from west to east, the stars appear to rise in the east, moving across south to set in the west. The Sun will appear to move through the stars, making one complete circuit of the sky in 365 days."
+    },
+    {
+        "question": "The 'Solar Corona' mainly consists of ________",
+        "options": [
+            "Cosmic rays",
+            "Molten lava",
+            "Gases",
+            "Ice"
+        ],
+        "correct_answer": "b",
+        "note": "The 'Solar Corona' mainly consists of molten lava. A corona (Latin, 'crown') is an aura of plasma that surrounds the Sun and other stars. The Sun's corona extends millions of kilometres into outer space and is most easily seen during a total solar eclipse, but it is also observable with a coronagraph."
+    },
+    {
+        "question": "Which of the following is known as the \"red planet\"?",
+        "options": [
+            "Mercury",
+            "Jupiter",
+            "Mars",
+            "Saturn"
+        ],
+        "correct_answer": "c",
+        "note": "Mars is often called the 'Red Planet' because it appears in the sky as an orange-red star. The colour caused the ancient Greeks and Romans to name it after their god of war. Today, thanks to visiting spacecraft, we know that the planet's appearance is due to rust in the Martian rocks."
+    },
+    {
+        "question": "Which planet is known as the Earth's Twin?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Uranus",
+            "Neptune"
+        ],
+        "correct_answer": "a",
+        "note": "Venus is sometimes called Earth's twin because Venus and Earth are almost the same size, have about the same mass (they weigh about the same), and have a very similar composition (are made of the same material). They are also neighboring planets. However, Venus and Earth are also very different. Venus has an atmosphere that is about 100 times thicker than Earth's and has surface temperatures that are extremely hot. Venus does not have life or water oceans like Earth does. Venus also rotates backwards compared to Earth and the other planets."
+    },
+    {
+        "question": "Twelve constellations referred to as zodiac are ________",
+        "options": [
+            "Signs of Roman gods",
+            "Imaginary region that encompass the path of the planets",
+            "A group of stars",
+            "None of these"
+        ],
+        "correct_answer": "b",
+        "note": "Twelve constellations referred to as zodiac are imaginary region that encompass the path of the planets. The 12 constellations in the zodiac family can all be seen along the ecliptic. They are: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius and Pisces."
+    },
+    {
+        "question": "Which is the first Asian country to reach the orbit of Mars",
+        "options": [
+            "Japan",
+            "India",
+            "Pakistan",
+            "China"
+        ],
+        "correct_answer": "b",
+        "note": "It is India's first interplanetary mission and it made it the fourth space agency to reach Mars, after Roscosmos, NASA, and the European Space Agency. It is the first Asian nation to reach Mars orbit, and the first nation in the world to do so in its first attempt."
+    },
+    {
+        "question": "Which of the following statements is/are correct?\n1. In comparison to the Jupiter, planet Earth displays eclipses more frequently\n2. On Mars, only partial solar eclipses are possible\nSelect the correct answer.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "d",
+        "note": "Solar eclipses on Jupiter occur when any of the natural satellites of Jupiter pass in front of the Sun as seen from the planet Jupiter. On Mars, annular solar eclipses are possible."
+    },
+    {
+        "question": "The energy of Sun is vested in which of the following process?",
+        "options": [
+            "Photoelectric Emission",
+            "Nuclear Fission",
+            "Nuclear Fusion",
+            "Temperate Emission"
+        ],
+        "correct_answer": "c",
+        "note": "The sun generates energy from a process called nuclear fusion. During nuclear fusion, the high pressure and temperature in the sun's core cause nuclei to separate from their electrons. Hydrogen nuclei fuse to form one helium atom. During the fusion process, radiant energy is released."
+    },
+    {
+        "question": "The distance of the nearest star besides the sun from the earth is ________",
+        "options": [
+            "4.9 × 1111 m",
+            "95 × 1015 m",
+            "4.3 light years",
+            "4.2 light years"
+        ],
+        "correct_answer": "d",
+        "note": "The nearest star to the Sun from Earth is Proxima Centauri, which is part of the Alpha Centauri star system. Its distance is approximately 4.2 light years. A light year is the distance that light travels in one year, and it is a common unit used in astronomy to represent vast distances in space. Therefore, the correct answer is Option D, which is 4.2 light years."
+    },
+    {
+        "question": "While Venus is seen only for one to two hours either after sunset or before sunrise, Jupiter is seen for the whole night whenever it is visible in the sky. The reason for this is that ________",
+        "options": [
+            "Venus is much smaller than Jupiter",
+            "Venus is much closer to the earth than Jupiter",
+            "The orbit of Venus is inside the earth's orbit whereas the orbit of Jupiter lies outside the orbit of the earth",
+            "Venus reflects lesser amount of sunlight than Jupiter"
+        ],
+        "correct_answer": "c",
+        "note": "While Venus is seen only for one to two hours either after sunset or before sunrise, Jupiter is seen for the whole night whenever it is visible in the sky. The reason for this is that the orbit of Venus is inside the earth's orbit whereas the orbit of Jupiter lies outside the orbit of the Earth."
+    },
+    {
+        "question": "The Milky way extends through a distance ________",
+        "options": [
+            "1 light year",
+            "8 light years",
+            "105 light years",
+            "1010 light years"
+        ],
+        "correct_answer": "c",
+        "note": "The Milky way extends through a distance 105 light years."
+    },
+    {
+        "question": "Which planet shows the phases like Moon?",
+        "options": [
+            "Mercury",
+            "Mars",
+            "Venus",
+            "Pluto"
+        ],
+        "correct_answer": "c",
+        "note": "Venus, which have orbits that are smaller than the Earth's, exhibit the full range of phases as does the Moon, when seen through a telescope. Its phases are \"full\" when they are at superior conjunction, on the far side of the Sun as seen from the Earth."
+    },
+    {
+        "question": "Which of the following Planets is the brightest?",
+        "options": [
+            "Mercury",
+            "Mars",
+            "Jupiter",
+            "Venus"
+        ],
+        "correct_answer": "d",
+        "note": "Venus is so bright because its thick clouds reflect most of the sunlight that reaches it (about 70%) back into space, and because it is the closest planet to Earth. Venus can often be seen within a few hours after sunset or before sunrise as the brightest object in the sky (other than the moon)."
+    },
+    {
+        "question": "Pulsar are",
+        "options": [
+            "Stars moving towards Earth",
+            "Stars moving away from Earth",
+            "Rapidly rotating stars",
+            "Stars with high temperature"
+        ],
+        "correct_answer": "c",
+        "note": "A pulsar is a highly magnetized rotating neutron star that emits a beam of electromagnetic radiation. This radiation can be observed only when the beam of emission is pointing toward Earth, and is responsible for the pulsed appearance of emission."
+    },
+    {
+        "question": "The brightest star in the sky is ________",
+        "options": [
+            "Alfa Centauri",
+            "Proxima Centauri",
+            "Sirius",
+            "Sun"
+        ],
+        "correct_answer": "d",
+        "note": "The Sun is the brightest start during the days, because it's the nearest star to us."
+    },
+    {
+        "question": "Lunar Sea refers to ________",
+        "options": [
+            "A small sea on the moon",
+            "A sea on earth which experiences high tides due to gravitational attraction of the moon",
+            "A dark plain on the moon",
+            "A light water body illuminated by the moon-light"
+        ],
+        "correct_answer": "c",
+        "note": "The lunar maria are large, dark, basaltic plains on Earth's Moon, formed by ancient volcanic eruptions. They were dubbed maria, latin for \"seas\", by early astronomers who mistook them for actual seas."
+    },
+    {
+        "question": "The surface temperature of the Sun is measured",
+        "options": [
+            "6000°C",
+            "12000°C",
+            "18000°C",
+            "24000°C"
+        ],
+        "correct_answer": "a",
+        "note": "The fact that the outermost region of the sun's atmosphere is at millions of degrees while the temperature of the underlying photosphere is only 6,000 kelvins (degrees C. above absolute zero) is quite nonintuitive."
+    },
+    {
+        "question": "Which planet looks reddish in the night sky?",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Mars",
+            "Mercury"
+        ],
+        "correct_answer": "c",
+        "note": "Planet Mars looks reddish in the sky. It is due to the ferric oxide(Rusted iron) on the martian surface."
+    },
+    {
+        "question": "The term 'meteor' is applied to an interplanetary body ________",
+        "options": [
+            "After it enters the atmosphere of the earth",
+            "After it enters the earth's atmosphere and explodes in mid air as a ball of fire",
+            "After it enters the earth's atmosphere and lands on the surface of the earth without exploding in mid-air",
+            "Before it enters the earth's atmosphere"
+        ],
+        "correct_answer": "b",
+        "note": "A meteor is an asteroid or other object that burns and vaporizes upon entry into the Earth's atmosphere; meteors are commonly known as \"shooting stars.\" If a meteor survives the plunge through the atmosphere and lands on the surface, it's known as a meteorite."
+    },
+    {
+        "question": "How many days in one year on mercury?",
+        "options": [
+            "56",
+            "88",
+            "300",
+            "36"
+        ],
+        "correct_answer": "b",
+        "note": "Being nearest to Sun,its path around Sun is smallest. Hence its one year is equal to 88 days. 59 days spent on Earth are equivalent to 1 day spent on Mercury as days there bigger than the days on earth."
+    },
+    {
+        "question": "NASA's Deep Impact space mission was employed to take detailed pictures of which comet nucleus?",
+        "options": [
+            "Halley's Comet",
+            "Hale-Bopp",
+            "Hyakutake",
+            "Tempel 1"
+        ],
+        "correct_answer": "d",
+        "note": "NASA’s Deep Impact space mission was employed to take detailed pictures of Tempel 1 comet nucleus. It is a periodic Jupiter-family comet that was discovered in 1867 by Wilhelm Tempel. As per the research, it completes an orbit of the sun every 5.5 years of time."
+    },
+    {
+        "question": "Which of the following statements relating to the planet Venus is/are correct?\n1. It is the nearest planet from the Sun.\n2. It is only slightly smaller than the Earth.\n3. It has no atmosphere.\nSelect the correct answer.",
+        "options": [
+            "1, 2 and 3",
+            "1 and 3 only",
+            "2 only",
+            "1 and 2 only"
+        ],
+        "correct_answer": "c",
+        "note": "Statement relating to the planet Venus that is correct is it is only slightly smaller than the Earth."
+    },
+    {
+        "question": "The strongest evidence that comets are members of our solar system comes from ________",
+        "options": [
+            "Their composition",
+            "Their effect on the lives of man",
+            "The shape of their orbits",
+            "The shape and length of their tails"
+        ],
+        "correct_answer": "a",
+        "note": "The strongest evidence that comets are members of our solar system comes from their composition."
+    },
+    {
+        "question": "Which of the following planets of the solar system has the longest day?",
+        "options": [
+            "Mercury",
+            "Jupiter",
+            "Venus",
+            "Earth"
+        ],
+        "correct_answer": "c",
+        "note": "Venus has the longest day of any planet in our solar system. It completes one rotation every 243 Earth days. Its day lasts longer than its orbit. It orbits the Sun every 224.65 Earth days, so a day is nearly 20 Earth days longer than its year."
+    },
+    {
+        "question": "Super Nova is ________",
+        "options": [
+            "An asteroid",
+            "A black hole",
+            "A comet",
+            "A dying star"
+        ],
+        "correct_answer": "d",
+        "note": "A supernova is an event that occurs upon the death of certain types of stars. Supernovae are more energetic than novae. In Latin, nova means \"new\", referring astronomically to what appears to be a temporary new bright star. Adding the prefix \"super-\" distinguishes supernovae from ordinary novae, which are far less luminous. The word supernova was coined by Walter Baade and Fritz Zwicky in 1931."
+    },
+    {
+        "question": "Which of the following is not a satellite of Jupiter?",
+        "options": [
+            "Europa",
+            "Ganymede",
+            "Callisto",
+            "Deimos"
+        ],
+        "correct_answer": "d",
+        "note": "Mars has two satellites Deimos & Phobos. Although Jupiter has 63 satellites but none of them is named as Deimos."
+    },
+    {
+        "question": "Which planet is called Evening Star?",
+        "options": [
+            "Mars",
+            "Mercury",
+            "Venus",
+            "Jupiter"
+        ],
+        "correct_answer": "c",
+        "note": "Venus is the brightest planet of solar system visible during evening & morning in the Sky. Hence termed as evening & morning star."
+    },
+    {
+        "question": "Which of the following gases is most predominant in the Sun?",
+        "options": [
+            "Helium",
+            "Hydrogen",
+            "Nitrogen",
+            "Ozone"
+        ],
+        "correct_answer": "b",
+        "note": "75% of the Sun's mass is Hydrogen. Hence, Hydrogen gases is most predominant in the Sun."
+    },
+    {
+        "question": "The number of satellite of mercury is/are",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "16"
+        ],
+        "correct_answer": "a",
+        "note": "Mercury, the planet nearest to the Sun has no satellite (Moon)."
+    },
+    {
+        "question": "The distance between Earth and Sun is maximum on?",
+        "options": [
+            "21 June",
+            "3 January",
+            "22 December",
+            "4 July"
+        ],
+        "correct_answer": "d",
+        "note": "As Earth follows an elliptical path around the Sun its distance from the Sun never remains constant. It is nearest to the Sun on January 3rd (Perihelion) & farthest from the Sun on July 4 (Aphelion)."
+    },
+    {
+        "question": "Triton is the Moon of which planet?",
+        "options": [
+            "Neptune",
+            "Uranus",
+            "Saturn",
+            "Venus"
+        ],
+        "correct_answer": "a",
+        "note": "Triton (moon) Triton is the largest natural satellite of the planet Neptune, and the first Neptunian moon to be discovered. The discovery was made on October 10, 1846, by English astronomer William Lassell."
+    },
+    {
+        "question": "Pole Star is always seen at one point in the sky whereas other stars are not; this is because ________",
+        "options": [
+            "Pole star rotates with the same period as the earth",
+            "Pole star is a star of our own galaxy",
+            "Sun and Pole star are in two opposite directions relative to earth",
+            "Pole star lies in the axis of spin of the earth"
+        ],
+        "correct_answer": "d",
+        "note": "Pole Star is always seen at one point in the sky whereas other stars are not; this is because Pole star lies in the axis of spin of the earth."
+    },
+    {
+        "question": "'The length of its day and the tilt of its axis are almost identical to those of the earth'. This is true of ________",
+        "options": [
+            "Uranus",
+            "Neptune",
+            "Saturn",
+            "Mars"
+        ],
+        "correct_answer": "d",
+        "note": "Mars is the planet that is most similar to Earth in other ways. A Martian day is just over 24 hours, and its rotation axis is tilted by about the same amount as Earth's."
+    },
+    {
+        "question": "Which one of the following statements regarding Shooting Stars is incorrect ?",
+        "options": [
+            "They are meteors",
+            "They are the debris which got separated from a comet",
+            "They emit light due to extremely high temperature caused by friction while they are passing through earth's atmosphere",
+            "They are a kind of a star"
+        ],
+        "correct_answer": "d",
+        "note": "Shooting stars look like stars that quickly shoot across the sky, but they are not stars. A shooting star is really a small piece of rock or dust that hits Earth's atmosphere from space. It moves so fast that it heats up and glows as it moves through the atmosphere."
+    },
+    {
+        "question": "Which of the following planets do not have satellite?",
+        "options": [
+            "Mars and Venus",
+            "Mercury and Venus",
+            "Mars and Mercury",
+            "Neptune and Pluto"
+        ],
+        "correct_answer": "b",
+        "note": "Mercury and Venus are too close to the Sun. Any moon with too great a distance from these planets would be in an unstable orbit and be captured by the Sun. If they were too close to these planets they would be destroyed by tidal gravitational forces."
+    },
+    {
+        "question": "The hottest planet is ________",
+        "options": [
+            "Mercury",
+            "Venus",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correct_answer": "b",
+        "note": "Venus is the hottest world in the solar system. Although Venus is not the planet closest to the sun, its dense atmosphere traps heat in a runaway version of the greenhouse effect that warms Earth. As a result, temperatures on Venus reach 870° Fahrenheit (465° Celsius), more than hot enough to melt lead."
+    },
+    {
+        "question": "In 1610, Galileo Galilei discovered four moons of which planet?",
+        "options": [
+            "Saturn",
+            "Jupiter",
+            "Neptune",
+            "None of these"
+        ],
+        "correct_answer": "b",
+        "note": "The Galilean moons are the four largest moons of Jupiter—Io, Europa, Ganymede, and Callisto. They were first seen by Galileo Galilei in January 1610, and recognized by him as satellites of Jupiter in March 1610. They were the first objects found to orbit another planet."
+    },
+    {
+        "question": "What is the difference between asteroids and comets?\n1. Asteroids are small rocky planetoids, while comets are formed of frozen gases held together by rocky and metallic material.\n2. Asteroids are found mostly between the orbits of Jupiter and Mars, while comets are found mostly between Venus and Mercury.\n3. Comets show a perceptible glowing tail, while asteroids do not.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "3 only",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "b",
+        "note": "Asteroids are small rocky planetoids, while comets are formed of frozen gases held together by rocky and metallic material whereas, Comets show a perceptible glowing tail, while asteroids do not."
+    },
+    {
+        "question": "Consider the following statements:\n1. The albedo of an object determines its visual brightness when viewed with reflected light.\n2. The albedo of Mercury is much greater than the albedo of the Earth.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "a",
+        "note": "The albedo of an object will determine its visual brightness when viewed with reflected light. For example, the planets are viewed by reflected sunlight and their brightness depends upon the amount of light received from the sun and their albedo."
+    },
+    {
+        "question": "On which of the following planets water cycle is available?",
+        "options": [
+            "Jupiter",
+            "Earth",
+            "Mars",
+            "Venus"
+        ],
+        "correct_answer": "b",
+        "note": "It is the availability of water due to which life is possible on Earth. It is the essential for biotic and abiotic activities. It is available in 3 forms - solid (ice) liquid gas (water vapour). The water cycle, also known as the hydrologic cycle or the hydrological cycle, describes the continuous movement of water on, above and below the surface of the Earth."
+    },
+    {
+        "question": "On which of the following planets of the solar system does the sun rise in the west and set in the east?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correct_answer": "a",
+        "note": "Venus rotates on its axis the opposite way that most planets rotate. That means on Venus, the sun would appear to rise in the west and set in the east. On Earth, the sun appears to rise in the east and set in the west."
+    },
+    {
+        "question": "What are Sun spots?",
+        "options": [
+            "Regions on earth without winter climate",
+            "Desert areas on the sun",
+            "Dark patches on the surface of the sun which are cooler areas",
+            "Dark patches on the surface of the Sun resulting from a localised fall in the temperature to about 4000 K"
+        ],
+        "correct_answer": "d",
+        "note": "A dark patch in the sun's photosphere resulting from a localized fall in temperature to about 4000 K. Most spots have a central very dark umbra surrounded by a lighter penumbra. Sunspots tend to occur in clusters and to last about two weeks."
+    },
+    {
+        "question": "What is \"Supernova\"?",
+        "options": [
+            "Comet",
+            "Asteroid",
+            "Meteor",
+            "Black Hole"
+        ],
+        "correct_answer": "d",
+        "note": "The most likely 'cannon' is the explosive kick of a supernova, one of the Universe's most titanic events. When massive stars end their lives, they explode violently as supernovae. They leave either a neutron star or a black hole as a remnant, depending on how massive the star initially is."
+    },
+    {
+        "question": "Which two planets of the solar system have no satellites?",
+        "options": [
+            "Mercury and Venus",
+            "Venus and Mars",
+            "Mercury and Mars",
+            "Venus and Neptune"
+        ],
+        "correct_answer": "a",
+        "note": "Mercury and Venus are too close to the Sun. Any moon with too great a distance from these planets would be in an unstable orbit and be captured by the Sun. If they were too close to these planets they would be destroyed by tidal gravitational forces."
+    }
+]

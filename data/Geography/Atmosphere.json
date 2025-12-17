@@ -1,0 +1,2147 @@
+[
+    {
+        "question": "Agents of fog formation do not include ________",
+        "options": [
+            "High relative humidity",
+            "Diurnal temperatures of short ranges",
+            "Winter season",
+            "Rapid radiation"
+        ],
+        "correct_answer": "b",
+        "note": "Agents of fog formation do not include Diurnal temperatures of short ranges. Diurnal temperature range (DTR) is defined as the difference between daily maximum and minimum temperature, which describes the within-day temperature variability and reflects weather stability."
+    },
+    {
+        "question": "Which one among the following forces is most powerful in determining movement of wind including its velocity ?",
+        "options": [
+            "Gravitational force",
+            "Centrifugal force",
+            "Frictional force",
+            "Pressure gradient force"
+        ],
+        "correct_answer": "d",
+        "note": "Pressure gradient force is most powerful in determining movement of wind including its velocity.  Wind is the movement of air across the Earth's surface and is produced by differences in air pressure between one place to another."
+    },
+    {
+        "question": "Atmospheric humidity is measured by ________",
+        "options": [
+            "Psychrometer",
+            "Anemometer",
+            "Lysimeter",
+            "Hydrometer"
+        ],
+        "correct_answer": "a",
+        "note": "Atmospheric humidity is measured by psychrometer. A psychrometer measures humidity by taking both a wet-bulb and a dry-bulb temperature reading."
+    },
+    {
+        "question": "Which is the warmest layer of the atmosphere?",
+        "options": [
+            "Thermosphere",
+            "Troposphere",
+            "Stratosphere",
+            "Mesosphere"
+        ],
+        "correct_answer": "a",
+        "note": "The thermosphere is a layer of Earth's atmosphere. The thermosphere is directly above the mesosphere and below the exosphere. It extends from about 90 km (56 miles) to between 500 and 1,000 km (311 to 621 miles) above our planet. Based on the vertical temperature profile in the atmosphere, the thermosphere is the highest layer, located above the mesosphere."
+    },
+    {
+        "question": "Which of the following statements is not true of Trade Winds?",
+        "options": [
+            "They blow from the Horse Latitudes to the Doldrums",
+            "They are deflected to the right to become South-East Trades in the southern hemisphere",
+            "They are constant in strength and direction",
+            "They sometimes contain intense depressions"
+        ],
+        "correct_answer": "b",
+        "note": "The trade winds of the Southern Hemisphere need to cross the equator in order to reach the ITCZ. Thus, the trade winds of the Southern Hemisphere cross the equator but are deflected towards right under the Coriolis Effect."
+    },
+    {
+        "question": "The intensity of insolation depends on",
+        "options": [
+            "Altitude",
+            "Nature of terrain",
+            "Wind",
+            "Latitude"
+        ],
+        "correct_answer": "d",
+        "note": "The amount of insolation received on the earth’s surface is far less than that is radiated from the sun because of the small size of the earth and its distance from the sun. The amount of insolation received on the earth’s surface is not uniform everywhere. It varies according to the place and time. When the tropical regions receive maximum annual insolation, it gradually decreases towards the poles. Insolation is more in summers and less in winters."
+    },
+    {
+        "question": "The inner-most layer of the Earth is known as",
+        "options": [
+            "Lithosphere",
+            "Mesosphere",
+            "Aesthenosphere",
+            "Barysphere"
+        ],
+        "correct_answer": "d",
+        "note": "The inner most layer of the earth is called the “Core or Barysphere”. It is otherwise known as NIFE, because of the presence of Nickel and Ferrous (iron)."
+    },
+    {
+        "question": "Which of the following statements is incorrect?",
+        "options": [
+            "Roaring forties are the southern latitudes where Westerlies are prevalent",
+            "Monsoons are local seasonal winds",
+            "Doldrum belt lies between 10°N and 10°S latitudes",
+            "Horse latitudes are found between Trade winds and Westerlies"
+        ],
+        "correct_answer": "b",
+        "note": "Although monsoons are often erroneously identified as rainstorms, they are actually a seasonal wind. A monsoon is a wind in low-latitude climates that seasonally changes direction between winter and summer."
+    },
+    {
+        "question": "Evening sun is not a shot as the mid-day sun. What is the reason?",
+        "options": [
+            "In the evening, radiations travel slowly",
+            "In the evening, the temperature of the sun decreases",
+            "Ozone in atmosphere absorbs more light in the evening",
+            "In the evening, radiations travel larger distance through atmosphere"
+        ],
+        "correct_answer": "d",
+        "note": "Evening sun is not a shot as the mid-day sun because in the evening, radiations travel larger distance through atmosphere. Light from the sun, near the horizon, passes through thicker layers of air and covets a large distance in the earth's atmosphere before reaching our eyes. However, light from the sun overhead would travel realitively shorter distance."
+    },
+    {
+        "question": "The water content in the atmosphere ________",
+        "options": [
+            "Is independent of temperature",
+            "Increases as temperature increases",
+            "Decreases as temperature increases",
+            "Either increases or decreases with temperature increase"
+        ],
+        "correct_answer": "c",
+        "note": "As air temperature increases, air can hold more water molecules, and its relative humidity decreases."
+    },
+    {
+        "question": "Choose the correct option with the correct sequence of the layers of atmosphere",
+        "options": [
+            "Mesophere, Ionosphere, Exosphere, Troposphere,\nStratosphere",
+            "Ionosphere, Exosphere, Mesosphere, Stratosphere, Troposphere",
+            "Exosphere, Troposphere, Ionosphere Mesosphere,\nStratosphere",
+            "Troposphere, Stratosphere, Mesosphere, Ionosphere,\nExosphere"
+        ],
+        "correct_answer": "d",
+        "note": "The troposphere is the layer that we live in. The troposphere starts at ground level and extends about 12 km upwards. From about 12 km to 50 km upwards is the stratosphere. In this layer, the jet stream blows strong winds eastward. The mesosphere is the coldest region of Earth’s atmosphere. It’s somewhere close to -100°  Celsius. The ionosphere is defined as the layer of the Earth's atmosphere that is ionized by solar and cosmic radiation. It lies 75-1000 km (46-621 miles) above the Earth. The exosphere is the uppermost region of Earth's atmosphere as it gradually fades into the vacuum of space."
+    },
+    {
+        "question": "Which of the following is especially true of anticyclones in the southern hemisphere?",
+        "options": [
+            "The air moves in a circular manner",
+            "Pressure increases from the outside to the centre",
+            "They often form over continents",
+            "The air moves in an anti-clockwise direction"
+        ],
+        "correct_answer": "d",
+        "note": "As Earth travels from West to East, air moving from the southern hemisphere to the northern hemisphere gets pushed to the right, causing hurricanes originating in the Northern hemisphere to spin in the counter-clockwise direction."
+    },
+    {
+        "question": "Countries favourably influenced by Westerlies are ________",
+        "options": [
+            "Western Europe, British Columbia and East of U.S.A.",
+            "South-West Africa and South Chile",
+            "New Zealand",
+            "All of these"
+        ],
+        "correct_answer": "d",
+        "note": "Countries favourably influenced by Westerlies are Western Europe, British Columbia and East of U.S.A., South-West Africa and South Chile and New Zealand."
+    },
+    {
+        "question": "Which of the following is/are characteristic of a depression in the southern hemisphere?\nI. It is a mass of air whose isobars form an oval or circular shape\nII. Pressure is high in the centre and decreases towards the outside\nIII. Air moves anti-clockwise",
+        "options": [
+            "I only",
+            "II only",
+            "I and III",
+            "All three"
+        ],
+        "correct_answer": "a",
+        "note": "Depression in the southern hemisphere is a mass of air whose isobars form an oval or circular shape. In the southern hemisphere, the circular movement of winds is in a clockwise direction. Depressions are rarely stationary and tend to follow definite tracks. They are most influential over the ocean spreads and they weaken over land areas."
+    },
+    {
+        "question": "The hot and dry winds that help in the ripening of grapes in the Alps region is ________",
+        "options": [
+            "Chi nook",
+            "Foehn",
+            "Mistral",
+            "Roaring Forties"
+        ],
+        "correct_answer": "b",
+        "note": "The hot and dry winds that help in the ripening of grapes in the Alps region is Foehn. Foehn is a type of dry, warm, down-slope wind that occurs in the lee (downwind side) of a mountain range."
+    },
+    {
+        "question": "What is approximately the quantum of the pressure exerted by the atmosphere at sea level?",
+        "options": [
+            "One kg per sq km",
+            "One kg per sq mtr",
+            "Five kg per sq cm",
+            "Five kg per sq mtr"
+        ],
+        "correct_answer": "b",
+        "note": "One kg per sq mtr is approximately the quantum of the pressure exerted by the atmosphere at sea level."
+    },
+    {
+        "question": "What is the percentage of Nitrogen in atmosphere of the Earth?",
+        "options": [
+            "0.94",
+            "0.03",
+            "78.03",
+            "85.02"
+        ],
+        "correct_answer": "c",
+        "note": "Nitrogen is the most abundant gas in the atmosphere. Air is composed of 78.03% nitrogen."
+    },
+    {
+        "question": "At low elevation which among the following clouds are to be found ?",
+        "options": [
+            "Cirrus",
+            "Nimbus",
+            "Cumulus",
+            "Stratus"
+        ],
+        "correct_answer": "b",
+        "note": "Nimbostratus clouds typically form at the ground level up to an altitude of about 6,000 feet in the sky. Clouds occurring at ground level are what scientists call fog."
+    },
+    {
+        "question": "The jet aircrafts fly very easily and smoothly in the lower stratosphere. What could be the appropriate explanation?\n1. There are no clouds or water vapour in the lower stratosphere.\n2. There are no vertical winds in the lower stratosphere.\nWhich of the statements given above is/are correct in this context?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "The jet aircrafts fly very easily and smoothly in the lower stratosphere because There are no clouds or water vapour in the lower stratosphere and There are no vertical winds in the lower stratosphere."
+    },
+    {
+        "question": "The most important factor in thunderstorms development is ________",
+        "options": [
+            "Atmospheric stability",
+            "Atmospheric instability",
+            "Abundance of moisture",
+            "Temperature inversion"
+        ],
+        "correct_answer": "b",
+        "note": "Atmospheric instability is the most important factor in thunderstorm development. Surface heating brings about an element of instability in the warm and moist air lying close to the surface. That is why warm and moist air becomes unstable in spring and summer when it is heated from below. Air mass thunderstorms develop in this way."
+    },
+    {
+        "question": "Which of the following is/are correct in matching the layer of atmosphere and its characteristic ?\nI. Troposphere : weather phenomena\nII. Stratosphere : ozone layer\nIII. Ionosphere : radio waves reflected to earth's surface\nIV. Mesosphere : Aurorae",
+        "options": [
+            "I, II, III and IV",
+            "I, II and IV",
+            "II and III",
+            "I, II and III"
+        ],
+        "correct_answer": "d",
+        "note": "The following that are correct in matching the layer of atmosphere and its characteristic are Troposphere : weather phenomena, Stratosphere : ozone layer and Ionosphere : radio waves reflected to earth's surface."
+    },
+    {
+        "question": "What is true with regard to Jet Streams?\n1. High velocity winds\n2. Blow from west to east\n3. Blow in upper troposphere near the tropopause\n4. Blow in the mesosphere",
+        "options": [
+            "2 and 3",
+            "2 and 4",
+            "1, 2 and 3",
+            "1, 2 and 4"
+        ],
+        "correct_answer": "c",
+        "note": "Jet Streams have high velocity wind, it blow from west to east and it blow in upper troposphere near the tropopause."
+    },
+    {
+        "question": "The dry wind 'Santa Ana' blows in ________",
+        "options": [
+            "Siberia",
+            "Argentina",
+            "Switzerland",
+            "California"
+        ],
+        "correct_answer": "d",
+        "note": "High-speed and dangerous dry winds that periodically kick up and blow from the mountains to the coast in Southern California are referred to as Santa Ana winds."
+    },
+    {
+        "question": "Which one among the following statements relating to a cyclone is not correct?",
+        "options": [
+            "It is a wind circulation system with a low pressure at the centre",
+            "It brings about sudden change In weather condition in an area",
+            "Wind movement towards the low pressure centre of a cyclone is clockwise in the northern hemisphere",
+            "It is known as hurricane in West Indies"
+        ],
+        "correct_answer": "c",
+        "note": "In the northern hemisphere, the convergence of the winds with Coriolis effect at low pressure center leads to cyclonic/anticlock-wise rotation in the cyclones."
+    },
+    {
+        "question": "Which one of the following is a type of planetary wind?",
+        "options": [
+            "Monsoons",
+            "Loo",
+            "Westerlies",
+            "Tornadoes"
+        ],
+        "correct_answer": "c",
+        "note": "The winds blowing throughout the year from one latitude to another in response to latitudinal differences in air pressure are called “planetary or prevailing winds”. The westerlies, anti-trades or prevailing westerlies, are prevailing winds from the west toward the east in the middle latitudes between 30° and 60° latitude."
+    },
+    {
+        "question": "Which of the following sequences of clouds in ascending order would one meet 500 metres and above the mean sea level?",
+        "options": [
+            "Stratus, Nimbus, Cirrostratus, Cirrus",
+            "Nimbus, Cirrostratus, Cirrocumulus, Stratus",
+            "Cirrostratus, Stratus, Cumulo-nimbus",
+            "Stratus, Cirrostratus, Cumulo-numbus, Cirrocumulus"
+        ],
+        "correct_answer": "a",
+        "note": "The sequences of clouds in ascending order would one meet 500 metres and above the mean sea level are Stratus, Nimbus, Cirrostratus, Cirrus."
+    },
+    {
+        "question": "A sudden fall in the barometric reading indicates ________",
+        "options": [
+            "Rain",
+            "Storm",
+            "Fine weather",
+            "Extreme cold"
+        ],
+        "correct_answer": "b",
+        "note": "If the reading is going down very fast then its an indication of storm (within 5-6 hours) otherwise a slow downfall of reading suggests a low pressure area is passing in a nearby region, and it may rain."
+    },
+    {
+        "question": "The amount of actual water vapour of air is known as ________",
+        "options": [
+            "Absolute humidity",
+            "Dew point",
+            "Relative humidity",
+            "Condensation point"
+        ],
+        "correct_answer": "a",
+        "note": "The actual amount of the water vapour present in the atmosphere is known as the absolute humidity. It is the weight of water vapour per unit volume of air and is expressed in terms of grams per cubic metre. The absolute humidity differs from place to place on the surface of the earth."
+    },
+    {
+        "question": "Precipitation takes place when ________",
+        "options": [
+            "The sky is overcast with clouds",
+            "Temperature of moisture in air suddenly increases",
+            "Temperature of moisture in air sharply decreases",
+            "Winds begin to blow in a circular motion"
+        ],
+        "correct_answer": "a",
+        "note": "Option A: The sky is overcast with clouds\n\n    This option is partly correct. Precipitation is more likely to occur when the sky is overcast with clouds, as clouds contain water droplets or ice crystals that can fall as precipitation when they become heavy enough.\nOption B: Temperature of moisture in air suddenly increases\n\n    This option is not correct. An increase in temperature typically leads to the evaporation of moisture rather than precipitation.\nOption C: Temperature of moisture in air sharply decreases\n\n    This option is partly correct. Precipitation often occurs when the temperature of moist air decreases, causing the air to reach its dew point and water vapor to condense into liquid or ice, forming precipitation.\nOption D: Winds begin to blow in a circular motion\n\n    This option is not correct. The circular motion of winds is associated with weather phenomena like cyclones or hurricanes but is not the primary cause of precipitation.\n\nTherefore, the most accurate options related to precipitation are a combination of Option A (The sky is overcast with clouds) and Option C (Temperature of moisture in air sharply decreases). Precipitation often occurs when the sky is cloudy and the temperature of moist air decreases, leading to condensation and the formation of precipitation."
+    },
+    {
+        "question": "Temperate cyclones bring along with them ________",
+        "options": [
+            "Pleasant weather",
+            "Snowfall and hail",
+            "Thunderstorms and torrential rainfall",
+            "Mild rainfall"
+        ],
+        "correct_answer": "d",
+        "note": "Temperate cyclones bring along with them mild rainfall. Temperate Cyclones also called mid-latitudinal cyclones or extra tropical cyclones are formed due to interaction of air masses of different temperature."
+    },
+    {
+        "question": "What is the name of the layer above Earth's surface which is located at the height of 8km from poles and 16km from the equator?",
+        "options": [
+            "Mesosphere",
+            "Atmosphere",
+            "Troposphere",
+            "Stratosphere"
+        ],
+        "correct_answer": "c",
+        "note": "The upper boundary of the layer, known as the tropopause, ranges in height from 5 miles (8 km) near the poles up to 11 miles (18 km) above the equator."
+    },
+    {
+        "question": "Which one of the following is the cloud that is dark-grey or black, found at very low height and brings the real rain?",
+        "options": [
+            "Altocumulus",
+            "Cirrus",
+            "Cirrostratus",
+            "Nimbostratus"
+        ],
+        "correct_answer": "d",
+        "note": "Nimbostratus clouds cover the sky in a dark gray layer. They can extend from the low and middle layers of the atmosphere and are thick enough to blot out the sun. Nimbostratus are the quintessential rain cloud."
+    },
+    {
+        "question": "Which of the following is produced by the rapid ascent of moist air?",
+        "options": [
+            "Frost",
+            "Fog",
+            "Hail",
+            "Snow"
+        ],
+        "correct_answer": "c",
+        "note": "Hail is produced by the rapid ascent of moist air. The hard pellets of ice having diameter of 5 mm or that fall from Cumulonimbus clouds, and are generally associated with thunderstorms is known as hail. They are formed by the rapid ascent of moist air; the water drops freeze, and the size of the pellets increases as more water Vapour freezes on to their surface."
+    },
+    {
+        "question": "The correct sequence of different layers of the atmosphere from the surface of the Earth upwards is ________",
+        "options": [
+            "Troposphere, Stratosphere, Ionosphere, Mesosphere",
+            "Stratosphere, Troposphere, Ionosphere, Mesosphere",
+            "Troposphere, Stratosphere, Mesosphere, Ionosphere",
+            "Stratosphere, Troposphere, Mesosphere, Ionosphere"
+        ],
+        "correct_answer": "c",
+        "note": "The correct sequence of different layers of the atmosphere from the surface of the Earth upwards is Troposphere, Stratosphere, Mesosphere and Thermosphere. The troposphere is the layer that we live in. The troposphere starts at ground level and extends about 12 km upwards. From about 12 km to 50 km upwards is the stratosphere. In this layer, the jet stream blows strong winds eastward. The mesosphere is the coldest region of Earth’s atmosphere. It’s somewhere close to -100°  Celsius. Themosphere is the thickest layer in the atmosphere is the thermosphere starting at about 80 km going upwards."
+    },
+    {
+        "question": "Which of the following colour types do not indicate fair or fine weather?",
+        "options": [
+            "Cirrus",
+            "Cumulus",
+            "Altocumulus",
+            "Cumulonimbus"
+        ],
+        "correct_answer": "d",
+        "note": "A cumulus cloud that exhibits significant vertical development (but is not yet a thunderstorm) is called cumulus congestus or towering cumulus. If enough atmospheric instability, moisture, and lift are present, then strong updrafts can develop in the cumulus cloud leading to a mature, deep cumulonimbus cloud, i.e., a thunderstorm producing heavy rain. In addition, cloud electrification occurs within cumulonimbus clouds due to many collisions between charged water droplet, graupel (ice-water mix), and ice crystal particles, resulting in lightning and thunder."
+    },
+    {
+        "question": "The radiation that heats earth's atmosphere comes from the",
+        "options": [
+            "Sun",
+            "Earth",
+            "Ionosphere",
+            "Sun and earth"
+        ],
+        "correct_answer": "a",
+        "note": "The heat source for our planet is the sun. Energy from the sun is transferred through space and through the earth's atmosphere to the earth's surface. Since this energy warms the earth's surface and atmosphere, some of it is or becomes heat energy."
+    },
+    {
+        "question": "Why the Earth is having its own atmosphere?",
+        "options": [
+            "Winds",
+            "Clouds",
+            "Gravity",
+            "Rotation of the Earth"
+        ],
+        "correct_answer": "c",
+        "note": "Atmosphere contains particles and gases which do not escape to outer space because they are bounded by the force known gravity. Earth's gravity comes from all its mass. All its mass makes a combined gravitational pull on all the mass in your body. That's what gives you weight. And if you were on a planet with less mass than Earth, you would weigh less than you do here."
+    },
+    {
+        "question": "Some large lakes in temperate latitudes have a moderating influence upon the climate of adjacent land surfaces. Such an influence may develop when ________",
+        "options": [
+            "The water is shallow",
+            "The lake is high above sea level",
+            "Prevailing out-blowing winds cross the lake in winter",
+            "The lake is a basin of inland drainage"
+        ],
+        "correct_answer": "c",
+        "note": "Some large lakes in temperate latitudes have a moderating influence upon the climate of adjacent land surfaces. Such an influence may develop when prevailing out-blowing winds cross the lake in winter."
+    },
+    {
+        "question": "The clouds extending from one side of horizon to other as 3 dark grey sheet having uniform base are called ________",
+        "options": [
+            "Stratus clouds",
+            "Cumulus clouds",
+            "Cirrus clouds",
+            "Nimbus clouds"
+        ],
+        "correct_answer": "a",
+        "note": "The clouds extending from one side of horizon to other as 3 dark grey sheet having uniform base are called Stratus clouds. They are composed of thin layers of clouds covering a large area of the sky. This is simply mist or fog when it forms close to the ground."
+    },
+    {
+        "question": "Which of the following characterises the Foehn?\nI. It is warm\nII. It is humid\nIII. It is common in the valleys of the northern Alps\nIV. It blows in winter",
+        "options": [
+            "I, II and IV",
+            "I, II and III",
+            "I, III and IV",
+            "I, II, III and IV"
+        ],
+        "correct_answer": "c",
+        "note": "The following characterises the Foehn are that It is warm, It is common in the valleys of the northern Alps and It blows in winter."
+    },
+    {
+        "question": "What do you understand by the term 'Advection' ?",
+        "options": [
+            "Heat is transferred horizontally by winds",
+            "Heat is transferred horizontally by both winds and ocean currents",
+            "Heat is transferred vertically through the air",
+            "Heat is transferred horizontally through ocean currents"
+        ],
+        "correct_answer": "b",
+        "note": "Advection is the horizontal transport or transfer of a quality such as heat and cold from one point to another. Advective transfers occur either in the oceans by currents of seawater or by large-scale movement in the atmosphere where humidity (atmospheric moisture) is another important property. In both cases a major example is the transport of cold air or water masses from the polar regions to lower latitudes."
+    },
+    {
+        "question": "The continuous circulation of water among the hydrosphere, atmosphere and lithosphere is known as",
+        "options": [
+            "Water circulation",
+            "Hydrologic cycle",
+            "Hydro-equilibrium",
+            "Precipitation"
+        ],
+        "correct_answer": "b",
+        "note": "The continuous circulation of water among the hydrosphere, atmosphere and Lithosphere is known as hydrologic cycle. The water, or hydrologic, cycle describes the pilgrimage of water as water molecules make their way from the Earth’s surface to the atmosphere and back again, in some cases to below the surface. This gigantic system, powered by energy from the Sun, is a continuous exchange of moisture between the oceans, the atmosphere, and the land."
+    },
+    {
+        "question": "A level of atmosphere which is composed partly of Electrons and Positive Ions is called",
+        "options": [
+            "Troposphere",
+            "Ionosphere",
+            "Stratosphere",
+            "Mesosphere"
+        ],
+        "correct_answer": "b",
+        "note": "The layer of atmosphere composed of ionic gaseous molecules helping in propagation of radio waves is Ionosphere. It is the 2nd layer from the top. It ranges from 60km. to 1000km. It also protects Earth from meteorites."
+    },
+    {
+        "question": "At which height, the gaseous surrounding has covered the Earth's atmosphere?",
+        "options": [
+            "100km",
+            "150km",
+            "200km",
+            "300km"
+        ],
+        "correct_answer": "d",
+        "note": "As we go upwards altitude wise, the density of gases gets reduced. They seldomly occur till the altitude of 300km."
+    },
+    {
+        "question": "Dew point is ________",
+        "options": [
+            "Amount of actual water vapour present per unit volume of air",
+            "Incoming solar radiation",
+            "A low pressure system in lower atmosphere",
+            "A temperature at which a given sample of air becomes saturated"
+        ],
+        "correct_answer": "d",
+        "note": "Dew points indicate the amount of moisture in the air. The higher the dew points, the higher the moisture content of the air at a given temperature. Dew point is a temperature at which a given sample of air becomes saturated."
+    },
+    {
+        "question": "Which of the following layers of the Earth's atmosphere provide ideal flying conditions for Jet aircraft?",
+        "options": [
+            "Mesosphere",
+            "Thermosphere",
+            "Stratosphere",
+            "Troposphere"
+        ],
+        "correct_answer": "c",
+        "note": "The stratosphere is said to be ideal for flying jet aircraft. This is because this layer is rich in ozone which reduces fuel consumption, the temperature is constant and ideal for aircraft engine efficiency, this layer is out of the firing range of anti-aircraft guns and of the absence of clouds and other weather phenomena."
+    },
+    {
+        "question": "Doldrums are ________",
+        "options": [
+            "High latitudes with heavy snow",
+            "Equatorial zone with low pressure",
+            "High pressure areas on mountains",
+            "Sub-polar zone with high pressure"
+        ],
+        "correct_answer": "b",
+        "note": "Doldrums are Equatorial zone with low pressure. As this region lies along the equator, it receives highest amount of insolation. Due to intense heating, air gets warmed up and rises over the equatorial region (convection). Whenever there is vertically upward movement of air, the region at the surface will be at low pressure. Thus the belt along the equator is called equatorial low pressure belt."
+    },
+    {
+        "question": "Which of the following places are favourably influenced by the Trade winds?\nI. West Indies\nII. Brazil\nIII. Mexico\nIV. Madagascar",
+        "options": [
+            "I and II",
+            "I, II, III and IV",
+            "III and IV",
+            "II and IV"
+        ],
+        "correct_answer": "b",
+        "note": "The following places that are favourably influenced by the Trade winds are West Indies, Brazil, Mexico and Madagascar."
+    },
+    {
+        "question": "In the northern hemisphere, the wind blowing from the Horse latitudes to the Doldrums is called ________",
+        "options": [
+            "Westerly wind",
+            "Trade wind",
+            "Polar Easterly",
+            "Jet Stream"
+        ],
+        "correct_answer": "b",
+        "note": "In the northern hemisphere, the wind blowing from the Horse latitudes to the Doldrums is called Trade wind. Trade wind blow out from the Subtropical High Pressure belts. In the northern hemisphere, they blow towards the equatorial low and called North East Trade Winds. In the Southern hemisphere they blow towards the equatorial low and become the South East Trade winds."
+    },
+    {
+        "question": "The dense mass of small water drops on smoke particles in the lower layers of the atmosphere is ________",
+        "options": [
+            "Smog",
+            "Frost",
+            "Fog",
+            "Dew"
+        ],
+        "correct_answer": "a",
+        "note": "The dense mass of small water drops on smoke particles in the lower layers of the atmosphere is Smog. Smog is a kind of air pollution, originally named for the mixture of smoke and fog in the air. Classic smog results from large amounts of coal burning in an area and is caused by a mixture of smoke and sulfur dioxide."
+    },
+    {
+        "question": "The chemically inactive gas present in the atmosphere is ________",
+        "options": [
+            "Nitrogen",
+            "Argon",
+            "Water vapour",
+            "Oxygen"
+        ],
+        "correct_answer": "b",
+        "note": "Argon is the chemically inactive gas present in the atmosphere."
+    },
+    {
+        "question": "In which layer, temperature increases dramatically?",
+        "options": [
+            "Ionosphere",
+            "Exosphere",
+            "Stratosphere",
+            "Troposphere"
+        ],
+        "correct_answer": "a",
+        "note": "As Ionosphere is one of the upper most layers, the solar and cosmic radiations heat it up rapidly, the gaseous material available here is in ionic state. Hence temperature increases rapidly."
+    },
+    {
+        "question": "What is the major role of a greenhouse gas that contributes to temperature rise of the Earth's surface?",
+        "options": [
+            "Transparent to both incoming sunlight and outgoing infrared radiation",
+            "Stops both incoming sunlight and outgoing infrared radiation",
+            "Lets outgoing infrared radiation pass through but stops incoming sunlight",
+            "Lets incoming sunlight pass through but stops outgoing infrared radiation"
+        ],
+        "correct_answer": "d",
+        "note": "Solar energy heats the earth’s surface. But the energy does not stay bound up in the earth’s environment forever. Instead, as the earth warms, it emits thermal radiation. This thermal radiation, which is largely in the form of long-wave infrared rays, eventually finds its way out into space, leaving the earth and allowing it to cool. However, not all of the infrared rays pass into space. Some of the infrared rays are absorbed by greenhouse gases and warm the atmosphere. So the amount of greenhouse gases in the atmosphere is directly related to the temperature of the atmosphere."
+    },
+    {
+        "question": "Temperature generally decreases towards the poles because ________",
+        "options": [
+            "Air movement is generally towards the. equator",
+            "Cold polar air masses prevent surface heating of the land",
+            "Cold surfaces do not absorb solar energy as readily as warm surfaces",
+            "Progressively lesser solar energy per unit area falls on the earth's surface as we move to polar regions"
+        ],
+        "correct_answer": "d",
+        "note": "Temperature generally decreases towards the poles because progressively lesser solar energy per unit area falls on the earth's surface as we move to polar regions. Longer the path of the sun’s rays, greater is the amount of reflection and absorption of heat by the atmosphere. As a result, the intensity of insolation is less."
+    },
+    {
+        "question": "Consider the following statements:\n1. Troposphere varies in its thickness between equator and poles.\n2. Stratosphere does not experience Normal Lapse Rate.\n3. Ozone layer occurs in the Mesosphere.\n4. Ionosphere lies between Stratosphere and Mesosphere\nWhich of these statements are correct?",
+        "options": [
+            "1 and 2",
+            "2 and 3",
+            "3 and 4",
+            "1, 2 and 4"
+        ],
+        "correct_answer": "a",
+        "note": "Troposphere varies in its thickness between equator and poles. Near the equator, the troposphere is thicker than at the poles, since the spinning of the Earth tends to shift air towards the equator. The thickness of the troposphere also varies with season. Stratosphere does not experience Normal Lapse Rate. There it generally gets colder as you go higher due to the expansion of gases as the pressure decreases. Technically, the stratosphere has a negative 'lapse rate' (temperature increases with height), while the lower atmosphere's lapse rate is positive."
+    },
+    {
+        "question": "Excess carbon dioxide in the atmosphere due to pollution will cause",
+        "options": [
+            "Earth's temperature to rise",
+            "Earth's temperature to fall",
+            "No change in earth's temperature",
+            "Increase in ultra-violet radiation reaching the earth"
+        ],
+        "correct_answer": "a",
+        "note": "Excess carbon in the atmosphere warms the planet. when carbon dioxide concentrations rise, air temperatures go up, and more water vapor evaporates into the atmosphere which then amplifies greenhouse heating."
+    },
+    {
+        "question": "Atmospheric pressure exerted on earth is due to ________",
+        "options": [
+            "Gravitational pull of the earth",
+            "Rotation of earth",
+            "Revolution of earth",
+            "Uneven heating of earth"
+        ],
+        "correct_answer": "a",
+        "note": "Atmospheric pressure exerted on earth is due to gravitational pull of the earth. The air around you has weight, and it presses against everything it touches. That pressure is called atmospheric pressure, or air pressure."
+    },
+    {
+        "question": "Which one of the following statements is correct? Hurricanes ________",
+        "options": [
+            "Form at the equator",
+            "Are not as large as tornadoes",
+            "Develop over warm ocean areas",
+            "Tend to intensify when they move over land surfaces"
+        ],
+        "correct_answer": "c",
+        "note": "Only tropical cyclones that form over the Atlantic Ocean or eastern Pacific Ocean are called \"hurricanes.\" Tropical cyclones are like giant engines that use warm, moist air as fuel. That is why they form only over warm ocean waters near the equator. The warm, moist air over the ocean rises upward from near the surface."
+    },
+    {
+        "question": "Rain shadow effect is associated with",
+        "options": [
+            "Cyclonic rainfall",
+            "Orographic rainfall",
+            "Convectional rainfall",
+            "Frontal rainfall"
+        ],
+        "correct_answer": "b",
+        "note": "Orographic precipitation or Rain produced when moist air is lifted as it moves over a mountain range. As the air rises and cools, orographic clouds form and serve as the source of the precipitation, most of which falls upwind of the mountain ridge. Some also falls a short distance downwind of the ridge and is sometimes called spillover. On the lee side of the mountain range, rainfall is usually low, and the area is said to be in a Rain Shadow."
+    },
+    {
+        "question": "Which one of the following layers of the atmosphere is responsible for the deflection of radio waves?",
+        "options": [
+            "Troposphere",
+            "Stratosphere",
+            "Mesosphere",
+            "Ionosphere"
+        ],
+        "correct_answer": "d",
+        "note": "Ionosphere is the top layer of the atmosphere. Radio waves are deflected in the ionosphere of the atmosphere."
+    },
+    {
+        "question": "The tropical cyclones - Hurricanes and Typhoons - develop and mature ________",
+        "options": [
+            "At the same place",
+            "Over the land masses only",
+            "Over the water bodies only",
+            "Anywhere in the tropical zone"
+        ],
+        "correct_answer": "d",
+        "note": "Tropical cyclones, including hurricanes and typhoons, can develop and mature anywhere within the tropical zone. The tropical zone encompasses the region between the Tropic of Cancer and the Tropic of Capricorn, which includes warm ocean waters in tropical and subtropical regions around the globe. These cyclones form over warm ocean waters, where the sea surface temperatures are typically above 26.5°C (80°F), providing the necessary energy for their development. The warm and moist air near the ocean's surface rises and creates a spinning motion due to the Earth's rotation, leading to the formation of these cyclonic systems. As they move across the warm waters, tropical cyclones can intensify and become powerful storms. Therefore, they can develop and mature anywhere within the tropical zone."
+    },
+    {
+        "question": "The monsoon has well-developed cycle in ________",
+        "options": [
+            "South and South East Asia",
+            "North Australia",
+            "East United States",
+            "Africa"
+        ],
+        "correct_answer": "a",
+        "note": "The monsoon has well-developed cycle in South and South East Asia. The monsoon through axis experiences considerable day to day variation in its position, which has a vital bearing on the monsoon rainfall distribution in the region."
+    },
+    {
+        "question": "Westerlies in southern hemisphere are stronger and persistent than in northern hemisphere. Why?\n1. Southern hemisphere has less landmass as compared to northern hemisphere.\n2. Coriolis force is higher in southern hemisphere as compared to northern hemisphere.\nWhich of the statements given above is fare correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "a",
+        "note": "Westerlies in southern hemisphere are stronger and persistent than in northern hemisphere because southern hemisphere has less landmass as compared to northern hemisphere."
+    },
+    {
+        "question": "A layer in the Earth's atmosphere called Ionosphere facilitates radio communication. Why?\n1. The presence of ozone causes the reflection of radio waves to Earth.\n2. Radio waves have a very long wavelength.\nWhich of the statements given above is fare correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "d",
+        "note": "A layer in the Earth's atmosphere called Ionosphere facilitates radio communication."
+    },
+    {
+        "question": "Temperate lows are ________",
+        "options": [
+            "Low pressure areas in cyclones",
+            "Equatorial low pressure belt",
+            "Polar regions which have very low temperatures",
+            "Sub-polar low pressure belts"
+        ],
+        "correct_answer": "d",
+        "note": "Temperate lows are Sub-polar low pressure belts. The Coriolis effect from earth's rotation sets the resulting winds into Hadley cells, which produces low pressure at the equator and sub polar areas, high pressure at mid latitudes, and low sub-polar pressures, as well as trade winds, doldrums, and jet streams."
+    },
+    {
+        "question": "The plane of contact of the troposphere and stratosphere is known as ________",
+        "options": [
+            "Mesosphere",
+            "Ionosphere",
+            "Stratopause",
+            "Tropopause"
+        ],
+        "correct_answer": "d",
+        "note": "The plane of contact of the troposphere and stratosphere is known as tropopause. The tropopause is the boundary region between the troposphere and the stratosphere."
+    },
+    {
+        "question": "Where is Ozone layer found?",
+        "options": [
+            "Troposphere",
+            "Ionosphere",
+            "Stratosphere",
+            "Exosphere"
+        ],
+        "correct_answer": "c",
+        "note": "The ozone layer is mainly found in the lower portion of the stratosphere from approximately 20 to 30 kilometres (12 to 19 mi) above earth, though the thickness varies seasonally and geographically."
+    },
+    {
+        "question": "Compared to other slopes in the northern hemisphere which is the warmest?",
+        "options": [
+            "East facing",
+            "South facing",
+            "North facing",
+            "West facing"
+        ],
+        "correct_answer": "b",
+        "note": "In the northern hemisphere, south-facing slopes are warmest because the sun stays mostly in the southern half of the sky."
+    },
+    {
+        "question": "The Ozone hole is detected in the atmosphere, where is it located?",
+        "options": [
+            "Above Arctic Ocean",
+            "Above Antarctica",
+            "Above India",
+            "Above Alaska"
+        ],
+        "correct_answer": "b",
+        "note": "Ozone is the layer in Stratosphere with in atmosphere. It shields Earth from harmful UV rays of Sun. But, due to pollution and continuous exposure to green  house gases a hole has developed in Ozone above Antarctica near South pole."
+    },
+    {
+        "question": "Consider the following statements regarding general characteristics associated with tropical cyclones\n1. Tropical cyclones move with very low velocity over the oceans but become strong while moving over the land areas.\n2. They are confined to a particular period of the year (mainly summer) and normally move from east to west.\nWhich of the statement(s) given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "b",
+        "note": "The general characteristics associated with tropical cyclones are that they are confined to a particular period of the year (mainly summer) and normally move from east to west."
+    },
+    {
+        "question": "Consider the following statements regarding the distribution and pattern of isotherms\n1. In the northern hemisphere, isotherms bend sharply equator-ward over the continents during winter.\n2. Temperature gradients are greater in summer than in winter in the northern hemisphere.\nWhich of the statement(s) given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "a",
+        "note": "In the northern hemisphere, isotherms bend sharply equator-ward over the continents during winter. Large landmasses in the Northern hemisphere cause isotherms to bend toward the equator in winter and poles in summer as they change their temperature much more than the water."
+    },
+    {
+        "question": "Consider the following statements:\n1. Either of the two belts over the oceans at about 30° to 35° N  and S Latitudes is known as Horse Latitude.\n2. Horse latitudes are low pressure belts.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "a",
+        "note": "Either of the two belts over the oceans at about 30° to 35° N and S latitudes is known as Horse Latitude. Horse latitude, either of two subtropical atmospheric high-pressure belts that encircle Earth around latitudes 30°– 35° N and 30°– 35° S and that generate light winds and clear skies. Because they contain dry subsiding air, they produce arid climates in the areas below them."
+    },
+    {
+        "question": "Warm dry winds blowing down the east slopes of Rockies are known as ________",
+        "options": [
+            "Mistral",
+            "Nor' westers",
+            "Foehn",
+            "Chinook"
+        ],
+        "correct_answer": "d",
+        "note": "Warm dry winds blowing down the east slopes of rockies is known as chinook. They are a type of warm, dry wind that occur on the downward slope of a mountain when warm air has lost its moisture."
+    },
+    {
+        "question": "The study of the processes of atmosphere is called as",
+        "options": [
+            "Astrology",
+            "Meteorology",
+            "Seismology",
+            "Astronomy"
+        ],
+        "correct_answer": "b",
+        "note": "It is the branch of science which is concerned with the processes of atmosphere e.g. forecasting weather. Meteorology is the scientific study of the atmosphere that focuses on weather processes and forecasting."
+    },
+    {
+        "question": "Consider the following statements\n1. Tropical cyclones have circular isobars.\n2. Tropical cyclones originate entirely within the tropical air mass.\n3. The intensity and magnitude of hurricanes generally exceed those of typhoons.\n4. Tropical cyclones are more destructive than the western disturbances.\nSelect the correct answer by using the following codes",
+        "options": [
+            "1, 2 and 4",
+            "1 only",
+            "2 and 3",
+            "3 and 4"
+        ],
+        "correct_answer": "a",
+        "note": "Tropical cyclones have circular isobars. A tropical cyclone is a rapidly rotating storm system characterized by a low-pressure center, a closed low-level atmospheric circulation, strong winds, and a spiral arrangement of thunderstorms that produce heavy rain. Tropical cyclones originate entirely within the tropical air mass. Tropical cyclones are like giant engines that use warm, moist air as fuel. That is why they form only over warm ocean waters near the equator. The warm, moist air over the ocean rises upward from near the surface. Tropical cyclones are more destructive than the western disturbances. Tropical cyclones out at sea cause large waves, heavy rain, flood and high winds, disrupting international shipping and, at times, causing shipwrecks."
+    },
+    {
+        "question": "Which of the following is a cold wind?",
+        "options": [
+            "Buran",
+            "Foehn",
+            "Chinook",
+            "Sirocco"
+        ],
+        "correct_answer": "a",
+        "note": "Extremely cold northeasterly or easterly winds blowing in eastern Russia and central Siberia are called buran."
+    },
+    {
+        "question": "The albedo of which one among the following is the highest?",
+        "options": [
+            "Cirrus cloud",
+            "Cumulonimbus cloud",
+            "Melting snow",
+            "Sand"
+        ],
+        "correct_answer": "a",
+        "note": "The albedo of Cirrus cloud is the highest. Cirrus are thin, wispy clouds that appear at high altitude and consist of ice crystals."
+    },
+    {
+        "question": "Which of the following statements is not true?",
+        "options": [
+            "Presence of water vapour is highly variable in the lower atmosphere.",
+            "The zone of maximum temperature is located along the equator.",
+            "Frigid zones are located in both the hemispheres between the polar circles and the poles.",
+            "Jet streams are high altitude winds affecting the surface weather conditions."
+        ],
+        "correct_answer": "b",
+        "note": "Since, the insolation is highest at equator; temperature should be highest at the equator and lowest near the poles, however actually it is not. Highest temperature on earth is recorded at a few degrees north of equator. Altitude is the second major control of temperature of a place. The temperature depends upon albedo of the surface also."
+    },
+    {
+        "question": "Land masses are heated and cooled much faster than water bodies. Identify the true statements in this regard:\nI. Land gets heated by conduction\nII. Water has higher specific heat\nIII. Only the surface layers of water are heated\nIV. Water gets heated by convection",
+        "options": [
+            "I, II and III",
+            "II and III",
+            "I and IV",
+            "I, II and IV"
+        ],
+        "correct_answer": "d",
+        "note": "Land masses are heated and cooled much faster than water bodies. Land gets heated by conduction, Water has higher specific heat and Water gets heated by convection."
+    },
+    {
+        "question": "What is the correct sequence of the following zonal pressure belts?\n1. Subpolar low\n2. Equatorial low\n3. Polar high\n4. Subtropical high",
+        "options": [
+            "2, 3, 1, 4",
+            "1, 4, 2, 3",
+            "2, 4, 1, 3",
+            "1, 3, 2, 4"
+        ],
+        "correct_answer": "c",
+        "note": "The correct sequence of the zonal pressure belts are  Equatorial low, Subtropical high, Subpolar low and Polar high."
+    },
+    {
+        "question": "The cold and dense air blowing down the mountain slope during the night is known as ________",
+        "options": [
+            "Anabatic wind",
+            "Khamsin",
+            "Katabatic wind",
+            "Harmattan"
+        ],
+        "correct_answer": "c",
+        "note": "The cold and dense air blowing down the mountain slope during the night is known as Katabatic wind. Katabatic wind, also called downslope wind, or gravity wind, wind that blows down a slope because of gravity. It occurs at night, when the highlands radiate heat and are cooled."
+    },
+    {
+        "question": "The layer of atmosphere which reflects radio waves is",
+        "options": [
+            "Ionosphere",
+            "Troposphere",
+            "Stratosphere",
+            "Exosphere"
+        ],
+        "correct_answer": "a",
+        "note": "The layer of the atmosphere that reflects radio waves is the ionosphere. That is because there are gas particles in the ionosphere that are ionized, or that carry an electrical charge. The ionosphere is a layer which includes the thermosphere and part of the mesoshere and exosphere."
+    },
+    {
+        "question": "Venus has atmosphere made up of",
+        "options": [
+            "Ammonia",
+            "Carbon dioxide",
+            "Helium",
+            "Hydrogen"
+        ],
+        "correct_answer": "b",
+        "note": "The atmosphere of Venus is made up almost completely of carbon dioxide. It also includes small doses of nitrogen and clouds of sulfuric acid."
+    },
+    {
+        "question": "The core of the Earth is also known as",
+        "options": [
+            "Lithosphere",
+            "Mesosphere",
+            "Barysphere",
+            "Centrosphere"
+        ],
+        "correct_answer": "c",
+        "note": "The inner most layer of the earth is called the “Core or Barysphere”. It is otherwise known as NIFE, because of the presence of Nickel and Ferrous (iron). This layer produces earth's magnetic field."
+    },
+    {
+        "question": "The capacity of the Atmosphere to hold water vapour",
+        "options": [
+            "Increases as the temperature increases",
+            "Decreases as the temperature increases",
+            "Increases as the temperature decreases",
+            "Decreases as the temperature decreases"
+        ],
+        "correct_answer": "a",
+        "note": "The capacity of the Atmosphere to hold water vapour increases as the temperature increases. As air temperatures rise, there is an increase in the ability of the air to hold moisture. At 80° F the capacity of air increases to where it can hold 21.537 g/kg of water vapor."
+    },
+    {
+        "question": "Northern part of Australia is typified by which one of the following?",
+        "options": [
+            "Equatorial climate",
+            "Mediterranean climate",
+            "Temperate climate",
+            "Monsoon climate"
+        ],
+        "correct_answer": "d",
+        "note": "The northern part of Australia's Northern Territory (NT) has a tropical monsoonal climate. There is a dry season and a wet season. The dry season from May to October is when most tourists visit. The days are sunny and the evenings are cool. The humidity is low with an average daily temperature around 32°C."
+    },
+    {
+        "question": "Mist is a result of which one of the following?",
+        "options": [
+            "Condensation",
+            "Evaporation",
+            "Sublimation",
+            "Saturation"
+        ],
+        "correct_answer": "a",
+        "note": "Mist is a thin fog resulting from condensation in the air near the earth’s surface."
+    },
+    {
+        "question": "The instrument used for measuring relative humidity in air is ________",
+        "options": [
+            "Hygrometer",
+            "Hydrograph",
+            "Pantograph",
+            "Barograph"
+        ],
+        "correct_answer": "a",
+        "note": "A hygrometer is a weather instrument used to measure the amount of humidity in the atmosphere."
+    },
+    {
+        "question": "The hot dry local winds that blow on the eastern side of the Alps Mountain are known as ________",
+        "options": [
+            "Chinook",
+            "Foehn",
+            "Khamsin",
+            "Sirocco"
+        ],
+        "correct_answer": "b",
+        "note": "The hot dry local winds that blow on the eastern side of the Alps Mountain are known as Foehn. Foehn, German Föhn, warm and dry, gusty wind that periodically descends the leeward slopes of nearly all mountains and mountain ranges."
+    },
+    {
+        "question": "The contact of two air masses differing sharply in humidity originates:",
+        "options": [
+            "Tropical cyclones",
+            "Inter-tropical convergence",
+            "Temperate cyclones",
+            "Tropospheric instability"
+        ],
+        "correct_answer": "c",
+        "note": "The contact of two air masses differing sharply in humidity originates temperate cyclones. Temperate Cyclones also called mid-latitudinal cyclones or extra tropical cyclones are formed due to interaction of air masses of different temperature."
+    },
+    {
+        "question": "Frontal rain is caused by ________",
+        "options": [
+            "Convection currents",
+            "Winds from sea",
+            "Cyclonic activity",
+            "Condensation of water evaporated from mountains"
+        ],
+        "correct_answer": "c",
+        "note": "Frontal (or Cyclonic) Rain is caused by cyclonic activity and it occurs along the fronts of the cyclone. It is formed when two masses of air of different temperature, humidity and density meets."
+    },
+    {
+        "question": "When the relative humidity is 50% and air temperature is 30°C, a cooling of air mass ________",
+        "options": [
+            "Raises the absolute humidity",
+            "Produces no change in relative humidity",
+            "Decreases the relative humidity",
+            "Increases the relative humidity"
+        ],
+        "correct_answer": "c",
+        "note": "When the relative humidity is 50% and air temperature is 30°C, a cooling of air mass decreases the relative humidity. Relative humidity (RH) is the percentage of the maximum amount of water vapour the air at the current temperature can hold before saturation."
+    },
+    {
+        "question": "Which of the following statements characterize the anticyclones?\n1. Anticyclones are low pressure systems.\n2. They are characterized by divergent wind circulation.\n3. They are indicative of dry weather conditions.\nSelect the correct answer using the codes given below",
+        "options": [
+            "2 and 3",
+            "1 and 3",
+            "1, 2 and 3",
+            "1 only"
+        ],
+        "correct_answer": "a",
+        "note": "Anticyclones are characterized by divergent wind circulation. They are indicative of dry weather conditions."
+    },
+    {
+        "question": "Very strong and cold icy winds that blow in the Polar regions are called ________",
+        "options": [
+            "Typhoons",
+            "Tornadoes",
+            "Blizzards",
+            "Polar winds"
+        ],
+        "correct_answer": "c",
+        "note": "Very strong and cold icy winds that blow in the Polar regions are called Blizzards. A blizzard is a severe snow storm with winds in excess of 35 mph and visibility of less than a 1/4 mile for more than 3 hours."
+    },
+    {
+        "question": "In the northern hemisphere, currents are deflected to their right due to ________",
+        "options": [
+            "Centrifugal force",
+            "Coriolis force",
+            "Cyclonic storms",
+            "None of these"
+        ],
+        "correct_answer": "b",
+        "note": "The force, called the \"Coriolis effect,\" causes the direction of winds and ocean currents to be deflected. In the Northern Hemisphere, wind and currents are deflected toward the right, in the Southern Hemisphere they are deflected to the left."
+    },
+    {
+        "question": "Which of these statements are correct regarding the atmosphere of the earth:\n1. It is enveloping the earth because of gravity.\n2. Its density decreases with increasing height from the surface of the earth.\n3. Its characteristic composition is same throughout its height.\n4. Amount of pressure it exerts on earth's surface at sea level is called one atm sphere.",
+        "options": [
+            "1 and 4",
+            "2 and 4",
+            "2, 3 and 4",
+            "1, 2 and 4"
+        ],
+        "correct_answer": "d",
+        "note": "Statements that are correct regarding the atmosphere of the earth are that It is enveloping the earth because of gravity, Its density decreases with increasing height from the surface of the earth and Amount of pressure it exerts on earth's surface at sea level is called one atm sphere."
+    },
+    {
+        "question": "Which are of the following is wrongly characterised?",
+        "options": [
+            "Chinook- Canada - winter - warm",
+            "Khamsin – Egypt – spring - hot",
+            "Sirocco – Sahara – spring - hot",
+            "Mistral - Rhone Valley - summer – cold"
+        ],
+        "correct_answer": "d",
+        "note": "The cold and dry Mistral blows in winter from the north to northwest, and travels down the Rhone valley, between the Alps and Massif Central, which opens to the Gulf of Lion."
+    },
+    {
+        "question": "When the wind is deflected due to the rotation of the Earth, it is called as ________",
+        "options": [
+            "Geostropic wind",
+            "Polar wind",
+            "Westerlies",
+            "Trade winds"
+        ],
+        "correct_answer": "a",
+        "note": "When the wind is deflected due to rotation of earth, it is known as geostrophic wind. Geostrophic winds come about because pressure gradient force and Coriolis force come into balance after the air begins to move."
+    },
+    {
+        "question": "The innermost layer is the core with a radius of about ________ km.",
+        "options": [
+            "500",
+            "6500",
+            "9500",
+            "3500"
+        ],
+        "correct_answer": "d",
+        "note": "The core has, in total, a radius of 3500 km, but it is generally viewed as two distinct parts: the solid inner core, with a radius of 1220 km. the viscous outer core, with a radius of 2300 km."
+    },
+    {
+        "question": "The absence of which among the following causes the temperature of the atmosphere to decrease with ascent along with decreasing density of air?\nI. Vegetation\nII. Water\nIII. Carbon dioxide\nIV. Oxygen\nV. Nitrogen",
+        "options": [
+            "I and II",
+            "III and IV",
+            "II and III",
+            "II and V"
+        ],
+        "correct_answer": "c",
+        "note": "The absence of water and carbon dioxide causes the temperature of the atmosphere to decrease with ascent along with decreasing density of air."
+    },
+    {
+        "question": "Smog is likely to occur ________",
+        "options": [
+            "Around valleys",
+            "Near lakes",
+            "On calm, clear and cool nights",
+            "Near the industrial areas"
+        ],
+        "correct_answer": "d",
+        "note": "Smog was common in industrial areas, and remains a familiar sight in cities today. Industrial smog typically exists in urban areas where factories burn fossil fuels such as coal, which creates smoke and sulfur dioxide that mix with fog droplets to create a thick blanket of haze close to the ground."
+    },
+    {
+        "question": "The cauliflower shape is associated with which of the following cloud formations?",
+        "options": [
+            "Stratus",
+            "Cumulus",
+            "Nimbus",
+            "Cirrus"
+        ],
+        "correct_answer": "b",
+        "note": "When the top of the cloud begins to look like a head of cauliflower, it's called a cumulus congestus or a towering cumulus. The fluffy, cauliflower-shaped cumulus are one of the most common and distinctive types of cloud. All cumulus clouds develop as a result of convection."
+    },
+    {
+        "question": "Heat gain through insolation and heat loss through terrestrial radiation are equal approximately at which latitude?",
+        "options": [
+            "22° W North and South",
+            "40° North and South",
+            "90° North and South",
+            "66° W North and South"
+        ],
+        "correct_answer": "b",
+        "note": "At 40° North and South the heat gain through insolation approximately equal to the heat loss through terrestrial radiation."
+    },
+    {
+        "question": "Increase in carbon dioxide in atmosphere causes ________",
+        "options": [
+            "Rise in earth temperature",
+            "Fall in earth temperature",
+            "Uniform earth temperature",
+            "Increase in Ultraviolet rays"
+        ],
+        "correct_answer": "a",
+        "note": "The carbon dioxide is released to the atmosphere where it remains for 100 to 200 years. This leads to an increasing concentration of carbon dioxide in our atmosphere (see above on the right hand side), which in turn causes the average temperature on Earth to raise."
+    },
+    {
+        "question": "Which one of the following is not a correct example of tropical cyclone?",
+        "options": [
+            "Tornadoes",
+            "Typhoons",
+            "Hurricanes",
+            "Nor westers"
+        ],
+        "correct_answer": "d",
+        "note": "Violent thunderstorms in the Gangetic plains of India are locally known as Kal Baisakhi or Nor westers."
+    },
+    {
+        "question": "Which one among the following statements relating to an anticyclone is correct?",
+        "options": [
+            "Anticyclone is a wind system with a high pressure centre",
+            "In anticyclone the movement of wind is inward",
+            "The contribution of an anticyclone towards determining weather of an area is quite significant",
+            "The movement of wind is clockwise in an anticyclone of southern hemisphere"
+        ],
+        "correct_answer": "a",
+        "note": "An anticyclone is a system of winds that rotates around a center of high atmospheric pressure. Distinctive weather patterns tend to be associated with both cyclones and anticyclones."
+    },
+    {
+        "question": "The instrument used for finding out wind-direction is ________",
+        "options": [
+            "Anemometer",
+            "Wind vane",
+            "Wind gauze",
+            "Hygrometer"
+        ],
+        "correct_answer": "b",
+        "note": "A wind vane is an instrument that determines the direction from which the wind is blowing."
+    },
+    {
+        "question": "Logically, what does a continually rising air pressure indicate?",
+        "options": [
+            "Advent of unsettled and cloudy weather",
+            "Advent of a cyclone",
+            "Fine and settled weather",
+            "Fine and unsettled weather"
+        ],
+        "correct_answer": "a",
+        "note": "Advent of unsettled and cloudy weather continually indicate rising air pressure."
+    },
+    {
+        "question": "Which one of the following statements is correct?",
+        "options": [
+            "Cirrus clouds are composed of ice crystals",
+            "Cirrus clouds exhibit a flat base and have the appearance of rising domes",
+            "Cumulus clouds are white and thin, and form delicate patches and give a fibrous and feathery appearance",
+            "Cumulus clouds are classified as high clouds"
+        ],
+        "correct_answer": "a",
+        "note": "The most common form of high-level clouds are thin and often wispy cirrus clouds. Typically found at heights greater than 20,000 feet (6,000 meters), cirrus clouds are composed of ice crystals that originate from the freezing of supercooled water droplets. Cirrus generally occur in fair weather and point in the direction of air movement at their elevation."
+    },
+    {
+        "question": "A fragment of solid matter which enters the upper atmosphere from outer space almost disintegrating before reaching the earth's surface is",
+        "options": [
+            "Meteorite",
+            "Asteroid",
+            "Meteor",
+            "Comet"
+        ],
+        "correct_answer": "c",
+        "note": "A fragment of solid matter which enters the upper atmosphere from outer space almost disintegrating before reaching the earth's surface is meteor. A meteorite is a solid piece of debris, from such sources as asteroids or comets, that originates in outer space and survives its impact with the Earth's surface. It is called a meteoroid before its impact."
+    },
+    {
+        "question": "Doldrums are belts of low atmospheric pressure obtained in the regions adjoining the equator to a distance of ________",
+        "options": [
+            "5° latitude towards the north only",
+            "5° latitude towards the south only",
+            "5° latitude towards north and south",
+            "15° latitude towards north and south"
+        ],
+        "correct_answer": "c",
+        "note": "Doldrums are belts of low atmospheric pressure obtained in the regions adjoining the equator to a distance of 5° latitude towards north and south. The Doldrums are regions of the Atlantic and Pacific oceans that have little if any wind. This was a particular problem for sailors in the past when they depended on the winds to propel their ships, a problem that could be potentially deadly. The Doldrums are caused by solar radiation from the sun, as sunlight beams down directly on area around the equator."
+    },
+    {
+        "question": "Consider the following statements:\n1. The monsoon climate is found in Northern Australia.\n2. The China type climate is found in Argentina.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "The northern Australian monsoon season generally lasts from December to March. It is associated with the inflow of moist west to northwesterly winds into the monsoon trough, producing convective cloud and heavy rainfall over northern Australia.\nThe China type climate is found in Argentina. Warm Temperate Eastern Margin Climate. This type of climate is found on the eastern margin of continent in warm temperate latitudes, just outside the tropics & comparatively has more rainfall than the Mediterranean climate in the same latitudes, coming mainly in summers."
+    },
+    {
+        "question": "Consider the following statements:\n1. The variation in an average annual range of temperature at 15° latitude of Southern Hemisphere is much less than that at 15° latitude of Northern Hemisphere.\n2. At latitudes poleward of 35° the incoming radiation exceeds the outgoing radiation in. Northern Hemisphere, whereas in Southern Hemisphere the outgoing radiation exceeds the incoming radiation.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "a",
+        "note": "The variation in an average annual range of temperature at 15° latitude of Southern Hemisphere is much less than that at 15° latitude of Northern Hemisphere."
+    },
+    {
+        "question": "Which of the following are true with regard to temperature control of the atmosphere of a given place?\nI. The major temperature contrasts on earth's surface are between land masses and oceans\nII. During night, the water surface cools more rapidly than the land surface\nIII. Temperature generally decreases with latitude on either side of the equator\nIV. Temperature rises to a maximum during summer and falls to a minimum during winter",
+        "options": [
+            "I, III and IV",
+            "II, III and IV",
+            "I and II",
+            "II and IV"
+        ],
+        "correct_answer": "a",
+        "note": "The following are true with regard to temperature control of the atmosphere of a given place are The major temperature contrasts on earth's surface are between land masses and oceans, Temperature generally decreases with latitude on either side of the equator and Temperature rises to a maximum during summer and falls to a minimum during winter"
+    },
+    {
+        "question": "Fogs formed along, the sea-coast are due to ________",
+        "options": [
+            "Advection",
+            "Radiaton",
+            "Convection",
+            "Conduction"
+        ],
+        "correct_answer": "a",
+        "note": "Advection fog is formed by the slow passage of relatively warm, moist, stable air over a colder wet surface. It is common at sea whenever cold and warm ocean currents are in close proximity and may affect adjacent coasts."
+    },
+    {
+        "question": "Which of the following statements is/are correct?\n1. Cyclone is a low pressure system.\n2. The wind movement is clockwise in the cyclone of northern hemisphere.\nSelect the correct answer using the code given below ________",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "Cyclone is a low pressure system. A cyclone is a storm or system of winds that rotates around a center of low atmospheric pressure. The wind movement is clockwise in the cyclone of northern hemisphere."
+    },
+    {
+        "question": "The total number of layers above Earth are",
+        "options": [
+            "4",
+            "5",
+            "2",
+            "3"
+        ],
+        "correct_answer": "b",
+        "note": "Earth's atmosphere is divided into five main layers: the exosphere, the thermosphere, the mesosphere, the stratosphere and the troposphere."
+    },
+    {
+        "question": "Troposphere is the hottest part of the atmosphere because",
+        "options": [
+            "It is closest to the Sun",
+            "There are charged particles in it",
+            "It is heated by the Earth's surface",
+            "Heat is generated in it"
+        ],
+        "correct_answer": "c",
+        "note": "The troposphere is the layer of the atmosphere closest to the earth's surface where the weather takes place. The warmest temperatures in the troposphere are near the surface with the coldest temperatures being at the top of the troposphere."
+    },
+    {
+        "question": "Troposphere is the most warm part of the atmosphere because",
+        "options": [
+            "It is closer to the Sun",
+            "It contains charged particles",
+            "It gets warm from the heat of the surface of\nthe Earth",
+            "It produces heat"
+        ],
+        "correct_answer": "c",
+        "note": "The troposphere is the layer of the atmosphere closest to the earth's surface where the weather takes place. The warmest temperatures in the troposphere are near the surface with the coldest temperatures being at the top of the troposphere."
+    },
+    {
+        "question": "Cyclone is a system of wind blowing ________",
+        "options": [
+            "Spirally outwards from a high pressure region",
+            "Spirally towards low pressure region",
+            "In a straight line from high to low pressure region",
+            "From Ball of Bengal towards Bangladesh annually"
+        ],
+        "correct_answer": "b",
+        "note": "A cyclone is storm system which is characterized by strong winds and a spiral arrangement of thunderstorms around an area of low pressure."
+    },
+    {
+        "question": "Water vapour beyond the dew point results in ________",
+        "options": [
+            "Precipitation",
+            "Hailstorm",
+            "Condensation",
+            "Formation of ice"
+        ],
+        "correct_answer": "c",
+        "note": "Water vapour beyond the dew point results in condensation. The dew point is the temperature at which air is saturated with water vapor, which is the gaseous state of water. The relative humidity is 100° when the dew point and the temperature are the same. If the temperature drops any further, condensation will result, and liquid water will begin to form."
+    },
+    {
+        "question": "Which one among the following is a high cloud?",
+        "options": [
+            "Cirrus",
+            "Cumulonimbus",
+            "Nimbostratus",
+            "Stratus"
+        ],
+        "correct_answer": "a",
+        "note": "The most common form of high-level clouds are thin and often wispy cirrus clouds. Typically found at heights greater than 20,000 feet (6,000 meters), cirrus clouds are composed of ice crystals that originate from the freezing of supercooled water droplets."
+    },
+    {
+        "question": "Where do all meteorological incidents occur?",
+        "options": [
+            "Stratosphere",
+            "Troposphere",
+            "Ionosphere",
+            "Exosphere"
+        ],
+        "correct_answer": "b",
+        "note": "All the weather activities (meteorological) occur in tropospheric belt of atmosphere. It extends till the altitude of 16 km from Earth crust. (0 to 8) km near poles & (0 to 16) km near equator."
+    },
+    {
+        "question": "What is the correct sequence of the given clouds from low to high altitudes?",
+        "options": [
+            "Stratus, Cumulonimbus, Cirrostratus, Cirrus",
+            "Stratus, Cirrostratus, Cumulonimbus, Cirrus",
+            "Cumulonimbus, Stratus, Cirrus, Cirrostratus",
+            "Cumulonimbus, Stratus, Cirrostratus, Cirrus"
+        ],
+        "correct_answer": "d",
+        "note": "Cumulonimbus, Stratus, Cirrostratus, Cirrus is the correct sequence of the given clouds from low to high altitudes."
+    },
+    {
+        "question": "The portion of the atmosphere which extends from the earth's surface upto 6-8 miles and experiences decrease in temperature at constant rate is ________",
+        "options": [
+            "Stratosphere",
+            "Tropopause",
+            "Troposphere",
+            "Ionosphere"
+        ],
+        "correct_answer": "c",
+        "note": "The portion of the atmosphere which extends from the earth's surface up to 6-8 miles and experiences decrease in temperature at a constant rate is the Troposphere."
+    },
+    {
+        "question": "Which of these statements are correct with reference to tornadoes?\n1. Tornadoes are smaller and more intense than hurricanes.\n2. Tornadoes are most abundant along the eastern coast of India.\n3. The average tornado lasts for less than one hour.\n4. Tornadoes are most common in the afternoons in the early summer.",
+        "options": [
+            "1, 3 and 4",
+            "2, 3 and 4",
+            "1, 2 and 4",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "a",
+        "note": "The statements that are correct with reference to tornadoes are that Tornadoes are smaller and more intense than hurricanes, The average tornado lasts for less than one hour and Tornadoes are most common in the afternoons in the early summer."
+    },
+    {
+        "question": "The January isotherm taken as a basis for dividing India into tropical and subtropical zones is ________",
+        "options": [
+            "21° C",
+            "18° C",
+            "12° C",
+            "15° C"
+        ],
+        "correct_answer": "d",
+        "note": "The January isotherm taken as a basis for dividing India into tropical and subtropical zones is 15°C."
+    },
+    {
+        "question": "Density of the Earth's atmosphere is highest in the",
+        "options": [
+            "Troposphere",
+            "Stratosphere",
+            "Mesosphere",
+            "Ionosphere"
+        ],
+        "correct_answer": "a",
+        "note": "As the lowest layer of atmosphere comprises of even the heaviest of the gases which can't rise above a marginal level due to their mass, the air density at this level remains maximum.  This layer is known as Troposphere."
+    },
+    {
+        "question": "A devastating Cloud Burst swept over Leh on August 2010. Which one of the following statements with regard to Cloud Burst is not correct?",
+        "options": [
+            "Cloud Burst is a localized weather phenomenon representing highly concentrated rainfall over a small area in a short duration of time",
+            "Cloud Burst occurs due to upward movement of moisture laden air with sufficient rapidity to form cumulonimbus clouds",
+            "Cloud Burst occurs only in hilly areas",
+            "There is no satisfactory technique till now for predicting Cloud Burst"
+        ],
+        "correct_answer": "c",
+        "note": "Cloud Burst occurs only in hilly areas. They are called cloudbursts because we earlier believed that clouds were a solid mass of water that burst over an area. Cloudbursts occur because the warm air current from the ground or below the clouds rushes up and carries the falling raindrops up with it."
+    },
+    {
+        "question": "When can one record the lowest temperature of air?",
+        "options": [
+            "Just before sunrise",
+            "At midnight",
+            "At 3 a.m.",
+            "No fixed time"
+        ],
+        "correct_answer": "a",
+        "note": "Just before sunrise one can record the lowest temperature of air. The longer the night is, the more intense this effect is, so that's one reason the temperature will drop right before sunrise (as the night goes on)."
+    },
+    {
+        "question": "Which of the following is wrongly matched?",
+        "options": [
+            "Rainfall caused by mountain standing in the way of moisture - laden winds - relief rainfall",
+            "Rain caused by vertical circulation of air currents - orographic rainfall",
+            "Rain caused by a warm moist air mass moving upward over cold air mass - cyclonic rainfall",
+            "An area sheltered from rain bearing winds by a hill - rain shadow area"
+        ],
+        "correct_answer": "b",
+        "note": "Rain caused by vertical circulation of air currents - orographic rainfall is wrongly matched. Orographic precipitation, rain, snow, or other precipitation produced when moist air is lifted as it moves over a mountain range. As the air rises and cools, orographic clouds form and serve as the source of the precipitation, most of which falls upwind of the mountain ridge."
+    },
+    {
+        "question": "Pampero is ________",
+        "options": [
+            "A cold wind which prevails in Argentina and Uruguay",
+            "A low pressure area in Equator 63° S",
+            "A moisture laden wind which brings rainfall to the west coast of Panama",
+            "A high pressure area which develops first and then leads to the formation of an anticyclone"
+        ],
+        "correct_answer": "a",
+        "note": "Pampero is the name for a severe line squall that occurs over the Pampas of Argentina and Uruguay. A pampero event marks the passage of a cold front and often brings a considerable drop in temperature. The Pampero is usually accompanied by very humid and close conditions, severe rain, hail and thunderstorms and is followed by a cold, dry, gusty, southerly or south-westerly wind."
+    },
+    {
+        "question": "An upper air wind system with very high velocities in certain parts of the atmosphere is called ________",
+        "options": [
+            "A cyclone",
+            "An anticyclone",
+            "Jet stream",
+            "A tsunami"
+        ],
+        "correct_answer": "c",
+        "note": "streams travel in the tropopause. Jet streams are some of the strongest winds in the atmosphere. Their speeds usually range from 129 to 225 kilometers per hour (80 to 140 miles per hour), but they can reach more than 443 kilometers per hour (275 miles per hour)."
+    },
+    {
+        "question": "In the earth's atmosphere, the atmospheric pressure ________",
+        "options": [
+            "Increases with height",
+            "Decreases with height",
+            "Remains constant with height",
+            "First increases and then decreases with height"
+        ],
+        "correct_answer": "b",
+        "note": "In the earth's atmosphere, the atmospheric pressure decreases with increasing altitude. The pressure at any level in the atmosphere may be interpreted as the total weight of the air above a unit area at any elevation. At higher elevations, there are fewer air molecules above a given surface than a similar surface at lower levels."
+    },
+    {
+        "question": "When a descending air contracts and its volume decreases, what happens to its temperature?",
+        "options": [
+            "Its temperature decreases",
+            "Its temperature increases",
+            "Its temperature remains constant",
+            "Its temperature first increases, then decreases"
+        ],
+        "correct_answer": "b",
+        "note": "When a descending air contracts and thus its volume decreases but its temperature increases."
+    },
+    {
+        "question": "Which of the following is the annual precipitation of an area?",
+        "options": [
+            "All forms of precipitation converted to the quantity of liquid water",
+            "The total actual amount of rain, snow, hail and sleet",
+            "The total amount of rain per year, irrespective of snow, hail and sleet",
+            "All forms of precipitation measured after conversion to equal quantity of ice"
+        ],
+        "correct_answer": "a",
+        "note": "All forms of precipitation converted to the quantity of liquid water is the annual precipitation of an area. Precipitation is any form of water that falls from the sky. Evidently, any precipitation develops in Earth’s atmosphere and then falls to the surface, usually as rain."
+    },
+    {
+        "question": "Condensation is a process which occurs when",
+        "options": [
+            "Temperature falls below 0°C",
+            "Absolute humidity becomes equal to relative humidity",
+            "Temperature in the air parcel remains static",
+            "Relative humidity becomes 100% and more"
+        ],
+        "correct_answer": "d",
+        "note": "When relative humidity approaches 100%, condensation can occur on surfaces. The relative humidity is 100% when the dew point and the temperature are the same. If the temperature drops any further, condensation will result, and liquid water will begin to form."
+    },
+    {
+        "question": "Which one of the following conditions is not necessary for precipitation to occur?",
+        "options": [
+            "The air must be warm",
+            "The air must be saturated",
+            "The air must be cooled below its dew point",
+            "The air must contain hygroscopic particles"
+        ],
+        "correct_answer": "a",
+        "note": "The air may or may not be warm. Most of the condensed water in clouds does not fall as precipitation because their fall speed is not large enough to overcome updrafts which support the clouds. For precipitation to happen, first tiny water droplets must condense on even tinier dust, salt, or smoke particles, which act as a nucleus."
+    },
+    {
+        "question": "Transfer of surplus heat from the lower latitudes to higher latitudes is done by :\nI. ocean currents\nII. planetary winds\nIII. tides\nIV. waves",
+        "options": [
+            "I and II",
+            "III and IV",
+            "I and IV",
+            "II and III"
+        ],
+        "correct_answer": "a",
+        "note": "Transfer of surplus heat from the lower latitudes to higher latitudes is done by ocean currents and planetary winds."
+    },
+    {
+        "question": "The phenomenon of Aurora Borealis, the display of red and green lights in northern hemisphere is due to radiations from ________",
+        "options": [
+            "Troposphere",
+            "Mesosphere",
+            "Stratosphere",
+            "Ionosphere"
+        ],
+        "correct_answer": "d",
+        "note": "The phenomenon of Aurora Borealis, the display of red and green lights in northern hemisphere is due to radiations from Ionosphere. The aurora borealis of the Northern Hemisphere is often called the northern lights, and the aurora australis of the Southern Hemisphere is known as the southern lights. Each is visible over an area centering around the geomagnetic pole of its own hemisphere."
+    },
+    {
+        "question": "Which of the following are true regarding ionosphere?\nI. It is the uppermost layer of atmosphere\nII. The molecules and atoms of nitrogen and oxygen in this layer absorb a part of solar radiation and become ionized\nIII. This layer is responsible for reflecting back the radio wave transmitted from the earth",
+        "options": [
+            "I and II",
+            "I and III",
+            "II and III",
+            "I, II and III"
+        ],
+        "correct_answer": "c",
+        "note": "The following that are true regarding ionosphere are The molecules and atoms of nitrogen and oxygen in this layer absorb a part of solar radiation and become ionized and This layer is responsible for reflecting back the radio wave transmitted from the earth."
+    },
+    {
+        "question": "Arrange the following gases of the atmosphere in increasing order by volume:\nI. Nitrogen\nII. Oxygen\nIII. Carbon dioxide\nIV. Argon",
+        "options": [
+            "I, II, III, IV",
+            "I, II, IV, III",
+            "III, IV, II, I",
+            "IV, III, II, I"
+        ],
+        "correct_answer": "c",
+        "note": "Gases of the atmosphere in increasing order by volume are Carbon dioxide, Argon, Oxygen and Nitrogen."
+    },
+    {
+        "question": "Wind in the Southern hemisphere is deflected towards left due to ________",
+        "options": [
+            "Temperature variations",
+            "Rotation of the earth",
+            "Difference in pressure",
+            "Difference in water content"
+        ],
+        "correct_answer": "b",
+        "note": "Because the Earth rotates on its axis, circulating air is deflected toward the right in the Northern Hemisphere and toward the left in the Southern Hemisphere. This deflection is called the Coriolis effect."
+    },
+    {
+        "question": "Local thunderstorms 'Nor westers' are prominent in ________",
+        "options": [
+            "Punjab",
+            "West Bengal",
+            "Andhra Pradesh",
+            "Tamil Nadu"
+        ],
+        "correct_answer": "b",
+        "note": "Local thunderstorms 'Nor westers' are prominent in West Bengal. Kalbaishakhi is a local rain fall and thunder storm. They generally move from West to East."
+    },
+    {
+        "question": "Which of the following winds is incorrectly paired with the area in which it prevails?",
+        "options": [
+            "Berg wind - South eastern Africa",
+            "Karaburan - Tarim basin of Sinkiang",
+            "Southerly Burster - New South Wales",
+            "Hurricanes - New Zealand"
+        ],
+        "correct_answer": "d",
+        "note": "A hurricane is a type of storm called a tropical cyclone, which forms over tropical or subtropical waters. Only tropical cyclones that form over the Atlantic Ocean or eastern Pacific Ocean are called \"hurricanes.\""
+    },
+    {
+        "question": "Relative humidity",
+        "options": [
+            "Increases with increased temperature",
+            "Decreases with increased temperature",
+            "Decreases with decreased temperature",
+            "Has no relation with increase or decrease of temperature"
+        ],
+        "correct_answer": "b",
+        "note": "If the water vapor content stays the same and the temperature rises, the relative humidity decreases. This is because colder air doesn't require as much moisture to become saturated as warmer air."
+    },
+    {
+        "question": "The form of precipitation in which the raindrops get frozen into ice on coming in contact with a cold layer of air near the earth's surface is called ________",
+        "options": [
+            "Fog",
+            "Hail",
+            "Sleet",
+            "Snowfall"
+        ],
+        "correct_answer": "c",
+        "note": "Sleet occurs when snowflakes melt into a raindrop in a wedge of warm air well above the ground and then refreeze in a layer of freezing air just above the surface. This results in frozen raindrops, or small ice pellets."
+    },
+    {
+        "question": "The term used for the zone at low pressure and light and variable winds in the oceanic equatorial regions is ________",
+        "options": [
+            "Depression",
+            "Doldrums",
+            "Horse-latitudes",
+            "Inter-tropical convergence"
+        ],
+        "correct_answer": "a",
+        "note": "The term used for the zone at low pressure and light and variable winds in the oceanic equatorial regions is Depression. Depressions, sometimes called mid-latitude cyclones, are areas of low pressure located between 30 and 60 latitude."
+    },
+    {
+        "question": "In the Southern hemisphere the Westerlies blow from ________",
+        "options": [
+            "North",
+            "North east",
+            "North west",
+            "South east"
+        ],
+        "correct_answer": "c",
+        "note": "The westerlies, anti-trades,or prevailing westerlies, are prevailing winds from the west toward the east in the middle latitudes between 30° and 60° latitude. They originate from the high-pressure areas in the horse latitudes and trend towards the poles and steer extratropical cyclones in this general manner.Tropical cyclones which cross the subtropical ridge axis into the westerlies recurve due to the increased westerly flow. The winds are predominantly from the southwest in the Northern Hemisphere and from the northwest in the Southern Hemisphere."
+    },
+    {
+        "question": "Choose the incorrect statement ________",
+        "options": [
+            "Capacity of air to hold moisture decreases with a rise in temperature of the air",
+            "The air pressure decreases with an increase in temperature",
+            "Absolute humidity is expressed in grams per cubic metre of air",
+            "With an ascent of every 165 metres, the temperature is reduced by 1°C"
+        ],
+        "correct_answer": "c",
+        "note": "Absolute humidity (units are grams of water vapor per cubic meter volume of air) is a measure of the actual amount of water vapor in the air, regardless of the air's temperature."
+    },
+    {
+        "question": "Which of the following sequences of atmospheric layers is correct from below?",
+        "options": [
+            "Stratosphere, Ionosphere, Tropopause, Troposphere",
+            "Ionosphere, Troposphere, Stratosphere, Tropopause",
+            "Troposphere, Tropopause, Stratosphere, Ionosphere",
+            "Tropopause, Troposphere, Ionosphere, Stratosphere"
+        ],
+        "correct_answer": "c",
+        "note": "Sequences of atmospheric layers is correct from below are Troposphere, Tropopause, Stratosphere, Ionosphere."
+    },
+    {
+        "question": "The atmospheric layer farthest from the Earth's surface is known as",
+        "options": [
+            "Stratosphere",
+            "Exosphere",
+            "Ionosphere",
+            "Mesosphere"
+        ],
+        "correct_answer": "b",
+        "note": "Exosphere is the farthest layer of atmosphere from Earth's surface, it is located beyond thermosphere. It extends from the hiight of about 600 km to 10000 km."
+    },
+    {
+        "question": "Anticyclones are caused by ________",
+        "options": [
+            "Violent winds",
+            "Heavy rainfall",
+            "Winds that blow spirally outwards from the centre",
+            "Winds that blow spirally inwards"
+        ],
+        "correct_answer": "c",
+        "note": "Anticyclones are caused by winds that blow spirally outwards from the centre. Winds of a high pressure system swirl in the opposite direction as a low pressure system - clockwise north of the equator and counterclockwise south of the equator. This is called anticyclonic flow. Air from higher in the atmosphere sinks down to fill the space left as air blew outward."
+    },
+    {
+        "question": "The Trade winds are caused by ________",
+        "options": [
+            "Rotation of the earth",
+            "Revolution of the earth",
+            "Inflowing movement of air along the earth's surface towards the equator",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "The Trade winds are caused by Inflowing movement of air along the earth's surface towards the equator. Trade wind, persistent wind that blows westward and toward the Equator from the subtropical high-pressure belts toward the intertropical convergence zone (ITCZ)."
+    },
+    {
+        "question": "Which one of the following constituents of the atmosphere causes greatest changes in climate and weather?",
+        "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Ozone",
+            "Water Vapour"
+        ],
+        "correct_answer": "d",
+        "note": "Water Vapour constituents of the atmosphere causes greatest changes in climate and weather. As Earth warms, the rate of evaporation and the ability of air to hold water vapor both rise, increasing the amount of water vapour in the air. Because water vapour is a greenhouse gas, this leads to further warming."
+    },
+    {
+        "question": "The velocity of winds is related to ________",
+        "options": [
+            "The amount of moisture they carry",
+            "The nearness to the sea",
+            "Pressure gradient in the direction of their flow",
+            "The direction in which they blow"
+        ],
+        "correct_answer": "c",
+        "note": "The velocity of winds is related to Pressure gradient in the direction of their flow. Winds in the upper levels will blow clockwise around areas of high pressure and counterclockwise around areas of low pressure. The speed of the wind is determined by the pressure gradient."
+    },
+    {
+        "question": "Which one of the following climates is found in coastal areas of Californian North America, Central Chile in South America and South-West tip of West Australia?",
+        "options": [
+            "Tropical savanna",
+            "Mediterranean",
+            "Humid Continental",
+            "Low-latitude steppe"
+        ],
+        "correct_answer": "b",
+        "note": "Mediterranean climates is found in coastal areas of California North America, Central Chile in South America and South-West tip of West Australia. Winter precipitation is primarily the result of cold fronts that move across the Pacific Northwest and northern California. The frequency of these storms decreases from north to south."
+    },
+    {
+        "question": "Which of the following are the ideal conditions for the phenomenon of temperature inversion to occur?\nI. Long nights\nII. Cloudy sky\nIII. Calm and stable air\nIV. Dry air",
+        "options": [
+            "I and II",
+            "I, II and III",
+            "II, III and IV",
+            "I, III and IV"
+        ],
+        "correct_answer": "d",
+        "note": "The ideal conditions for the phenomenon of temperature inversion to occur are Long nights, Calm and stable air and Dry air."
+    },
+    {
+        "question": "The heat from Sun to Earth is called as",
+        "options": [
+            "Temperature Radiation",
+            "Insolation",
+            "Emitted Heat",
+            "Solar Radiation"
+        ],
+        "correct_answer": "d",
+        "note": "The heat and light which Earth recieves from Sun is insolation which stands for \"incoming solar radiations\".  The radiations transmitted from Sun's body are solar radiations as solar stands for Sun."
+    },
+    {
+        "question": "An important gas in the atmosphere that absorbs sun's ultraviolet rays is",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Ozone",
+            "Hydrogen"
+        ],
+        "correct_answer": "c",
+        "note": "An important gas in the atmosphere that absorbs sun's ultraviolet rays is Ozone. Ozone absorbs ultraviolet radiation but lets other types of radiation, such as visible light, pass through. The ozone gas throughout the stratosphere is called the ozone layer. It absorbs harmful ultraviolet radiation from the Sun."
+    },
+    {
+        "question": "The layer of the atmosphere which provides ideal conditions for flying on jet aeroplanes is ________",
+        "options": [
+            "Troposphere",
+            "Stratosphere",
+            "Ionosphere",
+            "Exosphere"
+        ],
+        "correct_answer": "b",
+        "note": "The layer of the atmosphere which provides ideal conditions for flying on et aeroplanes is Stratosphere. Because the air temperature in the stratosphere slowly increases with altitude, it does not cause convection and has a stabilizing effect on atmospheric conditions in the region."
+    },
+    {
+        "question": "Because of which one of the following factors, clouds do not precipitate in deserts?",
+        "options": [
+            "Low pressure",
+            "Low humidity",
+            "High wind velocity",
+            "High temperature"
+        ],
+        "correct_answer": "b",
+        "note": "The clouds which we find in the skies of the desert regions do not precipitate because these clouds are comparatively more dry and have a much less amount of water droplets in it ,than the normal precipitation clouds."
+    },
+    {
+        "question": "Which one among the following local winds is not characteristically hot and dry?",
+        "options": [
+            "Sirocco",
+            "Mistral",
+            "Khamsin",
+            "Chinook"
+        ],
+        "correct_answer": "b",
+        "note": "Local wind mistral is not characteristically hot and dry. Mistral A cold, dry wind blowing from the north over the northwest coast of the Mediterranean Sea, particularly over the Gulf of Lions."
+    },
+    {
+        "question": "Which one of the following characteristics is not associated with the tropical cyclones?",
+        "options": [
+            "Before the cyclone arrives the air becomes very still and temperature and humidity are high",
+            "As the front of the vertex arrives, gusty winds develop and thick clouds appear",
+            "As the cold front passes, the weather changes very rapidly",
+            "Calm conditions return when the eye of the cyclone arrives"
+        ],
+        "correct_answer": "d",
+        "note": "Calm conditions return when the eye of the cyclone arrives is not associated with the tropical cyclones. It is actually the calmest section of any hurricane. The coriolis force deflects the wind slightly away from the center, causing the wind to rotate around the center of the hurricane (the eye wall), leaving the exact center (the eye) calm."
+    },
+    {
+        "question": "In the atmosphere of the primitive earth there was no ________",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Ammonia"
+        ],
+        "correct_answer": "a",
+        "note": "For decades, scientists believed that the atmosphere of early Earth was highly reduced, meaning that oxygen was greatly limited. By 2.7 billion years ago, a new kind of life had established itself: photosynthetic microbes called cyanobacteria, which were capable of using the Sun's energy to convert carbon dioxide and water into food with oxygen gas as a waste product."
+    },
+    {
+        "question": "Winds and air currents differ in the aspect that ________",
+        "options": [
+            "Air currents blow much faster than winds",
+            "Air currents are always moisture laden while the winds are usually dry",
+            "The winds blow on lands while air currents blow over seas and oceans",
+            "Winds are horizontal movements of air while air currents are the vertical movements of air"
+        ],
+        "correct_answer": "d",
+        "note": "Winds and air currents differ in the aspect that Winds are horizontal movements of air while air currents are the vertical movements of air. Air currents are concentrated areas of winds. All winds result from horizontal differences in air pressure."
+    },
+    {
+        "question": "Lapse rate is related to the decrease of ________",
+        "options": [
+            "Wind velocity with an ascent of 300 feet",
+            "Humidity with an ascent of 450 feet",
+            "Temperature at 1°F for an ascent of 330 feet",
+            "Pressure with an ascent of 500 feet"
+        ],
+        "correct_answer": "c",
+        "note": "Lapse rate is related to the decrease of Temperature at 1°F for an ascent of 330 feet. The lapse rate is the rate at which an atmospheric variable, normally temperature in Earth's atmosphere, changes with altitude."
+    },
+    {
+        "question": "The most abundant element in the Earth's atmosphere is",
+        "options": [
+            "Argon",
+            "Nitrogen",
+            "Oxygen",
+            "Krypton"
+        ],
+        "correct_answer": "b",
+        "note": "The most abundant element in the Earth's atmqsphere is Nitrogen. Nitrogen makes around 78.084% of total elements of earth."
+    },
+    {
+        "question": "A temperature inversion is most likely to occur under which of the following conditions?",
+        "options": [
+            "Mountain top in late evening",
+            "Windy but cloudy night",
+            "Calm, cloudy and humid night",
+            "Calm, clear and cool winter night"
+        ],
+        "correct_answer": "d",
+        "note": "Temperature inversions are a result of other weather conditions in an area. They occur most often when a warm, less dense air mass moves over a dense, cold air mass."
+    },
+    {
+        "question": "The final boundary between the Earth and the outer space is called",
+        "options": [
+            "Magnetosphere",
+            "Ionosphere",
+            "Mesopause",
+            "Magnetopause"
+        ],
+        "correct_answer": "d",
+        "note": "Magnetopause is a boundary line between Earth's magnetic field and solar wind. Solar winds forms the part of outer space whereas Earth's atmosphere exists up to magnetic field of Earth."
+    },
+    {
+        "question": "What helps to maintain the heat budget on the surface of the earth?",
+        "options": [
+            "Incoming insolation in short waves and terrestrial radiation in long waves",
+            "The atmosphere absorbs heat",
+            "Incoming solar radiation is reflected",
+            "The earth absorbs heat"
+        ],
+        "correct_answer": "a",
+        "note": "Incoming insolation in short waves and terrestrial radiation in long waves helps to maintain the heat budget on the surface of the earth. The insolation received by the earth is in short waves forms and heats up its surface. This energy heats up the atmosphere from below. This process is known as terrestrial radiation. The long wave radiation is absorbed by the atmospheric gases particularly by carbon dioxide and the other green house gases."
+    },
+    {
+        "question": "Which of the following is not one of the three processes involved in the transfer of water between the atmosphere and the surface of the Earth?",
+        "options": [
+            "Insolation",
+            "Evaporation",
+            "Condensation",
+            "Precipitation"
+        ],
+        "correct_answer": "a",
+        "note": "Insolation is not one of the three processes involved in the transfer of water between the atmosphere and the surface of the Earth. Insolation is the amount of solar radiation received on a given surface in a given time period."
+    },
+    {
+        "question": "Which gas is found in maximum quantity in lower atmosphere?",
+        "options": [
+            "Hydrogen",
+            "Carbon dioxide",
+            "Oxygen",
+            "Nitrogen"
+        ],
+        "correct_answer": "d",
+        "note": "With 78.09% of total composition, nitrogen is the gas found maximum in lower atmosphere."
+    },
+    {
+        "question": "Relative humidity of the atmosphere is directly affected by ________",
+        "options": [
+            "Change in atmospheric pressure",
+            "Change in atmospheric temperature",
+            "Change in the direction of winds",
+            "None of these"
+        ],
+        "correct_answer": "b",
+        "note": "Relative humidity of the atmosphere is directly affected by change in atmospheric pressure. Relative humidity is directly related to the amount of water vapor in air, and that's the relationship. The more is the water vapour in the air, the higher the relative humidity is at a given tempera- ture. Air with a relative humidity of 50% contains half of the water vapor it could hold at a particular temperature."
+    },
+    {
+        "question": "Which of the following statements about Stratosphere is incorrect?",
+        "options": [
+            "It is the region in the atmosphere above tropopause",
+            "It contains ozone layer which prevents ultraviolet radiations of sun from reaching to the earth",
+            "It is not free from the violent weather changes occurring on the earth",
+            "It provides ideal flying conditions"
+        ],
+        "correct_answer": "c",
+        "note": "Stratosphere is free from the violent weather changes which occur below in the Troposphere."
+    },
+    {
+        "question": "Cloud burst means ________",
+        "options": [
+            "Abnormally heavy downpour of rain, associated with a thunderstorm",
+            "Formation of artificial rain",
+            "Presence of scattered flakes of cloud in the sky",
+            "Sowing of seeds of a crop in a cloudy weather"
+        ],
+        "correct_answer": "a",
+        "note": "Cloud burst means abnormally heavy downpour of rain, associated with a thunderstorm. Cloudbursts usually do not last for more than few minutes, they are capable of flooding the entire area. Rainfall from a cloudburst is usually equal to or greater than 100 mm per hour. Cloudbursts are generally associated with thunderstorms."
+    },
+    {
+        "question": "Which of the following is located at the minimum height from the Earth?",
+        "options": [
+            "Stratosphere",
+            "Mesosphere",
+            "Thermosphere",
+            "Troposphere"
+        ],
+        "correct_answer": "d",
+        "note": "The troposphere is the lowest layer of Earth's atmosphere. The troposphere starts at Earth's surface and goes up to a height of 7 to 20 km (4 to 12 miles, or 23,000 to 65,000 feet) above sea level."
+    },
+    {
+        "question": "Beaufort Scale is used to measure ________",
+        "options": [
+            "Air pressure",
+            "Wind velocity",
+            "Wind direction",
+            "Humidity"
+        ],
+        "correct_answer": "b",
+        "note": "Beaufort Scale is used to measure Wind velocity. Beaufort scale, in full Beaufort wind force scale, scale devised in 1805 by Commander (later Admiral and Knight Commander of the Bath) Francis Beaufort of the British navy for observing and classifying wind force at sea."
+    },
+    {
+        "question": "Which of the following depletion results in the increase in the UV radiation on the Earth?",
+        "options": [
+            "Carbon monoxide",
+            "Carbon dioxide",
+            "Ozone",
+            "Oxygen"
+        ],
+        "correct_answer": "c",
+        "note": "The depletion of the ozone layer leads, on the average, to an increase in ground-level ultraviolet radiation, because ozone is an effective absorber of ultraviolet radiation."
+    },
+    {
+        "question": "Consider the following statements:\n1. Nearly 99% of the total mass of the atmosphere lies within 30 km of the Earth's surface.\n2. The proportion of ozone in the atmosphere increases to a maximum at about 60 km from Earth's surface.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "a",
+        "note": "Nearly 99% of the total mass of the atmosphere lies within 30 km of the Earth's surface. About 99% of the total atmospheric mass is concentrated in the first 20 miles (32 km) above Earth's surface."
+    },
+    {
+        "question": "Consider the following statements:\n1. Mistral is a cold wind blowing in North America.\n2. Sirocco is a hot dry wind blowing across the North African coast.\nWhich of the statement(s) given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "b",
+        "note": "The term Sirocco (sometimes also spelled Scirocco) is an all-inclusive name given to hot and subsequently humid southeast to southwest winds originating as hot, dry desert-air over Northern Africa, flowing northward into the southern Mediterranean basin. Sirocco is a hot dry wind blowing across the North African coast."
+    },
+    {
+        "question": "Consider the following statements:\n1. The annual range of temperature is greater in the Pacific Ocean than that in the Atlantic Ocean.\n2. The annual range of temperature is greater in the Northern Hemisphere than that in the Southern Hemisphere.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "b",
+        "note": "The annual range of temperature is greater in the Northern Hemisphere than that in the Southern Hemisphere. Since there is more land in Northern Hemisphere and more waters in Southern hemisphere and there is a big difference between the specific heat of land and water; the loss of heat from the continents is bigger than the oceans."
+    },
+    {
+        "question": "The zone of Earth's atmosphere immediately above its surface up to a height of about 16kms above equator and 8kms over the poles is known as",
+        "options": [
+            "Mesosphere",
+            "Thermosphere",
+            "Troposphere",
+            "Stratosphere"
+        ],
+        "correct_answer": "c",
+        "note": "The zone of Earth's atmosphere immediately above its surface up to a height of about 16 kms above equator and 8 kms over the poles is known as troposphere. The troposphere is the lowest layer of Earth's atmosphere. Most of the mass (about 75-80%) of the atmosphere is in the troposphere. Most types of clouds are found in the troposphere, and almost all weather occurs within this layer."
+    },
+    {
+        "question": "Freely moving bodies are ________",
+        "options": [
+            "Deflected to their right in the northern hemisphere",
+            "Deflected to the right in the southern hemisphere",
+            "Deflected upwards at the equator",
+            "Unaffected by the earth's movements"
+        ],
+        "correct_answer": "a",
+        "note": "An apparent force that arises because of the earth's spin around its axis. Freely-moving objects are deflected to the right of their direction of motion in the northern hemisphere and to the left of their direction of motion in the southern hemisphere."
+    },
+    {
+        "question": "Which is the lowest layer of Atmosphere?",
+        "options": [
+            "Troposphere",
+            "Stratosphere",
+            "Mesosphere",
+            "Exosphere"
+        ],
+        "correct_answer": "a",
+        "note": "The troposphere is the lowest layer of Earth's atmosphere. Most of the mass (about 75-80%) of the atmosphere is in the troposphere. Most types of clouds are found in the troposphere, and almost all weather occurs within this layer."
+    },
+    {
+        "question": "What causes snowfall?",
+        "options": [
+            "When condensation takes place below 0° C and precipitation occurs in the form of flakes",
+            "When rain freezes into snow-flakes while passing through the atmosphere",
+            "When condensation takes place in form of fog and precipitation occurs as flakes",
+            "When the air temperature is much lower than surface temperature"
+        ],
+        "correct_answer": "a",
+        "note": "When condensation takes place below 0° C and precipitation occurs in the form of flakes causes snowfall. If the humidity below the cloud base is low, the crystals may evaporate after leaving the cloud and so never reach the ground. If the temperature at the cloud base and just below it is close to zero, the snow crystals will tend to aggregate and form snowflakes."
+    },
+    {
+        "question": "What is a cloudburst?",
+        "options": [
+            "It refers to sudden and copious rainfall over a small area which often lasts for only a few minutes",
+            "It refers to 50mm rain over a period of time",
+            "It is caused by rapid condensation of very high clouds",
+            "It refers to a thunderstorm with little rain"
+        ],
+        "correct_answer": "a",
+        "note": "A cloudburst is sudden copious rainfall. It is a sudden aggressive rainstorm falling for a short period of time limited to a small geographical area. Meteorologists say the rain from a cloudburst is usually of the shower type with a fall rate equal to or greater than 100 mm (4.94 inches) per hour. Cloudbursts are often accompanied by hail or thunderstorms."
+    },
+    {
+        "question": "Winds blow ________",
+        "options": [
+            "In regions of low pressure",
+            "From a region of high pressure to a region of low pressure",
+            "From a region of low pressure to a region of high pressure",
+            "In regions of high pressure"
+        ],
+        "correct_answer": "b",
+        "note": "Wind will always blow along the pressure gradient from areas of high pressure to those of low pressure. The changes in pressure in the atmosphere arise from changes in temperature, which in turn is due to differences in how the sun heats different patches of air."
+    },
+    {
+        "question": "The phenomenon of 'trade winds' takes place due to",
+        "options": [
+            "Conduction of heat",
+            "Convection of heat",
+            "Radiation",
+            "None of the above"
+        ],
+        "correct_answer": "b",
+        "note": "The phenomenon of 'trade winds' takes place due to convection of heat. The Sun warms the ground, which in turn warms the air directly above it. The warmer air expands, becoming less dense than the surrounding air mass, and creating a thermal low."
+    },
+    {
+        "question": "Which of the following statements is wrong?",
+        "options": [
+            "Roughly circular isobar system with a high pressure at the centre represents an anticyclone",
+            "Roughly circular isobar system with a low pressure at the centre represents a cyclone",
+            "Roughly V-shaped isobar system with a low pressure at the centre represents a trough",
+            "Roughly V-shaped isobar system with a low pressure at the centre represents a hurricanes"
+        ],
+        "correct_answer": "d",
+        "note": "Roughly V-shaped isobar system with a low pressure at the centre represents a hurricanes."
+    },
+    {
+        "question": "With reference to the sub-tropical high pressure belt, consider the following statements:\n1. It is affected by Earth's rotation and descent of winds from higher altitudes.\n2. It is dynamically induced and characterized with anti-cyclonic conditions.\nWhich of the statement(s) given above is/are correct?",
+        "options": [
+            "1 only",
+            "Both 1 and 2",
+            "2 only",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "Sub-tropical high pressure belt is dynamically induced and characterized with anti-cyclonic conditions. This is why this zone is characterized by anticyclonic con­ditions which cause atmospheric stability and aridity. The conver­gence of winds at higher altitude above this zone results in the subsidence of air from higher altitudes. Thus, descent of winds results in the contraction of their volume and ultimately causes high pressure. This is one of the reasons for the presence of hot deserts of the world in the western parts of the continents in a zone extending between 25°-35° in both the hemi­spheres. This zone of high pressure is called ‘horse latitude’ because of prevalence of frequent calms."
+    },
+    {
+        "question": "Consider the following statements:\n1. A hurricane acquires its spin from the Coriolis effect.\n2. The diameter of the hurricane decreases as it moves away from low latitudes.\n3. The diameter of a hurricane is never below 150 km.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "c",
+        "note": "A hurricane acquires its spin from the Coriolis effect. When strong air currents (that result in hurricanes, etc.) move above the faster-moving equatorial regions, they get 'pulled' in the direction of Earth's spin, thus veering off from an otherwise straight path. The diameter of a hurricane is never below 150 km."
+    },
+    {
+        "question": "What is the name of the layer closest to the Earth?",
+        "options": [
+            "Ionosphere",
+            "Stratosphere",
+            "Troposphere",
+            "Exosphere"
+        ],
+        "correct_answer": "c",
+        "note": "The troposphere is the lowest and closest layer of Earth's atmosphere. Most of the mass (about 75-80%) of the atmosphere is in the troposphere. Most types of clouds are found in the troposphere, and almost all weather occurs within this layer."
+    },
+    {
+        "question": "Which of the following constituents of the atmosphere are important from the climatic point of view ?\n1. Nitrogen\n2. Oxygen\n3. Carbon dioxide",
+        "options": [
+            "1 and 2",
+            "2 and 3",
+            "1, 2 and 3",
+            "Only 3"
+        ],
+        "correct_answer": "d",
+        "note": "A minor but very important component of the atmosphere, carbon dioxide is released through natural processes such as respiration and volcano eruptions and through human activities such as deforestation, land use changes, and burning fossil fuels. Humans have increased atmospheric CO2 concentration by more than a third since the Industrial Revolution began. This is the most important long-lived \"forcing\" of climate change."
+    },
+    {
+        "question": "The Sea breeze blows during ________",
+        "options": [
+            "Day from land to sea",
+            "Day from sea to land",
+            "Night from land to sea",
+            "Night from sea to land"
+        ],
+        "correct_answer": "b",
+        "note": "During the day, the sun heats up both the ocean surface and the land. The wind will blow from the higher pressure over the water to lower pressure over the land causing the sea breeze. The sea breeze strength will vary depending on the temperature difference between the land and the ocean. At night, the roles reverse."
+    }
+]

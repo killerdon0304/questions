@@ -1,0 +1,2268 @@
+[
+    {
+        "question": "Dykes are especially constructed in ________",
+        "options": [
+            "Norway",
+            "Holland",
+            "France",
+            "United Kingdom"
+        ],
+        "correct_answer": "a",
+        "note": "Dykes are especially constructed in Norway. Dike, also called dyke are tabular or sheetlike igneous body that is often oriented vertically or steeply inclined to the bedding of preexisting intruded rocks; similar bodies oriented parallel to the bedding of the enclosing rocks are called sills."
+    },
+    {
+        "question": "What is the difference between a geyser and a hot spring?",
+        "options": [
+            "Water is ejected explosively in a geyser",
+            "Water from the geyser may be cold",
+            "Geysers are found on volcanic mountains",
+            "Geysers are more common in cold countries"
+        ],
+        "correct_answer": "a",
+        "note": "Water is ejected explosively in a geyser. The big difference between a geyser and a hot spring is that a geyser has an obstruction in its hydrothermal plumbing near the surface. In hot springs, water is allowed to circulate to the surface and move freely, giving off steam and heat. In geysers, constrictions keep the boiling water underground."
+    },
+    {
+        "question": "Marble is a metamorphic rock of",
+        "options": [
+            "Sandstone",
+            "Limestone",
+            "Granite",
+            "Clay"
+        ],
+        "correct_answer": "b",
+        "note": "Marble is a metamorphic form of limestone. Metamorphic is the process of change of structure of rock by natural agencies such as pressure, heat or introduction of other chemical substance."
+    },
+    {
+        "question": "The intensity of earthquakes is measured on ________",
+        "options": [
+            "Beaufort scale",
+            "Richter scale",
+            "Secant scale",
+            "Mercalli scale"
+        ],
+        "correct_answer": "b",
+        "note": "he intensity of earthquakes is measured on the Richter scale. Developed by Charles F. Richter in 1935, this scale quantifies the energy released by an earthquake. It is a logarithmic scale, meaning that each whole number increase represents a tenfold increase in amplitude of the seismic waves and approximately 31.6 times more energy release.\nThe Beaufort scale is used to measure wind speed and its effects on sea conditions, not earthquake intensity.\nThe Secant scale and Mercalli scale are used to measure earthquake intensity based on observed effects and damage, but they are not the primary scales for measuring earthquake magnitude.\nHence, the correct answer is Option B: Richter scale."
+    },
+    {
+        "question": "The narrow strip of land joining two land masses is called as",
+        "options": [
+            "Cape",
+            "Isthmus",
+            "Strait",
+            "Peninsula"
+        ],
+        "correct_answer": "b",
+        "note": "The narrow strip of land joining two land masses is called as Isthmus. Isthmus is a narrow strip of land (with water on both sides) connecting two larger land areas. Isthmus of Panama connects South America and North America, while Isthmus of suez connects Asia and Africa."
+    },
+    {
+        "question": "Which of the following is meant by an archipelago?",
+        "options": [
+            "Lake",
+            "Island",
+            "Mountain",
+            "Plateau"
+        ],
+        "correct_answer": "b",
+        "note": "An archipelago is a group of islands. It may be a sea or stretch of water having many Islands. Andaman archipelago is an example from the Indian Ocean."
+    },
+    {
+        "question": "Which of the following is an Example of Abyssal Igneous Rock?",
+        "options": [
+            "Basalt",
+            "Granite",
+            "Slate",
+            "Dolomite"
+        ],
+        "correct_answer": "b",
+        "note": "Granite is an example of Abyssal Igneous Rock. An igneous rock that crystallized at considerable depth in the crust; plutonic rock. Igneous rocks forming below the Earth's surface at some depth due to cooling of magma are abyssal igneous rocks e.g Granite."
+    },
+    {
+        "question": "The material that comes out of a volcano at the time of eruption is ________",
+        "options": [
+            "Solid, liquid, gaseous",
+            "Solid and liquid",
+            "Solid and gaseous",
+            "Liquid and gaseous"
+        ],
+        "correct_answer": "a",
+        "note": "The material that comes out of a volcano at the time of eruption is Solid, liquid, gaseous. Volcanic eruptions are caused by magma (a mixture of liquid rock, crystals, and dissolved gas) expelled onto the Earth's surface."
+    },
+    {
+        "question": "Which of the following is/are the correct characteristic(s) of primary seismic wave?",
+        "options": [
+            "It is a longitudinal and compressional wave",
+            "It is analogous to sound waves",
+            "It travels with faster speed through solids but slowly through liquids",
+            "All the above three"
+        ],
+        "correct_answer": "d",
+        "note": "The characteristic(s) of primary seismic wave are that it is a longitudinal and compressional wave, it is analogous to sound waves and it travels with faster speed through solids but slowly through liquids. Primary waves (P- waves) are compressional waves that are longitudinal in nature."
+    },
+    {
+        "question": "The transverse, longitudinal and surface waves in an earthquake originate from ________",
+        "options": [
+            "The focus within the body of the earth",
+            "The focus on the surface of the earth",
+            "The epicentre on the surface of the earth",
+            "The epicentre within the body of the earth"
+        ],
+        "correct_answer": "a",
+        "note": "The transverse, longitudinal and surface waves in an earthquake originate from the focus within the body of the earth.The epicenter of an earthquake sends out waves which are like an object dropped on to a still body of water that sends out ripples. After the stone hits the water ripples move outwards from the centre in every direction. An earthquake releases energy as shock waves, the so-called seismic waves, which ripple across the earth's surface."
+    },
+    {
+        "question": "Which form of coal is mainly suitable for producing thermal power?",
+        "options": [
+            "Anthracite",
+            "Bituminous",
+            "Lignite",
+            "Peat"
+        ],
+        "correct_answer": "b",
+        "note": "Bituminous coal is mainly suitable for producing thermal power. Bituminous coal is mined in the Appalachian region, primarily for power generation. Mining is done via both surface and underground mines."
+    },
+    {
+        "question": "Which of the following features is the product of vulcanicity ?",
+        "options": [
+            "Fold Mountain",
+            "Escarpment",
+            "Geosynclines",
+            "Caldera"
+        ],
+        "correct_answer": "d",
+        "note": "Calderas are some of the most spectacular features on Earth. They are large volcanic craters that form by two different methods: an explosive volcanic eruption; or, collapse of surface rock into an empty magma chamber."
+    },
+    {
+        "question": "Dogger Bank, Rockfall Bank, Wales Bank and Sand Bank are located in",
+        "options": [
+            "North West Atlantic",
+            "North East Pacific",
+            "North East Atlantic",
+            "North West Pacific"
+        ],
+        "correct_answer": "c",
+        "note": "Dogger bank, rockfall bank, wales bank and sand bank are located in North East Atlantic. Dogger Bank, extensive isolated shoal in the North Sea, lying about 60 miles (100 km) off the northeastern coast of England. Rockall is an uninhabitable granite islet located within the exclusive economic zone of the United Kingdom, situated in the North Atlantic Ocean and is claimed by the United Kingdom as its territory. Wales is bordered by England to the east and by sea in all other directions: the Irish Sea to the north and west, St George's Channel and the Celtic Sea to the southwest and the Bristol Channel to the south."
+    },
+    {
+        "question": "Bowl shaped depression created as a result of glacial erosion high on a mountain side is called ________",
+        "options": [
+            "Glacial trough",
+            "Hum",
+            "Hanging Valley",
+            "Cirque"
+        ],
+        "correct_answer": "d",
+        "note": "Bowl shaped depression created as a result of glacial erosion high on a mountain side is called cirque. A cirque (French, from the Latin word circus) is an amphitheatre-like valley formed by glacial erosion."
+    },
+    {
+        "question": "Which of the following is known as the \"Roof of the World\"?",
+        "options": [
+            "Everest",
+            "Pamir Mountains",
+            "Siberian Field",
+            "Hindu Kush Mountain"
+        ],
+        "correct_answer": "b",
+        "note": "Pamir mountains or Pamirs are known as roof of the world because of their height. It is called the roof of the world because they are at high altitude. This range is situated at the junction of many mountains such as Karakoram, Tian shan, Kunlun, Hindukush, Suleman and Hindu Raj mountain ranges. Pamir Range is one of the highest mountain range in the World."
+    },
+    {
+        "question": "Sedimentary rocks are formed by the process of ________",
+        "options": [
+            "Metamorphism",
+            "Weathering",
+            "Deposition",
+            "Both B and C"
+        ],
+        "correct_answer": "d",
+        "note": "Sedimentary rocks are formed by the process of weathering and deposition. These rocks lay on a surface of clay that is also a product of weathering rock. Sedimentary rocks are formed from the breaking apart of other rocks (igneous, metamorphic, or sedimentary rocks) and the cementation, compaction and recrystallization of these broken pieces of rock."
+    },
+    {
+        "question": "Which type of lakes are created by the volcanic activities?",
+        "options": [
+            "Lagoon",
+            "Sweet Water Lake",
+            "Volcanic Lakes",
+            "Karst Lake"
+        ],
+        "correct_answer": "c",
+        "note": "Volcanic Lakes are created by the volcanic activities. When a volcano erupts and the cup shaped depression (crater) is formed and if water or any fluid gets collected in it then it is called Crater lake / Volcanic lake."
+    },
+    {
+        "question": "Which of the following are true with regard to fold mountains?\nI. They often act as climatic barriers\nII. They receive heavy rain or snow which give rise to rivers\nIII. They are rich in minerals\nIV. They pose no problem, to communication as they contain many passes",
+        "options": [
+            "I and II",
+            "III and IV",
+            "I, II and III",
+            "I, III and IV"
+        ],
+        "correct_answer": "c",
+        "note": "The following that are true with regard to fold mountains are they often act as climatic barriers, they receive heavy rain or snow which give rise to rivers and they are rich in minerals. Fold mountains are mountains that form mainly by the effects of folding on layers within the upper part of the Earth's crust."
+    },
+    {
+        "question": "Which of the following rocks is transformed into marble?",
+        "options": [
+            "Granite",
+            "Limestone",
+            "Peat",
+            "Shale"
+        ],
+        "correct_answer": "b",
+        "note": "Limestone is transformed into marble. When limestone is subjected to the heat and pressure of metamorphism, marble, a metamorphic rock, is formed. Marble is composed of calcite or CaCO3. The calcite in the limestone will recrystallize when under the conditions of metamorphism."
+    },
+    {
+        "question": "Hanging Valley is very common in",
+        "options": [
+            "High mountains",
+            "Sub-Arctic region",
+            "Glaciated areas",
+            "Coastal belt"
+        ],
+        "correct_answer": "c",
+        "note": "A hanging valley is a smaller side valley left 'hanging' above the main U-shaped valley formed by a tributary glacier. A hanging valley can be termed as an intermediately valley above another valley in an elevated zone. These are mostly found in glaciated areas."
+    },
+    {
+        "question": "Marble comes under which category of rocks?",
+        "options": [
+            "Sedimentary",
+            "Igneous",
+            "Metamorphic",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "Marble is a metamorphic rock that forms when limestone is subjected to the heat and pressure of metamorphism."
+    },
+    {
+        "question": "Which of the following are correctly matched?\n1. Gneiss : Metamorphic\n2. Granite : Igneous\n3. Sandstone : Sedimentary",
+        "options": [
+            "1 only",
+            "1 and 2",
+            "2 and 3",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "d",
+        "note": "All the three are correctly matched. Gneiss : Metamorphic. Gneiss is formed by high temperature and high-pressure metamorphic processes acting on formations composed of igneous or sedimentary rocks.  Granite : Igneous. Granite is a light-colored igneous rock with grains large enough to be visible with the unaided eye. Sandstone : Sedimentary. Sandstone is a clastic sedimentary rock composed mainly of sand-sized mineral particles or rock fragments."
+    },
+    {
+        "question": "Which of the following is/are the examples of the sedimentary rocks?\n1. Limestone\n2. Dolomite\n3. Breccia\n4. Coal",
+        "options": [
+            "1 and 2",
+            "2 and 4",
+            "1, 2 and 4",
+            "1, 2, 3 and 4"
+        ],
+        "correct_answer": "c",
+        "note": "Limestone, Dolomite and Coal are the examples of the sedimentary rocks. Organic sedimentary rocks are formed from the accumulation of any animal or plant debris such as shells and bones. These plant and animal debris have calcium minerals in them that pile on the sea floor over time to form organic sedimentary rocks. Examples include rocks such as coal, some limestone, and some dolomites."
+    },
+    {
+        "question": "Arrange the following soil particle by size in the descending order:\nI. Gravel\nII. Clay\nIII. Silt\nIV. Sand",
+        "options": [
+            "I, II, III, IV",
+            "IV, II, III, I",
+            "I, IV, III, II",
+            "III, IV, I, II"
+        ],
+        "correct_answer": "c",
+        "note": "Soil particle by size in the descending order are Gravel, Sand, Silt and Clay."
+    },
+    {
+        "question": "Which of the following are true with regard to igneous rocks?\nI. They are formed inside the earth, under great pressure\nII. They do not occur in layer\nIII. They are mostly crystalline in nature\nIV. They contain fossils",
+        "options": [
+            "I, II and III",
+            "II, III and IV",
+            "II and III",
+            "I and IV"
+        ],
+        "correct_answer": "a",
+        "note": "I. This statement is incorrect. Igneous rocks are formed from the solidification of molten material (magma or lava) from within the Earth's crust. While they are formed at high temperatures, they do not necessarily form under great pressure.\nII. This statement is correct. Igneous rocks do not occur in layers like sedimentary rocks. They form when molten material cools and solidifies, often resulting in a more uniform composition and structure.\nIII. This statement is correct. Igneous rocks are mostly crystalline in nature because they form from the solidification of molten material, allowing mineral crystals to grow and develop.\nIV. This statement is incorrect. Igneous rocks do not typically contain fossils. Fossils are more commonly found in sedimentary rocks where the preservation of organic materials occurs.\nTherefore, the correct answer is Option C, which means only Statements II and III are true with regard to igneous rocks."
+    },
+    {
+        "question": "Which of the following are formed due to collision of continental plates?\n1. The Alps\n2. The Himalayas\n3. The Rockies\n4. The Caucases mountains",
+        "options": [
+            "1, 2 and 3",
+            "2, 3 and 4",
+            "1, 2 and 4",
+            "1, 3 and 4"
+        ],
+        "correct_answer": "c",
+        "note": "The Alps, the Himalayas, and the Caucasus Mountains are all formed due to the collision of continental plates, a process known as orogeny.\nThe Alps were formed by the collision between the African Plate and the Eurasian Plate, resulting in the uplift of these mountains in Europe.\nThe Himalayas arose from the collision of the Indian Plate with the Eurasian Plate, creating the highest mountain range in the world.\nThe Caucasus Mountains were formed due to the collision between the Arabian Plate and the Eurasian Plate, located between the Black Sea and the Caspian Sea.\nThe Rockies, however, were primarily formed by a different process involving the subduction of the Pacific Plate beneath the North American Plate, not a direct continent-continent collision. Thus, they do not fit the criteria of this question.\nTherefore, the correct answer is Option C: 1, 2 and 4, as these mountain ranges are directly linked to continental plate collisions."
+    },
+    {
+        "question": "\"Terra Rossa\" is a Latin word which means?",
+        "options": [
+            "Warm Region",
+            "Red Landscape",
+            "Lateritic Region",
+            "Region Nearer to Poles"
+        ],
+        "correct_answer": "b",
+        "note": "\"Terra Rossa\" is a Latin word means Red Landscape. When weathering of limestone rock takes place the clay contained in the rocks are left behind and this red clay soil is termed as \"Terra Rossa\". This type of red soil is also produced by weathering of dolomite rock."
+    },
+    {
+        "question": "The denudational processes have not reduced the land masses to a level because ________",
+        "options": [
+            "The sea level is changing",
+            "The earth movements have uplifted the landmass",
+            "There has not been enough time",
+            "These processes are intermittent in action"
+        ],
+        "correct_answer": "b",
+        "note": "The denudational processes have not reduced the land masses to a level because the earth movements have uplifted the landmass. Denudation is an erosive process of breaking and removing the rocks from the surface of the earth. It is the wearing away of the terrestrial land by weathering, erosion, moving water, ice waves. Denudation is the result of two main processes, Endogenous and exogenous."
+    },
+    {
+        "question": "In which country is 'Takla Makan' desert situated?",
+        "options": [
+            "Kazakhstan",
+            "Turkmenistan",
+            "Uzbekistan",
+            "China"
+        ],
+        "correct_answer": "d",
+        "note": "Takla Makan Desert is China's largest desert, situated in the middle of the largest Basin, Tarim in Xinjiang Province. This is reputed to be the world's second largest shifting-sand desert covering an area of over 33, 700 square kilometers (over 13,000 square miles)."
+    },
+    {
+        "question": "Which of the following influence the erosion of soil by water?\n1. Slope of the land\n2. Management practice like terracing\n3. Soil salinity",
+        "options": [
+            "1, 2 and 3",
+            "1 and 2",
+            "2 and 3",
+            "1 and 3"
+        ],
+        "correct_answer": "b",
+        "note": "Slope of the land and management practice like terracing influences the erosion of soil by water. Terracing is one of the oldest means of saving soil and water."
+    },
+    {
+        "question": "Pits, formed by the deflating action of wind are called",
+        "options": [
+            "Playa",
+            "Yardang",
+            "Blowouts",
+            "Sand dune"
+        ],
+        "correct_answer": "c",
+        "note": "Pits formed by the deflating action of wind are called Blowouts. Due to wind action in desert lifting and blowing away of a loose material from ground takes place and this lead to a general lowering of land surface known as Blowout or Deflation Hollows."
+    },
+    {
+        "question": "Which of the following types of coal represents the first stage of formation of coal?",
+        "options": [
+            "Anthracite",
+            "Lignite",
+            "Peat",
+            "Bituminous"
+        ],
+        "correct_answer": "c",
+        "note": "Peat is the first stage in the formation of coal. Normally, vegetable matter is oxidized to water and carbon dioxide. However, if plant material accumulates underwater, oxygen is not present and so only partial decomposition occurs."
+    },
+    {
+        "question": "Formation of a rift valley is due to ________",
+        "options": [
+            "The formation of fold mountains",
+            "The forces of tension in the earth's crust",
+            "The subsidence of the floor of a river valley",
+            "The over-deepening of a valley by ice action"
+        ],
+        "correct_answer": "c",
+        "note": "Formation of a rift valley is due to the subsidence of the floor of a river valley."
+    },
+    {
+        "question": "Which metal is most abundant in the earth's crust?",
+        "options": [
+            "Calcium",
+            "Magnesium",
+            "Aluminium",
+            "Iron"
+        ],
+        "correct_answer": "c",
+        "note": "Aluminum is the most abundant metal in the earth's crust, but it is never found free in nature. All of the earth's aluminum has combined with other elements to form compounds. Two of the most common compounds are alum, such as potassium aluminum sulfate (KAl(SO4)2."
+    },
+    {
+        "question": "Which European country has over 200 volcanoes, many of them still active?",
+        "options": [
+            "Finland",
+            "Iceland",
+            "Ireland",
+            "Norway"
+        ],
+        "correct_answer": "b",
+        "note": "Iceland have over 200 volcanoes, many of them still active. The Land of Ice and Fire, Iceland is a natural wonderland where the freezing forces of glaciers and arctic weather are in constant battle with the explosive heat of the earth. Thousands flock to Iceland to witness its volcanoes and the marvels they have (and continue to) create; during eruptions, even more rush over for their chance to see one of the earth’s most dramatic and beautiful phenomena."
+    },
+    {
+        "question": "Which one among the following is the type of the Comoros Islands which lie in the Indian Ocean between Northern Madagascar and the African Coast?",
+        "options": [
+            "Volcanic",
+            "Glacial eroded",
+            "Eolian deposited",
+            "Folded"
+        ],
+        "correct_answer": "a",
+        "note": "The Comoros are a volcanic group of islands at the northern end of the Mozambique Channel of the Indian Ocean, between Madagascar and the southeast African mainland, about 180 miles (290 km) off the eastern coast of Africa. Comoros, an independent state comprising three of the Comoro Islands in the Indian Ocean, off the coast of East Africa. A fourth island of the Comorian archipelago, Mayotte, is claimed by the country of Comoros but administered by France."
+    },
+    {
+        "question": "Which is the largest country (in area)?",
+        "options": [
+            "Canada",
+            "China",
+            "USA",
+            "Russia"
+        ],
+        "correct_answer": "d",
+        "note": "Russia with an area of about 17.1 million sq. km. is the largest country in terms of surface area. In terms of population it takes the ninth place."
+    },
+    {
+        "question": "Which of the country is formed of various number of islands?",
+        "options": [
+            "Papau New Guinea",
+            "Philippines",
+            "Japan",
+            "Indonesia"
+        ],
+        "correct_answer": "d",
+        "note": "Indonesia is an southeast Asian country and is the world's largest Archipelago with nearly 18,000 Islands. Indonesian Archipelago was also known by the name \"Indian archipelago\"."
+    },
+    {
+        "question": "How much part of Earth's surface is desert?",
+        "options": [
+            "10th",
+            "5th",
+            "1/3rd",
+            "6th"
+        ],
+        "correct_answer": "c",
+        "note": "The Earth is covered with 71% of water and rest 29% is land. Out of this 29%, 1/3rd or 33% of land is covered with deserts. In terms of hot deserts it is Sahara which is the largest desert but in terms of cold deserts Antarctica is the world's largest desert."
+    },
+    {
+        "question": "The reason behind Earthquake is",
+        "options": [
+            "Land cruises",
+            "Rotation of Earth",
+            "Tectonism",
+            "Denudation"
+        ],
+        "correct_answer": "c",
+        "note": "Most earthquakes are tectonic earthquakes, which happen when the large, thin plates of the Earth's crust and upper mantle become stuck as they move past one another. They lock together, and pressure builds up. When they finally release, earthquakes occur."
+    },
+    {
+        "question": "Caldera is a feature associated with ________",
+        "options": [
+            "Volcanoes",
+            "Earthquakes",
+            "Folding of rocks",
+            "Faulting of mountains"
+        ],
+        "correct_answer": "a",
+        "note": "A caldera is a volcanic feature formed by the collapse of a volcano into itself, making it a large, special form of volcanic crater. A caldera collapse is usually triggered by the emptying of the magma chamber beneath the volcano, as the result of a large volcanic eruption."
+    },
+    {
+        "question": "Synclines and anticlines are the terms associated with ________",
+        "options": [
+            "Earthquakes",
+            "Folding",
+            "Faulting",
+            "Volcanoes"
+        ],
+        "correct_answer": "b",
+        "note": "Synclines and anticlines are the terms associated with folding. The most basic types of folds are anticlines and synclines. Imagine a rug, the sides of which have been pushed toward each other forming ridges and valleys – the ridges are “up” folds and the valleys are “down” folds."
+    },
+    {
+        "question": "What are the name of the seismic sea waves which reach to coast at a very high force?",
+        "options": [
+            "Tides",
+            "Tsunami",
+            "Current",
+            "Cyclone"
+        ],
+        "correct_answer": "b",
+        "note": "Tsunami are the seismic sea waves which reach to coast at a very high force. A tsunami is a series of large waves generated by an abrupt movement on the ocean floor that can result from an earthquake, an underwater landslide, a volcanic eruption or - very rarely - a large meteorite strike."
+    },
+    {
+        "question": "Which of the following pairs is correctly matched? Islands Volcanoes",
+        "options": [
+            "Sicily - Mount Pelee",
+            "Hawaii - Stromboli",
+            "Java - Merapi",
+            "West Indies - Mauna Loa"
+        ],
+        "correct_answer": "c",
+        "note": "Java - Merapi. Mount Merapi, Indonesian Gunung Merapi, volcanic mountain peak located near the centre of the island of Java, Indonesia."
+    },
+    {
+        "question": "Soil erosion can be prevented by ________",
+        "options": [
+            "Allowing herbivorous animals to graze freely",
+            "Growing plants on a large scale to form soil cover",
+            "Making the land sloppy",
+            "Adding chemicals to increase cohesion"
+        ],
+        "correct_answer": "b",
+        "note": "Soil erosion can be prevented by growing plants on a large scale to form soil cover. Soil cover with living plants (soil can also be covered with mulch) protects the soil surface from rain, wind and sun. It reduces soil erosion and protects the fertile topsoil, thus preventing the silting of rivers and lakes."
+    },
+    {
+        "question": "The features produced by glacial deposition are:\n1. outwash plains\n2. drumlins\n3. eskers\n4. levees",
+        "options": [
+            "1, 2, 3",
+            "1, 3, 4",
+            "2, 3, 4",
+            "1, 2, 3, 4"
+        ],
+        "correct_answer": "a",
+        "note": "The features produced by glacial deposition are outwash plains, drumlins and eskers. Eskers- A long, skinny ridge of gravel deposited by a stream in or under a decaying glacial ice sheet. Outwash plain- A plain formed by glacial sediments that were deposited at the end of a glacier. They are found in glaciated areas."
+    },
+    {
+        "question": "The lake created by Aswan Dam in Africa is",
+        "options": [
+            "Chad",
+            "Victoria",
+            "Nasser",
+            "Tanganyika"
+        ],
+        "correct_answer": "c",
+        "note": "Aswan Dam in the Africa has been used to create one of world's biggest artificial lake known as Nasser lake. It is located on the mouth of the Nile river."
+    },
+    {
+        "question": "Which of the following are true with respect to sedimentary rocks?\nI. The rocks are deposited in layers\nII. The particles of rocks are at times wholly of organic nature\nIII. The rocks are not crystalline\nIV. Their structure is determined by great pressure or heat",
+        "options": [
+            "I, II and III",
+            "II and III",
+            "I and IV",
+            "I and II"
+        ],
+        "correct_answer": "a",
+        "note": "The following that are true with respect to sedimentary rocks are that the rocks are deposited in layers, the particles of rocks are at times wholly of organic nature and the rocks are not crystalline."
+    },
+    {
+        "question": "Shield volcanoes refer to ________",
+        "options": [
+            "Explosive lava eruptions",
+            "Repeated lava flows",
+            "Ejection of a wide range of pyroclastic materials",
+            "Individual lava flows"
+        ],
+        "correct_answer": "b",
+        "note": "Shield volcanoes are formed by lava flows of low viscosity - lava that flows easily. Consequently, a volcanic mountain having a broad profile is built up over time by flow after flow of relatively fluid basaltic lava issuing from vents or fissures on the surface of the volcano."
+    },
+    {
+        "question": "What is the point below the epicentre of the Earthquake?",
+        "options": [
+            "Wither",
+            "Incentre",
+            "Epicentre",
+            "Focus"
+        ],
+        "correct_answer": "d",
+        "note": "Focus is the actual point below the surface of the earth where an earthquake originates and epicenter is a point directly above it, and it lies on the surface of the earth."
+    },
+    {
+        "question": "Mount Gamkonora, highest peak of Halmahera Island, was burst in 2007. In which country is it located?",
+        "options": [
+            "Japan",
+            "Indonesia",
+            "Russia",
+            "France"
+        ],
+        "correct_answer": "b",
+        "note": "Mount Gamkonora is stratovolcano which erupted\nin 2007. It is located on Halmahera island in Indonesia. It has shifting eruption centres which has lead to an elongated series of craters along N-S trending rift."
+    },
+    {
+        "question": "Which of the following predominantly acts as the agent of chemical erosion of soil?",
+        "options": [
+            "Glacier",
+            "Seawave",
+            "Underground water",
+            "Wind"
+        ],
+        "correct_answer": "c",
+        "note": "Underground water predominantly acts as the agent of chemical erosion of soil. Chemical weathering changes the molecular structure of rocks and soil. The important characteristics of surface conditions that lead to chemical weathering are the presence of water (in the air and on the ground surface), the abundance of oxygen, and the presence of carbon dioxide, which produces weak carbonic acid when combined with water."
+    },
+    {
+        "question": "In which type of rocks are coal and petroleum found?",
+        "options": [
+            "Granite",
+            "Igneous",
+            "Metamorphic",
+            "Sedimentary"
+        ],
+        "correct_answer": "d",
+        "note": "Sedimentary rocks make up most of the rocks on the earth and are formed when bits of rock, soil or organic matter settles and accumulates. Plant and animal fossils can be found in sedimentary rock. When there is an abundance of plants and animals, fossil fuels develop, like oil, natural gas and coal."
+    },
+    {
+        "question": "Who gave the idea that originally there was only one continent called Pangea ?",
+        "options": [
+            "Wegener",
+            "Marshall",
+            "Darwin",
+            "Ptolemy"
+        ],
+        "correct_answer": "a",
+        "note": "Pangea’s existence was first proposed in 1912 by German meteorologist Alfred Wegener as a part of his theory of continental drift. Its name is derived from the Greek pangaia, meaning “all the Earth.”"
+    },
+    {
+        "question": "Which is the proper order of seismic waves as they are received at seismograph station?",
+        "options": [
+            "L-wave, P-wave, S-wave",
+            "P-wave, L-wave, S-wave",
+            "P-wave, S-wave, L-wave",
+            "S-wave, P-wave, L-wave"
+        ],
+        "correct_answer": "c",
+        "note": "P-wave, S-wave, L-wave is the proper order of seismic waves as they are received at seismograph station. The first kind of body wave is the P wave or primary wave. This is the fastest kind of seismic wave, and, consequently, the first to 'arrive' at a seismic station. The P wave can move through solid rock and fluids, like water or the liquid layers of the earth. It pushes and pulls the rock it moves through just like sound waves push and pull the air. The second type of body wave is the S wave or secondary wave, which is the second wave you feel in an earthquake. An S wave is slower than a P wave and can only move through solid rock, not through any liquid medium. The first kind of surface wave is called a Love wave, named after A.E.H. Love, a British mathematician who worked out the mathematical model for this kind of wave in 1911. It's the fastest surface wave and moves the ground from side-to-side."
+    },
+    {
+        "question": "The area marked by internal drainage is",
+        "options": [
+            "Plateau",
+            "Plains",
+            "Desert",
+            "Mountain"
+        ],
+        "correct_answer": "c",
+        "note": "The area marked by internal drainage is desert. Internal drainage means that the rivers or canals in a certain region do not flow into the sea but disappear inland after sometime due to porosity of underlying surface of the river bed. For example Luni river in Rajasthan does not reach the Arabian Sea."
+    },
+    {
+        "question": "Which type of lake is formed by volcanic activities?",
+        "options": [
+            "Caldera lake",
+            "Karst lake",
+            "Lagoon",
+            "Freshwater lake"
+        ],
+        "correct_answer": "a",
+        "note": "A crater lake is a depression created by a volcanic crater or caldera that is filled with water. When a volcano is no longer active, the crater or caldera may fill with water from rainfall and melting snow that may also feed the lake. A lake can also exist in an impact crater, created by the fall of a meteor or in one case a nuclear weapon test in Kazakhstan. Sometimes these are also called crater lakes."
+    },
+    {
+        "question": "If the original day sediments are subjected to high temperature and pressure, they successively change into rocks, the correct order of which is ________",
+        "options": [
+            "Slate, Shale, Schist",
+            "Shale, Schist, Slate",
+            "Slate, Schist, Shale",
+            "Shale, Slate, Schist"
+        ],
+        "correct_answer": "d",
+        "note": "If the original day sediments are subjected to high temperature and pressure, they successively change into rocks, the correct order of which is Shale, Slate, Schist. Beginning with a shale parent, Barrovian metamorphism produces a sequence of metamorphic rocks that goes through slate, and then through phyllite, schist, and gneiss."
+    },
+    {
+        "question": "Which of the following is/are matched correctly?\n1. Earthquake's origin - seismic focus\n2. Epicentre - point on earth's surface directly above seismic focus\n3. S waves - similar to sound waves\n4. Richter scale - severity of earthquake",
+        "options": [
+            "1, 2, 3",
+            "1, 2, 3 and 4",
+            "2 and 4",
+            "3 and 4"
+        ],
+        "correct_answer": "b",
+        "note": "All the four are matched correctly. Earthquake's origin - seismic focus. Epicentre - point on earth's surface directly above seismic focus. S waves - similar to sound waves. Richter scale - severity of earthquake."
+    },
+    {
+        "question": "In an artesian well, in what order the rock-layer are generally found? (from bottom to surface)",
+        "options": [
+            "Permeable, non-permeable and permeable",
+            "Non-permeable and permeable",
+            "Permeable and non- permeable",
+            "Non-permeable, permeable and non-permeable"
+        ],
+        "correct_answer": "d",
+        "note": "In an artesian well, the rock-layer are generally found in Non-permeable, permeable and non-permeable order. Permeable layers of rock that store and transport water are called aquifers. While porosity and permeability usually go hand-in-hand, though some porous rocks are not permeable and some impermeable rocks are porous. Permeability is affected mostly by the size and arrangement of the grains in the soil."
+    },
+    {
+        "question": "In which type of rocks are metals like gold and copper mostly found?",
+        "options": [
+            "Old Sedimentary",
+            "Old Igneous",
+            "Old Metamorphic",
+            "New Metamorphic"
+        ],
+        "correct_answer": "b",
+        "note": "In old Igneous type of rocks metals like gold and copper mostly found. Gold and copper are found in ore bodies associated with porphry. Porphry is a general term applied to igneous rocks of any composition that contain conspicuous phenocrysts (crystals) in a fine-grained groundmass."
+    },
+    {
+        "question": "The breaking up of the rocks at its place is known as",
+        "options": [
+            "Erosion",
+            "Weathering",
+            "Mass Destruction",
+            "Degradation"
+        ],
+        "correct_answer": "b",
+        "note": "Weathering describes the breaking down or dissolving of rocks and minerals on the surface of the Earth. Water, ice, acids, salts, plants, animals, and changes in temperature are all agents of weathering."
+    },
+    {
+        "question": "In due course of time the meander loop cuts off from the river and forms a cutoff lake, also called an ________ lake.",
+        "options": [
+            "Ox-bow",
+            "Oasis",
+            "Lagoon",
+            "Tectonic"
+        ],
+        "correct_answer": "a",
+        "note": "An oxbow lake is formed by both erosional and deposition actions of a river. In lower course a river dominates in lateral erosion and bend is created by it. On outer end of bend erosion dominates and on inner end deposition dominates and finally a loop is separated known as oxbow lake."
+    },
+    {
+        "question": "The material carried by the glacier such as rocks big and small, sand and silt gets deposited, which are called glacial ________.",
+        "options": [
+            "Moraines",
+            "Deltas",
+            "Plateaus",
+            "Grooves"
+        ],
+        "correct_answer": "a",
+        "note": "When a glacier moves downward rock debris are produced due to friction. These debris, rocks and earth (mud) gets accumulated on top, foot and sides of the glacier an are called Moraines."
+    },
+    {
+        "question": "Carbonaceous rocks which produce coal and of belong to the category of rocks called",
+        "options": [
+            "Metamorphic",
+            "Igneous",
+            "Sedimentary",
+            "Inorganic"
+        ],
+        "correct_answer": "c",
+        "note": "Carbonaceous rocks which produce coal and of belong to the category of rocks called Sedimentary rocks. Carbonaceous rocks are a type of the sedimentary rocks formed by the deposition of sea plants which remained buried for a long period of time."
+    },
+    {
+        "question": "Which one of the following reflects back more sunlight as compared to other three?",
+        "options": [
+            "Sand desert",
+            "Paddy crop land",
+            "Land covered with fresh snow",
+            "Prairie land"
+        ],
+        "correct_answer": "c",
+        "note": "Land covered with fresh snow reflects back more sunlight as compared to other three. Fresh snow and ice reflect 80 - 85% of the sunlight. Therefore, the skin of skiers is irradiated by sunlight from all sides, since the snow does not take up the light but reflects it and remains cold. Scientists give a name to this ability of surfaces to reflect light."
+    },
+    {
+        "question": "Which of the following is not a result of underground water activity?",
+        "options": [
+            "Stalactites",
+            "Stalagmites",
+            "Sink holes",
+            "Fiords"
+        ],
+        "correct_answer": "d",
+        "note": "Fiords or fjords are coasts formed by the submergence of U- shaped glacial troughs. These are narrow inlets of the sea into the seacoast bounded by steep and high mountain slopes, the height matched by its vast depth too."
+    },
+    {
+        "question": "A block of the earth's crust that has remained in position while the ground around it has subsides is known as ________",
+        "options": [
+            "Horst",
+            "Plain",
+            "Plateau",
+            "Young folded mountain"
+        ],
+        "correct_answer": "a",
+        "note": "A horst is the raised fault block bounded by normal faults. It is a raised block of the Earth's crust that has lifted, or has remained stationary, while the land on either side has subsided."
+    },
+    {
+        "question": "Choose the correct statement about Sedimentary rocks ________",
+        "options": [
+            "These rocks cannot be formed under water",
+            "These rocks are crystalline",
+            "The structure of these rocks is contingent on heat and pressure",
+            "These rocks have been deposited in layers"
+        ],
+        "correct_answer": "d",
+        "note": "Sedimentary rocks have layers because of different depositions of sediments (small broken pieces of rocks) over time. The different groups of sediments could have been deposited through wind, water, ice, and/or gravity at different intervals of time and compacted on top of each other, until they create a sedimentary rock that has several different types of sediments (possibly from different rock types) in the form of layers."
+    },
+    {
+        "question": "Which of the following is not an agent which produces physical features ?",
+        "options": [
+            "Denudation",
+            "Deposition",
+            "Volcanic eruption",
+            "Conduction"
+        ],
+        "correct_answer": "d",
+        "note": "Conduction is not an agent which produces physical features. In conduction, heat moves from areas of more heat to areas of less heat by direct contact. Warmer molecules vibrate rapidly and collide with other nearby molecules, transferring their energy."
+    },
+    {
+        "question": "Batholiths and Laccoliths are formations of ________",
+        "options": [
+            "Sedimentary rocks",
+            "Igneous rocks",
+            "Metamorphic rocks",
+            "Polymetamorphosed rocks"
+        ],
+        "correct_answer": "b",
+        "note": "Batholiths and Laccoliths are formations of Igneous rocks. A batholith is the largest of the intrusive bodies. They are larger than 100 square kilometers and usually form granite cores. laccolith is a dome shaped intrusive body that has intruded between layers of sedimentary rock. The rising magma forces the overlying layers to rise up into a dome."
+    },
+    {
+        "question": "The igneous rocks are formed due to ________",
+        "options": [
+            "Accumulation of sediments at the bottom of sea",
+            "Granitisation",
+            "Disintegration of magma",
+            "Altering of metamorphic rocks"
+        ],
+        "correct_answer": "b",
+        "note": "The igneous rocks are formed due to granitisation. Igneous rock may form with crystallization to form granular, crystalline rocks, or without crystallization to form natural glasses. Granitization, formation of granite or closely related rocks by metamorphic processes, as opposed to igneous processes in which such rocks form from a melt, or magma, of granitic composition."
+    },
+    {
+        "question": "The Himalayas were formed due to ________",
+        "options": [
+            "Internal pressure of two large land forms",
+            "Faulting of the earth's crust",
+            "Folding of the earth's crust",
+            "Folding of the geo-syncline named Tethys"
+        ],
+        "correct_answer": "d",
+        "note": "The Himalayas were formed due to folding of the geo-syncline named Tethys. 225 million years ago (Ma) India was a large island situated off the Australian coast and separated from Asia by the Tethys Ocean. So it has orginated from the Tethys Geosyncline . the sediments of this folded due to the northward movement of the Indian plate against the Eurasian Plate."
+    },
+    {
+        "question": "Japan experiences frequent earth-quakes because it is located ________",
+        "options": [
+            "On the eastern coast of Asia",
+            "On the meeting point of two plates of the earth's crust",
+            "Amidst the ocean",
+            "In the volcanic belt"
+        ],
+        "correct_answer": "d",
+        "note": "The Japanese archipelago is located in an area where several continental and oceanic plates meet. This is the cause of frequent earthquakes and the presence of many volcanoes and hot springs across Japan."
+    },
+    {
+        "question": "Which of the following is the longest mountain range?",
+        "options": [
+            "The Himalayas",
+            "The Rockies",
+            "The Andes",
+            "The Caucasus"
+        ],
+        "correct_answer": "c",
+        "note": "The Longest Mountain Chains in the world is Andes. The Andes of South America is the longest mountain range in the world, stretching for an estimated distance of 7,000 km (4,350 miles)."
+    },
+    {
+        "question": "The instrument to measure the magnitude of Earthquake is called",
+        "options": [
+            "Ideograph",
+            "Pantograph",
+            "Argograph",
+            "Seismograph"
+        ],
+        "correct_answer": "d",
+        "note": "A seismograph is the device that scientists use to measure earthquakes. The goal of a seismograph is to accurately record the motion of the ground during a quake."
+    },
+    {
+        "question": "The Richter scale is used to measure which of the following?",
+        "options": [
+            "Humidity of Air",
+            "Velocity of Air",
+            "Magnitude of Earthquake",
+            "Density of Liquid"
+        ],
+        "correct_answer": "c",
+        "note": "The Richter scale is used to rate the magnitude of an earthquake, that is the amount of energy released during an earthquake."
+    },
+    {
+        "question": "What are Obsidian, Andesite, Gabbro and Peridotite?",
+        "options": [
+            "Intrusive rocks",
+            "Sedimentary rocks",
+            "Extrusive rocks",
+            "Metamorphic rocks"
+        ],
+        "correct_answer": "a",
+        "note": "Examples of intrusive igneous rocks are diorite, gabbro, granite, pegmatite, and peridotite."
+    },
+    {
+        "question": "Molten rock below the surface of the earth is called ________",
+        "options": [
+            "Basalt",
+            "Laccolith",
+            "Lava",
+            "Magma"
+        ],
+        "correct_answer": "d",
+        "note": "Magma is extremely hot liquid and semi-liquid rock located under Earth's surface. When magma flows onto Earth's surface, it is called lava."
+    },
+    {
+        "question": "A group of interconnected islands is known as",
+        "options": [
+            "Strait",
+            "Peninsula",
+            "Archipelago",
+            "Lagoon"
+        ],
+        "correct_answer": "c",
+        "note": "An archipelago sometimes called an island group or island chain, is a chain, cluster or collection of islands, or sometimes a sea containing a small number of scattered islands."
+    },
+    {
+        "question": "What is the name of the sand mound formed by high speed of wind?",
+        "options": [
+            "Cliff",
+            "Cirque",
+            "Dune",
+            "Hamada"
+        ],
+        "correct_answer": "c",
+        "note": "A sand dune is a hill of sand formed by the accumulation of sand. Dune sand is fine sand from the beach that is blown inland by the winds. Dunes are formed when the sand brought in by the wind is trapped by plants or other obstacles."
+    },
+    {
+        "question": "Earthquakes occur due to ________",
+        "options": [
+            "Frequent occurrence of cyclones",
+            "Movement of plates of earth, which float on the hot volcanic mantle below the earth's surface",
+            "Too much pressure on land",
+            "Underground nuclear explosions"
+        ],
+        "correct_answer": "b",
+        "note": "The movement of these tectonic plates is likely caused by convection currents in the molten rock in Earth's mantle below the crust. Earthquakes are the short-term results of this tectonic movement. The long-term result of plate tectonics is the movement of entire continents over millions of years."
+    },
+    {
+        "question": "Why do Fold Mountains have enormous thickness of sedimentary rocks?",
+        "options": [
+            "Due to deposition of sediments in a valley for millions of years",
+            "Due to accumulation of sediments in a geosyncline",
+            "The plains were folded into mountains",
+            "The sediments were folded into recumbent and nappe folds"
+        ],
+        "correct_answer": "b",
+        "note": "Due to accumulation of sediments in a geosyncline fold mountains have enormous thickness of sedimentary rocks. The plains were folded into mountains and The sediments were folded into recumbent and nappe."
+    },
+    {
+        "question": "Which of the following is the highest plateau in the world?",
+        "options": [
+            "Colorado Plateau",
+            "Pamir Plateau",
+            "Patagonia Plateau",
+            "Potwar Plateau"
+        ],
+        "correct_answer": "b",
+        "note": "The largest and highest plateau in the world is the Pamir mountain, called the \"roof of the world\", which is still being formed by the collisions of the Indo-Australian and Eurasian tectonic plates. The Tibetan plateau covers approximately 2,500,000 km2 (970,000 sq mi), at about 5,000 m (16,000 ft) above sea level."
+    },
+    {
+        "question": "________ is an example of intrusive igneous rock.",
+        "options": [
+            "Conglomerate",
+            "Shale",
+            "Sandstone",
+            "Granite"
+        ],
+        "correct_answer": "d",
+        "note": "Granite is an example of intrusive igneous rock. Intrusive igneous rocks crystallize below Earth's surface, and the slow cooling that occurs there allows large crystals to form."
+    },
+    {
+        "question": "What is the incident of movement of landmass and rockfalls?",
+        "options": [
+            "Landslide",
+            "Earth progression",
+            "Scaling off",
+            "Weathering"
+        ],
+        "correct_answer": "a",
+        "note": "A landslide is a very rapid movement and occur when a large mass of soil or block falls suddenly either due to undercutting action of water or earthquake. Landslides generally causes heavy destruction in hilly areas."
+    },
+    {
+        "question": "The theory of continental drift is supported by:\nI. similarities between the coastline of South America and Africa\nII. the similarity of rocks of Central Africa, southern India, Brazil and Australia\nIII. evidence of fossils\nIV. survival of marsupials in Australia",
+        "options": [
+            "I and II",
+            "I, II and III",
+            "II, III and IV",
+            "I, II, III and IV"
+        ],
+        "correct_answer": "d",
+        "note": "The theory of continental drift is supported by similarities between the coastline of South America and Africa, the similarity of rocks of Central Africa, southern India, Brazil and Australia, evidence of fossils and survival of marsupials in Australia."
+    },
+    {
+        "question": "Anticline is a type of which of the following?",
+        "options": [
+            "Riverine",
+            "Fold Structure",
+            "Eroded Landmass",
+            "Delta"
+        ],
+        "correct_answer": "b",
+        "note": "In structural geology, an anticline is a type of fold that is an arch-like shape and has its oldest beds at its core. A typical anticline is convex up in which the hinge or crest is the location where the curvature is greatest, and the limbs are the sides of the fold that dip away from the hinge."
+    },
+    {
+        "question": "The formation of \"Mushroom Rocks\" in deserts is an example of which of the following?",
+        "options": [
+            "Erosion",
+            "Contraction",
+            "Attrition",
+            "Abrasion"
+        ],
+        "correct_answer": "d",
+        "note": "Mushroom rocks, also known as pedestal rocks, are formed in deserts due to the process of abrasion. Abrasion occurs when wind-blown sand and particles strike the surface of rocks, eroding the softer material at the base more than the top.\n\n\n\nOver time, the differential erosion results in the base becoming narrower while the upper portion remains relatively wider, giving the rock a mushroom-like shape.\n\n\nErosion is a broader process that includes abrasion but also involves the removal of material by wind, water, or ice.\n\n\nContraction is not involved in the formation of mushroom rocks.\n\n\nAttrition refers to the wearing down of particles during transport, not the shaping of stationary rock formations.\n\n\n\nThus, the formation of mushroom rocks is an example of abrasion."
+    },
+    {
+        "question": "Find the odd one",
+        "options": [
+            "Tsunami",
+            "Earthquake",
+            "WindTurbine",
+            "Cyclone"
+        ],
+        "correct_answer": "c",
+        "note": "Wind turbine is a power / energy generating machine whereas cyclone, earthquake and tsunami are natural phenomenon which may turn into disaster."
+    },
+    {
+        "question": "Find the odd one",
+        "options": [
+            "Basalt",
+            "Ruby",
+            "Emerald",
+            "Sapphire"
+        ],
+        "correct_answer": "a",
+        "note": "Basalt is the most common type of solidified lava. It mainly comprises of Feldspar, Pyroxene and Plagioclase. The other 3 given option are gems."
+    },
+    {
+        "question": "Folding is the result of",
+        "options": [
+            "Epeirogenetic force",
+            "Coriolis force",
+            "Orogenetic force",
+            "Exogenetic force"
+        ],
+        "correct_answer": "c",
+        "note": "Folding is the result of orogenetic force. Orogeny is a mountain building process. Orogenic processes involve severe folding and affecting long and narrow belts of the earth's crust. In contrast to epeirogenic movement, orogenic movement is a more complicated deformation of the Earth's crust."
+    },
+    {
+        "question": "Which of the following rock has formed the Earth's crust?",
+        "options": [
+            "Igneous",
+            "Metamorphic",
+            "Sedimentary",
+            "Carbonate"
+        ],
+        "correct_answer": "a",
+        "note": "Igneous rock has formed the Earth's crust. Most of the Earth's Crust is formed of Sial and Sima i.e. (Silica, Aluminium and Silica Magnesium) composition.  Both of thes rock types are granitic in nature being of igneous formation (origin)."
+    },
+    {
+        "question": "The gentle 'seaward sloping' surface from the coasts is called",
+        "options": [
+            "Continental shelf",
+            "Abyssal plains",
+            "Continental rise",
+            "Submarine ridges"
+        ],
+        "correct_answer": "a",
+        "note": "A shallow platform (600 feet approx.) which is the seaward extension of the continent is called continental shelf. On an average its width is 80 km. The Arctic Ocean has the widest continental shelf."
+    },
+    {
+        "question": "Igneous rocks are formed from molten rock material. Which one of the following is not an igneous rock?",
+        "options": [
+            "Granite",
+            "Quartz",
+            "Feldspar",
+            "Slate"
+        ],
+        "correct_answer": "d",
+        "note": "Slate is not an igneous rock. Slate is a metamorphic rock created by the compression of shale or mudstone under relatively low temperatures and pressures caused by the building up of sedimentary layers above it."
+    },
+    {
+        "question": "Which of the following is not an Igneous Rock?",
+        "options": [
+            "Dolomite",
+            "Granite",
+            "Basalt",
+            "Gabbro"
+        ],
+        "correct_answer": "a",
+        "note": "Igneous rock (also called magmatic rock) is formed through the cooling and solidification of magma or lava. Dolomite is a sedimentary rock composed primarily of the mineral dolomite, CaMg(CO3)2."
+    },
+    {
+        "question": "Granite display standing quartzite zone because?",
+        "options": [
+            "These rocks are resistant to all kinds of erosion",
+            "They do not decay easily",
+            "They weathers quickly",
+            "These rocks do not destruct easily"
+        ],
+        "correct_answer": "a",
+        "note": "Granite display standing quartzite zone because these rocks are resistant to all kinds of erosion. Being igneous, granite rock do not get weathered easily. They are highly resistant to erosion. They contain great amount of silica, hence show standing quartzite zone."
+    },
+    {
+        "question": "Tsunami is a large sea wave caused by an earthquake experienced along the coasts of ________",
+        "options": [
+            "India",
+            "China",
+            "Australia",
+            "Japan"
+        ],
+        "correct_answer": "d",
+        "note": "Tsunami is a large sea wave caused by an earthquake experienced along the coasts of Japan. An earthquake generates a tsunami if it is of sufficient force and there is a violent enough movement of the seafloor to cause substantial and sudden displacement of a massive amount of water. Tsunami (pronounced soo-NAH-mee) is a Japanese word, and in fact tsunamis are fairly common in Japan."
+    },
+    {
+        "question": "What is changed in metamorphic rocks?",
+        "options": [
+            "Structure",
+            "Formation",
+            "(1) and (2) both",
+            "Actual chemical composition"
+        ],
+        "correct_answer": "c",
+        "note": "Structicture and Formation is changed in metamorphic rocks. Due to subduction of rocks to lower levels of Earth's crust they experience high temperature and high pressure due to which their formation and structure changes as they recrystalline."
+    },
+    {
+        "question": "Which is the largest desert of the world?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Thar",
+            "Taklamakan"
+        ],
+        "correct_answer": "a",
+        "note": "The Sahara is the World's largest hot desert with an area of about 9,200,000 sq. km. It is located in Northern part of Africa, On the other hand if the polar regions are included then Antarctica is the largest desert in the World."
+    },
+    {
+        "question": "The best representative of the acid igneous rocks is ________",
+        "options": [
+            "Basalt",
+            "Granite",
+            "Dolerite",
+            "Gabbro"
+        ],
+        "correct_answer": "b",
+        "note": "The best representative of the acid igneous rocks is Granite. A good example of intrusive igneous rock is granite. Acidic rocks are light in color and basic rocks are dark in color. (Persilicic is a little-used term equivalent to acidic as applied to igneous rocks). Among the volcanic rocks, rhyolite, obsidian, and acidic tuff are the predominant representatives; among the deep-seated rocks, granite and granodiorite are most common."
+    },
+    {
+        "question": "The Metamorphism of Shale occurs in which of the following rocks?",
+        "options": [
+            "Graphite",
+            "Gneiss",
+            "Marble",
+            "Slate"
+        ],
+        "correct_answer": "d",
+        "note": "Metamorphism is a process in which a rock recrystallises due to intense heat and pressure. Shale is sedimentary rock which metamorphoses into slate."
+    },
+    {
+        "question": "Shale is metamorphosed into which of the following rocks?",
+        "options": [
+            "Graphite",
+            "Gneise",
+            "Marble",
+            "Slate"
+        ],
+        "correct_answer": "d",
+        "note": "Shale is metamorphosed into slate. When shale goes through high temperature & pressure during regional metamorphism it becomes slate."
+    },
+    {
+        "question": "Igneous rocks are said to be acidic when they contain high proportion of ________",
+        "options": [
+            "Iron",
+            "Magnesium",
+            "Silica",
+            "Aluminium"
+        ],
+        "correct_answer": "c",
+        "note": "When Igneous rocks contain high proportion of silica, they are acidic. Acid igneous rocks such as granite are less dense and have lighter colour than basic igneous rocks."
+    },
+    {
+        "question": "What is the cupshaped mouth of volcanoes?",
+        "options": [
+            "Centre of Origin",
+            "Epicentre",
+            "Crater",
+            "Cinder Cone"
+        ],
+        "correct_answer": "c",
+        "note": "Crater is the cup shaped mouth of volcanoes. Whenever any volcano erupts material from the top of the cone is blown off or collapses into vent which widens the vent and this widened vent is called crater or caldera."
+    },
+    {
+        "question": "The cause of Earthquake is",
+        "options": [
+            "Disturbances in Earth surface",
+            "Adjustment in the layers of Earth's crust",
+            "Destruction in shell system",
+            "Rise in plates"
+        ],
+        "correct_answer": "a",
+        "note": "The cause of earthquake is disturbances in Earth surface. An Earthquake occurs when seismic waves are generated due to the release of energy from Earth's interior causing tremors Earth's surface."
+    },
+    {
+        "question": "What is the main cause of Tsunami?",
+        "options": [
+            "Volcano",
+            "Cyclone",
+            "Earthquake on Sea Surface",
+            "Gravitation of Moon"
+        ],
+        "correct_answer": "c",
+        "note": "Tsunamis are destructive sea waves which are generated due to Earthquakes on sea floors whereas tides are generated due to gravitational pull of Moon and Sun."
+    },
+    {
+        "question": "The Rift Valley is created",
+        "options": [
+            "Between two anticlines",
+            "Between two rifts",
+            "Erosion of synclinal basin",
+            "Due to volcanic eruption"
+        ],
+        "correct_answer": "b",
+        "note": "The Rift Valley is created between two rifts. When Earth's crust cracks, faulting takes place due, to tension or compression and a section of it subside or rise above the surrounding level. The subsided part between two blocks is called rift valley."
+    },
+    {
+        "question": "Of the floating iceberg in the sea, the portion remaining above the sea level is ________",
+        "options": [
+            "1/10th",
+            "1/9th",
+            "1/6th",
+            "1/5th"
+        ],
+        "correct_answer": "a",
+        "note": "Of the floating iceberg in sea the portion remaining above the sea level is 1/10th. The floating iceberg portion that remains above the sea level is called hummock, however in simpler language it is known as the tip."
+    },
+    {
+        "question": "The headland in sea is called",
+        "options": [
+            "Strait",
+            "Peninsula",
+            "Isthmus",
+            "Island"
+        ],
+        "correct_answer": "b",
+        "note": "The headland in sea is called Peninsula. A peninsula is a landform which is surrounded by water from three sides. It appears that it is protruding into the sea. Indian peninsula is a headland into the Indian Ocean."
+    },
+    {
+        "question": "Which of the following geomorphic pairs is not correct?",
+        "options": [
+            "Cirque - Glacier",
+            "Coral - Ocean",
+            "Delta - River",
+            "Pores - Air"
+        ],
+        "correct_answer": "d",
+        "note": "Pores are available in soil through which liquid seeps inside the Earth surface. Example water seeping through soil recharges ground water level."
+    },
+    {
+        "question": "Which of the following features are product of volcanicity?I. AtollII. CalderaIII. BatholithIV. Geosyncline",
+        "options": [
+            "I, II and III",
+            "I and IV",
+            "II and III",
+            "I, III and IV"
+        ],
+        "correct_answer": "c",
+        "note": "Caldera and Batholith are product of volcanicity. A caldera is a large depression formed when a volcano erupts and collapses. A batholith is a giant mass of intrusive igneous rock that forms when magma collects and cools deep in the earth's crust without being exposed to the surface."
+    },
+    {
+        "question": "The instrument, used for recording earthquake waves is ________",
+        "options": [
+            "Barograph",
+            "Hydrograph",
+            "Pantograph",
+            "Seismograph"
+        ],
+        "correct_answer": "d",
+        "note": "The instrument, used for recording earthquake waves is Seismograph. A seismograph, or seismometer, is an instrument used to detect and record seismic waves. Seismic waves are propagating vibrations that carry energy from the source of an earthquake outward in all directions."
+    },
+    {
+        "question": "Rocks which are formed by the solidification of lava on the earth's surface are ________",
+        "options": [
+            "Sandstone",
+            "Limestone",
+            "Granites",
+            "Basalts"
+        ],
+        "correct_answer": "d",
+        "note": "Rocks which are formed by the solidification of lava on the earth's surface are Basalts. Basalt is a dark-colored, fine-grained, igneous rock composed mainly of plagioclase and pyroxene minerals. It most commonly forms as an extrusive rock, such as a lava flow, but can also form in small intrusive bodies, such as an igneous dike or a thin sill."
+    },
+    {
+        "question": "The largest volcano crater in the world is ________",
+        "options": [
+            "Vesuvius (Italy)",
+            "Toba (Indonesia)",
+            "Etna (Sicily)",
+            "Stromboli (Sicily)"
+        ],
+        "correct_answer": "b",
+        "note": "The largest volcano crater in the world is Toba (Indonesia). Caldera lakes in contrast can be quite large and long-lasting. For instance, Lake Toba (Indonesia) formed after its eruption around 75,000 years ago. At a size of around 100 km (60 miles) by 30 km (18 miles) in extent and 505 m (1,656 ft) deep at its deepest point, Lake Toba is the largest crater lake in the world."
+    },
+    {
+        "question": "The youngest mountain range in the world is ________",
+        "options": [
+            "Western Ghats",
+            "Himalayas",
+            "Aravallis",
+            "Andes"
+        ],
+        "correct_answer": "b",
+        "note": "The Himalayas is the highest and one of the youngest mountain ranges in the world. Its origin can be traced in the Jurassic Era, which is about 80 million years ago. That time the world's landmasses were divided into Laurasia and Gondwanaland. Laurasia was in the Northern hemisphere, and Gondwanaland in the southern hemisphere."
+    },
+    {
+        "question": "Longest mountain range in the world is ________",
+        "options": [
+            "Himalayas",
+            "Andes",
+            "Karakoram",
+            "Ural mountains"
+        ],
+        "correct_answer": "b",
+        "note": "The Andes of South America, stretching for a distance of 7000 km, is the longest mountain chain in the world."
+    },
+    {
+        "question": "Winds blowing constantly in one direction in rocky deserts form",
+        "options": [
+            "Chimneys",
+            "Mushrooms rocks",
+            "Yardangs",
+            "Demoiselles"
+        ],
+        "correct_answer": "c",
+        "note": "Winds blowing constantly in one direction in rocky deserts form Yardangs. In the region of soft rocks such as sedimentary rocks where winds blow constantly in one direction, they impact the surface of the rocks and blow away their material through dual processes of deflation and abrasion. This leads to fromation of Yardangs."
+    },
+    {
+        "question": "Residual hill in the desert region is known as ________",
+        "options": [
+            "Inlier",
+            "Inselberg",
+            "Playa",
+            "Pediment"
+        ],
+        "correct_answer": "b",
+        "note": "Residual Hill in the Desert Region is known as Inselberg. An inselberg or monadnock is an isolated rock hill, knob, ridge, or small mountain that rises abruptly from a gently sloping or virtually level surrounding plain."
+    },
+    {
+        "question": "Name the Continents that form a mirror image of each other",
+        "options": [
+            "North America and South America",
+            "Asia and Africa",
+            "Africa and South America",
+            "Europe and Asia"
+        ],
+        "correct_answer": "c",
+        "note": "The continents that form a mirror image of each other are Africa and South America."
+    },
+    {
+        "question": "Which one of the following types of volcanic eruptions is not usually explosive?",
+        "options": [
+            "Pelean",
+            "Hawaiian",
+            "Strombolian",
+            "Vulcanian"
+        ],
+        "correct_answer": "b",
+        "note": "Hawaiian types of volcanic eruptions is not usually explosive. Hawaiian eruptions are the calmest of the eruption types. They are characterized by the effusive emission of highly fluid basalt lavas with low gas contents. The relative volume of ejected pyroclastic material is less than that of all other eruption types."
+    },
+    {
+        "question": "________ are defined as the mass movement of rock, debris or Earth down a slope.",
+        "options": [
+            "Earthquake",
+            "Cyclone",
+            "Flood",
+            "Landslide"
+        ],
+        "correct_answer": "d",
+        "note": "A landslide is defined as the movement of a mass of rock, debris, or earth down a slope. A landslide is a sudden movement of rocks, debris or Earth (mud) down a slope due to undercutting of rocks. The main erosional agents are air, water and ice."
+    },
+    {
+        "question": "Exposure of rock to the changes of temperature is the cause of ________",
+        "options": [
+            "Biological weathering",
+            "Chemical weathering",
+            "Degradational weathering",
+            "Mechanical weathering"
+        ],
+        "correct_answer": "d",
+        "note": "Exposure of rock to the changes of temperature is the cause of Mechanical weathering. Temperature changes can also contribute to mechanical weathering in a process called thermal stress. Changes in temperature cause rock to expand (with heat) and contract (with cold). As this happens over and over again, the structure of the rock weakens."
+    },
+    {
+        "question": "Out of the following geomorphic processes which one is associated with the work of glaciers?",
+        "options": [
+            "Corrosion",
+            "Attrition",
+            "Corrasion",
+            "Plucking"
+        ],
+        "correct_answer": "d",
+        "note": "Plucking processes is associated with the work of glaciers. Plucking happens when rocks and stones around the glacier become frozen to the base or sides of the ice. They are then attached to the ground (that doesnt move) and the glacier (which is moving). One of two things will happen; either the rock is so strongly attached to the ground that the ice breaks off it as the glacier moves, or the ice pulls or plucks the rock out of the ground. When the ice wins, plucking has occurred."
+    },
+    {
+        "question": "Breaking down of rock in situ is known as ________",
+        "options": [
+            "Erosion",
+            "Weathering",
+            "Mass wasting",
+            "Degradation"
+        ],
+        "correct_answer": "b",
+        "note": "Weathering is the breakdown of rocks in situ (in the place where they are). Rocks are susceptible to weathering. The type of weathering that is most effective is determined by the composition of the rock and the climate. There are three main types of weathering. These are mechanical, chemical and biological weathering."
+    },
+    {
+        "question": "The Volcanic activities are found more in",
+        "options": [
+            "Hawaii",
+            "Japan",
+            "Columbia",
+            "New Zealand"
+        ],
+        "correct_answer": "a",
+        "note": "Volcanic activities mainly takes place in the basin of Pacific Ocean known as 'Pacific Ring of Fire' Maona Loa in Hawaii is particularly famous for volcanic activities. The local tectonic plate (in the case of the Hawaii hotspot, the Pacific Plate) slowly slides over the hotspot, carrying its volcanoes with it without affecting the plume. Over hundreds of thousands of years, the magma supply for the volcano is slowly cut off, eventually going extinct."
+    },
+    {
+        "question": "Which of the following city is the capital of desert country Mali?",
+        "options": [
+            "Damascus",
+            "Bamako",
+            "Adra",
+            "Ankara"
+        ],
+        "correct_answer": "b",
+        "note": "Bamako the largest city of Mali and is also the capital of Mali. It is the fastest growing city in Africa. The national capital, Bamako, is located on the Niger River and is a rapidly growing city because of increased migration from the depressed rural areas."
+    },
+    {
+        "question": "The Coral reefs are a specimen of",
+        "options": [
+            "Temperate Forests",
+            "Tropical Rain Forest",
+            "Savannah",
+            "Coppice Land"
+        ],
+        "correct_answer": "b",
+        "note": "The Coral reefs are a specimen of Tropical Rain Forest. Coral reefs are very much the rainforests of the oceans. Not only are they diverse communities, but the coral skeletons - like trees - contain potentially long term records of climate."
+    },
+    {
+        "question": "Formation of magma along the bedding plane results in ________",
+        "options": [
+            "Sill",
+            "Dykes",
+            "Basalt",
+            "Laccolith"
+        ],
+        "correct_answer": "a",
+        "note": "Formation of magma along the bedding plane results in Sill. Sills result when an intrusion of magma is made horizontally along the bedding planes of sedimentary while dyke is formed through vertical intrusion of magma."
+    },
+    {
+        "question": "Dhaulagiri peak in the Himalayan Range is located in",
+        "options": [
+            "Bhutan",
+            "Nepal",
+            "Sikkim",
+            "Uttar Pradesh"
+        ],
+        "correct_answer": "b",
+        "note": "Dhaulagiri is the high point of the Dhaulagiri Himal or massif in Nepal, a sub-range of the Himalaya that rises between the Bheri River on the west and the Kali Gandaki River on the east. Dhaulagiri is the highest mountain located completely within Nepal; all others lie along the Tibet/China border to the north."
+    },
+    {
+        "question": "Desert building can be prevented by",
+        "options": [
+            "Plugging Gullies",
+            "By stopping Trespassing",
+            "Contour Ploughing",
+            "Forming Protective Belts"
+        ],
+        "correct_answer": "d",
+        "note": "Desert building or Desertification can be preventned by making protective belts of trees which holds up soil. Contour Ploughing & Plugging Gullies are measures for perverting soil erosion."
+    },
+    {
+        "question": "Which of the statements given above are correct?\n1. P - waves are the first seismic waves to reach a place\n2. S - waves travel only through liquids\n3. Arrival time of P and S - waves is used to locate the epicentre\n4. Richter scale is a logarithmic scale",
+        "options": [
+            "1, 2 and 3",
+            "1, 3 and 4",
+            "1 and 4",
+            "3 and 4"
+        ],
+        "correct_answer": "b",
+        "note": "The statements that are correct are that P waves are the first seismic waves to reach a place, Arrival time of P and S - waves is used to locate the epicentre and Richter scale is a logarithmic scale."
+    },
+    {
+        "question": "________ is the wearing away of the landscape by different agents like water, wind and ice.",
+        "options": [
+            "Weathering",
+            "Attrition",
+            "Erosion",
+            "Abrasion"
+        ],
+        "correct_answer": "c",
+        "note": "Erosion is the wearing away of landscape by different agents like wind, water and ice. Geologically erosion is the mechanical process of wearing or grinding of landscape by agents like water, wind and Ice."
+    },
+    {
+        "question": "Which of the following pairs is correct ?",
+        "options": [
+            "Shale-possesses laminations",
+            "Quartzite-soft rock",
+            "Granite-sometimes contains fossils",
+            "Basalt-coarse grained rock"
+        ],
+        "correct_answer": "a",
+        "note": "Shale-possesses laminations. Lamination is a common feature of shale and other argillaceous rocks. The type of shale lamination provides an important clue in identifying sedimentary processes when combined with other geological evidence."
+    },
+    {
+        "question": "Artesian wells are found in ________",
+        "options": [
+            "Sedimentary rocks",
+            "Igneous rocks",
+            "Metamorphic rocks",
+            "None of these"
+        ],
+        "correct_answer": "a",
+        "note": "Artesian wells are found in sedimentary rocks. Artesian well, well from which water flows under natural pressure without pumping. It is dug or drilled wherever a gently dipping, permeable rock layer (such as sandstone) receives water along its outcrop at a level higher than the level of the surface of the ground at the well site."
+    },
+    {
+        "question": "The soil material is mainly derived from ________",
+        "options": [
+            "Metamorphic rocks",
+            "Sedimentary rocks",
+            "Igneous rocks",
+            "Biological action"
+        ],
+        "correct_answer": "b",
+        "note": "The soil material is mainly derived from sedimentary rocks. They are the site of very important resources such as ground water, coal, oil, and soil. Shale, sandstone, and limestone are the most common types of sedimentary rocks."
+    },
+    {
+        "question": "Which one of the following plate movements is responsible for the formation of midocean ridge?",
+        "options": [
+            "Divergent movement",
+            "Convergent movement",
+            "Transform fault movement",
+            "Parallel movement"
+        ],
+        "correct_answer": "a",
+        "note": "Most active divergent plate boundaries occur between oceanic plates and exist as mid-oceanic ridges. Divergent boundaries also form volcanic islands which occur when the plates move apart to produce gaps which molten lava rises to fill."
+    },
+    {
+        "question": "As the river enters the plain it twists and turns forming large bends known as",
+        "options": [
+            "Crooks",
+            "Flections",
+            "Rounds",
+            "Meanders"
+        ],
+        "correct_answer": "d",
+        "note": "The meander loop cuts off from the river and forms a cut-off lake know as mender lake. As the river enters the plain it twists and turns forming large bends known as meanders. In youthful stage and upper coarse headward erosion i.e. vertical erosion predominates but as it enters plains lateral erosion becomes significant and large bends known meanders are formed."
+    },
+    {
+        "question": "Alps mountains are spread over",
+        "options": [
+            "France, Switzerland, Italy, Romania",
+            "France, Switzerland, Italy, Austria",
+            "France, Switzerland, Italy, Spain",
+            "France, Switzerland, Italy, Belgium"
+        ],
+        "correct_answer": "b",
+        "note": "The Alps form part of France, Italy, Switzerland, Germany, Austria, Slovenia, Croatia, Bosnia and Herzegovina, Montenegro, Serbia, and Albania."
+    },
+    {
+        "question": "Which of the following forms of coal is the oldest?",
+        "options": [
+            "Peat",
+            "Lignite",
+            "Bituminous",
+            "Anthracite"
+        ],
+        "correct_answer": "d",
+        "note": "Anthracite is the highest ranked, hardest, oldest, and least common type of coal. It possesses a high energy content, high percentage of carbon (>85%) and relatively little moisture or volatiles."
+    },
+    {
+        "question": "When almost all the elevated portions are worn down by river erosion reducing an area to almost a plain region, it is termed as",
+        "options": [
+            "Fanplain",
+            "Panplain",
+            "Pediplain",
+            "Peneplain"
+        ],
+        "correct_answer": "d",
+        "note": "When almost all the elevated portions are worn down by river erosion reducing an area to almost a plain region, it is termed as Peneplain. Peneplain is a region that is almost a plain. It is formed due to erosion by rivers and rain, that continues until almost all the elevated portions are worn down; the most resistant rocks generally stand above the general level of the land."
+    },
+    {
+        "question": "India broke away from Australia and Antarctica and started moving north in the period of ________",
+        "options": [
+            "Permian",
+            "Triassic",
+            "Jurassic",
+            "Cretaceous"
+        ],
+        "correct_answer": "d",
+        "note": "India broke away from Australia and Antarctica and started moving north in the period of Cretaceous. The Cretaceous began 145.0 million years ago and ended 66 million years ago. Most Cretaceous rocks are not chalks, but most chalks were deposited during the Cretaceous."
+    },
+    {
+        "question": "Nappe is a kind of",
+        "options": [
+            "Fluvial feature",
+            "Folded structure",
+            "Erosional plain",
+            "Deltaregion"
+        ],
+        "correct_answer": "b",
+        "note": "Nappe, in geology, large body or sheet of rock that has been moved a distance of about 2 km (1.2 miles) or more from its original position by faulting or folding. An extremely folded structure in which the motion of thrust fold overrides the adjacent rock structure is called Nappes. These are found at convergent plate boundaries. Example:- The Himalayan Nappes in Uttarakhand & Nepal."
+    },
+    {
+        "question": "Sandstone is which type of rock?",
+        "options": [
+            "Calcwaterous Rock",
+            "Igneous Rock",
+            "Metamorphic Rock",
+            "Sedimentary Rock"
+        ],
+        "correct_answer": "d",
+        "note": "Sandstone is one of the most common types of sedimentary rock and is found in sedimentary basins throughout the world. Sandstone is a sedimentary rock mainly composed of Quartz or Feldspar. When metamorphosed Sandstone changes to Quartzite."
+    },
+    {
+        "question": "Decaying vegetation produces organic acids which causes a breakdown of minerals. This is ________",
+        "options": [
+            "Physical weathering",
+            "Chemical weathering",
+            "Both A and B",
+            "Chemical erosion"
+        ],
+        "correct_answer": "b",
+        "note": "Over time, large enough cracks develop and weathering takes place. Plants, such as moss, are capable of releasing weak organic acids, that will dissolve minerals from the rocks and cause chemical weathering. Apart from moss, organisms such as fungus and lichen are also capable of similar chemical weathering action."
+    },
+    {
+        "question": "Which of the following are Metamorphic rocks?",
+        "options": [
+            "Gneiss and Mafic",
+            "Gneiss and Schist",
+            "Schist and Mafic",
+            "Schist and Chalk"
+        ],
+        "correct_answer": "b",
+        "note": "Schist and gneiss are produced by medium to high grade metamorphism. In some cases gneisses are produced by higher grade metamorphism than schists. Low-grade metamorphic rocks tend to be fine-grained (the newly formed metamorphic mineral grains that is). High-grade metamorphic rocks tend to be coarse-grained."
+    },
+    {
+        "question": "Which of the following is a metamorphic rock?",
+        "options": [
+            "Slate",
+            "Sandstone",
+            "Shole",
+            "Limestone"
+        ],
+        "correct_answer": "a",
+        "note": "Slate is a foliated metamorphic rock that forms from the metamorphism of shale."
+    },
+    {
+        "question": "Which one of the following is a Sedimentary Rock?",
+        "options": [
+            "Granite",
+            "Charnockite",
+            "Basalt",
+            "Arkose"
+        ],
+        "correct_answer": "d",
+        "note": "Arkose is a type sand-stone with about 25% feldspar. It is a type of sedimentary rock compound of rock fragments."
+    },
+    {
+        "question": "Changing of colour of a rock into yellow or red is due to",
+        "options": [
+            "Hydration",
+            "Oxidation",
+            "Carbonation",
+            "Exfoliation"
+        ],
+        "correct_answer": "b",
+        "note": "Changing of colour of a rock into yellow or red is due to oxidation. It is the process or result of oxidizing or being oxidized."
+    },
+    {
+        "question": "Which of the statements is/are correct?\n1. Igneous rocks are classified into Extrusive and Intrusive rocks.\n2. Sedimentary rocks are also called as Primary rocks\n3. Marble is an example of Metamorphic rocks\n4. Coal is a sedimentary rock",
+        "options": [
+            "1 only",
+            "2 and 3",
+            "1, 3 and 4",
+            "2 and 4"
+        ],
+        "correct_answer": "c",
+        "note": "The statements that are correct are igneous rocks are classified into extrusive and intrusive rocks, marble is an example of metamorphic rocks and coal is a sedimentary rock."
+    },
+    {
+        "question": "Earthquakes and volcanoes occur mostly in ________",
+        "options": [
+            "Plateau region",
+            "Deep sea plains",
+            "Coastal Region",
+            "Folded and faulted region"
+        ],
+        "correct_answer": "d",
+        "note": "Earthquakes and volcanoes occur mostly in folded and faulted region. An earthquake is a series of seismic waves or tremors in the earth's crust. They usually occur along the edge of plate boundaries in areas called fault lines. They are caused when pressure builds up at the edge of the plates as they collide or slide past one another."
+    },
+    {
+        "question": "The 'ring of fire' :\n1. is associated with earthquakes\n2. is associated with volcanoes\n3. goes round the Pacific Ocean\n4. is associated with forest fires",
+        "options": [
+            "1, 2 and 3",
+            "2 and 3",
+            "2 and 4",
+            "1, 2, 3 and 4"
+        ],
+        "correct_answer": "a",
+        "note": "The 'ring of fire' is associated with earthquakes, volcanoes and it goes round the Pacific Ocean."
+    },
+    {
+        "question": "Which of the following are correctly matched?\n1. Active volcano : Stromboli (Sicily)\n2. Dormant volcano : Vesuvius (Italy)\n3. Extinct volcano : Fujiyama (Japan)",
+        "options": [
+            "1 and 2",
+            "2 and 3",
+            "1 and 3",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "d",
+        "note": "All the three are correctly matched. Active volcano : Stromboli (Sicily), Stromboli is a small island in the Tyrrhenian Sea, off the north coast of Sicily, containing one of the three active volcanoes in Italy. Dormant volcano : Vesuvius (Italy), Vesuvius, also called Mount Vesuvius or Italian Vesuvio, active volcano that rises above the Bay of Naples on the plain of Campania in southern Italy. Extinct volcano : Fujiyama (Japan), It is a volcano that has been dormant since its last eruption, in 1707, but is still generally classified as active by geologists."
+    },
+    {
+        "question": "Which one of the following is igneous rock?",
+        "options": [
+            "Limestone",
+            "Granite",
+            "Marble",
+            "Slate"
+        ],
+        "correct_answer": "b",
+        "note": "Granite is a light-colored igneous rock with grains large enough to be visible with the unaided eye. It forms from the slow crystallization of magma below Earth's surface. Granite is composed mainly of quartz and feldspar with minor amounts of mica, amphiboles, and other minerals."
+    },
+    {
+        "question": "Sink hole is a phenomenon of ________ topography",
+        "options": [
+            "Plain",
+            "Desert",
+            "Tundra",
+            "Karst"
+        ],
+        "correct_answer": "d",
+        "note": "Sinkholes are the most characteristic feature of karst topography. In the region where sedimentary rocks such as limestone forms the bed rock structure. The above flowing water of rivers react with these rocks to form a wide range of structures such as lappies, sink holes, caves etc. also known as Karst Topography."
+    },
+    {
+        "question": "Which of the geological phenomena cause earthquakes?\n1. Development of fault\n2. Movement along a fault\n3. Impact produced by a volcanic eruption\n4. Folding of rocks",
+        "options": [
+            "1, 2 and 3",
+            "2 and 4",
+            "1, 3 and 4",
+            "1, 2, 3 and 4"
+        ],
+        "correct_answer": "d",
+        "note": "The geological phenomena that causes earthquakes are development of fault, movement along a fault, impact produced by a volcanic eruption and folding of rocks."
+    },
+    {
+        "question": "Extensive deserts occur in the western tropical regions of continents because",
+        "options": [
+            "Of easterly trade winds",
+            "Cold ocean currents flow along the western coasts",
+            "Of the effect of both the offshore easterly",
+            "The rate of evaportation is greater along the"
+        ],
+        "correct_answer": "c",
+        "note": "Extensive deserts occur in the western tropical regions of continents because of the effect of both the offshore easterly trade winds & cold ocean currents. Trade minds blow away from the western sides of the continents thus dumping the moisture they carry from oceans on eastern sides of other\ncontinents. Also, there are cold ocean currents on western side near almost all continents due to which scanty or no rain occurs in the sea water."
+    },
+    {
+        "question": "The Hawaii islands are the top of submerged ________",
+        "options": [
+            "Block mountains",
+            "Folded mountains",
+            "Volcanic mountains",
+            "Dome mountains"
+        ],
+        "correct_answer": "c",
+        "note": "The Hawaii islands are the top of submerged volcanic mountains. The Hawaiian Emperor seamount chain is a well-known example of a large seamount and island chain created by hot-spot volcanism. Each island or submerged seamount in the chain is successively older toward the northwest."
+    },
+    {
+        "question": "The principal reason for the formation of metamorphic rocks is ________",
+        "options": [
+            "Decomposition of sediments",
+            "Deposition of remains of plants and animals",
+            "Extreme heat and pressure",
+            "Solidification of magma"
+        ],
+        "correct_answer": "c",
+        "note": "The principal reason for the formation of metamorphic rocks is extreme heat and pressure. Metamorphic rocks were once sedimentary, igneous or even other metamorphic rocks that have been changed by heat and pressure. Contact metamorphism occurs when magma intrudes or forces its way into existing rock. The heat of the magma bakes the surrounding rocks causing them to change."
+    },
+    {
+        "question": "Which of the following areas or regions is most prone to earthquakes?",
+        "options": [
+            "Deccan Plateau",
+            "Ganga Brahmaputra Valley",
+            "Plains of northern India",
+            "Western Ghats"
+        ],
+        "correct_answer": "b",
+        "note": "As Ganga Brahmaputra Valley lies near the foot hills of the Himalayas they are more susceptible to earthquakes as compared to other regions given in \noption."
+    },
+    {
+        "question": "What process takes place during the youthful stage of a river?",
+        "options": [
+            "Valley widening",
+            "River rejuvenating",
+            "Valley deepening",
+            "Meandering"
+        ],
+        "correct_answer": "c",
+        "note": "During the youthful stage river cuts vertically and leads to headward erosion because of its high velocity.\nThis leads to valley deepening. Hence, we find many V-shaped valleys at the initial course of river. It has very less or no time for lateral erosion."
+    },
+    {
+        "question": "Which of the following is an organic rock?",
+        "options": [
+            "Marble",
+            "Coal",
+            "Granite",
+            "Slate"
+        ],
+        "correct_answer": "b",
+        "note": "Coal is an organic sedimentary rock that forms mainly from plant debris. The plant debris usually accumulates in a swamp environment. Coal is combustible and is often mined for use as a fuel."
+    },
+    {
+        "question": "Continents have drifted apart because of ________",
+        "options": [
+            "Volcanic eruptions",
+            "Tectonic activities",
+            "Folding and faulting of rocks",
+            "All of the above"
+        ],
+        "correct_answer": "b",
+        "note": "Continents have drifted apart because of tectonic activities. The continents rest on massive slabs of rock called tectonic plates. The plates are always moving and interacting in a process called plate tectonics."
+    },
+    {
+        "question": "The capacity of rock to allow water to pass through it is called",
+        "options": [
+            "Hardness",
+            "Jointing",
+            "Porosity",
+            "Permeability"
+        ],
+        "correct_answer": "d",
+        "note": "The capacity to transmit water is called \"permeability\". The ideal rock material for the accumulation of groundwater is both porous and permeable. This kind of material is known as an \"aquifer\" from the Latin for \"waterbearing.\""
+    },
+    {
+        "question": "Earthquakes occur frequently in ________",
+        "options": [
+            "Eastern coast of Asia",
+            "Islands of South East Pacific Ocean",
+            "Western coast of America",
+            "All of the above areas"
+        ],
+        "correct_answer": "d",
+        "note": "Earthquakes occur frequently in eastern coast of Asia, islands of south east Pacific Ocean and western coast of America."
+    },
+    {
+        "question": "Colorado in U.S.A is famous for this landform ________",
+        "options": [
+            "Grand Canyon",
+            "Grand Crators",
+            "Great Valleys",
+            "Great Basins"
+        ],
+        "correct_answer": "a",
+        "note": "Colorado in U.S.A is famous for Grand Canyon. Deep, incised river gorges are common in the Colorado Plateau. Most famous of all is the Grand Canyon, one of the largest and most well-known in the world."
+    },
+    {
+        "question": "Earthquakes rarely occur in ________",
+        "options": [
+            "Alaska",
+            "Brazil",
+            "Mexico",
+            "New Zealand"
+        ],
+        "correct_answer": "b",
+        "note": "Earthquakes are natural geological phenomena that can occur in various parts of the world, but their frequency and intensity can vary significantly from one region to another. Let's consider the options:\n\nOption A: Alaska is located in a seismically active region known as the \"Ring of Fire.\" Earthquakes are relatively common in Alaska, particularly in the southern part of the state.\n\nOption B: Brazil is not known for frequent earthquakes. Brazil is located in the interior of the South American tectonic plate, which is not a boundary where earthquakes are typically generated.\n\nOption C: Mexico is located on the boundary between the North American and Pacific tectonic plates, making it seismically active. Earthquakes are relatively common in Mexico.\n\nOption D: New Zealand is also located in the \"Ring of Fire\" and is known for its seismic activity. Earthquakes are not rare in New Zealand.\n\nGiven the options and the fact that earthquakes are relatively rare in one of the listed countries, the most appropriate answer is Option B: Brazil. Brazil is not typically associated with a high frequency of earthquakes compared to the other options."
+    },
+    {
+        "question": "Which one among the following is the largest temperate desert of the world?",
+        "options": [
+            "Patagonian desert",
+            "Taklamakan desert",
+            "Iranian desert",
+            "Turkmen desert"
+        ],
+        "correct_answer": "a",
+        "note": "Patagonian desert is the largest temperate desert of the world. The Patagonian Desert is the largest desert in Argentina and is the 4th largest desert in the world by area. It is located primarily in Argentina with small parts in Chile and is bounded by the Andes, to its west, and the Atlantic Ocean to its east, in the region of Patagonia, southern Argentina."
+    },
+    {
+        "question": "The mountain which separates Asia and Europe is?",
+        "options": [
+            "Allai Mountain Range",
+            "Alps Mountain",
+            "Ural Mountain",
+            "Rocky Mountain"
+        ],
+        "correct_answer": "c",
+        "note": "The Ural Mountain range which runs from north to south acts as a dividing range between Asia and Europe. The Mount Narodnaya with an height of about 1,895m is the highest peak of Ural Mountains"
+    },
+    {
+        "question": "In which type of topography, water recharge pores are found?",
+        "options": [
+            "Karst",
+            "Terrain",
+            "Desert",
+            "Tundra"
+        ],
+        "correct_answer": "a",
+        "note": "A Karst Topography is a landform made of limestone rocks. When river flowsover sedimentary bed rocks they dissolve the rocks vertically and disappear underground developing such landforms in the limestone region. The cracks developed by this process leads to water recharge."
+    },
+    {
+        "question": "Which of the following, Indonesian Territory became victim of terrible Earthquake in 2004?",
+        "options": [
+            "Irian Jaya",
+            "Sumatra",
+            "Kalibangan",
+            "Java"
+        ],
+        "correct_answer": "b",
+        "note": "On December 26, 2004, at 7:59 am local time, an undersea earthquake with a magnitude of 9.1 struck off the coast of the Indonesian island of Sumatra. Epicentre of Earthquake was west coast of Sumatra."
+    },
+    {
+        "question": "The highest grade of coal whose surface is shining and has the highest calorific value, is ________",
+        "options": [
+            "Anthracite",
+            "Bituminous",
+            "Lignite",
+            "Peat"
+        ],
+        "correct_answer": "a",
+        "note": "The highest grade of coal whose surface is shining and has the highest calorific value, is Anthracite. Anthracite, often referred to as hard coal, is a hard, compact variety of coal that has a submetallic luster. It has the highest carbon content, the fewest impurities, and the highest energy density of all types of coal and is the highest ranking of coals."
+    },
+    {
+        "question": "The epicentre of an earthquake is the ________",
+        "options": [
+            "Point where P-waves touch the surface",
+            "Nearest point to the surface from the focus perpendicular to the earth's surface",
+            "Point of intersection of P and S wave fronts",
+            "Antipodal point"
+        ],
+        "correct_answer": "b",
+        "note": "The epicentre of an earthquake is the nearest point to the surface from the focus perpendicular to the earth's surface. It generally lies within a depth of 6 kms in the earth crust. The point vertically above the focus on the earth's surface is called as the epicenter. The intensity of earthquake will be highest in the epicenter and decreases as one moves away."
+    },
+    {
+        "question": "What is the name of the deadly volcano in Indonesia that erupted again in May 2016?",
+        "options": [
+            "Mount Sinabung",
+            "Mount Merapi",
+            "Mount Rinjani",
+            "Mount Agung"
+        ],
+        "correct_answer": "a",
+        "note": "Deadly volcano Mount Sinabung in Indonesia that erupted again in May 2016. Located in geological active ring of fire Mount Sinabung erupted in May 2016. It was accompanied by two more volcanoes named Gamalama and Rinjani."
+    },
+    {
+        "question": "The smallest island country in the Indian Ocean is",
+        "options": [
+            "Maldives",
+            "Sri Lanka",
+            "Mauritius",
+            "Madagascar"
+        ],
+        "correct_answer": "a",
+        "note": "The smallest island country in the Indian Ocean is Maldives. It is the smallest country in Asia by size and has one of the most widely distributed territories in the world. The atolls of Maldives are composed of sand bars and coral reefs which are formed at the top of a submarine ridge that rises abruptly from the ocean."
+    },
+    {
+        "question": "Mauna Loa is an example of ________",
+        "options": [
+            "Active volcano",
+            "Extinct volcano",
+            "Plateau in a volcanic region",
+            "Dormant volcano"
+        ],
+        "correct_answer": "a",
+        "note": "Mauna Loa, the world’s largest volcano, located on the south-central part of the island of Hawaii, Hawaii state, U.S., and a part of Hawaii Volcanoes National Park. One of the largest single mountain masses in the world, Mauna Loa (meaning “Long Mountain” in Hawaiian) rises to 13,677 feet (4,169 metres) above sea level and constitutes half of the island’s area."
+    },
+    {
+        "question": "Formation of pot holes in river beds is an example of ________",
+        "options": [
+            "Hydration",
+            "Erosion",
+            "Corrosion",
+            "Attrition"
+        ],
+        "correct_answer": "c",
+        "note": "Formation of potholes in river beds is an example of corrosion. Corrosion is the deterioration of a metal as a result of chemical reactions between it and the surrounding environment."
+    },
+    {
+        "question": "The majority of Earth's crust is composed of which rock?",
+        "options": [
+            "Igneous",
+            "Metamorphic",
+            "Sedimetary",
+            "Carbonate"
+        ],
+        "correct_answer": "a",
+        "note": "Majority of Earth's crust is composed of igneous rock with about 90% of share. The sial & sima i.e. silica alumina & silica magnesium respective are igneous rock types."
+    },
+    {
+        "question": "Which of the following is not a sedimentary rock?",
+        "options": [
+            "Limestone",
+            "Marble",
+            "Sandstone",
+            "Shale"
+        ],
+        "correct_answer": "b",
+        "note": "No, marble cannot be considered as sedimentary rock. It is a metamorphic rock which is metamorphosed limestone, compound of pure calcium carbonate."
+    },
+    {
+        "question": "The well-defined zones of seismic activity in the world where the largest number of earthquakes originates is ________",
+        "options": [
+            "Mediterranean Zone",
+            "Circum Pacific Belt",
+            "Mid oceanic Rift Valley Zone",
+            "African Rift Valley Zone"
+        ],
+        "correct_answer": "b",
+        "note": "The well-defined zones of seismic activity in the world where the largest number of earthquakes originates is Circum Pacific Belt. The world's greatest earthquake belt, the circum-Pacific seismic belt, is found along the rim of the Pacific Ocean, where about 81% of our planet's largest earthquakes occur. It has earned the nickname \"Ring of Fire\"."
+    },
+    {
+        "question": "The type of igneous rocks which are formed midway between volcanic and plutonic rocks, are known as ________",
+        "options": [
+            "Basalt",
+            "Hypabyssal",
+            "Laccolith",
+            "Batholith"
+        ],
+        "correct_answer": "b",
+        "note": "The type of igneous rocks which are formed midway between volcanic and plutonic rocks, are known as Hypabyssal. Hypabyssal rock, is an intrusive igneous rock that is emplaced at medium to shallow depths (>2 km) within the crust, and has intermediate grain size and often porphyritic texture between that of volcanic and plutonic rocks."
+    },
+    {
+        "question": "In which part of Africa, Sahara desert is located?",
+        "options": [
+            "Eastern",
+            "Western",
+            "Northern",
+            "Southern"
+        ],
+        "correct_answer": "c",
+        "note": "The Sahara desert is located in the Northern part of Africa whereas Kalahari desert is situated in southern half. It is world's largest hot desert. Harmattan winds which blow over the Sahara Desert are also known as doctor's winds, as they kill disease cause vectors."
+    },
+    {
+        "question": "Which among these is a metamorphic rock?",
+        "options": [
+            "Gneiss",
+            "Sandstone",
+            "Basalt",
+            "Limestone"
+        ],
+        "correct_answer": "a",
+        "note": "Gneiss is a foliated metamorphic rock that is a common distribute type of rock high-grade regional metamorphic approaches from pre-current formations that have been initially both igneous or sedimentary rocks. It has a glorious banding which is apparent on microscopic scale and hand specimen. Gneiss usually is prominent from schist by its foliation and schistosity; displays a properly-advanced foliation and a poorly advanced schistosity and cleavage."
+    },
+    {
+        "question": "Corsica Island is related to",
+        "options": [
+            "Mussolini",
+            "Hitler",
+            "Napoleon Bonaparte",
+            "Churchill"
+        ],
+        "correct_answer": "c",
+        "note": "Napoleon Bonaparte was born in Corsica. Corsica is an island in the Mediterranean sea and administratively belongs to France."
+    },
+    {
+        "question": "Which of the following statements is/are correct?\n1. The major constituent mineral of granite rock is quartz.\n2. The major constituent mineral of sandstone rock is feldspar.\n3. The major constituent mineral of limestone rock is dolomite.\nSelect the correct answer using the code given below",
+        "options": [
+            "1, 2 and 3",
+            "3 only",
+            "1 and 2 only",
+            "2 and 3 only"
+        ],
+        "correct_answer": "c",
+        "note": "The statements that are correct are the major constituent mineral of granite rock is quartz and the major constituent mineral of sandstone rock is feldspar."
+    },
+    {
+        "question": "The most common igneous rock is",
+        "options": [
+            "Basalt",
+            "Granite",
+            "Limestone",
+            "Cobalt"
+        ],
+        "correct_answer": "b",
+        "note": "The most common igneous rock is granite. Granite, coarse-or medium-grained intrusive igneous rock that is rich in quartz and feldspar; it is the most common plutonic rock of the Earth’s crust, forming by the cooling of magma (silicate melt) at depth."
+    },
+    {
+        "question": "How are the caves of the world's greatest fold mountains formed?",
+        "options": [
+            "Regular movement",
+            "Vertical movement",
+            "Horizontal movement",
+            "Compressional movement"
+        ],
+        "correct_answer": "d",
+        "note": "The caves of the world's greatest fold mountains are formed by compressional movement. Fold mountains are mountains formed from the folding of the earth's crust. Fold mountains are formed when two plates move together (a compressional plate margin)."
+    },
+    {
+        "question": "The movement inside the Earth's crust is studied by ________",
+        "options": [
+            "Geodesy",
+            "Geology",
+            "Plate Tectonics",
+            "Seismology"
+        ],
+        "correct_answer": "d",
+        "note": "The movement inside the Earth's crust is studied by seismology. Seismology is the study of vibrations within Earth. These vibrations are caused by various events, including earthquakes, extraterrestrial impacts, explosions, storm waves hitting the shore, and tidal effects."
+    },
+    {
+        "question": "The series of line which connects the places of similar shocks at the same time is called",
+        "options": [
+            "Coseismal Lines",
+            "Isoseismal Line",
+            "Homoseismal Line",
+            "Seismo Lines"
+        ],
+        "correct_answer": "c",
+        "note": "Seismic waves when originate from focus travels towards the surface and the imaginary line on the surface of Earth joining these different points on surface is homoseismal line."
+    },
+    {
+        "question": "Which of the following belts are associated with seismic activity?\n1. Circum-Pacific Belt\n2. Circum-Atlantic Belt\n3. Mid-Continental Belt\n4. Mid-Atlantic Belt",
+        "options": [
+            "1, 2 and 4",
+            "1, 3 and 4",
+            "1, 2 and 3",
+            "2, 3 and 4"
+        ],
+        "correct_answer": "b",
+        "note": "The belts associated with seismic activity are Circum-Pacific Belt, Mid-Continental Belt and Mid-Atlantic Belt. Ring of Fire, also called Circum-Pacific Belt or Pacific Ring of Fire, long horseshoe-shaped seismically active belt of earthquake epicentres, volcanoes, and tectonic plate boundaries that fringes the Pacific basin. Mid-Continental Belt is a large volcanically active region. Other terms are used for smaller areas of activity, such as volcanic fields. Volcanic belts are found above zones of unusually high temperature (700-1400 °C) where magma is created by partial melting of solid material in the Earth's crust and upper mantle. These areas usually form along tectonic plate boundaries at depths of 10–50 km. The Mid-Atlantic Ridge (MAR) is a mid-ocean ridge, a divergent tectonic plate or constructive plate boundary located along the floor of the Atlantic Ocean, and part of the longest mountain range in the world."
+    },
+    {
+        "question": "Moon shaped sand-dunes, formed by wind action are called ________",
+        "options": [
+            "Cirque",
+            "Bajada",
+            "Barkhans",
+            "Mesa"
+        ],
+        "correct_answer": "c",
+        "note": "Moon shaped sand-dunes, formed by wind action are called Barkhans. Barkhans are sickle-shaped and produced by wind action blowing from one direction. Barkhans can also be found on larger rocks and shrubs which act as anchors that hold the central area in place while the tips are blown away by the wind."
+    },
+    {
+        "question": "A landscape which is caused due to the fissure in the earth along which one side has moved down with reference to the other is known as?",
+        "options": [
+            "Rift Valley",
+            "U Shaped Valley",
+            "V Shaped Valley",
+            "Hanging Valley"
+        ],
+        "correct_answer": "a",
+        "note": "Tensional and compressional forces act adjacent to each other, tensional forces are responsible for faults which get deeper and become rift valleys whereas compressional forces are responsible for upliftment of land thus building block mountains. Example: The Death Valley, USA."
+    },
+    {
+        "question": "The soil formed by wind dust in and around hot deserts is called",
+        "options": [
+            "Silty soil",
+            "Loamy soil",
+            "Sandy soil",
+            "Loess soil"
+        ],
+        "correct_answer": "d",
+        "note": "Loess soil are formed by wind dust in and around hot desert.Loess is a type of silt which forms fertile topsoil in some parts of the world."
+    },
+    {
+        "question": "One of the following is not the result of underground water action",
+        "options": [
+            "Stalactities",
+            "Stalagmites",
+            "Sink holes",
+            "Fiords"
+        ],
+        "correct_answer": "d",
+        "note": "Fjords is not the result of underground water action. The Fiords are also known as Fjords. They are mostly found in higher latitudes. These are the steep sided narrow valleys formed by retreating glaciers. Later on, these get filled by the sea water."
+    },
+    {
+        "question": "Which of the following is a typical feature of volcanic eruption?",
+        "options": [
+            "Horsts",
+            "Dykes",
+            "Basin",
+            "Drumlin"
+        ],
+        "correct_answer": "b",
+        "note": "Dykes is a typical feature of volcanic eruption. A dike or dyke, in geological usage, is a sheet of rock that is formed in a fracture in a pre-existing rock body. Dikes can be either magmatic or sedimentary in origin."
+    },
+    {
+        "question": "A V-shaped valley is a feature produced by ________",
+        "options": [
+            "Youthful river",
+            "Mature river",
+            "Old river",
+            "All of the above"
+        ],
+        "correct_answer": "a",
+        "note": "A V-shaped valley is a feature produced by youthful river. A V-shaped valley, sometimes called a river valley, is a narrow valley with steeply sloped sides that appear similar to the letter \"V\" from a cross-section. They are formed by strong streams, which over time have cut down into the rock through a process called downcutting."
+    },
+    {
+        "question": "A valley with steep, parallel walls along the faultlines, formed by the subsidence of a part of earth's crust is known as ________",
+        "options": [
+            "Hanging Valley",
+            "Gorge",
+            "Canyon",
+            "Rift Valley"
+        ],
+        "correct_answer": "d",
+        "note": "A valley with steep, parallel walls along the faultlines, formed by the subsidence of a part of earth's crust is known as Rift Valley.  A rift valley is a lowland region that forms where Earth's tectonic plates move apart, or rift. Rift valleys are found both on land and at the bottom of the ocean, where they are created by the process of seafloor spreading."
+    },
+    {
+        "question": "The average elevation of Tibetan Plateau above sea level is ________",
+        "options": [
+            "2 km",
+            "3 km",
+            "4 km",
+            "5 km"
+        ],
+        "correct_answer": "c",
+        "note": "The average elevation of Tibetan Plateau above sea level is 4 km. The plateau got the elevation of more than 4 kilometers from the mean sea level more than 40 million years ago."
+    },
+    {
+        "question": "Consider the following statements:\n1. The acid lava usually melts at a relatively higher temperature as compared to basic (basaltic) lava.\n2. The acid lava solidifies into glass-like sheets and the basaltic lava solidifies into rough surfaces.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "The statements that are correct are The acid lava usually melts at a relatively higher temperature as compared to basic (basaltic) lava and The acid lava solidifies into glass-like sheets and the basaltic lava solidifies into rough surfaces."
+    },
+    {
+        "question": "Consider the following statements about rocks:\n1. Shale becomes slate through metamorphosis.\n2. Shale is converted to slate when it is subjected to tremendous pressure and high temperature.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "The statements that are correct are shale becomes slate through metamorphosis and shale is converted to slate when it is subjected to tremendous pressure and high temperature."
+    },
+    {
+        "question": "Where does Moraine form?",
+        "options": [
+            "Deltas of Rivers",
+            "Dry Zones",
+            "Glacial Region",
+            "Monsoon Region"
+        ],
+        "correct_answer": "c",
+        "note": "Moraines are the rock debris and ice which gets accumulated on the sides, top and foot of a moving glacier. These debris and glacial till are formed due to the frictional force which acts on the moving glacier."
+    },
+    {
+        "question": "The Rocks of granite are changed into which of the following due to metamorphism?",
+        "options": [
+            "Marble",
+            "Feldspar",
+            "Gneiss",
+            "Quartz"
+        ],
+        "correct_answer": "c",
+        "note": "Granite rocks are changed to Gneiss during  metamorphism as they get structurally re-aligned due to intense heating (high temperature) and pressure."
+    },
+    {
+        "question": "Which of the following is a block mountain?",
+        "options": [
+            "Andes",
+            "Alps",
+            "Rockies",
+            "Vosges"
+        ],
+        "correct_answer": "d",
+        "note": "Block mountains are created when large areas or blocks of earth are broken and displaced vertically. The uplifted blocks are termed as horsts and the lowered blocks are called graben. The Great African Rift Valley (valley floor is graben), The Vosges mountain in Europe is an example of block mountain."
+    },
+    {
+        "question": "Which of the following city is known as the \"Eternal City\"?",
+        "options": [
+            "London",
+            "Rome",
+            "Athens",
+            "Berlin"
+        ],
+        "correct_answer": "b",
+        "note": "Rome is called as the eternal city because this city had long and influential art, architecture and culture which Roman people thought would last forever."
+    },
+    {
+        "question": "The World's largest island is",
+        "options": [
+            "Greenland",
+            "Iceland",
+            "New Guinea",
+            "Madagascar"
+        ],
+        "correct_answer": "a",
+        "note": "The Greenland is the world's largest island. It belongs to the North American continent but it is an autonomous province of Denmark. In other words, Greenland is administered by Denmark."
+    },
+    {
+        "question": "The movement inside the Earth's crust is studied by which of the following?",
+        "options": [
+            "Geology",
+            "Seismology",
+            "Plate Tectonics",
+            "Pantograph"
+        ],
+        "correct_answer": "b",
+        "note": "The study of vibration inside Earth's crust which are caused due to natural or artificial sources such as earthquakes or explosions is called seismology. The  scientists who study such vibrations are known as the seismologists."
+    }
+]

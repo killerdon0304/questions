@@ -1,0 +1,409 @@
+[
+    {
+        "question": "The Earth summit was organised by",
+        "options": [
+            "UNESCO",
+            "UNCED",
+            "WHO",
+            "UNICEF"
+        ],
+        "correct_answer": "b",
+        "note": "Earth Summit was organised by UNCED i.e. United Nations Conference on Environment and Development in Rio de Janeiro, Brazil in the year 1992. It is also known as Rio Summit and Rio Conference."
+    },
+    {
+        "question": "World Environmental day is celebrated on ________ every year.",
+        "options": [
+            "01-05-2001",
+            "05-06-2005",
+            "01-10-2024",
+            "01-12-2025"
+        ],
+        "correct_answer": "b",
+        "note": "World Environment Day is held each year on June 5. It is one of the principal vehicles through which the United Nations (UN) stimulates worldwide awareness of the environment and enhances political attention and action."
+    },
+    {
+        "question": "Environment includes",
+        "options": [
+            "Abiotic component",
+            "Biotic component",
+            "Oxygen and Nitrogen",
+            "Abiotic and Biotic component"
+        ],
+        "correct_answer": "d",
+        "note": "Environment includes both Abiotic and Biotic component. Biotic describes a living component of an ecosystem. Abiotic components are non-living chemical and physical factors in the environment which affect ecosystems."
+    },
+    {
+        "question": "The largest ecosystem of earth is",
+        "options": [
+            "Biome",
+            "Hydrosphere",
+            "Lithosphere",
+            "Biosphere"
+        ],
+        "correct_answer": "d",
+        "note": "Biosphere is the single largest ecosystem of the earth. Simply, biosphere is known as the sum of all ecosystems also known as the ecosystem also the zone of life on earth."
+    },
+    {
+        "question": "For which of the following reason, it is necessary to secure a large area for forest?",
+        "options": [
+            "Absorption of carbon dioxide",
+            "Conservation of wild",
+            "More rain",
+            "Ecological balance"
+        ],
+        "correct_answer": "d",
+        "note": "For Ecological balance, it is necessary to secure a large area for forest. In order to maintain ecosystem on land area where human beings have already damaged most of the habitats especially forest biomes, ecological balance can only be maintaine by increasing forest area."
+    },
+    {
+        "question": "Among the following climatic factors, which one has the least effect upon a terrestrial ecosystem?",
+        "options": [
+            "Temperature variation",
+            "Wind",
+            "Conditions of sunlight",
+            "Availability of water"
+        ],
+        "correct_answer": "b",
+        "note": "Among the following climatic factors, Wind has the least effect upon a terrestrial ecosystem. A terrestrial ecosystem is a type of ecosystem found only on biomes. Seven primary terrestrial ecosystems exist: tundra, taiga, temperate deciduous forest, tropical rain forest, grassland, deserts add more information regarding each of these ecosystems."
+    },
+    {
+        "question": "Soil is eroded heavily due to deforestation, it affects the flowing of surface water badly. Which of the following is badly affected by these causes",
+        "options": [
+            "Human Resource",
+            "Ecological System",
+            "Climate",
+            "Local Plants"
+        ],
+        "correct_answer": "b",
+        "note": "Soil is eroded heavily due to deforestation, it affects the flowing of surface water badly. Ecological System is badly affected by these causes. An ecosystem or ecological system is the base of habitats of species. In an ecosystem biotic beings (living organisms) interact with abiotic beings (non living things). Deforestation leads to soil erosion vanishing the habitats thus damaging ecosystem."
+    },
+    {
+        "question": "What is the ecological system integrating all living beings and their relationships?",
+        "options": [
+            "Total Wild Life",
+            "Biosphere",
+            "Lithosphere",
+            "Hydrosphere"
+        ],
+        "correct_answer": "b",
+        "note": "The biosphere is the global ecological system integrating all living beings and their relationships, including their interaction with the elements of the lithosphere, geosphere, hydrosphere, and atmosphere. The biosphere is the narrow zone which supports life.This realm contains all the living organisms found on earth."
+    },
+    {
+        "question": "Global warming is expected to result in",
+        "options": [
+            "Increase in sea level",
+            "Change in crop pattern",
+            "Change in coastal line",
+            "All of these"
+        ],
+        "correct_answer": "d",
+        "note": "Due to global warming, glaciers in polar regions are melting rapidly and consequently sea level is increasing. Rapid increase in sea level lead to inundation of coastal areas by sea water changing coastline. The overall climate world over has been affected by global warming leading to change in crop pattern."
+    },
+    {
+        "question": "What is the cause of 'Green house effect'?",
+        "options": [
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Carbon Monoxide",
+            "Nitrogen Dioxide"
+        ],
+        "correct_answer": "b",
+        "note": "Carbon Dioxide is the cause of 'Green house effect. As CO2 shows green house tendency i.e. it allows the solar light to reach earth but does not allow it to escape back into space & leads to global warming (Green house effect)through rise in temperature."
+    },
+    {
+        "question": "Where is the secretariat of the Conference on Biological Diversity?",
+        "options": [
+            "London",
+            "Italy",
+            "Montreal",
+            "Toronto"
+        ],
+        "correct_answer": "c",
+        "note": "The secretariat of Conference on Biological Diversity (CBD) is in Montreal. It was established to support goals of Earth Summit which happened in Brazil in 1992. Its functions are organizing meetings, preparing reports, assisting member countries and work collectively with othee international organisations."
+    },
+    {
+        "question": "Which one of the following ecosystems covers the largest area of the earth's surface?",
+        "options": [
+            "Desert Ecosystem",
+            "Grassland Ecosystem",
+            "Mountain Ecosystem",
+            "Marine Ecosystem"
+        ],
+        "correct_answer": "d",
+        "note": "The water part of the earth occurs 75% of the total earth's area.Rest part is the land area. So, the marine ecosystem occurs the largest ecosystem in our planet as it is also the largest part of our planet."
+    },
+    {
+        "question": "The correct sequence in decreasing order of the albedo values of these ecosystem is:\n1. Taiga\n2. Tropical evergreen\n3. Tropical deciduous\n4. Tundra",
+        "options": [
+            "1, 4, 3, 2",
+            "4, 1, 2, 3",
+            "4, 1, 3, 2",
+            "1, 4, 2, 3"
+        ],
+        "correct_answer": "c",
+        "note": "The correct sequence in decreasing order of the albedo values of these ecosystem are Tundra, Taiga, Tropical deciduous and Tropical evergreen."
+    },
+    {
+        "question": "Select the correct answer from the following:\n1. Melting of polar ice caps and subsequently rise in the sea level is the most important effect of global warming.\n2. The sea level is likely to rise by one meter by 2070 AD if the present level of global warming is not controlled.\n3. All the coral islands in the world will be submerged.\n4. By 2044 AD, Fiji is likely to be submerged and rise in the sea level by the same year will pose a grave danger to the Netherlands.",
+        "options": [
+            "1, 2, 3 and 4",
+            "4 only",
+            "1, 2 and 4",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "a",
+        "note": "All the answers are correct. Melting of polar ice caps and subsequently rise in the sea level is the most important effect of global warming. The sea level is likely to rise by one meter by 2070 AD if the present level of global warming is not controlled. All the coral islands in the world will be submerged. By 2044 AD, Fiji is likely to be submerged and rise in the sea level by the same year will pose a grave danger to the Netherlands."
+    },
+    {
+        "question": "The Ozone hole over Antarctica was discovered in",
+        "options": [
+            "1975",
+            "1985",
+            "1978",
+            "1987"
+        ],
+        "correct_answer": "b",
+        "note": "The discovery of the annual depletion of ozone above the Antarctic was first announced in a paper by Joe Farman, Brian Gardiner and Jonathan Shanklin which appeared in Nature in May 1985. The major concerns about environment increased globally after this discovery."
+    },
+    {
+        "question": "Which of the following has maximum bio-diversity?",
+        "options": [
+            "Desert",
+            "Polar Region",
+            "River",
+            "Tropical Region"
+        ],
+        "correct_answer": "d",
+        "note": "Earth's most diverse and iconic biomes is the tropical rainforest. The tropical rainforest biome has four main characteristics: very high annual rainfall, high average temperatures, nutrient-poor soil, and high levels of biodiversity (species richness)."
+    },
+    {
+        "question": "The Biosphere is a region of earth which supports life. It includes-\n1. Hydrosphere\n2. Lithosphere\n3. Stratosphere\n4. Troposphere",
+        "options": [
+            "1 and 3",
+            "1, 2 and 4",
+            "1 and 4",
+            "2, 3 and 4"
+        ],
+        "correct_answer": "b",
+        "note": "The Biosphere is a region of earth which supports life. It includes Hydrosphere, Lithosphere and Troposphere. Life on earth is found in seas, oceans (water); on land surface (crust) & in air. These 3 combined together to form biosphere."
+    },
+    {
+        "question": "Of the solar energy coming into the Biosphere, what percentage of it is actually used in the photosynthesis?",
+        "options": [
+            "Less than 1",
+            "Between 1% and 15%",
+            "Between 15% and 2%",
+            "More than 2%"
+        ],
+        "correct_answer": "d",
+        "note": "More than 2% of the solar energy coming into the Biosphere is actually used in the photosynthesis. Most solar energy occurs at wavelengths unsuitable for photosynthesis. Between 98% and 99% of solar energy reaching the Earth is reflected from leaves and other surfaces and absorbed by other molecules, which convert it to heat. Thus, only 1% to 2% is available to be captured by plants."
+    },
+    {
+        "question": "Which of the following is least likely to be an effect of global warming?",
+        "options": [
+            "Increased frequency of hurricanes",
+            "Loss of fertile delta region as for agriculture",
+            "Decreased rate of photosynthesis in vegetation",
+            "Shrinking of the polar ice regions"
+        ],
+        "correct_answer": "c",
+        "note": "Decreased rate of photosynthesis in vegetation is least likely to be an effect of global warming. Carbon dioxide warms the Earth because it is a greenhouse gas in the atmosphere, but it also causes plants to provide less evaporative cooling."
+    },
+    {
+        "question": "EL-Nino is",
+        "options": [
+            "Warm Ocean Current",
+            "Sea Storm",
+            "Tropical Disturbance",
+            "Another name of Typhoon"
+        ],
+        "correct_answer": "a",
+        "note": "EL-Nino is Warm Ocean Current. El Nino (Spanish name for the male child), initially referred to a weak, warm current appearing annually around Christmas time along the coast of Ecuador and Peru and lasting only a few weeks to a month or more."
+    },
+    {
+        "question": "What is the biggest source of pollution in the world?",
+        "options": [
+            "Sewage and Garbage",
+            "Automobile Laxity",
+            "Herbicide and Insecticide",
+            "Industrial Tributaries"
+        ],
+        "correct_answer": "a",
+        "note": "Environmental pollution is currently the biggest challenge facing the word today. Due to increase in population worid wide the untreated sewage discharge in lakes & rivers has increased. Even the garbage has increased manifold on daily basis. This was assessed during World Water Week by United Nation Environment Programme."
+    },
+    {
+        "question": "The method of soil conservation in which different crops are grown in alternate rows and are sown at different times to protect the soil from rain wash is called?",
+        "options": [
+            "Mulching",
+            "Intercropping",
+            "Rockdam",
+            "Terrace farming"
+        ],
+        "correct_answer": "b",
+        "note": "The method of soil conservation in which different crops are grown in alternate rows and are sown at different times to protect the soil from rain wash is called Intercropping. In inter cropping the agricultural field is utilised for growing two or more crops in a specific pattern. The benefits of it are growing more types of crops per unit agricultural land and full utilisation of nutrients available in field which otherwise can't be utilise if single crop is grown."
+    },
+    {
+        "question": "Which of the following environment supports the growth of Mangrove Swamp?",
+        "options": [
+            "Tidal flat",
+            "Monsoon",
+            "Equatorial",
+            "Mixed"
+        ],
+        "correct_answer": "a",
+        "note": "Tidal flat supports the growth of Mangrove Swamp. The combination of low tidal range and a climate which supports growth of vegatation tends to restrict the intertidal flats. A mangrove swamp is a distinct saline woodland or shrubland habitat formed by mangrove trees. They are characterized by depositional coastal environments, where fine sediments collect in areas protected from high-energy wave action."
+    },
+    {
+        "question": "The first protocol to ban the emissions of choloro fluorocarbons in the atmosphere was made in",
+        "options": [
+            "Montreal",
+            "Osaka",
+            "Geneva",
+            "Florida"
+        ],
+        "correct_answer": "a",
+        "note": "The first protocol to ban the emissions of chlorofluorocarbons in the atmosphere was made in Montreal. Montreal Protocol was 1st protocol to ban the production and use of Chloro Fluoro Carbon that is responsible for Ozone depletion. It was signed on 14-16 september, 1987 & become effective from 1st January 1989."
+    },
+    {
+        "question": "The cause of reduction of forest coverage is",
+        "options": [
+            "Agriculture",
+            "Manufacturing Industry",
+            "Rising Population",
+            "Toursim and Pilgrimage"
+        ],
+        "correct_answer": "c",
+        "note": "With the rise in population, the needs and requirements of humans are rising and available land is shrinking. Hence, much of the brunt is faced by forests as human settlements are encroaching nearby forest areas."
+    },
+    {
+        "question": "What is the benefit of rain water storage?",
+        "options": [
+            "Recharging ground water level",
+            "Respite from floods",
+            "Reduce the scarcity of water",
+            "Protection from soilerosion"
+        ],
+        "correct_answer": "a",
+        "note": "Recharging ground water level is the benefit of rain water storage. Rain water storage is also known as rain water harvesting. The water when stored in tanks dug in ground surface seeps through the pores and recharges ground water level."
+    },
+    {
+        "question": "When was the World Wildlife Fund founded?",
+        "options": [
+            "1969",
+            "1992",
+            "1961",
+            "1965"
+        ],
+        "correct_answer": "c",
+        "note": "World Wildlife Fund was founded on 29 April 1961 and its first office was opened on 11 September. Its head quarter (HQ) is in Morges, Switzerland."
+    },
+    {
+        "question": "Which of the following is an important Green house Gas?",
+        "options": [
+            "Carbon Dioxide",
+            "Chlorofluorocarbon",
+            "Carbon Monoxide",
+            "Freon"
+        ],
+        "correct_answer": "a",
+        "note": "Global warming is caused by the emission of greenhouse gases . 72% of the totally emitted greenhouse gases is carbon dioxide (CO2), 18% Methane and 9% Nitrous oxide (NOx). Carbon dioxide emissions therefore are the most important cause of global warming. CO2 is inevitably created by burning fuels like e.g. oil, natural gas, diesel, organic-diesel, petrol, organic-petrol, ethanol. The emissions of CO2 have been dramatically increased within the last 50 years and are still increasing by almost 3% each year"
+    },
+    {
+        "question": "Which of the following is a renewable source of energy?",
+        "options": [
+            "Atomic power",
+            "Hydro electric power",
+            "Thermal power",
+            "Natural gas"
+        ],
+        "correct_answer": "b",
+        "note": "Hydro electric power is a renewable source of energy. It is considered a renewable energy source because the water cycle is constantly renewed by the sun."
+    },
+    {
+        "question": "Due to growing demand of which of the following product, tropical forest are being damaged the most",
+        "options": [
+            "Pork",
+            "Sugar",
+            "Meat of Goat",
+            "Beef"
+        ],
+        "correct_answer": "d",
+        "note": "Due to growing demand of which of the following product, tropical forest are being damaged the most Beef. International beef & trade industry is depleting tropical forest land for cattle ranching by incentivising tropical nations."
+    },
+    {
+        "question": "The method of soil conservation in which rocks are piled up to slow down the flow of water which prevents gullies and further soil loss is called",
+        "options": [
+            "Mulching",
+            "Contour barriers",
+            "Rockdam",
+            "Terrace Farming"
+        ],
+        "correct_answer": "c",
+        "note": "Rock dam is a simple approach to prevent the flow of water and prevent undercutting and erosion along the river craned. eg. Manills River has split rock dam in North western slopes region of new South Wales, Australia."
+    },
+    {
+        "question": "The World's largest bio-fuel plant has been established with a production capacity of 100 million liters per year, is located in",
+        "options": [
+            "China",
+            "India",
+            "Brazil",
+            "USA"
+        ],
+        "correct_answer": "c",
+        "note": "The World's largest bio-fuel plant has been established with a production capacity of 100 million liters per year, is located in Brazil. Brazil is commonly referred to as having the world's first \"sustainable biofuels economy,\" which is a misnomer given that the country has never relied on ethanol to supply more than about 18% of its total energy requirements, though a 50% by volume peak was reached in the mid 1990s. As bio-diversity is pretty high in tropical Brazil, hence the raw material for bio-fuel is easily available."
+    },
+    {
+        "question": "Rio Summit is associated with",
+        "options": [
+            "Convention on Biological Diversity",
+            "Green house gases",
+            "Ozone depletion",
+            "Wet lands"
+        ],
+        "correct_answer": "a",
+        "note": "Earth Summit also known as Rio summit held in Rio-de-Janeiro, Brazil in 1992. About 100 head of states became signatories to Convention on Biological Diversity in this conference."
+    },
+    {
+        "question": "The method of soil conservation in the coastal and dry regions where rows of trees are planted to check the wind movement to protect soil cover is called",
+        "options": [
+            "Mulching",
+            "Contour barriers",
+            "Rock dam",
+            "Shelter belts"
+        ],
+        "correct_answer": "d",
+        "note": "Shelter belts are arrangement of trees in coastal, dry region to prevent soil erosion. The roots of trees bind  the soil and prevent the removal of top layer of soil from action of water or wind."
+    },
+    {
+        "question": "The radiant energy received by the Earth from the sun is",
+        "options": [
+            "Radiation",
+            "Insolation",
+            "Reflection",
+            "Refraction"
+        ],
+        "correct_answer": "b",
+        "note": "The energy received by the earth is known as incoming solar radiation which in short is termed as insolation. As the earth is a geoid resembling a sphere, the sun's rays fall obliquely at the top of the atmosphere and the earth intercepts a very small portion of the sun's energy."
+    },
+    {
+        "question": "Which has the maximum rate of deforestation?",
+        "options": [
+            "Tropical Zone",
+            "Desert Zone",
+            "Temperate Zone",
+            "Northern Forest"
+        ],
+        "correct_answer": "a",
+        "note": "Maximum deforestation occurs in tropical zone mostly in Amazon rain forests due to animal (cattle)\nranching equalling 14% of world's total annual deforestation. A 1991 study shows 90%  of deforested tropical regions becoming farms or ranchland, while only 10% is replanted for future timber harvests."
+    },
+    {
+        "question": "Which of the following aquatic plant is effective in preventing the water-pollution caused by industrial waste?",
+        "options": [
+            "Water Hyacinth",
+            "Elephant Grass",
+            "Parthenium",
+            "B and C"
+        ],
+        "correct_answer": "a",
+        "note": "Aquatic plant Water Hyacinth is effective in preventing the water-pollution caused by industrial waste. Water hyacinth multiplies rapidly in polluted environments & easily scavenges some in organic &\norganic compounds from water."
+    }
+]

@@ -1,0 +1,3083 @@
+[
+    {
+        "question": "The earth is at the largest distance from the sun (Apehelion) on ________",
+        "options": [
+            "June 21st",
+            "January 3rd",
+            "July 4th",
+            "September 23rd"
+        ],
+        "correct_answer": "c",
+        "note": "At about 11 a.m. EDT (1500 GMT) on the Fourth of July, the Earth will reach that point in its orbit where it is farthest from the sun called aphelion, this location in Earth's orbit puts the planet about 94.5 million miles (152 million kilometers) from the sun."
+    },
+    {
+        "question": "The seasonal contrasts are maximum in ________",
+        "options": [
+            "Low latitudes",
+            "Mid-latitudes",
+            "Sub tropics",
+            "High latitudes"
+        ],
+        "correct_answer": "b",
+        "note": "Seasonal contrast are maximum in mid latitude."
+    },
+    {
+        "question": "Geostationary orbit is at a height of ________",
+        "options": [
+            "6 km",
+            "1000 km",
+            "3600 km",
+            "36,000 km"
+        ],
+        "correct_answer": "d",
+        "note": "A geostationary orbit is a special kind of orbit around the Earth. \nImagine a satellite staying in the same spot in the sky as the Earth rotates! \nFor this to happen, the satellite needs to be at a very specific height. \nThis height is about 36,000 kilometers (km) above the Earth's equator. \nIf it were any lower, the satellite would orbit faster than the Earth's rotation.\nIf it were any higher, it would orbit slower. \nThe other options are much too low to maintain a geostationary orbit. \nSo, 36,000 km is the magic number!"
+    },
+    {
+        "question": "A radio broadcast from Delhi on Monday at 7.30 p.m. is heard at New York on ________",
+        "options": [
+            "Tuesday at 8.35 PM",
+            "The same day at 7.30 PM",
+            "The same day at 7:30 AM",
+            "The same day at 10:00AM"
+        ],
+        "correct_answer": "d",
+        "note": "The time difference between Delhi and New York is approximately 9 hours and 30 minutes, with New York being ahead of Delhi. Therefore, when it is Monday at 7:30 PM in Delhi, it is still Monday but at 10:00 AM in New York. \n\nSo, the correct answer is:  Option D: The same day at 10:00 AM \nDue to the time zone difference, the radio broadcast from Delhi on Monday at 7:30 PM is heard in New York on the same day at 10:00 AM."
+    },
+    {
+        "question": "The position of the sun is annually twice overhead at Singapore because of the ________",
+        "options": [
+            "Rotation of the earth",
+            "Revolution of the earth",
+            "Elliptical path of the earth's orbit",
+            "Parallelism of inclined axis of the earth"
+        ],
+        "correct_answer": "d",
+        "note": "The position of the sun is annually twice overhead at Singapore because of the parallelism of inclined axis of the earth."
+    },
+    {
+        "question": "Insolation heats up the land masses more quickly than the water bodies because ________",
+        "options": [
+            "Water is liquid",
+            "Landmasses are solid",
+            "Water needs more energy to get warm",
+            "Rocks are bad conductors of heat"
+        ],
+        "correct_answer": "c",
+        "note": "This is due to the fact that most land surfaces are darker than water which of course means more absorption of solar radiation and heat. Since land absorbs more solar radiation the land surface retains more heat as do the vegetation for energy. Thus, land surfaces warm more quickly than water."
+    },
+    {
+        "question": "Which of these statements are correct?\n1. Prime Meridian passes through Greenwich and is at 0° Longitude.\n2. International Date Line, on the map appears as a straight line along 180° Longitude.\n3. While crossing International Date Line from east to west, one gains a day.\n4. Tropic of Cancer lies at Latitude.",
+        "options": [
+            "1, 2, 3 and 4",
+            "1, 2 and 4",
+            "1 and 3",
+            "1 and 4"
+        ],
+        "correct_answer": "d",
+        "note": "1.  Prime Meridian passes through Greenwich and is at 0° Longitude. This statement is correct.\n2. The International Date Line is not a straight line along 180° Longitude. It is a jagged line that deviates from 180° Longitude in several places to avoid dividing certain countries or island groups into two different calendar days. Therefore, this statement is incorrect.\n3. While crossing the International Date Line from east to west, one gains a day. This statement is incorrect.\n4. The Tropic of Cancer lies at approximately 23.5° North latitude. This statement is correct.\n\nTherefore, the correct statements are 1 and 4, making Option D the correct answer."
+    },
+    {
+        "question": "The sun reaches its maximum angular distance from the equator at the ________",
+        "options": [
+            "Zenith",
+            "Solstice",
+            "Equinox",
+            "Noontime"
+        ],
+        "correct_answer": "b",
+        "note": "Since the ecliptic is tilted 23.5° with respect to the celestial equator, the Sun's maximum angular distance from the celestial equator is 23.5°. This happens at the solstices."
+    },
+    {
+        "question": "If news is broadcast from London at 10:30 AM, at what time it will be heard at Baghdad (45°E)?",
+        "options": [
+            "7:30 am",
+            "9:00 am",
+            "1:30 pm",
+            "12:00 Noon"
+        ],
+        "correct_answer": "c",
+        "note": "Time at London (0° longitude) is 10:30 am. Baghdad is at 45°E.\n\nDifference in longitudes = 45°\n\nFor every 1° longitude, there is a difference of 4 minutes\n\nFor 45° longitude there will be a difference of = (45*4)minutes\n = 180 minutes or 3 hours\n\nAs Baghdad is towards the east of London, it'll be ahead of time at London\n\ntime at Baghdad = (10:30am + 3 hours)\n\n= 1:30pm"
+    },
+    {
+        "question": "If the earth's direction of rotation is reversed, what would be the IST when it is noon at the International Date Line?",
+        "options": [
+            "06.30 hrs",
+            "05.30 hrs",
+            "18.30 hrs",
+            "17.30 hrs"
+        ],
+        "correct_answer": "a",
+        "note": "India is a large country spanning over 30° of longitude. It is unusual in having a single time zone all over the country, 5½ hours fast. If the direction of rotation of earth is reversed then Indian Standard Time will be – 5½ hr. When it is noon the time is 12:00; that will be 6:30 A.M. in place of 17:30 P.M. or 5:30 P.M."
+    },
+    {
+        "question": "Which of the following is the International Date line?",
+        "options": [
+            "Equator",
+            "0° longitude",
+            "90° eastern longitude",
+            "180° longitude"
+        ],
+        "correct_answer": "d",
+        "note": "180° longitude is the International Date line."
+    },
+    {
+        "question": "Which among the following statments is true regarding International Date Line?",
+        "options": [
+            "It is 180° Longitude",
+            "It is a straight line",
+            "It is a big circle",
+            "It is a curved line beyond Earth"
+        ],
+        "correct_answer": "a",
+        "note": "The International Date Line (IDL) is an imaginary line of longitude on the Earth's surface located at about 180° east (or west) of the Greenwich Meridian."
+    },
+    {
+        "question": "Which star is nearest to the Earth?",
+        "options": [
+            "Sun",
+            "Alpha Centauri",
+            "Pole star",
+            "Chitra"
+        ],
+        "correct_answer": "a",
+        "note": "Sun which is also a star is the nearest star to Earth. Besides Sun, Proxima Centauri is the nearest star to the solar system. The Sun is the closest star to Earth, about 93 million miles away."
+    },
+    {
+        "question": "The time of Cairo is 2 hours ahead of Greenwich time Cairo is situated at ________",
+        "options": [
+            "27° East",
+            "27° West",
+            "30° East",
+            "30° West"
+        ],
+        "correct_answer": "c",
+        "note": "For every 1° longitude, there is a difference of 4 minutes\nFor 2 hrs, there will be a difference of 30°. So the correct answer is 30° east as Cairo is ahead of Greenwich time."
+    },
+    {
+        "question": "The speed of rotation of the earth is the highest ________",
+        "options": [
+            "Along the Equator",
+            "At the North Pole",
+            "Along the Tropic of Cancer",
+            "Along the Arctic Circle"
+        ],
+        "correct_answer": "a",
+        "note": "The earth rotates once every 23 hours, 56 minutes and 4.09053 seconds, called the sidereal period, and its circumference is roughly 40,075 kilometers. Thus, the surface of the earth at the equator moves at a speed of 460 meters per second - or roughly 1,000 miles per hour."
+    },
+    {
+        "question": "When it is 8 P.M. in Tokyo, what is the time at Panama Canal which is located at 180° W of it?",
+        "options": [
+            "4.00 P.M.",
+            "8.00 A.M.",
+            "12.00 A.M.",
+            "12.00 Noon"
+        ],
+        "correct_answer": "b",
+        "note": "When it is 8 P.M. in Tokyo, 8.00 A.M. is the time at Panama Canal which is located at 180° W of it. If we travel from east to west the time decreases."
+    },
+    {
+        "question": "Latitude and longitude both ________",
+        "options": [
+            "Pass through poles",
+            "Run parallel to the equator",
+            "Run parallel to each other",
+            "Run perpendicular to each other"
+        ],
+        "correct_answer": "d",
+        "note": "Lines of longitude, called meridians, run perpendicular to lines of latitude."
+    },
+    {
+        "question": "On the 21st June, the day light is seen at the North Pole for ________",
+        "options": [
+            "Zero hrs.",
+            "12 hrs.",
+            "18 hrs.",
+            "24 hrs."
+        ],
+        "correct_answer": "d",
+        "note": "On June 21, the sun can be seen straight overhead along the Tropic of Cancer, while the North Pole reaches its maximum annual tilt toward the sun. As the planet rotates on its axis, areas within the Arctic Circle see the sun circle through the sky for 24 hours."
+    },
+    {
+        "question": "The Map showing the speciality of the surface of any area is called as",
+        "options": [
+            "Relief Map",
+            "Area Map",
+            "Thematic Map",
+            "Geographic Map"
+        ],
+        "correct_answer": "a",
+        "note": "A relief map is a type of map that shows the physical features and elevation of an area's surface. It uses shading, contour lines, and color to represent the topography of the land, including mountains, valleys, and other geographical features. Relief maps provide a visual representation of the three-dimensional characteristics of the Earth's surface on a two-dimensional map, allowing viewers to understand the terrain and elevation variations of a specific area. Therefore, the correct option is Option A: Relief Map."
+    },
+    {
+        "question": "The science of drawing map is called",
+        "options": [
+            "Cartography",
+            "Geography",
+            "Topology",
+            "Geology"
+        ],
+        "correct_answer": "a",
+        "note": "Cartography or map-making is the study and practice of crafting representations of the Earth upon a flat surface (see History of cartography), and one who makes maps is called a cartographer."
+    },
+    {
+        "question": "Which of these is the longest?",
+        "options": [
+            "0° Meridian",
+            "180° E-W",
+            "90° E",
+            "All are equal"
+        ],
+        "correct_answer": "d",
+        "note": "Latitude runs from 0° at the equator to 90°N or 90°S at the poles. Lines of latitude run in an east-west direction. Longitude runs from 0° at the prime meridian to 180° east or west, halfway around the globe. All are equal."
+    },
+    {
+        "question": "The Sun shines vertically on the equator ________",
+        "options": [
+            "Throughout the year",
+            "For six months",
+            "Twice a year",
+            "Once a year"
+        ],
+        "correct_answer": "c",
+        "note": "Equinox occurs when the sun is vertically above the equator. At this time, the sun equally illuminates the Southern and Northern hemisphere. At this time the world experiences equal day and night. Equinox occur twice a year. The months are March and September."
+    },
+    {
+        "question": "The difference in the duration of day and night increases as one moves from ________",
+        "options": [
+            "West to east",
+            "East and west of the prime meridian",
+            "Poles to equator",
+            "Equator to poles"
+        ],
+        "correct_answer": "d",
+        "note": "As you move from the equator towards the poles, the latitude increases (up to 90°). The further you go from the equator in any direction, the difference between the duration of the day and night in different times of the year will be bigger."
+    },
+    {
+        "question": "The longest circle which can be drawn on the earth's surface passes through ________",
+        "options": [
+            "Equator",
+            "Tropic of Cancer",
+            "Arctic Circle",
+            "Tropic of Capricorn"
+        ],
+        "correct_answer": "a",
+        "note": "As you move from the equator towards the poles, the latitude increases (up to 90°). The further you go from the equator in any direction, the difference between the duration of the day and night in different times of the year will be bigger."
+    },
+    {
+        "question": "The International Date Line passes through ________",
+        "options": [
+            "Bering strait",
+            "Gibraltar strait",
+            "Florida strait",
+            "Malacca strait"
+        ],
+        "correct_answer": "a",
+        "note": "It passes through the Bering Strait between the Diomede Islands at a distance of 1.5 kilometres (0.93 mi) from each island at 168°58′37″ W."
+    },
+    {
+        "question": "What is the name of the maps, natural and manmade, portray the large forms?",
+        "options": [
+            "Thematic Maps",
+            "Atlas Maps",
+            "Graffito",
+            "Topographic Maps"
+        ],
+        "correct_answer": "a",
+        "note": "They emphasize on a particular theme or topic such as average rain, climatic condition, pressure in particular months etc. These are diffirent from general maps."
+    },
+    {
+        "question": "It is six months long day in the northern polar region and six months long night in the southern polar region because ________",
+        "options": [
+            "Earth is revolving around the sun",
+            "Earth is inclined towards its orbital plane",
+            "Earth is rotating",
+            "None of these"
+        ],
+        "correct_answer": "b",
+        "note": "It is six months long day in the northern polar region and six months long night in the southern polar region because Earth is inclined towards its orbital plane."
+    },
+    {
+        "question": "The latitude of a place expresses its angular position relative to the plane of",
+        "options": [
+            "Axis of the Earth",
+            "Equator",
+            "North pole",
+            "South pole"
+        ],
+        "correct_answer": "b",
+        "note": "The latitude of a place expresses its angular position relative to the plane of equator."
+    },
+    {
+        "question": "Which one of the following is not the effect of the revolution of the Earth.",
+        "options": [
+            "Change of seasons",
+            "Length of days and nights",
+            "Determination of latitudes",
+            "Change in the direction of winds and ocean currents"
+        ],
+        "correct_answer": "d",
+        "note": "Our planet's rotation produces a force on all bodies moving relative to the Earth. Due to Earth's approximately spherical shape, this force is greatest at the poles and least at the Equator. The force, called the \"Coriolis effect,\" causes the direction of winds and ocean currents to be deflected."
+    },
+    {
+        "question": "At 12 noon of December 21, you observe that you cast no shadow as you stand in bright sunlight. So you must be, somewhere near ________",
+        "options": [
+            "The Arctic Circle",
+            "The Tropic of Cancer",
+            "The Tropic of Capricorn",
+            "The South Pole"
+        ],
+        "correct_answer": "c",
+        "note": "At 12 noon of December 21, you observe that you cast no shadow as you stand in bright sunlight. So you must be, somewhere near The Tropic of Capricorn. The Tropic of Capricorn is the circle marking the latitude 23.5° south where the sun is directly overhead at noon on December 21, the beginning of winter in the northern hemisphere."
+    },
+    {
+        "question": "The revelations of a satellite photograph of the earth are as follows:\n1. the Southern hemisphere bulges slightly more than the Northern hemisphere\n2. it is slightly pear shaped ellipsoid of rotation\n3. the polar axis of the earth is slightly shorter than the equatorial axis\n4. the equatorial circumference is about 40,000km\nWhich of the above statements are correct ?",
+        "options": [
+            "1, 2 and 3",
+            "1, 2, 3 and 4",
+            "1, 2 and 4",
+            "2, 3 and 4"
+        ],
+        "correct_answer": "d",
+        "note": "The revelations of a satellite photograph of the earth are it is slightly pear shaped ellipsoid of rotation, the polar axis of the earth is slightly shorter than the equatorial axis and the equatorial circumference is about 40,000 km."
+    },
+    {
+        "question": "Tides in the sea have stored in them ________",
+        "options": [
+            "Hydraulic energy",
+            "Kinetic energy",
+            "Gravitational potential energy",
+            "A combination of all the above three forms of energy"
+        ],
+        "correct_answer": "d",
+        "note": "Tides in the sea have stored in them a combination of all the above three forms of energy."
+    },
+    {
+        "question": "Light from the Sun reaches us in nearly",
+        "options": [
+            "8 min.",
+            "2 min.",
+            "6 min.",
+            "4 min."
+        ],
+        "correct_answer": "a",
+        "note": "The light from the sun takes about 8 minutes to reach the Earth after it has been emitted from the sun's surface."
+    },
+    {
+        "question": "The position of a planet when it is nearest to the Sun, is called ________",
+        "options": [
+            "Perihelion",
+            "Apihelion",
+            "Apigee",
+            "Perigee"
+        ],
+        "correct_answer": "a",
+        "note": "The closest point to the Sun in a planet's orbit is called perihelion. When Earth is at perihelion, it is about 147 million km (91 million miles) from the Sun."
+    },
+    {
+        "question": "How old is Earth, It is decided by which of the following processes?",
+        "options": [
+            "Geologic Time Scale",
+            "Radiometric Dating",
+            "Gravity Method",
+            "Fossil Dating"
+        ],
+        "correct_answer": "b",
+        "note": "The Earth is 4,54 billion years old. This age has been determined with the radioactive dating technique. The precise decay rate of radioactive elements is used as a clock: the number of daughter products in one rock indicates its age."
+    },
+    {
+        "question": "Why are winters more severe in Southern Hemisphere than in the Northern Hemisphere?",
+        "options": [
+            "Earth is tilted towards the Sun in the Northern Hemisphere",
+            "Northern Hemisphere receives more sunlight",
+            "Because of more iceberg activity in Southern Hemisphere",
+            "Southern Hemisphere is less inhabited"
+        ],
+        "correct_answer": "c",
+        "note": "The seasons in the Southern Hemisphere are actually less extreme than in the Northern Hemisphere. The reason is because the Southern hemisphere has more seas, while the Northern has more land mass and land mass retains more heat."
+    },
+    {
+        "question": "When the Moon completely covers the Sun, it is known as?",
+        "options": [
+            "The Antumbra",
+            "The Umbra",
+            "The Penumbra",
+            "None of these"
+        ],
+        "correct_answer": "b",
+        "note": "During a solar eclipse, the Moon actually casts two shadows toward Earth. One shadow is called the umbra which becomes smaller as it reaches the Earth. This is the dark center of the Moon's shadow."
+    },
+    {
+        "question": "Who Invented Universal Standard Time?",
+        "options": [
+            "Enrico Fermi",
+            "Adolf Gaston Eugen Fick",
+            "Sandford Fleming",
+            "Benoit Fourneyron"
+        ],
+        "correct_answer": "c",
+        "note": "Sandford Fleming, a Canadian engineer invented the Universal Standard Time. Sir Sandford Fleming advocated the adoption of a standard time or mean time, as well as hourly variations from that according to established time zones."
+    },
+    {
+        "question": "How many time zones has the world been divided into?",
+        "options": [
+            "15",
+            "24",
+            "90",
+            "180"
+        ],
+        "correct_answer": "b",
+        "note": "There are 24 time zones in the world. This signifies that the Earth is divided into 24 'slices', and each time zone moves on one hour from the previous time zone and each 'slice', is 150 wide."
+    },
+    {
+        "question": "Which of the following pair is CORRECT?\nI. Prime Meridian - Longitude,\nII. Tropic of Cancer - Latitude,\nIII. Equator - Latitude",
+        "options": [
+            "1 and 2",
+            "1 and 3",
+            "2 and 3",
+            "All options are correct"
+        ],
+        "correct_answer": "d",
+        "note": "Four of the most significant imaginary lines running across the surface of Earth are the equator, the Tropic of Cancer, the Tropic of Capricorn, and the Prime Meridian. While the equator is the longest line of latitude on Earth (the line where Earth is widest in an east-west direction), the tropics are based on the sun's position in relation to Earth at two points of the year. All three lines of latitude are significant in their relationship between Earth and the sun. Running in the opposite direction, north-south, the Prime Meridian is one of the most important lines of longitude on Earth."
+    },
+    {
+        "question": "The earth is at the least distance from the sun (Perihelion) on ________",
+        "options": [
+            "December 22nd",
+            "January 3rd",
+            "July 4th",
+            "June 21st"
+        ],
+        "correct_answer": "b",
+        "note": "On January 3, Earth reaches perihelion, its closest point to the Sun in its yearly orbit around our star."
+    },
+    {
+        "question": "The Mohorovicic (Moho) Discontinuity separates",
+        "options": [
+            "Outer core and Mantle",
+            "Inner and Outer core",
+            "Sima and Nife",
+            "Crust and Mantle"
+        ],
+        "correct_answer": "d",
+        "note": "Mohorovicic Discontinuity lies between Crust & Mantle, the word 'discontinuity' used here represents the (region) where seismic waves change velocity."
+    },
+    {
+        "question": "Latitudes include 181 lines while longitudes are 360 lines because ________",
+        "options": [
+            "Longitude is divided from prime meridian while latitude is from equator",
+            "Longitude is divided from equator while latitude is from prime meridian",
+            "Longitude is a line that connects North Pole to South Pole and latitude is divided from east to west",
+            "None of these"
+        ],
+        "correct_answer": "a",
+        "note": "While longitudes are imaginary lines running from north to south pole and parallel to prime meridian. In total they are 360 in number. Longitudes are 360 and latitudes are 181."
+    },
+    {
+        "question": "The antipodal position of a place located at 35° south and 80° west is",
+        "options": [
+            "55° north and 80° East",
+            "35° north and 100° East",
+            "100°north and 80° East",
+            "55° south and 10° East"
+        ],
+        "correct_answer": "b",
+        "note": "The antipodal position of a place located at 35° south and 80° west is 35° north and 100° East."
+    },
+    {
+        "question": "The International Dateline deflects to a side to avoid ________",
+        "options": [
+            "Society islands",
+            "Hawaii",
+            "Aleutian Islands",
+            "All the above"
+        ],
+        "correct_answer": "c",
+        "note": "International Date Line follows the meridian of 180° longitude down the middle of the Pacific Ocean for some time. In the north the date line turns to the east through the Bering Strait and then west past the Aleutian Islands in order to keep Alaska and Russia on opposite sides of the line."
+    },
+    {
+        "question": "The heavier silicates named 'Sima' or silica + magnesium are most abundant in the ________",
+        "options": [
+            "Crust",
+            "Core",
+            "Mantle",
+            "Ocean floors"
+        ],
+        "correct_answer": "d",
+        "note": "The Earth's crust is composed of different types of rocks and minerals. The Earth's crust and upper mantle are collectively known as the lithosphere. This lithosphere is divided into tectonic plates, which float on the semi-fluid asthenosphere below.\n\nThe term 'Sima' stands for \"silica + magnesium,\" referring to the composition of the rocks in the Earth's crust and uppermost mantle. Silicates rich in magnesium are denser and heavier than those rich in other elements like aluminum. These heavier silicates, or 'Sima', are most abundant in the ocean floors, which are part of the Earth's crust.\n\nThe ocean floors are primarily composed of basaltic rocks, which are rich in magnesium and iron. These rocks make up the oceanic crust. Basalt is formed through volcanic activity at mid-ocean ridges and is a type of 'Sima' material.\n\nIn contrast, the continental crust is composed of lighter silicates known as 'Sial', which stands for \"silica + aluminum.\" These lighter silicates are less dense and make up the landmasses and continental areas.\n\nSo, the correct answer, 'Option D: Ocean floors', reflects the abundance of 'Sima' (silica + magnesium) in the composition of oceanic crust, making it the most suitable option."
+    },
+    {
+        "question": "The process of water getting evaporated from the surface of leaves is known as",
+        "options": [
+            "Evaporation",
+            "Evapo-transpiration",
+            "Transpiration",
+            "Transportation"
+        ],
+        "correct_answer": "c",
+        "note": "The process of water getting evaporated from the surface of leaves is known as Transpiration."
+    },
+    {
+        "question": "What is the correct sequence of the following in the context of the age of the earth since its origin?\n1. Cenozoic\n2. Mesozoic\n3. Palaeozoic\n4. Protozoic",
+        "options": [
+            "4, 3, 1, 2",
+            "3, 4, 2, 1",
+            "3, 4, 1, 2",
+            "4, 3, 2, 1"
+        ],
+        "correct_answer": "d",
+        "note": "The correct sequence of the following in the context of the age of the earth since its origin are Protozoic, Palaeozoic, Mesozoic and Cenozoic."
+    },
+    {
+        "question": "The shortest day in Australia will be on ________",
+        "options": [
+            "21-06-2021",
+            "01-12-2022",
+            "01-09-2023",
+            "01-03-2021"
+        ],
+        "correct_answer": "a",
+        "note": "On the 21st of June, 2021 just before 5 p.m. AEST, Australians will bid farewell to the shortest day for the year."
+    },
+    {
+        "question": "Which of the following statements regarding the International Date line are correct?\n1. It is a longitude of 180°\n2. It is determined by 180° longitude but is not a straight line\n3. It is a Greenwich meridian helping in fixing time and date\n4. It solves the problem of time and date among the World's nations",
+        "options": [
+            "1 and 4",
+            "3 and 4",
+            "2 Only",
+            "3, 2 and 4",
+            "1, 2 and 4"
+        ],
+        "correct_answer": "e",
+        "note": "The International Date Line (IDL) is an important concept in geography that helps define where one calendar day ends and the next begins. Let's analyze the given options:\nStatement 1: It is a longitude of 180°.\nCorrect. The International Date Line is often positioned along the 180° meridian of longitude.\nStatement 2: It is determined by 180° longitude but is not a straight line.\nCorrect. This statement is accurate. The International Date Line is not a straight line due to adjustments made to avoid dividing land areas and nations.\nStatement 3: It is a Greenwich meridian helping in fixing time and date.\nIncorrect. The International Date Line is not a Greenwich meridian. It serves a distinct purpose of separating different calendar days.\nStatement 4: It solves the problem of time and date among the World's nations.\nCorrect. The International Date Line indeed helps address the challenge of coordinating time and date differences across the world, ensuring a systematic transition from one day to another.\n\nBased on the explanations provided, the correct options are E: 1, 2, and 4. The International Date Line is a longitude of 180°, determined by 180° longitude but not a straight line, and it helps solve the problem of time and date coordination among different nations."
+    },
+    {
+        "question": "The desert regions of the world occupy about ________ part of the land surface of the earth.",
+        "options": [
+            "1/3",
+            "1.6",
+            "43132",
+            "None of the above"
+        ],
+        "correct_answer": "a",
+        "note": "The desert regions of the world occupy about 1/3  part of the land surface of the earth."
+    },
+    {
+        "question": "Which one of the following elements is most abundant in the earth's crust?",
+        "options": [
+            "Oxygen",
+            "Sulphur",
+            "Silicon",
+            "Carbon"
+        ],
+        "correct_answer": "a",
+        "note": "Oxygen is the most abundant element in the Earth's crust. Oxygen makes up 467,100 ppm (parts per million) of the Earth's crust, or 46.6%."
+    },
+    {
+        "question": "Antipodes are ________",
+        "options": [
+            "Lines joining places having a time difference of 12 hours",
+            "Places diametrically opposite on earth's surface",
+            "Places located at a point where degree of latitude is equal to degree of longitude",
+            "Lines joining places having the same depths"
+        ],
+        "correct_answer": "b",
+        "note": "Antipodes are two points that are opposite to one another on the surface of the earth and are connected by a straight line that runs through the Earth's center."
+    },
+    {
+        "question": "The word used to describe the shape of earth is ________",
+        "options": [
+            "Flat",
+            "Circle",
+            "Sphere",
+            "Oblate spheroid"
+        ],
+        "correct_answer": "d",
+        "note": "Oblate Spheroid is a term that has been used to describe the shape of the Earth. The Earth is not a sphere."
+    },
+    {
+        "question": "Which of these statements are correct?\n1. Earth is the fourth largest planet of the solar system\n2. Earth's circumference is about 45000 km\n3. Earth's polar diameter is about 43 km shorter than its equatorial diameter\n4. Earth has a total surface area of 510 million sq.km",
+        "options": [
+            "1 and 2",
+            "1 and 4",
+            "2 and 3",
+            "3 and 4"
+        ],
+        "correct_answer": "d",
+        "note": "The statements are correct are Earth's polar diameter is about 43 km shorter than its equatorial diameter and Earth has a total surface area of 510 million sq.km."
+    },
+    {
+        "question": "Which planet in our solar system is nearly as big as the Earth?",
+        "options": [
+            "Mercury",
+            "Mars",
+            "Venus",
+            "Pluto"
+        ],
+        "correct_answer": "c",
+        "note": "Venus is nearly as big as the Earth. As it is very similar to Earth in terms of size, average density, mass & surface gravity. It is also known as Earth's twin."
+    },
+    {
+        "question": "The amount of insolation received at a place on the surface of the earth depends on ________",
+        "options": [
+            "Its climate",
+            "Its latitude",
+            "Its longitude",
+            "Both (a)and (b)"
+        ],
+        "correct_answer": "d",
+        "note": "The amount of insolation received at a place on the surface of the earth depends on its latitude and its climate."
+    },
+    {
+        "question": "What are the imaginary lines encircling the Earth horizontally called?",
+        "options": [
+            "Latitudes",
+            "Longitudes",
+            "Isobars",
+            "Isotherms"
+        ],
+        "correct_answer": "a",
+        "note": "Latitude is an imaginary line around the Earth parallel to the Equator. It is the angular distance of a point on Earth's surface from Equator."
+    },
+    {
+        "question": "An aeroplane takes off from 30° N latitude, 50° E longitude and lands at the opposite end of the earth. Where does it land?",
+        "options": [
+            "30° N Lat., 50° W Long",
+            "30° S Lat., 130° W Long",
+            "50° N Lat., 30° W Long",
+            "30° N Lat., 130°W Long"
+        ],
+        "correct_answer": "b",
+        "note": "An aeroplane takes off from 30° N latitude, 50° E longitude and lands at the opposite end of the earth. It will land 30° S Lat., 130° W Long."
+    },
+    {
+        "question": "Which one of the following is present in the largest amount in terms of percent by mass in the earth's crust?",
+        "options": [
+            "Silicon",
+            "Oxygen",
+            "Carbon",
+            "Calcium"
+        ],
+        "correct_answer": "b",
+        "note": "Oxygen is by far the most abundant element in the earth's crust. Scientists estimate oxygen comprises nearly half of the mass of the crust. It also accounts for 21% of Earth's atmosphere."
+    },
+    {
+        "question": "One degree of the circumference of the earth measures(approx.) ________",
+        "options": [
+            "100 km",
+            "111 km",
+            "151 km",
+            "175 km"
+        ],
+        "correct_answer": "b",
+        "note": "One degree of the circumference of the earth measures(approx) 111 km."
+    },
+    {
+        "question": "Days and nights are caused by :\n1. rotation of the earth on its axis\n2. revolution of the earth around the sun\n3. inclination of the earth's axis",
+        "options": [
+            "Only 1 is correct",
+            "1 and 2 are correct",
+            "2 and 3 are correct",
+            "All are correct"
+        ],
+        "correct_answer": "a",
+        "note": "Earth's rotation is the rotation of Planet Earth around its own axis. Earth rotates eastward, in prograde motion. As viewed from the north pole star Polaris, Earth turns counter clockwise."
+    },
+    {
+        "question": "The Earth rotates on its axis at an inclination of",
+        "options": [
+            "23.5°",
+            "22.5°",
+            "21.5°",
+            "20.0°"
+        ],
+        "correct_answer": "a",
+        "note": "Earth has seasons because our planet's axis of rotation is tilted at an angle of 23.5°  relative to our orbital plane – the plane of Earth's orbit around the sun."
+    },
+    {
+        "question": "If a solar eclipse occurs when the moon is quite far from the earth, the eclipse would likely to be ________",
+        "options": [
+            "Total",
+            "Partial",
+            "Annular",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "An annular solar eclipse (left) occurs when the Moon is too far away to completely cover the Sun's disk."
+    },
+    {
+        "question": "Which of the following best describes longitude?",
+        "options": [
+            "An imaginary line joining north and south poles",
+            "The distance between a place east or west of the Greenwich Meridian",
+            "The angular distance east or west of the Greenwich meridian",
+            "The position of a place on earth's surface with reference to the Prime Meridian"
+        ],
+        "correct_answer": "c",
+        "note": "It is an angular measurement, usually expressed in degrees and denoted by the Greek letter lambda (λ). The longitude of other places is measured as the angle east or west from the Prime Meridian, ranging from 0° at the Prime Meridian to +180° eastward and −180° westward."
+    },
+    {
+        "question": "Bridgmanite is",
+        "options": [
+            "A bridge on the river Thames",
+            "Name of a game",
+            "Earth's most abundant mineral",
+            "Name of a music"
+        ],
+        "correct_answer": "c",
+        "note": "Bridgmanite is the most abundant mineral in the mantle. The proportions of bridgmanite and calcium perovskite depends on the overall lithology and bulk composition."
+    },
+    {
+        "question": "Lunar eclipse is caused when the ________",
+        "options": [
+            "Moon comes between the sun and the earth",
+            "Earth comes between the sun and the moon",
+            "Sun comes between the earth and moon",
+            "None of these"
+        ],
+        "correct_answer": "b",
+        "note": "When Earth passes directly between Sun and Moon, its shadow creates a lunar eclipse. Lunar eclipses can only happen when the Moon is opposite the Sun in the sky, a monthly occurrence we know as a full Moon."
+    },
+    {
+        "question": "Which one of the following is the time required for the Earth to return to a given point in its orbit with reference to fixed star, called?",
+        "options": [
+            "Lunar year",
+            "Solar year",
+            "Tropical year",
+            "Sideral year"
+        ],
+        "correct_answer": "d",
+        "note": "Sidereal time is time measured with respect to the apparent motion of the 'fixed' stars in the sky due to the Earth's rotation."
+    },
+    {
+        "question": "Which of the following is not an effect produced by rotation of earth?",
+        "options": [
+            "It causes days and nights",
+            "All heavenly bodies like sun, moon, planets appear to move from East to West",
+            "Winds change their directions",
+            "Poles have days and nights of 6 months duration"
+        ],
+        "correct_answer": "d",
+        "note": "The earth is tilted on its axis, because of which very poor sunlight is allowed to reach the north and south poles. When the north pole is tilted towards the sun,it experiences continuous day light for six months. And when the pole is tilted on the other side, it experiences continuous night for six months."
+    },
+    {
+        "question": "The Tropic of Cancer does not pass through",
+        "options": [
+            "India",
+            "Pakistan",
+            "Bangladesh",
+            "Myanmar"
+        ],
+        "correct_answer": "b",
+        "note": "In Asia, Tropic of Cancer passes through Myanmar, Oman, Bangladesh, India, Saudi Arabia, China, United Arab Emirates and Taiwan. Hence, The Tropic of cancer does not pass through Pakistan."
+    },
+    {
+        "question": "The light of Sun takes how much time to reach to Earth",
+        "options": [
+            "8 hours 20 seconds",
+            "8 minutes 20 seconds",
+            "8 seconds",
+            "20 seconds"
+        ],
+        "correct_answer": "b",
+        "note": "Sunlight travels at the speed of light. Photons emitted from the surface of the Sun need to travel across the vacuum of space to reach our eyes. The short answer is that it takes sunlight an average of 8 minutes and 20 seconds to travel from the Sun to the Earth."
+    },
+    {
+        "question": "Who proposed Continental drift theory?",
+        "options": [
+            "Alfred Wegener",
+            "Alfred Worwick",
+            "Alfred Hanks",
+            "Alfred Mane"
+        ],
+        "correct_answer": "a",
+        "note": "Continetal Drift theory was proposed by Alfred wegner in 1912. It stated that continents have changed  their position and initially there was only one big continent named Pangea. Although he was unable to explain the force behind the drifting of continents."
+    },
+    {
+        "question": "The region which is resistant to the transformation of macro structure, is called?",
+        "options": [
+            "Firm structure",
+            "Ancient structure",
+            "Tectonic plate",
+            "Shield"
+        ],
+        "correct_answer": "d",
+        "note": "Shield is the region of stable landmass occupied by resistant rocks of igneous origin, showing resistant to geomorphic processes e.g. Canadian Shield."
+    },
+    {
+        "question": "Study the following diagram and say which of the given statements is not correct regarding it ________",
+        "options": [
+            "It shows the earth's orbital position on 21st June",
+            "All parallels in the northern hemisphere have days equal to nights",
+            "There is continuous day north of the Arctic Circle",
+            "South of the equator the length of the day decreases with increasing latitude"
+        ],
+        "correct_answer": "b",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "What percentage of insolation is received by the earth's surface?",
+        "options": [
+            "0.47",
+            "0.51",
+            "0.66",
+            "0.87"
+        ],
+        "correct_answer": "a",
+        "note": "Roughly, 0.47 percent of insolation reaches the Earth's surface. The rest is either reflected and scattered back to space through its interaction with clouds, water vapour, dust and pollen, known collectively as aerosols or it is absorbed by clouds and gaseous elements and hence heats the atmosphere."
+    },
+    {
+        "question": "The earth rotates around its axis from ________",
+        "options": [
+            "North to south",
+            "East to west",
+            "South to north",
+            "West to east"
+        ],
+        "correct_answer": "d",
+        "note": "Earth rotates eastward, in prograde motion. As viewed from the north pole star Polaris, Earth turns counter clockwise. The North Pole, also known as the Geographic North Pole or Terrestrial North Pole, is the point in the Northern Hemisphere where Earth's axis of rotation meets its surface."
+    },
+    {
+        "question": "Days and nights are similar here",
+        "options": [
+            "Poles",
+            "Main time zone",
+            "Antarctica",
+            "Equator"
+        ],
+        "correct_answer": "d",
+        "note": "The Equator is exactly halfway in between the poles. So it wouldn't make any sense for a day on the equator to be longer when one of the poles is tilted towards the Sun, and shorter when the other one is. The days and nights remain equal here throughout the year."
+    },
+    {
+        "question": "If the earth's axis had not been inclined:\nI. temperature distribution would have been uniform\nII. days and nights would not have occurred\nIII. seasons would not have occurred\nIV. poles would not have a continuous day",
+        "options": [
+            "I, III and IV",
+            "II and IV",
+            "III and IV",
+            "II, III and IV"
+        ],
+        "correct_answer": "c",
+        "note": "If the earth's axis had not been inclined the seasons would not have occurred and poles would not have a continuous day."
+    },
+    {
+        "question": "The sun is never overhead at any time in :\nI. North Temperate Zone\nII. South Temperate Zone\nIII. North Frigid Zone\nIV. Torrid Zone",
+        "options": [
+            "III only",
+            "I, II and III",
+            "II and III",
+            "I, II, III and IV"
+        ],
+        "correct_answer": "b",
+        "note": "The sun is never overhead at any time in the North Temperate Zone, South Temperate Zone and North Frigid Zone."
+    },
+    {
+        "question": "Day and night are formed",
+        "options": [
+            "Due to the shape of the orbit of Earth",
+            "Due to the motion of revolution",
+            "Due to the speed of rotaion",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "The earth revolves round the sun and rotates round its own axis. The rotation of the earth causes day and night."
+    },
+    {
+        "question": "The International Date Line makes slight deviation from 180° meridian so that it ________",
+        "options": [
+            "Divides the land masses under the same administration",
+            "Does not divide the Bering strait",
+            "Does not divide a group of islands under the same administration",
+            "Divides the Pacific Ocean into two equal halves"
+        ],
+        "correct_answer": "c",
+        "note": "The International Date Line isn't a fixed line at all, but actually sort of follows the 180° longitude line, zigzagging its way through a bunch of small islands, territories and nations."
+    },
+    {
+        "question": "Latitude of place is indicative of its ________",
+        "options": [
+            "Time",
+            "Altitude",
+            "Amount of rainfall",
+            "Temperature"
+        ],
+        "correct_answer": "d",
+        "note": "Latitude affects temperature. One of the primary factors affecting the unequal heating of the Earth's atmosphere is latitude. Latitude is the measurement of the distance of a location on the Earth from the equator. The further away from the equator that a location resides, the less sunlight that this location receives."
+    },
+    {
+        "question": "Dolomite is a/an",
+        "options": [
+            "Sedimentary rock",
+            "Plutonic rock",
+            "Igneous rock",
+            "Metamorphic rock"
+        ],
+        "correct_answer": "a",
+        "note": "Dolomite, also known as \"dolostone\" and \"dolomite rock,\" is a sedimentary rock composed primarily of the mineral dolomite, CaMg(CO3)2. Dolomite is found in sedimentary basins worldwide. It is thought to form by the post depositional alteration of lime mud and limestone by magnesium - rich groundwater."
+    },
+    {
+        "question": "Which one of the following has geographical position of 0° latitude and 0° longitude?",
+        "options": [
+            "In the South Atlantic Ocean",
+            "In the Mediterranean Sea",
+            "In Ghana, a West African-country",
+            "At Greenwich Observatory in England"
+        ],
+        "correct_answer": "a",
+        "note": "Null Island is a name for the area around the point where the prime meridian and the equator cross, located in the Gulf of Guinea (South Atlantic Ocean) off the west African coast. It has geographical position of 0° latitude and 0° longitude"
+    },
+    {
+        "question": "What is the approximate circumference of Earth?",
+        "options": [
+            "40,000 Km",
+            "60,000 Km",
+            "80,000 Km",
+            "1,00,000 Km"
+        ],
+        "correct_answer": "a",
+        "note": "The circumference of the Earth in kilometers is 40,000 km(approx)."
+    },
+    {
+        "question": "'Green House Effect' means ________",
+        "options": [
+            "Pollution in houses in tropical regions",
+            "Trapping of solar energy due to atmospheric oxygen",
+            "Trapping of solar energy due to atmospheric carbon dioxide",
+            "Cultivation in green houses so as to check pollution"
+        ],
+        "correct_answer": "c",
+        "note": "The greenhouse effect is a natural process that warms the Earth’s surface. When the Sun’s energy reaches the Earth’s atmosphere, some of it is reflected back to space and the rest is absorbed and re-radiated by greenhouse gases."
+    },
+    {
+        "question": "Tides are caused by the gravitational forces of",
+        "options": [
+            "Of Earth on Moon",
+            "Of Earth on Sun",
+            "Of Sun and Moon on Earth",
+            "Of Moon on Earth"
+        ],
+        "correct_answer": "c",
+        "note": "Gravity is one major force that creates tides. In 1687, Sir Isaac Newton explained that ocean tides result from the gravitational attraction of the sun and moon on the oceans of the earth."
+    },
+    {
+        "question": "What is the alternate name for contour lines?",
+        "options": [
+            "Isopotential",
+            "Isotherm",
+            "Isohypse",
+            "Isohyet"
+        ],
+        "correct_answer": "c",
+        "note": "Isohypse is an imaginary line connecting points (places) at equal heights & equal barometric pressures which is similar to contours which connects places of equal height."
+    },
+    {
+        "question": "1° of latitude is equal to",
+        "options": [
+            "11 Km",
+            "211 Km",
+            "111 Km",
+            "311 Km"
+        ],
+        "correct_answer": "c",
+        "note": "At the equator, the length of 1o of latitude is equal to 110.6 km (68.7 mi.) and at the poles, the length of 1o of latitude is equal to 111.7 km (69.4 mi.). For our purposes, we assume the length of 1° of latitude is 111 km. Lines of longitude, also called meridians, run north - south."
+    },
+    {
+        "question": "Equinox occurs when the Sun is vertically above",
+        "options": [
+            "Tropic of Capricorn",
+            "Tropic of Cancer",
+            "Poles",
+            "Equator"
+        ],
+        "correct_answer": "d",
+        "note": "It is the moment at which the center of the visible Sun is directly above the Equator. In the northern hemisphere, the equinox in March is called the Vernal or Spring Equinox; the September equinox is called the Autumnal or Fall Equinox."
+    },
+    {
+        "question": "Choose the incorrect statement",
+        "options": [
+            "All meridians are of the same length",
+            "The axis of the earth is inclined at an angle of to the horizontal",
+            "The Sun's rays are vertical at all places on the days of the equinoxes",
+            "The summer solstice for the Southern Hemisphere is in December"
+        ],
+        "correct_answer": "c",
+        "note": "The statement that is incorrect is The Sun's rays are vertical at all places on the days of the equinoxes. This position is called the 'Winter Solstice'. On September 23, the Sun's rays fall vertically on the Equator. As a result, on this day the Sun illuminates the Northern and Southern Hemispheres equally, making the days and nights of approximately equal length all over the Earth."
+    },
+    {
+        "question": "Which of the following statements is/are correct?\n1. A crossing of the International Date Line entails repeating one day when traveling westwards\n2. A crossing of the International Date Line entails repeating one day when traveling eastwards\n3. International Date Line is an internationally agreed line drawn parallel to the 180° meridian\n4. International Date Line divides the Pacific Ocean into two equal parts.",
+        "options": [
+            "2 alone",
+            "2, 3 and 4",
+            "1 alone",
+            "1, 3 and 4"
+        ],
+        "correct_answer": "b",
+        "note": "The following statements that are correct are A crossing of the International Date Line entails repeating one day when traveling eastwards, International Date Line is an internationally agreed line drawn parallel to the 180° meridian and International Date Line divides the Pacific Ocean into two equal parts."
+    },
+    {
+        "question": "What is the meaning of \"Midnight Sun\"?",
+        "options": [
+            "Evening light",
+            "Rising Sun",
+            "Very bright Moon",
+            "Shining of Sun in Arctic and Antarctica circle"
+        ],
+        "correct_answer": "d",
+        "note": "The midnight sun is a natural phenomenon that occurs in the summer months in places north of the Arctic Circle or south of the Antarctic Circle, when the Sun remains visible at the local midnight."
+    },
+    {
+        "question": "What is the interval between a high tide and low tide at a given place?",
+        "options": [
+            "12 hours",
+            "12 hours 26 minutes",
+            "15 hours 30 minutes",
+            "24 hours"
+        ],
+        "correct_answer": "b",
+        "note": "The difference between high tide & low tide at a given place is about 12 hrs. 26 min. Neap tides occur when the sun, earth and moon form a right angle and the gravitational pull of the sun counteracts the pull of the moon."
+    },
+    {
+        "question": "The longitudinal, transverse and surface waves in an earthquake originate from",
+        "options": [
+            "The focus within the body of the earth",
+            "The epicentre on the surface of the earth",
+            "The focus on the surface of the earth",
+            "The epicentre within the body of the earth"
+        ],
+        "correct_answer": "a",
+        "note": "The longitudinal, transverse and surface waves in an earthquake originate from The focus within the body of the earth. The point where the energy is released is called the focus of an earthquake, alternatively, it is called the hypocentre. The energy waves travelling in different directions reach the surface. The point on the surface, nearest to the focus, is called epicentre. It is the first one to experience the waves. It is a point directly above the focus."
+    },
+    {
+        "question": "________ is the time taken by the Earth to return to a given point in its orbit with reference to a fixed star.",
+        "options": [
+            "Lunar year",
+            "Sidereal year",
+            "Solar year",
+            "Tropical year"
+        ],
+        "correct_answer": "b",
+        "note": "Because, for all intents and purposes, the sky is \"fixed\", a sidereal day is when the earth rotates 360°. A sidereal day is 23 hours 56 minutes and 4.09 seconds long. A sidereal year is the time it takes for the sun to return to the same position with respect to the stars."
+    },
+    {
+        "question": "Which of the following is/are true of world time zones?\nI. The world is divided into thirty time zones\nII. All time zones of the world are described in term of the number of hours difference between the standard meridian of that zone and the Greenwich Meridian\nIII. All countries have more than one time zone\nIV. The time for all places east of Greenwich is designated slow, and time for all places left of Greenwich is designated fast",
+        "options": [
+            "I, II, III and IV",
+            "II and IV",
+            "I, III and IV",
+            "II only"
+        ],
+        "correct_answer": "d",
+        "note": "All time zones of the world are described in term of the number of hours difference between the standard meridian of that zone and the Greenwich Meridian. Each of Earth's 24 zones is one hour earlier then the one east of it, which equates to about 15°  longitude for each. Although this is the general rule, there's not always a one hour difference between each time zone. Some countries have adopted a non-standard time, which may include a 30 or 45 minute offset."
+    },
+    {
+        "question": "Equator is",
+        "options": [
+            "Line which connects north and south poles",
+            "Imaginary line which rotates around the Earth\nin the centre of north and south poles",
+            "The girdle around the Saturn",
+            "Axis of the rotation of the Earth"
+        ],
+        "correct_answer": "b",
+        "note": "An equator of a rotating spheroid is its zeroth circle of latitude. It is the imaginary line on the spheroid's surface, equidistant from its poles, dividing it into northern and southern hemispheres."
+    },
+    {
+        "question": "Equator represents",
+        "options": [
+            "Line joining North and South poles",
+            "Imaginary line passing round the Earth\nmidway between North & South poles",
+            "A belt (ring) around the planet Saturn",
+            "Axis of rotation of Earth"
+        ],
+        "correct_answer": "b",
+        "note": "An equator of a rotating spheroid is its zeroth circle of latitude. It is the imaginary line on the spheroid's surface, equidistant from its poles, dividing it into northern and southern hemispheres."
+    },
+    {
+        "question": "Through which one of the following countries the Tropic of Cancer does not pass through?",
+        "options": [
+            "Bangladesh",
+            "China",
+            "Myanmar",
+            "Nepal"
+        ],
+        "correct_answer": "d",
+        "note": "The Tropic of Cancer does not pass through Nepal."
+    },
+    {
+        "question": "Of the total volume of the earth, which layer forms the major part ?",
+        "options": [
+            "Sial",
+            "Sima",
+            "Mantle",
+            "Core"
+        ],
+        "correct_answer": "d",
+        "note": "Core forms the major part of the total volume of earth. The innermost layer, forming the metallic centre of the Earth. Core of the Earth is like a dense magnetic ball of minerals (Iron & Nickel). Hence, it is also called NIFE (NI – Nickel & Fe – Ferrous Magnesium i.e Iron). Temperature increases at the rate of 1° Celsius for every 32 meters of depth."
+    },
+    {
+        "question": "Due to gravity, acceleration at the Equator is",
+        "options": [
+            "Less than acceleration on poles",
+            "More than acceleration on poles",
+            "Equal to acceleration on poles",
+            "Not dependant on the centrifugal acceleration\nof Earth"
+        ],
+        "correct_answer": "a",
+        "note": "Due to gravity, acceleration at the Equator is less than acceleration on poles. It is because the equatorial distance is more than the polar distance and this is because of the shape of Earth as we know that the earth is a sphere so the the polar radius is less as compared to equatorial radius."
+    },
+    {
+        "question": "On which date is India likely to experience the shortest day?",
+        "options": [
+            "22nd December",
+            "21st June",
+            "3rd January",
+            "23rd March"
+        ],
+        "correct_answer": "a",
+        "note": "We know India lies in the Northern Hemisphere as it lies above the Equator. The shortest day in the Northern Hemisphere is on December 22nd, when the Sun is directly overhead the tropic of Capricorn."
+    },
+    {
+        "question": "When does the Sun shine vertically on the Equator?",
+        "options": [
+            "Throughout the year",
+            "For six months",
+            "Twice a year",
+            "Once a year"
+        ],
+        "correct_answer": "c",
+        "note": "When the sun shines vertically over the equator then it is known as equinox. Twice, on the March equinox (typically around March 21) and on the September equinox (typically around September 22)."
+    },
+    {
+        "question": "Through which one of the following groups of countries does the Equator pass?",
+        "options": [
+            "Brazil, Zambia and Malaysia",
+            "Colombia, Kenya and Indonesia",
+            "Brazil, Sudan and Malaysia",
+            "Venezuela, Ethiopia and Indonesia"
+        ],
+        "correct_answer": "b",
+        "note": "Among the following equator pass through Colombia, Kenya and Indonesia. The equator passes through 13 countries: Ecuador, Colombia, Brazil, Sao Tome & Principe, Gabon, Republic of the Congo, Democratic Republic of the Congo, Uganda, Kenya, Somalia, Maldives, Indonesia and Kiribati."
+    },
+    {
+        "question": "The word \"Isoneph\" represents the lines of equal",
+        "options": [
+            "Cloudiness",
+            "Salinity",
+            "Rain",
+            "Pressure"
+        ],
+        "correct_answer": "a",
+        "note": "The word \"Isoneph\" represents the lines of equal Cloudiness. An imaginary line connecting places which have similar amount of cloudiness for a given period of time is, Isoneph."
+    },
+    {
+        "question": "Which part of the earth's surface receives the highest amount of insolation?",
+        "options": [
+            "Tropical deserts",
+            "Equatorial region",
+            "Savanna region",
+            "No such criteria"
+        ],
+        "correct_answer": "a",
+        "note": "Tropical deserts of the earth's surface receives the highest amount of insolation. Maximum insolation is received over the subtropical deserts, where the cloudiness is the least."
+    },
+    {
+        "question": "All the watches of a country are set according to ________",
+        "options": [
+            "Local time",
+            "Standard time of the country",
+            "Greenwich mean time",
+            "Time of sunrise and sunset"
+        ],
+        "correct_answer": "b",
+        "note": "All the watches of a country are set according to standard time of the country. Because the same standard time for the whole country has been adopted, the watches show the same time in all parts of the country."
+    },
+    {
+        "question": "Maximum difference in the spacing of longitudes is ________",
+        "options": [
+            "At poles",
+            "At equator",
+            "At tropics",
+            "At arctic circle"
+        ],
+        "correct_answer": "b",
+        "note": "Maximum difference in the spacing of longitudes is at equator. At the equator, the distance between two latitudes and two longitudes is 111.1 kms."
+    },
+    {
+        "question": "When rain falls through a cold layer of air near the Earth's surface, raindrops get frozen into ice. This type of precipitation is called",
+        "options": [
+            "Hail",
+            "Snowfall",
+            "Snowstorm",
+            "Sleet"
+        ],
+        "correct_answer": "d",
+        "note": "Sleet is rain or melted snow that freezes into ice pellets before hitting the ground. When rain falls through a cold layer of air near the Earth's surface, raindrops get frozen into ice. This type of precipitation is called Sleet."
+    },
+    {
+        "question": "When it is 12.00 noon at Delhi (77° 10'E), people at another place on earth take their 6 o'clock morning tea. The longitude of that place is ________",
+        "options": [
+            "17°30' E",
+            "12°50' W",
+            "172°30' E",
+            "17°E"
+        ],
+        "correct_answer": "b",
+        "note": "When it is 12.00 noon at Delhi (77° 10'E), people at another place on earth take their 6 o'clock morning tea. The longitude of that place is 12°50' W."
+    },
+    {
+        "question": "When and where did the concept of the Earth Hour started?",
+        "options": [
+            "June, 2007 in Christchurch, New Zealand",
+            "May, 2009 in Colombo, Srilanka",
+            "April, 2008 in Tokyo, Japan",
+            "March, 2007 in Sydney, Australia"
+        ],
+        "correct_answer": "d",
+        "note": "The 2007 Earth Hour was held on March 31 in Sydney, Australia at 7:30 pm, local time. Since then it has grown to engage more than 180 countries and territories worldwide."
+    },
+    {
+        "question": "The Moon is showing its same face to the Earth because",
+        "options": [
+            "It is not rotating about its own axis",
+            "Its rotation and revolution are opposite",
+            "Its periods of rotation and revolution are the same",
+            "Its rotation is faster than its revolution"
+        ],
+        "correct_answer": "c",
+        "note": "The Moon is showing its same face to the Earth because Its periods of rotation and revolution are the same. The moon keeps the same face pointing towards the Earth because its rate of spin is tidally locked so that it is synchronized with its rate of revolution (the time needed to complete one orbit). In other words, the moon rotates exactly once every time it circles the Earth."
+    },
+    {
+        "question": "The permanent tilt of the earth's axis and the revolution of the earth in its orbit together cause:\nI. deflection of winds and ocean currents\nII. differences in time between places on different meridians\nIII. varying length of day and night at different times of the year\nIV. changes in the altitude of the mid-day sun at different times of the year",
+        "options": [
+            "II, III and IV",
+            "I and IV",
+            "III and IV",
+            "I, II and III"
+        ],
+        "correct_answer": "c",
+        "note": "The permanent tilt of the earth's axis and the revolution of the earth in its orbit together cause the varying length of day and night at different times of the year and changes in the altitude of the mid-day sun at different times of the year."
+    },
+    {
+        "question": "Which of the following pairs is wrong?",
+        "options": [
+            "Isohyet - Humidity",
+            "Isobar  - Pressure",
+            "IsohaleSun - light",
+            "Isotherm - Temperature"
+        ],
+        "correct_answer": "a",
+        "note": "An isohyet is a line on a map which connects points that have the same amounts of precipitation in a given period or for a particular storm. An isohyet is a form of map contour line displaying precipitation."
+    },
+    {
+        "question": "Suppose if we measure the time lapse between the two Sunsets by sitting in the beach, from this we can estimate",
+        "options": [
+            "The distance between the Sun and the Earth",
+            "The depth of the ocean",
+            "The radius of the Earth",
+            "The radius of the Sun"
+        ],
+        "correct_answer": "c",
+        "note": "You could simply lie down on a beach, watch the sun set once, and could quickly stand up once the last bit goes down, to see it go down again. In fact, if you carefully calculate the time difference between these 2 sunsets using a stopwatch, and take the length of your body into account, you could actually calculate (estimate) the radius of the earth."
+    },
+    {
+        "question": "The alignment of the lines of beginning and end is expressed by",
+        "options": [
+            "Dentate",
+            "Feasibility",
+            "Record",
+            "Font"
+        ],
+        "correct_answer": "b",
+        "note": "The alignment of the lines of beginning and end is expressed by feasibility. A feasibility report is a document that assesses potential solutions to the business problem or opportunity, and determines which of these are viable for further analysis."
+    },
+    {
+        "question": "If a place is located at 20°N, 80°E in which of the following continents does it lie?",
+        "options": [
+            "Africa",
+            "Asia",
+            "Europe",
+            "North America"
+        ],
+        "correct_answer": "b",
+        "note": "If a place is located at 20°N, 80°E it lies in Asia continent. The 20th parallel north is a circle of latitude that is 20° north of the Earth's equatorial plane. It crosses Africa, Asia, the Indian Ocean, the Pacific Ocean, North America, the Caribbean and the Atlantic Ocean."
+    },
+    {
+        "question": "The sunlight is available 24 hours on the longest day at which of the following latitudes of the Earth?",
+        "options": [
+            "49°",
+            "66.5°",
+            "63°",
+            "69.51°"
+        ],
+        "correct_answer": "b",
+        "note": "The sunlight is available 24 hours on the longest day at 66.5°."
+    },
+    {
+        "question": "The tide at its maximum height is known as ________",
+        "options": [
+            "Equinox",
+            "Neap tide",
+            "Spring tide",
+            "Tsunami"
+        ],
+        "correct_answer": "c",
+        "note": "The tide at its maximum height is known as Spring tide. A spring tide popularly known as a \"King Tide\" refers to the 'springing forth' of the tide during new and full moon."
+    },
+    {
+        "question": "A one-day Cricket match between India and England starts at 10.00 A.M. in London. The direct telecast of the match will begin in India at ________",
+        "options": [
+            "3.30 A.M.",
+            "8.30 A.M.",
+            "3.30 P.M.",
+            "8.30 P.M."
+        ],
+        "correct_answer": "c",
+        "note": "A one-day Cricket match between India and England starts at 10.00 A.M. in London 3.30 P.M. The direct telecast of the match will begin in India at  India is 5 hours and 30 minutes ahead of London, UK."
+    },
+    {
+        "question": "Tides are caused by the gravitational pull of the",
+        "options": [
+            "Earth on the Moon",
+            "Earth on the Sun",
+            "Sun and Moon on the Earth",
+            "Moon on the Earth"
+        ],
+        "correct_answer": "c",
+        "note": "Tides are caused by the gravitational pull of the Sun and Moon on the Earth. Due to gravitational effect of Sun & Moon on Earth, the water in the oceans tends to rise causing tides in nearby coastal areas."
+    },
+    {
+        "question": "The phenomenon of an opening occurring in the Earth's surface through which a Jet of hot water and steam is forced out at irregular intervals is called",
+        "options": [
+            "Hot spring",
+            "Geyser",
+            "Cyclone",
+            "Volcano"
+        ],
+        "correct_answer": "b",
+        "note": "The phenomenon of an opening occurring in the Earth's surface through which a Jet of hot water and steam is forced out at irregular intervals is called Geyser. Geyser (Icelandic for \"gusher\") is the name of an erupting flow of heated water from the ground in Iceland."
+    },
+    {
+        "question": "The core of the Earth is made up of ________",
+        "options": [
+            "Mainly of iron in the liquid form",
+            "Mainly of nickel in the liquid form",
+            "Both iron and silica in the liquid form",
+            "Both iron and magnesium in the plastic state"
+        ],
+        "correct_answer": "d",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Gravitational force is maximum at which of the following place?",
+        "options": [
+            "At Equator",
+            "At Tropic of Cancer",
+            "At Tropic of Capricorn",
+            "At Poles"
+        ],
+        "correct_answer": "d",
+        "note": "Gravitational force is maximum at Poles. The gravitational force is almost equal in every where in the earth. The resultant force is maximum in pole. Since earth is rotating there is centrifugal force and due to this force is maximum at poles."
+    },
+    {
+        "question": "The Equator does not pass through which of the following?",
+        "options": [
+            "Kenya",
+            "Mexico",
+            "Indonesia",
+            "Brazil"
+        ],
+        "correct_answer": "b",
+        "note": "The Equator does not pass through Mexico. The equator passes through 13 countries: Ecuador, Colombia, Brazil, Sao Tome & Principe, Gabon, Republic of the Congo, Democratic Republic of the Congo, Uganda, Kenya, Somalia, Maldives, Indonesia and Kiribati."
+    },
+    {
+        "question": "The instrument to measure the area on maps is called",
+        "options": [
+            "Planimeter",
+            "Ideograph",
+            "Pantograph",
+            "Opisometer"
+        ],
+        "correct_answer": "a",
+        "note": "Planimeter also called platometer, it is an instrument used to measure an area of two dimensional shapes. eg. Area of maps."
+    },
+    {
+        "question": "On Monday, the 14th June, a man crosses the International Date Line at 5 p.m. from the Asian side to the American side. Which of the following will he now assume to be the correct date and time?",
+        "options": [
+            "5 a.m. of Tuesday, the 15th June",
+            "5 p.m. of Tuesday, the 15th June",
+            "5 a.m. of Monday, the 14th June",
+            "5 p.m. of Sunday, the 13th June"
+        ],
+        "correct_answer": "d",
+        "note": "On Monday, the 14th June, a man crosses the International Date Line at 5 p.m. from the Asian side to the American side, time will be 5 p.m. of Sunday, the 13th June. The International Date Line is located halfway around the world from the prime meridian (0° longitude) or about 180° east (or west) of Greenwich, London, UK, the reference point of time zones. It is also known as the line of demarcation."
+    },
+    {
+        "question": "At neap tide:\n1. the sun and moon exert their force at right angles\n2. the tidal amplitude is high\n3. the low tides are very low",
+        "options": [
+            "1",
+            "2 and 3",
+            "1 and 2",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "a",
+        "note": "A neap tide seven days after a spring tide refers to a period of moderate tides when the sun and moon are at right angles to each other."
+    },
+    {
+        "question": "What are the imaginary lines touching both the poles of Earth called?",
+        "options": [
+            "Latitudes",
+            "Longitudes",
+            "Isobars",
+            "Isotherms"
+        ],
+        "correct_answer": "b",
+        "note": "Latitude is based on an imaginary line that circles Earth halfway between the north and south poles. Longitude refers to imaginary lines running vertically on the globe that bisect it through the  North and the South Poles. Longitudes are angular distances measured from the Prime Meridian."
+    },
+    {
+        "question": "When it is nine o'clock in London, it will be the same time in ________",
+        "options": [
+            "Ghana",
+            "Babon",
+            "Latvia",
+            "Norway"
+        ],
+        "correct_answer": "a",
+        "note": "There is no time difference between London, UK and Ghana. When it is nine o'clock in London, it will be the same time in Ghana."
+    },
+    {
+        "question": "Which of the following Isohels are the isopleths of",
+        "options": [
+            "Sunshine",
+            "Flowering time",
+            "Rain",
+            "Clouds"
+        ],
+        "correct_answer": "a",
+        "note": "Isohels are the imaginary lines connecting places where Sunlight falls for same duration & isopleths are the imaginery lines connecting places with equal incidence of meteorological phenomenon. So, Sunlight's observed duration would remain equal at places where the Sun can be observe equally."
+    },
+    {
+        "question": "The incoming short-wave solar radiation is balanced by an equal amount of long-wave radiation from earth going back to space. This is known as ________",
+        "options": [
+            "Earth radiation",
+            "Wave balance of earth",
+            "Heat balance of earth",
+            "Radiation exchange"
+        ],
+        "correct_answer": "c",
+        "note": "The incoming short-wave solar radiation is balanced by an equal amount of long-wave radiation from earth going back to space. This is known as Heat balance of earth. The earth-atmosphere energy balance is the balance between incoming energy from the Sun and outgoing energy from the Earth."
+    },
+    {
+        "question": "The imaginary lines joining places of same height at equal intervals are",
+        "options": [
+            "Hachures",
+            "Contours",
+            "Spot-heights",
+            "Isomers"
+        ],
+        "correct_answer": "b",
+        "note": "Imaginary lines joining places of same height at equal intervals are contour lines. These are the closed loops used to showcase the similar hight point."
+    },
+    {
+        "question": "Which of the following layers of the earth is believed to have the heaviest mineral materials of highest density ?",
+        "options": [
+            "Central core",
+            "Crust",
+            "Mantle",
+            "Both B and C"
+        ],
+        "correct_answer": "a",
+        "note": "The layers of the earth that is believed to have the heaviest mineral materials of highest density is Central core. Earth’s core is the very hot, very dense center of our planet. The ball-shaped core lies beneath the cool, brittle crust and the mostly-solid mantle."
+    },
+    {
+        "question": "There is a continual daylight or summer in the Arctic regions from ________",
+        "options": [
+            "22nd December to 21st March",
+            "21st March to 21st June",
+            "21st March to 23rd September",
+            "21st June to 22nd December"
+        ],
+        "correct_answer": "c",
+        "note": "There is a continual daylight or summer in the Arctic regions from 21st March to 23rd September."
+    },
+    {
+        "question": "The surface of Earth that lies between the Tropic of Cancer and the Tropic of Capricorn is called ________",
+        "options": [
+            "North Temperate Zone",
+            "Frigid Zone",
+            "South Temperate Zone",
+            "Torrid Zone"
+        ],
+        "correct_answer": "d",
+        "note": "The torrid zone refers to the area of the earth between the Tropic of Cancer and the Tropic of Capricorn."
+    },
+    {
+        "question": "Spring tides occur when ________",
+        "options": [
+            "The moon is nearest to the earth",
+            "The moon is farthest from the earth",
+            "The moon, the sun and the earth are at right angles with the earth at the apex",
+            "The moon, the sun and the earth are in the same line"
+        ],
+        "correct_answer": "d",
+        "note": "When the sun and the moon are in line with each other, they pull the ocean's surface in the same direction. This causes higher high tides and lower low tides. This is known as Spring tides."
+    },
+    {
+        "question": "In which of the following areas, the \"Midnight Sun\" can be seen?",
+        "options": [
+            "In tropical areas",
+            "In temperate areas",
+            "Arctic and Antarctica circle",
+            "Anywhere during solar eclipse"
+        ],
+        "correct_answer": "c",
+        "note": "Midnight Sun is a name given the sun when it can be seen at midnight during the Arctic or Antarctic summer. This phenomenon occurs in summer months in places north of Arctic or south of Antarctic circle when Sun is visible in this region during mid night hours also."
+    },
+    {
+        "question": "Which one of the following cities does not have the same clock time as that of the other three cities at any given instant?",
+        "options": [
+            "London (UK)",
+            "Lisbon (Portugal)",
+            "Accra (Ghana)",
+            "Addis Ababa (Ethiopia)"
+        ],
+        "correct_answer": "d",
+        "note": "Addis Ababa (Ethiopia) cities does not have the same clock time as that of the other three cities at any given instant."
+    },
+    {
+        "question": "For a time difference of two hours, the longitudinal distance will be equal to ________.",
+        "options": [
+            "15°",
+            "30°",
+            "45°",
+            "60°"
+        ],
+        "correct_answer": "b",
+        "note": "One hour of time difference corresponds to 15° of longitude (360°/24 hours = 15°/hour). Therefore, For a time difference of two hours, he longitudinal distance will be equal to 30°."
+    },
+    {
+        "question": "When it is 12 noon at Greenwich, what is the time at New York (74° W) ?",
+        "options": [
+            "4.56 p.m.",
+            "4.56 a.m.",
+            "7.04 p.m.",
+            "7.04 a.m."
+        ],
+        "correct_answer": "d",
+        "note": "Greenwich is 4 hours ahead of New York, NY, USA. Greenwich mean time (GMT) = 12 noon every 1° is equal to 4 minutes. therefore, 74° = 74×4 = 296  minutes. Therefore, When it is 12 noon at Greenwich, the time at New York (74° W) is 7.04 a.m."
+    },
+    {
+        "question": "What is the difference between the Local time and Greenwich time one degree longitude?",
+        "options": [
+            "2 minutes",
+            "4 minutes",
+            "6 minutes",
+            "8 minutes"
+        ],
+        "correct_answer": "b",
+        "note": "The time difference between each longitude (each degree) is 4 minutes. So if it is 12 noon at Greenwich (0°), it would be 12:04 pm at 1° meridian and so on."
+    },
+    {
+        "question": "The distance between the earth and the sun is smallest in the month of ________",
+        "options": [
+            "January",
+            "March",
+            "June",
+            "September"
+        ],
+        "correct_answer": "a",
+        "note": "In January Earth makes its closest approach to the Sun for the year."
+    },
+    {
+        "question": "Which one of the following would have occurred if the earth had not been inclined on its own axis?",
+        "options": [
+            "All the seasons would have been of same duration",
+            "The seasons would not have changed",
+            "The summers would have been of longer duration",
+            "The winters would have been of longer duration"
+        ],
+        "correct_answer": "b",
+        "note": "If the Earth weren't tilted on its axis, there would be no seasons. The season would remain same."
+    },
+    {
+        "question": "Which of the following statement is correct?",
+        "options": [
+            "Air capacity of vaporization reduces with the\nrise in the temperature of air.",
+            "Atmospheric pressure reduces due to rise in\ntemperature.",
+            "Relative humidity is denoted in gram per cubic\nmeter of air.",
+            "Temperature decreases 10°C at every 165 height"
+        ],
+        "correct_answer": "b",
+        "note": "Air pressure is the weight of air molecules pressing down on you. Inhabitants on Earth’s surface bear the weight of all the air molecules in the atmosphere. At higher altitudes, air pressure decreases because there are fewer air molecules pressing down from above and temperature increases compared with the air pressure at sea level."
+    },
+    {
+        "question": "What is the correct sequence of the following layers of the Earth as one moves from the surface to the interior:\n1. Mantle\n2. Crust\n3. Core\nSelect the correct answer by using the codes given below",
+        "options": [
+            "1, 2, 3",
+            "1, 3, 2",
+            "2, 1, 3",
+            "3, 1, 2"
+        ],
+        "correct_answer": "c",
+        "note": "The structure of the earth's interior is made up of several concentric layers. Broadly three layers can be identified—crust, mantle and the core."
+    },
+    {
+        "question": "Which one of the following organisations is responsible for publishing topographical sheets?",
+        "options": [
+            "Geological Survey of India (G.S.I.)",
+            "National Atlas & Thematic Mapping\nOrganisation (N.A.T.M.O.)",
+            "Indian Meteorological Department (I.M.D.)",
+            "Survey of India (S.O.I.)"
+        ],
+        "correct_answer": "d",
+        "note": "Survey of India (S.O.I.) have tremendously rendered their services to the Government of India to bring out various types of maps for publication by Survey of India. It is responsible for publishing topographical sheets."
+    },
+    {
+        "question": "The South Pole experiences continuous light at ________",
+        "options": [
+            "Summer solstice",
+            "Winter solstice",
+            "Vernal equinox",
+            "No time"
+        ],
+        "correct_answer": "b",
+        "note": "The South Pole experiences a natural phenomena known as the Winter Solstice, also known as December Solstice. It happens when the Earth's axes is tiled closest to the sun from the Southern Hemisphere but farthest from the sun from the Northern hemisphere. During this day, the South Pole experiences the longest day light while the North Pole experienced the least. It occurs between 20-23 of December every year."
+    },
+    {
+        "question": "Sea tides show variations because of ________",
+        "options": [
+            "Variations in gravitational pull of the moon",
+            "Variations in gravitational pull of the sun",
+            "Distorted spherical shape of the earth",
+            "Different phases of the moon"
+        ],
+        "correct_answer": "d",
+        "note": "Sea tides show variations because of Different phases of the moon. Since the moon moves around the Earth, it is not in the same place at the same time each day. So, each day, the times for high and low tides change by 50 minutes."
+    },
+    {
+        "question": "Which of the following pairs is not correctly matched?",
+        "options": [
+            "66° 33' N latitude - Arctic Circle",
+            "180°E or 180°W longitude- International Date Line",
+            "23° 20' N latitude - Tropic of Cancer",
+            "0°E or 0°W longitude – Equator"
+        ],
+        "correct_answer": "d",
+        "note": "The Equator is the line of 0° latitude. Each parallel measures one degree north or south of the Equator, with 90° north of the Equator and 90° south of the Equator. The latitude of the North Pole is 90° N, and the latitude of the South Pole is 90° S."
+    },
+    {
+        "question": "Isobar lines show",
+        "options": [
+            "Pressure",
+            "Rain",
+            "Depth",
+            "Time"
+        ],
+        "correct_answer": "a",
+        "note": "A line drawn on a weather map connecting points of equal pressure is called an isobar. Isobars are generated from mean sea level pressure reports and are given in millibars."
+    },
+    {
+        "question": "Evidence suggests that life on Earth has existed for about ________.",
+        "options": [
+            "3.5 million years",
+            "35 billion years",
+            "35 million years",
+            "3.5 billion years"
+        ],
+        "correct_answer": "d",
+        "note": "Evidence suggests that life on Earth has existed for about 3.5 billion years. The earliest known fossils on Earth date from 3.5 billion years ago and there is evidence that biological activity took place even earlier - just at the end of the period of late heavy bombardment."
+    },
+    {
+        "question": "Which of the statements given are correct? \n1. Coriolis effect is zero at the Equator.\n2. Coriolis effect is more towards the Poles.\n3. Coriolis effects are related to the decreasing rotational velocity with increasing latitudes.\n4. Coriolis effects are related to the increasing rotational velocity with increasing latitudes.",
+        "options": [
+            "1, 2 and 3",
+            "1 and 3 only",
+            "1, 2 and 4",
+            "2 and 5 only"
+        ],
+        "correct_answer": "c",
+        "note": "The statements that are correct are Coriolis effect is zero at the Equator, Coriolis effects are related to the decreasing rotational velocity with increasing latitudes and Coriolis effects are related to the increasing rotational velocity with increasing latitudes."
+    },
+    {
+        "question": "If the difference in time between, two places were 2 hours and 20 minutes, then the difference in their longitudes would be ________",
+        "options": [
+            "30°",
+            "35°",
+            "40°",
+            "45°"
+        ],
+        "correct_answer": "b",
+        "note": "If the difference in time between, two places were 2 hours and 20 minutes, then the difference in their longitudes would be 35°. The time difference between each longitude (each degree) is 4 minutes. So if it is 12 noon at Greenwich (0°), it would be 12:04 pm at 1° meridian and so on."
+    },
+    {
+        "question": "The network of the series of vertical and horizontal lines is known as",
+        "options": [
+            "Latitude",
+            "Geid System",
+            "Longitude",
+            "Geographical Coordinates System"
+        ],
+        "correct_answer": "d",
+        "note": "The network of the series of vertical and horizontal lines is known as Geographical Coordinates System. There are 2 co-ordinate values for a point latitude and longitude. A geographic coordinate system (GCS) uses a three-dimensional spherical surface to define locations on the earth. A GCS is often incorrectly called a datum, but a datum is only one part of a GCS. A GCS includes an angular unit of measure, a prime meridian, and a datum (based on a spheroid)."
+    },
+    {
+        "question": "At the summer solstice, which one of the following latitudes will have the longest night?",
+        "options": [
+            "45°N",
+            "45°S",
+            "60°N",
+            "60°S"
+        ],
+        "correct_answer": "d",
+        "note": "At the summer solstice, which one of the following latitudes will have the longest night 60°S. The summer solstice, also known as midsummer, occurs when one of the Earth's poles has its maximum tilt toward the Sun."
+    },
+    {
+        "question": "The most abundant metal in the Earth's Crust is",
+        "options": [
+            "Zinc",
+            "Copper",
+            "Aluminium",
+            "Iron"
+        ],
+        "correct_answer": "c",
+        "note": "Aluminum is the third most abundant element in Earth's crust. Aluminum does not exist as a lone element, and it is found as a compound. Abundant compounds of Aluminum include aluminum oxide, aluminum hydroxide, and potassium aluminum sulfate."
+    },
+    {
+        "question": "Tides are complied and they vary from place to place because of ________",
+        "options": [
+            "The movement of Moon in relation to Earth",
+            "Uneven distribution of water over the globe",
+            "Irregularities in the configuration of oceans",
+            "All of the above"
+        ],
+        "correct_answer": "d",
+        "note": "Tides are complied and they vary from place to place because of The movement of Moon in relation to Earth, Uneven distribution of water over the globe and Irregularities in the configuration of oceans."
+    },
+    {
+        "question": "Which of the followings are related with \"Lithosphere\"?",
+        "options": [
+            "Plant and Insect",
+            "Earth's Interior",
+            "Earth's Crust",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "The word lithosphere is made up of two words i.e. litho and sphere. 'Litho', means crust (rock) solid. Thus the term 'Lithosphere' signifies Earth crust. Earth's lithosphere includes the crust and the uppermost mantle, which constitute the hard and rigid outer layer of the Earth."
+    },
+    {
+        "question": "When it is 12:00 noon in India, the time in San Francisco (USA) would be closed to ________",
+        "options": [
+            "11 : 30 p.m.",
+            "11 : 30 p.m. of previous day",
+            "8 : 30 p.m.",
+            "8 : 30 p. m. of previous day"
+        ],
+        "correct_answer": "d",
+        "note": "When it is 12:00 noon in India, the time in San Francisco (USA) would be closed to 8 : 30 p. m. of previous day. India is 12 hours and 30 minutes ahead of San Francisco, CA, USA."
+    },
+    {
+        "question": "Which among the following imaginary line lies at 0° latitude?",
+        "options": [
+            "Equator",
+            "Tropic of Cancer",
+            "Tropic of Capricorn",
+            "Prime Meridian"
+        ],
+        "correct_answer": "a",
+        "note": "Imaginary line lies at 0° latitude is Equator. Zero degrees latitude is the line designating the Equator and divides the Earth into two equal hemispheres (north and south)."
+    },
+    {
+        "question": "Lunar eclipse occurs on ________",
+        "options": [
+            "New moon",
+            "Full moon",
+            "Half moon",
+            "Quarter moon"
+        ],
+        "correct_answer": "b",
+        "note": "An eclipse of the Moon (or lunar eclipse) can only occur at Full Moon, and only if the Moon passes through some portion of Earth's shadow."
+    },
+    {
+        "question": "What can be the maximum duration of totality for a solar eclipse?",
+        "options": [
+            "12.5 minutes",
+            "7 minutes 40 seconds",
+            "1 hour 40 seconds",
+            "There is no maximum duration"
+        ],
+        "correct_answer": "b",
+        "note": "The maximum theoretical duration for a total solar eclipse is 7 min 40 sec."
+    },
+    {
+        "question": "If it is 4 P.M. on Monday at 150°W, what will be the time at 150°E ?",
+        "options": [
+            "4 a.m. on Tuesday",
+            "4 p.m. on Tuesday",
+            "4 p.m. on Sunday",
+            "12 Noon on Tuesday"
+        ],
+        "correct_answer": "d",
+        "note": "If it is 4 P.M. on Monday at 150°W, 12 Noon on Tuesday will be the time at 150°E."
+    },
+    {
+        "question": "During Lunar eclipse, which of the following is at the centre?",
+        "options": [
+            "Earth",
+            "Moon",
+            "Sun",
+            "Any other planet"
+        ],
+        "correct_answer": "a",
+        "note": "Lunar eclipse takes place when Moon passes through the shadow of Earth i.e. Earth comes between Sun and Moon. Apartial eclipse occurs if only a part of Moon passes through the shadow."
+    },
+    {
+        "question": "The upper part of the mantle upon which the crust of the Earth floats is called ________",
+        "options": [
+            "Barysphere",
+            "Mesophere",
+            "Mohorovic discontinuity",
+            "Asthenosphere"
+        ],
+        "correct_answer": "d",
+        "note": "The upper part of the mantle upon which the crust of the Earth floats is called Asthenosphere. The layer below the rigid lithosphere is a zone of asphalt-like consistancy called the Asthenosphere."
+    },
+    {
+        "question": "After Sun, which is the closest star to the Earth?",
+        "options": [
+            "Vega",
+            "Sirius",
+            "Proxima centauri",
+            "Alpha centauri"
+        ],
+        "correct_answer": "c",
+        "note": "Proxima Centauri is the nearest star to the solar system. Proxima Centauri is about 4.22 light-years from Earth and is the closest star other than the sun."
+    },
+    {
+        "question": "Low tides are",
+        "options": [
+            "Strong",
+            "Weak",
+            "Moderate",
+            "Very Weak"
+        ],
+        "correct_answer": "b",
+        "note": "Low tides are 20% lower than normal tides. Low tides occur in locations at 90° angles to the moon. Low tides are weak."
+    },
+    {
+        "question": "Which of the following pair is incorrect?",
+        "options": [
+            "0° longitude - Prime Meridian",
+            "0° longitude - Equator",
+            "0° latitude - Equator",
+            "23.5° North - Tropic of Cancer"
+        ],
+        "correct_answer": "b",
+        "note": "Zero degrees longitude is an imaginary line known as the Prime Meridian."
+    },
+    {
+        "question": "Masses of stars and galaxies are usually expressed in ________.",
+        "options": [
+            "Earth's mass",
+            "Solar mass",
+            "Lunar mass",
+            "Neutron mass"
+        ],
+        "correct_answer": "b",
+        "note": "Masses of stars and galaxies are usually expressed in Solar mass. The solar mass ( M ) is a standard unit of mass in astronomy, equal to approximately 2×1030 kg."
+    },
+    {
+        "question": "The point in the orbit of a moon that is farthest from the Earth and at which the moon's velocity is at a minimum, the known as ________",
+        "options": [
+            "Apehelion",
+            "Apogee",
+            "Umbra",
+            "Perihelion"
+        ],
+        "correct_answer": "b",
+        "note": "The point in the orbit of a moon that is farthest from the Earth and at which the moon's velocity is at a minimum, the known as Apogee. The point in the Moon's orbit that is closest to the Earth is called the Perigee and the point farthest from the Earth is known as the Apogee."
+    },
+    {
+        "question": "The Contour line is those imaginary line which show?",
+        "options": [
+            "Areas of similar atmospheric pressure",
+            "Areas of similar temperature",
+            "Areas of similar height",
+            "Equal Sunning areas"
+        ],
+        "correct_answer": "c",
+        "note": "A contour line represents an imaginary line on the ground, above or below sea level. All points on the contour line are at the same elevation. The elevation represented by contour lines is the vertical distance above or below sea level."
+    },
+    {
+        "question": "Magnetic Meridian is a",
+        "options": [
+            "Line parallel to the equator of the Earth",
+            "Latitude",
+            "Line joining the geographic north and\ngeographic south of Earth",
+            "Plane passing through the magnetic north and\nmagnetic south of Earth"
+        ],
+        "correct_answer": "d",
+        "note": "Magnetic meridian is nothing but the vertical plane which passes through the axis of a freely suspended magnet. The direction of Earth’s magnetic field may not be horizontal and lies in the magnetic meridian. Magnetic meridian is an equivalent imaginary line connecting the magnetic south and north poles and can be taken as the horizontal component of magnetic force."
+    },
+    {
+        "question": "The location of a place A is at 60° E longitude and 30° S latitude while the location of B is at 60° E longitude and 45° N latitude. Time at B will be ________",
+        "options": [
+            "Half an hour behind A",
+            "Half an hour ahead of A",
+            "Half an hour ahead or behind that of A",
+            "The same as that of A"
+        ],
+        "correct_answer": "d",
+        "note": "The location of a place A is at 60° E longitude and 30° S latitude while the location of B is at 60° E longitude and 45° N latitude. Time at B will be the same as that of A."
+    },
+    {
+        "question": "The imaginary lines which connects the places of same temperature are called",
+        "options": [
+            "Isobar",
+            "Isohyet",
+            "Isohaline",
+            "Isotherm"
+        ],
+        "correct_answer": "d",
+        "note": "The places which have similar temperature are connected by imaginary line known as Isotherm."
+    },
+    {
+        "question": "The imaginary line which connects places of similar height on map, are?",
+        "options": [
+            "Hachure",
+            "Contour",
+            "Spot-Height",
+            "Isometric"
+        ],
+        "correct_answer": "b",
+        "note": "Contour lines are isolines joining places that have the same height value. Another common isoline is the isobar, a line that joins places with the same atmospheric pressure."
+    },
+    {
+        "question": "When does tides rise in sea?",
+        "options": [
+            "Only on lunar day",
+            "Full Moon and half Moon",
+            "When Moon is on first phase",
+            "Only half Moon"
+        ],
+        "correct_answer": "b",
+        "note": "Tides rise in sea in Full Moon and half Moon. The moon and sun are primarily responsible for the rising and falling of ocean tides."
+    },
+    {
+        "question": "The position of the earth in its orbit, when it is at its greatest distance from the Sun causing summer in the Northern hemisphere is ________",
+        "options": [
+            "Perihelion",
+            "Aphelion",
+            "Perigee",
+            "Apogee"
+        ],
+        "correct_answer": "b",
+        "note": "The position of the earth in its orbit, when it is at its greatest distance from the Sun causing summer in the Northern hemisphere is Aphelion. Earth’s aphelion comes in the midst of Northern Hemisphere summer and Southern Hemisphere winter."
+    },
+    {
+        "question": "The deflection of the winds to the right in the northern hemisphere is caused by",
+        "options": [
+            "Revolution of the Earth",
+            "Rotation of the Earth",
+            "Uneven heating of the Earth",
+            "All the above"
+        ],
+        "correct_answer": "b",
+        "note": "Because of the rotation of Earth from west to east, the winds are deflected towards right in the Northern hemisphere & towards left in the Southern hemisphere. This is also known as Coriollis Effect."
+    },
+    {
+        "question": "Variation in duration of day and night is due to:\n1. rotation of earth on its axis\n2. revolution of earth around the sun\n3. inclination of earth at an angle of 66%.",
+        "options": [
+            "1and 2",
+            "2 and 3",
+            "1 and 3",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "b",
+        "note": "Variation in duration of day and night is due to revolution of earth around the sun and inclination of earth at an angle of 66%."
+    },
+    {
+        "question": "The axis of rotation of earth is tilted by 23.5° to the plane of revolution around the sun. The latitude of Mumbai is less than 23.5° whereas the latitude of Delhi is more than 23.5°. Which one of the following statements in this regard is correct?",
+        "options": [
+            "The sun can come overhead at both these places",
+            "The sun will never come overhead at either of these places",
+            "At Mumbai the sun can come overhead, but it will never do so at Delhi",
+            "At Delhi the sun can come overhead but it will never do so at Mumbai"
+        ],
+        "correct_answer": "c",
+        "note": "At Mumbai the sun can come overhead, but it will never do so at Delhi. If you look at a map you'll see that Delhi is a bit north of the tropic of cancer, so there is never a time in Delhi when the sun will be directly overhead."
+    },
+    {
+        "question": "The point below the surface where an earthquake originates is called ________.",
+        "options": [
+            "Tsunamis",
+            "Focus",
+            "Epicentre",
+            "Eye of the Earthquake"
+        ],
+        "correct_answer": "b",
+        "note": "The focus is also called the hypocenter of an earthquake. The vibrating waves travel away from the focus of the earthquake in all directions."
+    },
+    {
+        "question": "The distance between two consecutive longitudes (91° E and 92° E) at the Poles is",
+        "options": [
+            "0 km",
+            "18 km",
+            "25 km",
+            "111 km"
+        ],
+        "correct_answer": "a",
+        "note": "The distance between two consecutive longitudes(91° E and 92° E) at the Poles is 0 km."
+    },
+    {
+        "question": "The place which has the longest day and the shortest night on 22nd December, is ________",
+        "options": [
+            "Chennai",
+            "Madrid",
+            "Melbourne",
+            "Moscow"
+        ],
+        "correct_answer": "c",
+        "note": "The place which has the longest day and shortest night on 22 December is Melbourne."
+    },
+    {
+        "question": "Which of the following is caused by the combine deffects of the gravitational forces exerted by the Moon and the Sun on sea levels?",
+        "options": [
+            "Currents",
+            "Runoff",
+            "Tides",
+            "Waves"
+        ],
+        "correct_answer": "c",
+        "note": "Tides are the rise and fall of sea levels caused by the combined effects of the gravitational forces exerted by the Moon and the Sun, and the rotation of the Earth."
+    },
+    {
+        "question": "Which of the following phenomenon is/are the effect of the rotation of the Earth?\n1. Apparent movement of the Sun, the Moon and the Stars.\n2. Flatness of the poles and bulge at the Equator.\n3. Occurrence of sunrise, noon and sunset\n4. Magnetic field of the earth.",
+        "options": [
+            "1 and 3",
+            "2 and 3",
+            "1, 2 and 3",
+            "1, 2, 3 and 4"
+        ],
+        "correct_answer": "d",
+        "note": "The following phenomenon are the effect of the rotation of the Earth are Apparent movement of the Sun, the Moon and the Stars, Flatness of the poles and bulge at the Equator, Occurrence of' sunrise, noon and sunset and Magnetic field of the earth."
+    },
+    {
+        "question": "Japan is called 'land of the rising sun' because ________",
+        "options": [
+            "Sun rises there as soon as it sets",
+            "Sun always remains in the eastern part of the sky throughout the day in Japan",
+            "Japan being the Eastern most country in the World, it has the earliest sunrise",
+            "The rays of the sun get reflected from the waters of the sea and make the sunrise beautiful in Japan"
+        ],
+        "correct_answer": "c",
+        "note": "Japan being the Eastern most country in the World, it has the earliest sunrise. Japan has been recognized as the land of the rising sun for at least 1400 years. The actual name of Japan in Japanese is Nihon which means \"sun-origin\" which is loosely translated to mean \"land of the rising sun\"."
+    },
+    {
+        "question": "Which of the following celestial body contains Helium-4 in abundance?",
+        "options": [
+            "Earth",
+            "Moon",
+            "Venus",
+            "Saturn"
+        ],
+        "correct_answer": "a",
+        "note": "Celestial body Earth contains Helium-4 in abundance. Its abundance is similar to this figure in the Sun and in Jupiter. This is due to the very high nuclear binding energy (per nucleon) of helium-4 with respect to the next three elements after helium."
+    },
+    {
+        "question": "In the context of 'time' GMT means",
+        "options": [
+            "General Meridian Time",
+            "Greenwich Mean Time",
+            "Global Mean Time",
+            "None of these"
+        ],
+        "correct_answer": "b",
+        "note": "GMT is Greenwich Mean Time. It is the local time at zero degrees longitude in Greenwich, England and is used as the world reference for times at different longitudes around the globe."
+    },
+    {
+        "question": "One degree of longitude on the equator is equal to a distance of ________",
+        "options": [
+            "34.5 miles",
+            "50 miles",
+            "60 miles",
+            "69 miles"
+        ],
+        "correct_answer": "d",
+        "note": "One degree of longitude on the equator is equal to a distance of 69 miles."
+    },
+    {
+        "question": "How much is the difference of time between any two consecutive longitudes?",
+        "options": [
+            "10 minutes",
+            "14 minutes",
+            "4 minutes",
+            "30 minutes"
+        ],
+        "correct_answer": "c",
+        "note": "4 minutes is the difference of time between any two consecutive longitudes. The difference between the two longitudes that are adjacent is 4 minutes."
+    },
+    {
+        "question": "Albedo is defined as ________",
+        "options": [
+            "UV radiations sent out by the SUN",
+            "A substance contained in the upper atmospheric layers of the earth, which is responsible for the reflection of/a part of solar radiations",
+            "Celestial bodies in earth's atmosphere which add to the greenhouse effect",
+            "The amount of insolation reflected back to the space by the top of atmosphere, by clouds and ice-covered areas of the Earth's surface"
+        ],
+        "correct_answer": "d",
+        "note": "Albedo is defined as the amount of insolation reflected back to the space by the top of atmosphere, by clouds and ice-covered areas of the Earth's surface."
+    },
+    {
+        "question": "When the clock strikes 12:00 noon at Greenwich, it strikes 5:30 p.m. at place X on the same day. What is the meridian of longitude of place X ?",
+        "options": [
+            "97°30' E",
+            "97°30' W",
+            "82°30' E",
+            "82°30' W"
+        ],
+        "correct_answer": "c",
+        "note": "When the clock strikes 12:00 noon at Greenwich, it strikes 5:30 p.m. at place X on the same day. 82°30' E is the meridian of longitude of place X."
+    },
+    {
+        "question": "The approximate diameter of the earth is ________",
+        "options": [
+            "4,200 Km",
+            "6,400 Km",
+            "12,800 Km",
+            "15,600 Km"
+        ],
+        "correct_answer": "c",
+        "note": "The approximately diameter of Earth is 12800 km. The rotation of the planet has slightly flattened it out, so it has a larger diameter at the equator than at the poles. The equatorial diameter of Earth is 12,756 km, its polar diameter is 12,713 km, and its average diameter, which is referred to in common usage, is 12,742 km or 7,926 miles."
+    },
+    {
+        "question": "The speed of rotation of the earth is ________",
+        "options": [
+            "25 km/sec.",
+            "31 km/sec.",
+            "39.5 km/sec.",
+            "29.72 km/sec."
+        ],
+        "correct_answer": "d",
+        "note": "The speed of rotation of the earth is 29.72 km/sec."
+    },
+    {
+        "question": "The area of the Earth's total surface is of the order of ________.",
+        "options": [
+            "510 million square kilometres",
+            "450 million square kilometres",
+            "400 million square kilometres",
+            "350 million square kilometres"
+        ],
+        "correct_answer": "a",
+        "note": "The total surface area of the Earth is 510 million square km while that of India is 3.825 million square km."
+    },
+    {
+        "question": "The distance of the equator from either of the poles is ________",
+        "options": [
+            "500 km",
+            "5001 km",
+            "10,002 km",
+            "36,005 km"
+        ],
+        "correct_answer": "c",
+        "note": "The distance of the equator from either of the poles is 10,002 km."
+    },
+    {
+        "question": "The Earth rotates-around an axis pointing towards ________",
+        "options": [
+            "The moon",
+            "The pole star",
+            "The sun",
+            "Venus"
+        ],
+        "correct_answer": "b",
+        "note": "The Earth rotates-around an axis pointing towards the Pole star. The axis of rotation of the Earth passes very close to the Pole Star. The earth rotates around the sun, but the polar star is always in the north."
+    },
+    {
+        "question": "When a ship crosses Date line from west to east ________",
+        "options": [
+            "It loses one day",
+            "It gains one day",
+            "It loses half a day",
+            "It gains half a day"
+        ],
+        "correct_answer": "b",
+        "note": "When a ship crosses the International Date Line from west to east, it adds a day, and if it crosses the line from east to west, it subtracts a day."
+    },
+    {
+        "question": "Which of these statements are correct?\n1. Ocean currents are the slow-surface movement of water in the ocean\n2. Ocean currents assist in maintaining the Earth's heat balance\n3. Ocean currents are set in motion primarily by prevailing winds\n4. Ocean current are affected by the configuration of the ocean",
+        "options": [
+            "1 and 2",
+            "2, 3 and 4",
+            "1, 3 and 4",
+            "1, 2, 3 and 4"
+        ],
+        "correct_answer": "b",
+        "note": "The Ocean currents are not only slow but also could be fast, so 2, 3 and 4 statements are correct."
+    },
+    {
+        "question": "________ is a natural electrical phenomenon characterized by the appearance of streams of reddish or greenish light in the sky, especially near the northern or southern magnetic pole",
+        "options": [
+            "Acaulis",
+            "Matus",
+            "Albopictus",
+            "Aurora"
+        ],
+        "correct_answer": "d",
+        "note": "Aurora is a natural electrical phenomenon characterized by the appearance of streams of reddish or greenish light in the sky, especially near the northern or southern magnetic pole. Aurora is a light display phenomenon which often takes place in the polar regions. In this phenomenon electrons collide with upper atmosphere of Earth and when  they cool down they release energy in the form of light."
+    },
+    {
+        "question": "The Tropic of Cancer does not pass through ________",
+        "options": [
+            "Egypt",
+            "Mexico",
+            "Oman",
+            "Yemen"
+        ],
+        "correct_answer": "d",
+        "note": "Apart from Oman, the Tropic of Cancer passes through the Bahamas, Mexico, Mauritania, Mali, Western Sahara, Algeria, Niger, Libya, Egypt, Saudi Arabia, India, China, UAE, Bangladesh, Burma and Taiwan. It passes through the United States in the Hawaiian region. It does not pass through Yemen."
+    },
+    {
+        "question": "The mapping of which of the following is most difficult ?",
+        "options": [
+            "Mountains",
+            "Plateaus and Plains",
+            "Interior of the Earth",
+            "Oceans and their depth"
+        ],
+        "correct_answer": "c",
+        "note": "The Earth's interior is composed of four layers, three solid and one liquid not magma but molten metal, nearly as hot as the surface of the sun. The mapping of interior of the Earth of the following is most difficult."
+    },
+    {
+        "question": "Which of the following statements is true?",
+        "options": [
+            "Arctic circle, antarctic circle and equator are great circles",
+            "Both equator and longitudes are great circles",
+            "Both latitudes and longitudes are great circles",
+            "Both equator and latitudes are great circles"
+        ],
+        "correct_answer": "b",
+        "note": "A great circle always divides the Earth in half, thus the Equator is a great circle (but no other latitudes) and all lines of longitude are great circles."
+    },
+    {
+        "question": "Which of the following are true regarding equinoxes? \n1. They occur on March 21st and September 23rd\n2. They depict equal days and equal nights on March 21st and September 23rd on all places of the earth\n3. All places on the earth have equal temperature during equinoxes.",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "a",
+        "note": "An equinox is an event in which a planet's subsolar point passes through its Equator. They occur on March 21 st and September and They depict equal days and equal. nights on March 21 st and September 23rd on all places of the earth."
+    },
+    {
+        "question": "In the earliest days when life originated on earth, the atmosphere contained ________",
+        "options": [
+            "Free oxygen",
+            "No oxygen",
+            "Oxygen in fixed form",
+            "Oxygen bound to carbon"
+        ],
+        "correct_answer": "d",
+        "note": "In the earliest days when life originated on earth, the atmosphere contained Oxygen bound to carbon."
+    },
+    {
+        "question": "Summer Solstice in the Southern Hemisphere occurs on ________",
+        "options": [
+            "21st December",
+            "01st September",
+            "01st June",
+            "01st March"
+        ],
+        "correct_answer": "a",
+        "note": "Summer Solstice in the Southern Hemisphere occurs on 21st December."
+    },
+    {
+        "question": "Solar eclipse occurs when ________",
+        "options": [
+            "Earth comes between sun and moon",
+            "Moon is at right angle to the earth",
+            "Moon comes between sun and earth",
+            "Sun comes between moon and earth"
+        ],
+        "correct_answer": "c",
+        "note": "A solar eclipse occurs when the moon gets between Earth and the sun, and the moon casts a shadow over Earth. A solar eclipse can only take place at the phase of new moon, when the moon passes directly between the sun and Earth and its shadows fall upon Earth's surface."
+    },
+    {
+        "question": "Which of the following statements is correct ?\n1. All meridians are of the same length\n2. All latitudes are of the same length\n3. The Prime Meridian is the longest meridian\n4. The Equator is the longest latitude",
+        "options": [
+            "1 and 2",
+            "2 and 3",
+            "3 and 4",
+            "1 and 4"
+        ],
+        "correct_answer": "d",
+        "note": "All meridians are of equal length; each is one-half the length of the equator. All meridians converge at the poles and are true north-south lines. The equator is located at 0° latitude, which means it is located at the circunference of Earth. Earth is shaped like a sphere, and the circumference of a sphere is the longest distance around any part of the sphere. Therefore, this makes the equator the longest line of latitude."
+    },
+    {
+        "question": "The Earth is an oblate spheroid and not a perfect sphere. This is because\n1. the Earth has a rotational motion and the rotational speed increases as one goes from the Poles towards the Equator.\n2. the Equator experiences greater gravitational pull from the Sun.\n3. the intensity of sunlight received at the Equator is greater than that at the Poles.",
+        "options": [
+            "1 only",
+            "1 and 2",
+            "3 only",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "b",
+        "note": "The Earth is an oblate spheroid and not a perfect sphere. This is because the Earth has a rotational motion and the rotational speed increases as one goes from the Poles towards the Equator and the Equator experiences greater gravitational pull from the Sun."
+    },
+    {
+        "question": "Which of the following countries are located on the Greenwich Meridian?\n1. Algeria\n2. Germany\n3. Guinea\n4. Iceland",
+        "options": [
+            "1 only",
+            "2 only",
+            "1, 2 and 3",
+            "1, 3 and 4"
+        ],
+        "correct_answer": "a",
+        "note": "he Greenwich Meridian, also known as the Prime Meridian, is the line of 0° longitude. It passes through Greenwich, London, and serves as the starting point for measuring both longitude and Coordinated Universal Time (UTC). Among the given options:\n\n\n    Algeria: Yes, it is located on the Greenwich Meridian.\n    Germany: No, Germany is located to the east of the Greenwich Meridian.\n    Guinea: No, Guinea is located to the west of the Greenwich Meridian.\n    Iceland: No, Iceland is located to the west of the Greenwich Meridian.\n\n\nTherefore, only option 1 (Algeria) is located on the Greenwich Meridian."
+    },
+    {
+        "question": "Owing to the equatorial bulge and the polar flattening, the polar radius of the earth falls short of the equatorial radius by about ________",
+        "options": [
+            "22 km",
+            "36 km",
+            "41 km",
+            "53 km"
+        ],
+        "correct_answer": "a",
+        "note": "Owing to the equatorial bulge and the polar flattening, the polar radius of the earth falls short of the equatorial radius by about 22 km."
+    },
+    {
+        "question": "Which one of the following is the correct sequence of the given continents in the decreasing order of their percentage of Earth's land?",
+        "options": [
+            "North America – Africa – South America – Europe",
+            "Africa – North America – South America – Europe",
+            "North America – Africa – Europe – South America",
+            "Africa – North America – Europe – South America"
+        ],
+        "correct_answer": "b",
+        "note": "The correct sequence of the given Continents in the decreasing order of their percentage of Earth's land are Africa – North America – South America – Europe."
+    },
+    {
+        "question": "What is the approximate equatorial circumference of the earth?",
+        "options": [
+            "30,000 Km",
+            "35,000 Km",
+            "40,000 Km",
+            "45,000 Km"
+        ],
+        "correct_answer": "c",
+        "note": "The approximate equatorial circumference of the earth is 40000 km."
+    },
+    {
+        "question": "Who among the following was first to measure the circumference of the Earth?",
+        "options": [
+            "Eratosthenes",
+            "Aristotle",
+            "Hecataeus",
+            "Herodotus"
+        ],
+        "correct_answer": "a",
+        "note": "Eratosthenes of Cyrene, 276 BC- 195 BC, was a Greek mathematician, geographer, poet, athlete, astronomer, and music theorist. He was the first person to use the word “geography” in Greek and he invented the discipline of geography as we understand it. He invented a system of latitude and longitude. He was the first person to calculate the circumference of the earth by using a measuring system using stades, or the length of stadiums during that time period (with remarkable accuracy)."
+    },
+    {
+        "question": "What is the circumference of the Earth?",
+        "options": [
+            "13,000 km",
+            "20,000 km",
+            "25,000 km",
+            "40,000 km"
+        ],
+        "correct_answer": "d",
+        "note": "The approximate equatorial circumference of the earth is 40000 km."
+    },
+    {
+        "question": "Who was the first to measure the circumference of the Earth?",
+        "options": [
+            "Erechtheus",
+            "Aegeus",
+            "Eratosthenes",
+            "Apheidas"
+        ],
+        "correct_answer": "c",
+        "note": "Eratosthenes was the first person to calculate the size of the earth. He was also the first person to use the word “Geography”."
+    },
+    {
+        "question": "Beirut time is two hours ahead and Lima time is five hours behind GMT. The longitudes of Beirut and Lima are respectively ________",
+        "options": [
+            "75° West and 30° East",
+            "70° East and 35° West",
+            "30° East and 75° West",
+            "35° West and 70° East"
+        ],
+        "correct_answer": "c",
+        "note": "Beirut time is two hours ahead and Lima time is five hours behind GMT. The longitudes of Beirut and Lima are respectively 30° East and 75° West."
+    },
+    {
+        "question": "The total surface area of earth is ________",
+        "options": [
+            "510 million sq km",
+            "610 million sq km",
+            "710 million sq km",
+            "810 million sq km"
+        ],
+        "correct_answer": "a",
+        "note": "The total surface area of the Earth is 510 million square km while that of India is 3.825 million square km."
+    },
+    {
+        "question": "The term 'syzygy' is referred to when the ________",
+        "options": [
+            "Earth is at perihelion and moon at perigee",
+            "Earth is at apehelion and moon at apogee",
+            "Moon and sun are at right angles with reference to the earth",
+            "Moon, sun and earth lie along a straight line"
+        ],
+        "correct_answer": "d",
+        "note": "An alignment of three celestial objects, as the sun, the earth, and either the moon or a planet:\nSyzygy in the sun-earth-moon system occurs at the time of full moon and new moon."
+    },
+    {
+        "question": "The Solar eclipse achieves totality only in limited geographical regions because ________",
+        "options": [
+            "The trajectories of the Earth around the Sun and the Moon around the Earth are not perfect circles",
+            "The size of the shadow of the Moon on the Earth is small compared to the cross-section of the Earth",
+            "Sun rays can reach most of the peripheral regions of the shadow of the moon due to atmospheric refraction",
+            "The Earth is not a smooth flat surface, but has elevations and depressions"
+        ],
+        "correct_answer": "b",
+        "note": "The Solar eclipse achieves totality only in limited geographical regions because the size of the shadow of the Moon on the Earth is small compared to the cross-section of the Earth."
+    },
+    {
+        "question": "The largest amount of reflection of the solar radiant energy which is reflected back into space before reaching the earth's surface is due to ________",
+        "options": [
+            "Clouds",
+            "Water-bodies",
+            "Snow and ice covered areas of the earth",
+            "All the above reflect nearly the same amount"
+        ],
+        "correct_answer": "a",
+        "note": "Twenty-four percent of incoming solar radiation is reflected by clouds, 4% by the Earth's surface. The largest amount of reflection of the solar radiant energy which is reflected back into space before reaching the earth's surface is due to clouds."
+    },
+    {
+        "question": "We always see the same surface of the Moon because",
+        "options": [
+            "It is smaller than the Earth",
+            "It rotates on its axis",
+            "It takes the same time to rotate on its axis\nand moving around the Earth",
+            "It moves with the same speed at which Earth\nmoves around the Sun"
+        ],
+        "correct_answer": "c",
+        "note": "We only see one side of the moon because the moon rotates around the Earth at the exact same speed as it rotates around its own axis, so that the same side of the moon is constantly facing the surface of the earth."
+    },
+    {
+        "question": "Which of the following phenomenon gives an evidence for the spherical shape of the earth?",
+        "options": [
+            "Solar eclipse",
+            "Revolution",
+            "Lunar eclipse",
+            "Rotation of Earth"
+        ],
+        "correct_answer": "b",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "When the Earth is at the maximum distance from the Sun, it is called",
+        "options": [
+            "Aphelion",
+            "Perihelion",
+            "Equinox",
+            "Sidereal"
+        ],
+        "correct_answer": "a",
+        "note": "The furthest point is called aphelion. The aphelion is the point in the orbit of an object where it is farthest from the Sun. The word aphelion derives from the Greek words, apo meaning away, off, apart and Helios."
+    },
+    {
+        "question": "In how much time, Earth rotates once on its axis?",
+        "options": [
+            "23 hours 30 minutes",
+            "23 hours 56 minutes 4.9 sec",
+            "23 hours 10 minutes 2 sec",
+            "24 hours"
+        ],
+        "correct_answer": "b",
+        "note": "Earth rotates once in about 24 hours with respect to the Sun, but once every 23 hours, 56 minutes, and 4.9 seconds with respect to other, distant, stars."
+    },
+    {
+        "question": "The Earth is tilted on its axis",
+        "options": [
+            "23.5°",
+            "22.5°",
+            "21. 5°",
+            "20°"
+        ],
+        "correct_answer": "a",
+        "note": "The axis of rotation of the Earth is tilted at an angle of 23.5° away from vertical, perpendicular to the plane of our planet's orbit around the sun."
+    },
+    {
+        "question": "The earth's annual circuit round the sun covers a distance of ________",
+        "options": [
+            "1,096 million kms",
+            "1,036 million kms",
+            "966 million kms",
+            "896 million kms"
+        ],
+        "correct_answer": "c",
+        "note": "The earth's annual circuit round the Sun covers a distance of 966 million km."
+    },
+    {
+        "question": "The mean radius of the earth is approximately ________",
+        "options": [
+            "3200 km",
+            "6400 km",
+            "9600 km",
+            "12800 km"
+        ],
+        "correct_answer": "b",
+        "note": "The mean radius of the earth is approximately 6400 km."
+    },
+    {
+        "question": "When would you record the maximum angle of incidence of the sun's rays at the north pole?",
+        "options": [
+            "March 21",
+            "September 21",
+            "When the sun's rays fall vertically on the Tropic of Cancer",
+            "When the sun's rays fall vertically on the Tropic of Capricorn"
+        ],
+        "correct_answer": "c",
+        "note": "When the sun's rays fall vertically on the Tropic of Cancer we can record the maximum angle of incidence of the sun's rays at the north pole."
+    },
+    {
+        "question": "How many kilometers are represented by 1° of latitude?",
+        "options": [
+            "321 km",
+            "211 km",
+            "111 km",
+            "91 km"
+        ],
+        "correct_answer": "c",
+        "note": "Around 111 kilometres( approximately ). It varies from 110.56 kms at the equator to 111.69 at the poles due to the ellipsoid shape of the earth."
+    },
+    {
+        "question": "When does solar eclipse take place?",
+        "options": [
+            "When the Sun is between the Moon and Earth",
+            "When the Earth is between the Moon and Sun",
+            "When the Moon is between the Sun and Earth",
+            "When the Moon does not lie on the line joining\nthe Sun and Earth"
+        ],
+        "correct_answer": "c",
+        "note": "A solar eclipse occurs when the moon gets between Earth and the sun, and the moon casts a shadow over Earth. A solar eclipse can only take place at the phase of new moon, when the moon passes directly between the sun and Earth and its shadows fall upon Earth's surface."
+    },
+    {
+        "question": "What is the position of the Earth when it is at the greatest distance from the Sun?",
+        "options": [
+            "Aphelion",
+            "Antipode",
+            "Perihelion",
+            "Aldiatc"
+        ],
+        "correct_answer": "a",
+        "note": "Earth is farther from the sun today (July 6) than at any other time of the year. On 4th July, Earth is farthest from Sun and this phenomenon is called Aphelion. This happens because Earth orbits round the Sun elliptically."
+    },
+    {
+        "question": "The planet which has the highest surface temperature is",
+        "options": [
+            "Jupiter",
+            "Earth",
+            "Pluto",
+            "Venus"
+        ],
+        "correct_answer": "d",
+        "note": "The greenhouse effect on Venus causes the temperatures at its surface to reach 864° Fahrenheit (462° Celsius), making Venus the hottest planet in the entire Solar System."
+    },
+    {
+        "question": "On which of the following date/dates, Winter Solstice is observed in Northern Hemisphere?\nI. 21st December\nII. 5th August\nIII. 10th January",
+        "options": [
+            "Only 1",
+            "1 and 2 Both",
+            "Only 3",
+            "Only 2"
+        ],
+        "correct_answer": "a",
+        "note": "Winter Solstice is the day on which Sun shines directly above the Tropic of Capricorn. Although, normally the date is 22nd December, but as per question the closest option available 21st December."
+    },
+    {
+        "question": "Sandstone is metamorphosed to",
+        "options": [
+            "Shale",
+            "Slate",
+            "Quartzite",
+            "Marble"
+        ],
+        "correct_answer": "c",
+        "note": "Sandstone can change into quartzite by becoming a metamorphic rock. Sandstone is a sedimentary rock, a type of rock that is made through solidification of sediment layers. In order for sandstone to become quartzite, this rock needs to experience heat and pressure. Most sandstone that has become quartzite was found near compression zones of plate tectonics."
+    },
+    {
+        "question": "Heat received by earth from the Sun is known as ________",
+        "options": [
+            "Insolation",
+            "Solar heat",
+            "Solar radiation",
+            "Thermal radiation"
+        ],
+        "correct_answer": "c",
+        "note": "The heat is derived from solar energy, normally called solar radiation. Insolation is the solar radiation that reaches the earth's surface."
+    },
+    {
+        "question": "The boundary between Earth's Crust and Mantle is ________.",
+        "options": [
+            "Moho discontinuity",
+            "Lehman discontinuity",
+            "Conrad discontinuity",
+            "Gutenberg discontinuity"
+        ],
+        "correct_answer": "a",
+        "note": "The boundary between the Earth's Crust and Mantle is referred to as Mohorovicic or simply Moho discontinuity. It lies 35 Km below continents & 7 Km beneath the ocean crust."
+    },
+    {
+        "question": "Which of the following statements with regard to the term 'great circle' is not correct?",
+        "options": [
+            "Equator is a great circle",
+            "A ship can save fuel and time by following the great circle arc between two points",
+            "Only one great circle can be drawn on a sphere",
+            "A great circle results when a plane passes through the centre of a sphere"
+        ],
+        "correct_answer": "c",
+        "note": "Any circle that passes through two points that are opposite each other on a sphere. Many great circle can be drawn on a sphere."
+    },
+    {
+        "question": "Which of the following is the best definition of 'Tides' ?",
+        "options": [
+            "A powerful movement of the ocean which proceed constantly in a definite direction",
+            "A great circulatory movement of sea water caused by difference in density of sea water",
+            "A periodic rise and fall of sea water caused by the gravitational force of moon and sun on earth",
+            "A wind and pressure system having a low pressure in centre and circular wind motion"
+        ],
+        "correct_answer": "c",
+        "note": "Tides are periodic rises and falls of large bodies of water. A periodic rise and fall of sea water caused by the gravitational force of moon and sun on earth."
+    },
+    {
+        "question": "Which of the following are true regarding the Prime meridian?\n1. It passes through the centre of a certain country\n2. It passes through the centre of the Globe\n3. It passes through the observatory at Greenwich, near London.",
+        "options": [
+            "1 and 2",
+            "1 and 3",
+            "1, 2 and 3",
+            "2 and 3"
+        ],
+        "correct_answer": "c",
+        "note": "The following that are true regarding the Prime meridian are that it passes through the centre of a certain country,  it passes through the centre of the Globe and it passes through the observatory at Greenwich, near London."
+    },
+    {
+        "question": "If there are four places on the same meridian 500 km apart and the local time at one place is 12.00 noon, what will be the time at the three other places?",
+        "options": [
+            "12.00 noon",
+            "1.00 pm",
+            "2.00 pm",
+            "Different time at different places"
+        ],
+        "correct_answer": "a",
+        "note": "If there are four places on the same meridian 500km apart and the local time at one place is 12.00 noon, 12.00 noon will be the time at the three other places."
+    },
+    {
+        "question": "Assume that the moon takes exactly 30 days to complete the cycle and also assume that it rises in the east exactly at 6.48 p.m., on the first day. On the fourth day, at what time will it rise?",
+        "options": [
+            "8.24 p.m",
+            "9. 12 p.m",
+            "10.00 p.m",
+            "11.48 p.m"
+        ],
+        "correct_answer": "c",
+        "note": "The moon takes exactly 30 days to complete the cycle and it rises in the east exactly at 6.48 p.m., on the first day. On the fourth day, it rise at 10.00 p.m."
+    },
+    {
+        "question": "One day in Mumbai a tide occurs at 8.00 A.M. The next day it will occur at ________",
+        "options": [
+            "8.13 AM",
+            "8.26 AM",
+            "8.52 AM",
+            "8.56 AM"
+        ],
+        "correct_answer": "c",
+        "note": "Tides are caused by the gravitational pull of the moon and the sun on Earth's oceans. The tidal pattern follows a roughly 24-hour and 50-minute cycle. Each day, the tide occurs about 50 minutes later than the previous day. This phenomenon is due to the rotation of the Earth in relation to the moon's position. As a result, the high tide occurring at 8:00 A.M. on one day will occur approximately 50 minutes later, at 8:52 A.M., on the next day. This gradual delay in the timing of tides is known as the \"lunar day.\""
+    },
+    {
+        "question": "Consider the following statements: While it is 6.30 AM (Sunday) in London, it is around\n1. 2.30 AM (Sunday) in Honolulu (Hawaii)\n2. 8.30 PM (Saturday) in Honolulu (Hawaii)\n3. 3.30 PM (Sunday) in Tokyo\n4. 1.30 AM (Sunday) in Tokyo\nWhich of these statements is/are correct?",
+        "options": [
+            "4 only",
+            "2 and 3",
+            "1 and 4",
+            "2 and 4"
+        ],
+        "correct_answer": "b",
+        "note": "While it is 6.30 AM (Sunday) in London, it is around 8.30 PM (Saturday) in Honolulu (Hawaii) and 3.30 PM (Sunday) in Tokyo. London, UK is 10 hours ahead of Hawaii, USA and Tokyo, Japan is 9 hours ahead of London, UK."
+    },
+    {
+        "question": "Which of the following pairs of metals are supposed to constitute the internal core of the earth?",
+        "options": [
+            "Chromium and Iron",
+            "Magnesium and Lead",
+            "Iron and Copper",
+            "Nickel and Iron"
+        ],
+        "correct_answer": "d",
+        "note": "The outer core is believed to be made up of iron nickel is because of the theory of paleomagnetism. The change in the magnetic poles all through different geological eras."
+    },
+    {
+        "question": "Which of the following statements regarding the earth's axis are true?\n1. It makes an angle of 23.5o with the plane of ecliptic\n2. It maintains a flexible orientation with respect to the stars\n3. It is the most important fact connected with Earth-Sun relationship",
+        "options": [
+            "1 and 2",
+            "2 and 3",
+            "1 and 3",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "c",
+        "note": "The following statements that are true regarding the earth's axis are that it makes an angle of 23.5o with the plane of ecliptic and it is the most important fact connected with Earth-Sun relationship."
+    },
+    {
+        "question": "On which day, Earth is closest to the Sun?",
+        "options": [
+            "23-09-2019",
+            "03-01-2019",
+            "04-07-2019",
+            "21-03-2019"
+        ],
+        "correct_answer": "b",
+        "note": "Due to elliptical path, distance of Earth from Sun keeps changing. It is nearest to Sun on 3rd January known as Perihelion."
+    },
+    {
+        "question": "On December 22, the sun:\n1. is not visible at north pole\n2. is only visible for a few minutes at the Antarctic Circle\n3. rises south of east and sets south of west at the Tropic of Cancer\n4. rises south of east and set south of west at the equator",
+        "options": [
+            "1 and 3",
+            "2, 3 and 4",
+            "1, 3 and 4",
+            "1, 2, 3 and 4"
+        ],
+        "correct_answer": "c",
+        "note": "On December 22, the sun is not visible at north pole, rises south of east and sets south of west at the Tropic of Cancer and rises south of east and set south of west at the equator."
+    },
+    {
+        "question": "If a traveller going from Vancouver to Tokyo crosses the International Date Line on Saturday, what will be the day for him at Tokyo?",
+        "options": [
+            "Friday",
+            "Saturday",
+            "Sunday",
+            "Monday"
+        ],
+        "correct_answer": "c",
+        "note": "If a traveller going from Vancouver to Tokyo crosses the International Date Line on Saturday, Sunday will be the day for him at Tokyo."
+    },
+    {
+        "question": "Latitude of a point on the earth is measured by the distance in ________",
+        "options": [
+            "Kilometers from the poles",
+            "Kilometers from the equator",
+            "Angles from the poles",
+            "Angles from the equator"
+        ],
+        "correct_answer": "d",
+        "note": "Latitude of a point on the earth is measured by the distance in angles from the equator. Latitude refers to the angle of a given point measured from the equator and with a vertex at or near the center of the earth (depending on the type of latitude measured). As you move north or south, the latitude will increase from 0° to 90."
+    },
+    {
+        "question": "The local time at A is 4 pm, when Greenwich Mean Time is 2 p.m. This indicates:\n1. A is east of Greenwich\n2. the longitude of A is 30°",
+        "options": [
+            "Only I",
+            "Only II",
+            "Neither I nor II",
+            "Both I and II"
+        ],
+        "correct_answer": "d",
+        "note": "The local time at A is 4 pm, when Greenwich Mean Time is 2 p.m. This indicates that A is east of Greenwich and the longitude of A is 30°."
+    },
+    {
+        "question": "Marble is the metamorphosed form of",
+        "options": [
+            "Shale",
+            "Basalt",
+            "Sandstone",
+            "Limestone"
+        ],
+        "correct_answer": "d",
+        "note": "Marble is a metamorphic rock formed when limestone is exposed to high temperatures and pressures. Marble forms under such conditions because the calcite forming the limestone recrystallises forming a denser rock consisting of roughly equigranular calcite crystals."
+    },
+    {
+        "question": "Which of the following line represents the line which connects the places of equal rain?",
+        "options": [
+            "Isohypse",
+            "Isohalines",
+            "Isobar",
+            "Isohyets"
+        ],
+        "correct_answer": "d",
+        "note": "An isohyet is a line on a map which connects points that have the same amounts of precipitation in a given period or for a particular storm."
+    },
+    {
+        "question": "The latitude of a place is the same as the ________",
+        "options": [
+            "Maximum altitude attained by the Sun at noon",
+            "Altitude of the celestial pole",
+            "Angle between the horizon and the equator",
+            "Zenith distance of the full moon when on the meridian"
+        ],
+        "correct_answer": "d",
+        "note": "Having the meridian zenith distance and declination, the latitude of a place is the same as the Zenith distance of the full moon when on the meridian."
+    },
+    {
+        "question": "What is the study of Moon called?",
+        "options": [
+            "Selenology",
+            "Cosmology",
+            "Iridology",
+            "Planetology"
+        ],
+        "correct_answer": "a",
+        "note": "In Greek, our moon is named \"Selene,\" as is the moon goddess of ancient Greek mythology. The English word \"selenology,\" or the study of the moon's geology, derives from it."
+    },
+    {
+        "question": "Magma that reaches earth's surface and then solidifies is called",
+        "options": [
+            "Granite",
+            "Lava",
+            "Quartz",
+            "Silicates"
+        ],
+        "correct_answer": "b",
+        "note": "Magma that reaches the earth's surface and then solidifies is known as the lava."
+    },
+    {
+        "question": "Consider a specific point on the surface of the earth (say Delhi). The temperature at a given time of day (say 12.00 Noon) will in general be higher in summer than in winter. This is because ________",
+        "options": [
+            "The evaporation of water from atmosphere results in precipitation occurring in winter alone",
+            "Sun-rays falling on the earth are inclined more towards the sun in winter",
+            "The earth is closer to the sun in summer than in winter",
+            "The axis of the earth is inclined more towards the sun in winter"
+        ],
+        "correct_answer": "b",
+        "note": "The temperature at a given time of day (say 12.00 Noon) will in general be higher in summer than in winter. This is because Sun-rays falling on the earth are inclined more towards the sun in winter."
+    },
+    {
+        "question": "Which of the following are true regarding the crust of the earth?\nI. It is the outer thin layer with a total thickness of about 100 km\nII. It forms around 0.5% of the earth's volume\nIII. The outer covering of the crust is of sedimentary material\nIV. The lower layer of the crust consists of basaltic and ultra-basic rocks",
+        "options": [
+            "I and II",
+            "I, II and III",
+            "I, II and IV",
+            "I, II, III and IV"
+        ],
+        "correct_answer": "c",
+        "note": "The following that are true regarding the crust of the earth are that it is the outer thin layer with a total thickness of about 100 km, it forms around 0.5% of the earth's volume and the lower layer of the crust consists of basaltic and ultra-basic rocks."
+    },
+    {
+        "question": "Which one of the following minerals occurs abundantly in the Earth's crust?",
+        "options": [
+            "Bauxite",
+            "Silica",
+            "Manganese",
+            "Iron"
+        ],
+        "correct_answer": "b",
+        "note": "Silica, also called silicon dioxide, compound of the two most abundant elements in Earth's crust, silicon and oxygen, SiO2. The mass of Earth's crust is 59% silica, the main constituent of more than 95% of the known rocks."
+    },
+    {
+        "question": "The acceleration due to gravity at the equator",
+        "options": [
+            "Is less than that at the poles",
+            "Is greater than that at the poles",
+            "Is equal to that at the poles",
+            "Does not depend on the Earth centripetal\nacceleration"
+        ],
+        "correct_answer": "a",
+        "note": "The effective acceleration of gravity at the poles is 980.665 cm/sec/sec while at the equator it is 3.39 cm/sec/sec less due to the centrifugal force."
+    },
+    {
+        "question": "\"Mohs' Scale\" is used to indicate the ________",
+        "options": [
+            "Degree of brittleness of a substance",
+            "Degree of hardness of minerals.",
+            "Degree of viscosity of a liquid",
+            "Degree of elasticity of a material"
+        ],
+        "correct_answer": "b",
+        "note": "Mohs scale is a scale used to measure the relative hardness of a mineral by its resistance to scratching. From softest to hardest, the ten minerals of the Mohs scale are talc (measuring 1 on the scale), gypsum, calcite, fluorite, apatite, orthoclase, quartz, topaz, corundum, and diamond (measuring 10 on the scale)."
+    },
+    {
+        "question": "The latitude of a place expresses its angular position relative to the place of ________",
+        "options": [
+            "Axis of the earth",
+            "Equator",
+            "North pole",
+            "South pole"
+        ],
+        "correct_answer": "b",
+        "note": "The latitude of a place expresses its angular position relative to the place of Equator. The latitude of a place expresses its angular position relative to Equatorial Plane."
+    },
+    {
+        "question": "The Earth turns through 360° in 24 hours. Each 15° longitude represents ________",
+        "options": [
+            "Half an hour",
+            "Forty five minutes",
+            "One hour",
+            "One hour fifteen minutes"
+        ],
+        "correct_answer": "c",
+        "note": "It takes 24 hours for the sun to go through the full 360° around the world, so an hour of time is equal to 15° of longitude."
+    },
+    {
+        "question": "World's longest land border is between which two contries?",
+        "options": [
+            "Australia and New Zealand",
+            "India and China",
+            "Switzerland and Italy",
+            "Canada and USA"
+        ],
+        "correct_answer": "d",
+        "note": "Canada's border with the United States is the world's longest international border, at 8,890 km."
+    },
+    {
+        "question": "What is the term used for the day on 23 September when day and night are equal throughout the world?",
+        "options": [
+            "Autumnal Equinox",
+            "Astronomical Equinox",
+            "Winter Solstice",
+            "Spring Equinox"
+        ],
+        "correct_answer": "a",
+        "note": "Equinoxes occurs twice in a year. The day and night on this day are equal through out the globe as the Sun is exactly above the equator on this day. This phenomenon occuring on 21 March is Spring equinox and other occuring on 23 September is Autumnal Equinox as the Sun is heading towards Tropic of Capricorn."
+    },
+    {
+        "question": "When it is noon along 82° 30' longitude, along what degree of longitude it will be 6.30 a.m.?",
+        "options": [
+            "Along 165° E",
+            "Along 67° 30' W",
+            "0° E or W",
+            "Along 82° 31' W"
+        ],
+        "correct_answer": "c",
+        "note": "When it is noon along 82° 30' longitude, along 0° E or W degree of longitude it will be 6.30 a.m. The Earth has been divided into 24 time zones of one hour each. Each of these zones covers 15° of longitude."
+    },
+    {
+        "question": "The Gutenberg discontinuity is between ________",
+        "options": [
+            "The crust and the mantle",
+            "The upper and lower mantles",
+            "The outer core and the lower mantle",
+            "The inner and outer cores"
+        ],
+        "correct_answer": "c",
+        "note": "Gutenberg established an accurate boundary line or discontinuity that separates and divides the lower mantle from the outer core. The lower mantle above the Gutenberg line is solid, but the outer core below the line is liquid molten."
+    },
+    {
+        "question": "The approximate circumference of the Earth is",
+        "options": [
+            "13,000 km",
+            "20,000 km",
+            "25,000 km",
+            "40,000 km"
+        ],
+        "correct_answer": "d",
+        "note": "The approximate circumference of the Earth is 40,000 km. The circumference of the Earth in kilometers is 40,075 km, and the circumference of the Earth in miles is 24,901."
+    },
+    {
+        "question": "How many Geo-synchronous satellites are required for uninterrupted world broadcasting?",
+        "options": [
+            "3",
+            "4",
+            "2",
+            "1"
+        ],
+        "correct_answer": "a",
+        "note": "In theory, 2 satellites in diametrically opposite geo-synchronous orbits could cover the planet. In order for the satellites to communicate, a minimum of 3 would be needed, each at a 60° angle to the others. At this point, the strength and quality of coverage increases proportionally to the number of satellites."
+    },
+    {
+        "question": "What is known as High Pressure Subtropical Latitude?",
+        "options": [
+            "Roaring forties",
+            "Furious fifties",
+            "Screaming sixties",
+            "Horse latitudes"
+        ],
+        "correct_answer": "d",
+        "note": "The horse latitudes are subtropical regions known for calm winds and little precipitation. The horse latitudes are regions located at about 30° north and south of the equator. These latitudes are characterized by calm winds and little precipitation."
+    },
+    {
+        "question": "Consider the following statements:1. The tropical year is shorter than the sidereal year.\n2. The solar day is longer than the sidereal day.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "The tropical year is shorter than the sidereal year. A sidereal year is the time it takes for the sun to return to the same position with respect to the stars. The solar day is longer than the sidereal day. Because of the Earth's revolution, a solar day is slightly longer than a sidereal day."
+    },
+    {
+        "question": "The Synchronous satellite moves around the Earth from",
+        "options": [
+            "East to West",
+            "West to East",
+            "North to South",
+            "South to North"
+        ],
+        "correct_answer": "b",
+        "note": "Synchronous satellite is an artificial satellite moving in circular orbit round the Earth in 24 hours duration along with the rotatory movement of Earth i.e. west to east."
+    },
+    {
+        "question": "What is 'Sidereal Day'?",
+        "options": [
+            "The day on which the duration of sunshine is the maximum",
+            "The day on which the duration of sunshine and darkness are equal",
+            "The time during which the earth makes a complete rotation on its axis in respect of the fixed stars",
+            "The day on which the sun reaches its maximum distance from the equator"
+        ],
+        "correct_answer": "c",
+        "note": "The time during which the earth makes a complete rotation on its axis in respect of the fixed stars is known as 'Sidereal Day'. The sidereal day is the time it takes for the Earth to complete one rotation about its axis with respect to the 'fixed' stars."
+    },
+    {
+        "question": "The earth revolves round the sun in its orbit by approximately ________",
+        "options": [
+            "1° per day",
+            "2° per day",
+            "3° per day",
+            "5° per day"
+        ],
+        "correct_answer": "a",
+        "note": "The earth revolves round the sun in its orbit by approximately 1° per day."
+    },
+    {
+        "question": "The equatorial circumference is greater than the polar circumference by approximately ________",
+        "options": [
+            "22 km",
+            "67 km",
+            "125 km",
+            "625 km"
+        ],
+        "correct_answer": "b",
+        "note": "This results in the Earth having a polar circumference of 40008 km, and an equatorial circumference of 40075 km, a difference of 67 kilometers(approximately) ."
+    },
+    {
+        "question": "Why does Russia have many local time differences?",
+        "options": [
+            "Because it keeps trade relations with many countries of the world",
+            "Because it experiences a wide range of climatic conditions",
+            "Because of its long east-west stretches",
+            "Because it is divided into a number of states on political grounds"
+        ],
+        "correct_answer": "c",
+        "note": "Russia currently has 11 time zones, from the Kaliningrad Oblast, a Baltic enclave in the west, to the Kamchatka Krai in the Far East. Because of its long east-west stretches Russia have many local time differences."
+    },
+    {
+        "question": "Lunar eclipse does not occur every month because ________",
+        "options": [
+            "The sun's orbit is not always in the same plane as the moon",
+            "The moon revolves at a slower speed than the earth",
+            "The moon's orbit is not all the time in the same plane as the earth",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "They do not happen every month because the Earth's orbit around the sun is not in the same plane as the Moon's orbit around the Earth."
+    },
+    {
+        "question": "A person sets off from Alaska on a Tuesday and reaches New Zealand the next day which will be ________",
+        "options": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "correct_answer": "c",
+        "note": "A person sets off from Alaska on a Tuesday and reaches New Zealand the next day which will be Thursday."
+    }
+]

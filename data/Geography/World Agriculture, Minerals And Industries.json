@@ -1,0 +1,1498 @@
+[
+    {
+        "question": "Which of the following is a tropical monsoon crop?",
+        "options": [
+            "Wheat",
+            "Rice",
+            "Cotton",
+            "Maize"
+        ],
+        "correct_answer": "b",
+        "note": "India has three cropping seasons namely Rabi, Kharif, and Zaid. Kharif crops are also called monsoon crops because these crops are sown during the southwest monsoon season. Rice, maize, and pulses are the key Kharif crops."
+    },
+    {
+        "question": "Which one of the following processes of weathering belongs to both mechanical and chemical weathering?",
+        "options": [
+            "Crystallization",
+            "Exfoliation",
+            "Hydration",
+            "Carbonation"
+        ],
+        "correct_answer": "a",
+        "note": "Crystallization processes of weathering belongs to both mechanical and chemical weathering. Mechanical or physical weathering involves the breakdown of rocks and soils through direct contact with atmospheric conditions, such as heat, water, ice and pressure. Chemical weathering - process by which the internal structure of a mineral is altered by the addition or removal of elements."
+    },
+    {
+        "question": "Monsoon effect is also experienced in ________",
+        "options": [
+            "East Africa",
+            "Nile Basin",
+            "South Africa",
+            "West Africa"
+        ],
+        "correct_answer": "a",
+        "note": "Monsoon effect is also experienced in East Africa. The monsoon winds of eastern Africa, with their characteristic seasonal reversal from the northeast (NE) to the southeast (SE), are a major influence on the climate and seas, affecting weather patterns, rainfall and human activities."
+    },
+    {
+        "question": "The polar regions of the earth cannot support forest growth because ________",
+        "options": [
+            "The rainfall is very low",
+            "The growing season is short in these areas",
+            "The ground is often frozen or snow or ice-covered",
+            "All the above factors"
+        ],
+        "correct_answer": "d",
+        "note": "The polar regions of the earth cannot support forest growth because The rainfall is very low, The growing season is short in these areas and The ground is often frozen or snow or ice-covered."
+    },
+    {
+        "question": "________ influences the rate of weathering and humus in soil formation.",
+        "options": [
+            "Flora & Fauna",
+            "Time",
+            "Parent rock",
+            "Climate"
+        ],
+        "correct_answer": "d",
+        "note": "Climate influences the rate of weathering and humus in soil formation. Although amount of humus content depends on flora and fauna but rate of formation also depends upon climate. Weathering also is a insitu degradation of rocks due to erosional agents such as air, water and ice."
+    },
+    {
+        "question": "Scanty rainfall of less than 50 cm per annum is received by ________",
+        "options": [
+            "The coastal areas in the warm temperate zone",
+            "The eastern parts of the temperate lands",
+            "The areas of high latitudes",
+            "The areas of equatorial regions"
+        ],
+        "correct_answer": "c",
+        "note": "Scanty rainfall of less than 50 cm per annum is received by the areas of high latitudes. There are three such areas in India Northern Gujarat, western Rajasthan and the southern parts of Punjab-Haryana, The rain-shadow area of the Western Ghats and The desert of Ladakh."
+    },
+    {
+        "question": "Climate of a place is dependent on several factors. Which one of the following is the most significant?",
+        "options": [
+            "Distance from sea",
+            "Direction of winds",
+            "Latitude",
+            "Ocean currents"
+        ],
+        "correct_answer": "c",
+        "note": "Climate of a place is mainly dependent on Latitude. Therefore, higher latitudes receive less heat than lower latitude areas nearer the equator."
+    },
+    {
+        "question": "Daily weather map showing isobars is an example of",
+        "options": [
+            "Choropleth map",
+            "Isopleth map",
+            "Chorochromatic map",
+            "Choroschematic map"
+        ],
+        "correct_answer": "b",
+        "note": "Daily weather map showing isobars is an example of Isopleth map. Isopleth map shows an imaginary surface by means of lines joining points of equal values."
+    },
+    {
+        "question": "Which of the following statements about convectional rainfall are true?\n1. The areas of the world, having an equatorial type of climate, receive this kind of rainfall.\n2. It is usually torrential and accompanied by thunder and lightning.\n3. It is also known as 4 o'clock rain.",
+        "options": [
+            "1 and 2",
+            "2 and 3",
+            "1 and 3",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "d",
+        "note": "The following statements that are true about convectional rainfall are The areas of the world, having an equatorial type of climate, receive this kind of rainfall, It is usually torrential and accompanied by thunder and lightning and It is also known as 4 o'clock rain."
+    },
+    {
+        "question": "Which climatic region has the least temperature range?",
+        "options": [
+            "Equatorial region",
+            "Monsoon region",
+            "Tropical region",
+            "Mediterranean region"
+        ],
+        "correct_answer": "a",
+        "note": "Equatorial climatic region has the least temperature range. Equatorial climate is also referred to as tropical rainforest climate and is defined as a tropical climate usually (but not always) found along the equator."
+    },
+    {
+        "question": "The tropical deciduous trees shed their leaves in summer because",
+        "options": [
+            "Of the heat of the summer",
+            "The rainfall is inadequate",
+            "It prevents loss of moisture through transpiration",
+            "Deciduous trees shed leaves"
+        ],
+        "correct_answer": "c",
+        "note": "The tropical deciduous trees shed their leaves in summer because it prevents loss of moisture through transpiration. As this is a hot-dry season, the leaves get dry due to high temperature and deficiency of moisture causing these trees to shed their leaves."
+    },
+    {
+        "question": "What is the main activity of Eskimos during the short period of summer season?",
+        "options": [
+            "Hunting",
+            "Fishing",
+            "Lumbering",
+            "Animal Grazing"
+        ],
+        "correct_answer": "a",
+        "note": "Hunting is the main activity of Eskimos during the short period of summer season."
+    },
+    {
+        "question": "The temperature decreases towards poles, because ________",
+        "options": [
+            "At poles the snow does not melt",
+            "The cold regions do not absorb sun rays",
+            "The movement of cold wind is towards poles",
+            "The sun rays falling per unit area are less at poles"
+        ],
+        "correct_answer": "d",
+        "note": "The temperature decreases towards poles, because the sun rays falling per unit area are less at poles. The amount of insolation received on the earth’s surface is not uniform everywhere. It varies according to the place and time. When the tropical regions receive maximum annual insolation, it gradually decreases towards the poles. Insolation is more in summers and less in winters."
+    },
+    {
+        "question": "Seasonal contrast in temperature are minimum in the equatorial region because ________",
+        "options": [
+            "Sky is always overcast",
+            "Sun is almost vertically overhead throughout the year",
+            "Forests prevent sunlight from reaching the ground",
+            "Rainfall cool the atmosphere"
+        ],
+        "correct_answer": "b",
+        "note": "Seasonal contrast in temperature are minimum in the equatorial region because Sun is almost vertically overhead throughout the year."
+    },
+    {
+        "question": "Perspiration is maximum when temperature is ________",
+        "options": [
+            "Low and air is dry",
+            "Low and air is humid",
+            "High and air is dry",
+            "High and air is humid"
+        ],
+        "correct_answer": "d",
+        "note": "Perspiration is maximum when temperature is High and air is humid. As air temperature increases, air can hold more water molecules, and its relative humidity decreases. When temperatures drop, relative humidity increases. High relative humidity of the air occurs when the air temperature approaches the dew point value. Temperature therefore directly relates to the amount of moisture the atmosphere can hold."
+    },
+    {
+        "question": "Although hot deserts have a very low annual rainfall, occasional heavy rain storms do occur and these sometimes produce steep-sided, flat-floored valleys called ________",
+        "options": [
+            "Gorges",
+            "Wadi",
+            "Canyons",
+            "Barchans"
+        ],
+        "correct_answer": "b",
+        "note": "Although hot deserts have a very low annual rainfall, occasional heavy rain storms do occur and these sometimes produce steep-sided, flat-floored valleys called Wadi."
+    },
+    {
+        "question": "Which one of the following is the correct sequence of the climatic regions while going from Zaire to Netherlands?\n1. Equatorial climate\n2. Mediterranean climate\n3. Hot desert climate\n4. West European climate",
+        "options": [
+            "1, 3, 2, 4",
+            "1, 4, 2, 3",
+            "2, 3, 4, 1",
+            "3, 2, 1, 4"
+        ],
+        "correct_answer": "a",
+        "note": "The correct sequence of the climatic regions while going from Zaire to Netherlands are  Equatorial climate, Hot desert climate, Mediterranean climate. West and European climate."
+    },
+    {
+        "question": "A place having an average annual temperature of 27°C and an annual rainfall of over 200 cm. could be ________",
+        "options": [
+            "Tehran",
+            "Singapore",
+            "Nagpur",
+            "Moscow"
+        ],
+        "correct_answer": "b",
+        "note": "A place having an average annual temperature of 27°C and an annual rainfall of over 200 cm would be Singapore."
+    },
+    {
+        "question": "In which of the following types of climate does the temperature never rise above 10°C throughout the year?",
+        "options": [
+            "Continental Climate",
+            "Tundra Climate",
+            "Mediterranean Climate",
+            "Taiga Climate"
+        ],
+        "correct_answer": "b",
+        "note": "Polar climates like the tundra are characterized by very cold temperatures and generally dry conditions. Temperatures never rise above 10° C (50° F) during the summer. The tundra located near the Arctic and Antarctic Circle, experiences times when the Sun never rises above the horizon."
+    },
+    {
+        "question": "Consider the following statements about the 'Roaring Forties':\n1. They blow uninterrupted in the Northern and Southern Hemispheres\n2. They blow with great strength and constancy\n3. Their direction is generally from North-West to East in the Southern Hemisphere\n4. Overcast skies, rain and raw weather are generally associated with them",
+        "options": [
+            "1, 2 and 3",
+            "2, 3 and 4",
+            "1, 3 and 4",
+            "1, 2 and 4"
+        ],
+        "correct_answer": "b",
+        "note": "The statements about the 'Roaring Forties' are l They blow with great strength and constancy, Their direction is generally from North-West to East in the Southern Hemisphere and Overcast skies, rain and raw weather are generally associated with them."
+    },
+    {
+        "question": "The factors which determine the climate of a place are:\n1. Soil\n2. Latitude\n3. Altitude\n4. Vegetation",
+        "options": [
+            "2 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "3 and 4 only"
+        ],
+        "correct_answer": "c",
+        "note": "Latitude and Altitude determines the climate of a place. Latitude refers to the distance of a location of a place on the earth surface from the equator; while altitude describes how high a place is located above the sea level. Latitude and altitude are two primary factors known to affect variations in temperature on the earth surface because of unequal heating of the earth’s atmosphere."
+    },
+    {
+        "question": "Mediterranean climate prevails in",
+        "options": [
+            "Central Chile",
+            "Northern Chile",
+            "Peru",
+            "Argentina"
+        ],
+        "correct_answer": "a",
+        "note": "Mediterranean climate prevails in Central Chile. A Mediterranean climate prevails in central Chile, making it an ideal climate for grapes.There is a maritime climate in southern Chile. It rains a lot here and it gets very cold in winter. In summer it stays fresh and the wind blows throughout the year."
+    },
+    {
+        "question": "Which type of rainfall leads to the formation of the windward and the leeward side?",
+        "options": [
+            "Cyclonic",
+            "Convectional",
+            "Orographic",
+            "All of these"
+        ],
+        "correct_answer": "c",
+        "note": "Orographic type of rainfall leads to the formation of the windward and the leeward side. The chief characteristic of this sort of rain is that the windward slopes receive greater rainfall. After giving rain on the windward side, when these winds reach the other slope, they descend, and their temperature rises. Then their capacity to take in moisture increases and hence, these leeward slopes remain rainless and dry."
+    },
+    {
+        "question": "Rainfall caused by intense evaporation equatorial areas is called ________.",
+        "options": [
+            "Orographic rainfall",
+            "Cyclonic rainfall",
+            "Frontal rainfall",
+            "Convectional rainfall"
+        ],
+        "correct_answer": "d",
+        "note": "Convectional rainfall occurs when air gets heated & rise up producing clouds responsible for hunderstorm & lightning. Such a weather phenomenon is common in\nequatorial region where sun rays fall vertically over head throughout the year. Hence afternoon rain occurs almost everyday in this region."
+    },
+    {
+        "question": "The rainfall due to upward movement of air caused by convergence of cold air masses against warm air masses is called ________.",
+        "options": [
+            "Cyclonic rainfall",
+            "Orographic rainfall",
+            "Frontal rainfall",
+            "Convectional rainfall"
+        ],
+        "correct_answer": "c",
+        "note": "When a warm front and a cold front converges, warm front rises over cold front and this causes rainfall which is called frontal rainfall."
+    },
+    {
+        "question": "Shallow-rooted trees are associated with ________",
+        "options": [
+            "Savanna climate",
+            "Temperate climate",
+            "Tropical climate",
+            "Equatorial climate"
+        ],
+        "correct_answer": "d",
+        "note": "Shallow-rooted trees are associated with Equatorial climate. The roots of these type of trees go down only 4 to 8 inches into the ground. Shallow roots are even visible above the ground. Visible roots, or surface roots, may become a nuisance in a yard."
+    },
+    {
+        "question": "What are the five main indicators of global climate change of our planet?",
+        "options": [
+            "Sea level, rising temperature, rain, nitrogen \nand Arctic ocean ice",
+            "Antarctica ice, oxygen, rain, drought and sea\nlevel",
+            "Arctic ocean ice, carbon dioxide, global\ntemperature, sea level, surface ice",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "Environmentalists observed that Arctic ice is melting or retreating at tremcndous rate leading to rising sea\nlevel. This has happened due to increased concentration of CO? leading to green house effect. Also glaciers are diminishing in size. (This option is most appropriate when compared to other option)"
+    },
+    {
+        "question": "China type of climate prevails in ________",
+        "options": [
+            "China, Korea and Vietnam",
+            "Southern China, Vietnam and Laos",
+            "Central China, North China and Southern Japan",
+            "North China, Southern Russia and Japan"
+        ],
+        "correct_answer": "c",
+        "note": "China type of climate prevails in Central China, North China and Southern Japan. China type Climate are Warm Temperate Eastern Margin Climate."
+    },
+    {
+        "question": "Which of the following climatic characteristic is related to tropical deserts?",
+        "options": [
+            "Low Pressure throughout the year",
+            "Most of the rain falls in winter",
+            "Very high daily range of temperature",
+            "Very low daily range of temperature"
+        ],
+        "correct_answer": "c",
+        "note": "Very high daily range of temperature characteristic is related to tropical deserts. The tropical desert has the highest mean annual temperature of any climate on Earth. The high temperatures are a result of the high sun angles throughout the year and having the highest percentage of sunshine of any climate. Daytime temperatures can reach 50° C (120° F) at low elevation inland deserts."
+    },
+    {
+        "question": "Consider the following statements:\n1. The movement of the isotherms is greater over the land than it is over the oceans.\n2. Coastal regions have a smaller range of temperature than do continental interiors.\nWhich of these statements is/are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "The statements that are correct are The movement of the isotherms is greater over the land than it is over the oceans and Coastal regions have a smaller range of temperature than do continental interiors."
+    },
+    {
+        "question": "In which of the following countries, has maximum damage to the forest been caused by acid rain?",
+        "options": [
+            "Spain",
+            "Netherlands",
+            "Poland",
+            "Italy"
+        ],
+        "correct_answer": "c",
+        "note": "Acid rain describes any form of precipitation that contains high levels of nitric and sulfuric acids. It can also occur in the form of snow, fog, and tiny bits of dry material that settle to Earth. Poland has maximum damage to the forest been caused by acid rain."
+    },
+    {
+        "question": "The average annual temperature is 19°C. An average annual rainfall of about 120 cm is distributed throughout the year, Late summer and autumn are the dreaded seasons of hurricanes and typhoons. These are the climatic conditions of ________",
+        "options": [
+            "China type",
+            "Sudan type",
+            "Tropical desert type",
+            "Taiga type"
+        ],
+        "correct_answer": "a",
+        "note": "The average annual temperature is 19°C. An average annual rainfall of about 120 cm is distributed throughout the year, Late summer and autumn are the dreaded seasons of hurricanes and typhoons. These are the climatic conditions of China type."
+    },
+    {
+        "question": "The tropical grasslands of Africa are known as ________",
+        "options": [
+            "Steppes",
+            "Savannas",
+            "Pampas",
+            "Downs"
+        ],
+        "correct_answer": "b",
+        "note": "The tropical grasslands of Africa are known as Savannas. A savanna is a rolling grassland scattered with shrubs and isolated trees, which can be found between a tropical rainforest and desert biome. They are mostly located near the equator. The largest savanna is located in Africa. Nearly half of the continent of Africa is covered with savanna grasslands."
+    },
+    {
+        "question": "The Tropical grasslands are called",
+        "options": [
+            "Pampas",
+            "Llanos",
+            "Savanna",
+            "Veld"
+        ],
+        "correct_answer": "c",
+        "note": "Savanna is the tropical grassland. It is characterised by widely spaced trees allowing the sunlight to reach earth surface which ultimately helps in growing grass."
+    },
+    {
+        "question": "Winter temperature ranging from -29° C to -40° C, summer temperature about 10° C, total annual precipitation about 25 cm. and low humidity. These characterise the climate.",
+        "options": [
+            "Taiga",
+            "Tundra",
+            "Mountain",
+            "West European"
+        ],
+        "correct_answer": "b",
+        "note": "Winter temperature ranging from -29° C to -40° C, summer temperature about 10° C, total annual precipitation about 25 cm. and low humidity. These characterise the climate of Tundra type."
+    },
+    {
+        "question": "The mediterranean region specialises in fruit culture because ________",
+        "options": [
+            "Hill slopes are best suited for cultivation of trees",
+            "Hill slopes are not favourable for food grain cultivation",
+            "The long dry summer favour drying and packing of fruits for export.",
+            "There is a demand of dry fruits"
+        ],
+        "correct_answer": "c",
+        "note": "The mediterranean region specialises in fruit culture because the long dry summer favour drying and packing of fruits for export."
+    },
+    {
+        "question": "The Mediterranean type of climate is found in mid-latitudes on the",
+        "options": [
+            "Western side of the continents in northern hemisphere and on the eastern side of the continents in the southern hemisphere",
+            "Eastern side of the continents in northern hemisphere and on the western side of the continents in the southern hemisphere",
+            "Eastern side of the continents",
+            "Western side of the continents"
+        ],
+        "correct_answer": "d",
+        "note": "The Mediterranean type of climate is found in mid-latitudes on the Western side of the continents. Mediterranean climate types can be found along the west side of continents in mid-latitudes from 30° to 50° N and 30° to 40° S latitudes, commonly in a belt of prevailing westerly winds. Shrub communities are common in the Mediterranean climate type."
+    },
+    {
+        "question": "The driest spot on earth is in the Atacama desert, parts of which went without rain for years. The Atacama is in ________",
+        "options": [
+            "Africa",
+            "Asia",
+            "Canada",
+            "South America"
+        ],
+        "correct_answer": "d",
+        "note": "The driest spot on earth is in the Atacama desert, parts of which went without rain for years. The Atacama is in South America. The Atacama Desert is one of the driest places on Earth. The Atacama is in the country of Chile in South America. In an average year, much of this desert gets less than 1 millimeter (0.04 inch) of rain! That makes it 50 times drier than Death Valley in California."
+    },
+    {
+        "question": "Which one of the following characteristics is not found in the convectional rainfall ?",
+        "options": [
+            "Drizzling",
+            "Lightning and thunder",
+            "Torrential rain",
+            "Afternoon rain"
+        ],
+        "correct_answer": "a",
+        "note": "Drizzling characteristics is NOT found in the convectional rainfall. Drizzle consists of very small raindrops, larger than cloud droplets, but smaller than normal raindrops. It usually occurs when updrafts in clouds are not quite strong enough to produce rain."
+    },
+    {
+        "question": "What is the date of summer solstice in Northern Hemisphere?",
+        "options": [
+            "21st June",
+            "21st March",
+            "22nd December",
+            "23rd September"
+        ],
+        "correct_answer": "a",
+        "note": "The date of summer solstice in Northern Hemisphere is 21st June. The June solstice is the summer solstice in the Northern Hemisphere and the winter solstice in the Southern Hemisphere. The date varies between June 20 and June 22, depending on the year, and the local time zone."
+    },
+    {
+        "question": "The climate of a place is decided by ________",
+        "options": [
+            "Proximity to the sea",
+            "Altitude",
+            "Latitude",
+            "All the above"
+        ],
+        "correct_answer": "d",
+        "note": "The climate of a place is decided by Proximity to the sea, Altitude and Latitude. Latitude, or how far one is from the equator, greatly affects the climate and weather of an area. If you live close to the equator, the climate will be warmer, while moving north or south from the equator brings a cooler climate. Altitude, or how high one is above sea level, has a similar effect–the higher the elevation, the colder the climate."
+    },
+    {
+        "question": "What happens to tropical soils when the rain forest is cleared?",
+        "options": [
+            "The soil improves to the extent that soluble nutrients are no longer depleted by the trees",
+            "There is little effect on the soil because of its depth of",
+            "Clearing interrupts the critical nutrient cycle and leads to soil leaching",
+            "The soils stabilise and become excellent for grain"
+        ],
+        "correct_answer": "c",
+        "note": "Clearing interrupts the critical nutrient cycle and leads to soil leaching when the rain forest is cleared. Soil leaching refers is the movement of nutrient elements from topsoil through the soil profile. Leaching causes significant nutrient losses, particularly in humid regions with high precipitation."
+    },
+    {
+        "question": "Among foodgrains, international trade of rice is quite small because ________",
+        "options": [
+            "It is not the main food grain of human consumption",
+            "Its transport cost is high",
+            "Rice gets spoilt during storage and transport",
+            "Major producer regions are major consumers also"
+        ],
+        "correct_answer": "d",
+        "note": "Among foodgrains, international trade of rice is quite small because major producer regions are major consumers also."
+    },
+    {
+        "question": "Consider the following statements about anticyclones:\n1. The winds are divergent, and spiral out from the centre of high pressure\n2. The air moves clockwise in the Northern Hemisphere and anticlockwise in Southern Hemisphere\n3. It is accompanied by heavy rainfall\n4. A sudden rise in barometric reading heralds the approach of anticyclone\nWhich of these statements are correct?",
+        "options": [
+            "1 and 4",
+            "3 and 4",
+            "2 and 3",
+            "2 and 4"
+        ],
+        "correct_answer": "d",
+        "note": "1. \"The winds are divergent, and spiral out from the centre of high pressure\":\nThis statement is correct. Anticyclones are areas of high atmospheric pressure where the air descends from above. As the air descends, it spreads out horizontally, leading to divergent winds that spiral outwards from the center of high pressure.\n2. \"The air moves clockwise in the Northern Hemisphere and anticlockwise in Southern Hemisphere\":\nThis statement is incorrect. In the Northern Hemisphere, the air around an anticyclone moves clockwise, while in the Southern Hemisphere, it moves anticlockwise. This direction of movement is due to the Coriolis effect, which is a result of Earth's rotation.\n3. \"It is accompanied by heavy rainfall\":\nThis statement is incorrect. Anticyclones are generally associated with fair and dry weather conditions. The descending air in an anticyclone suppresses the upward movement of moist air, leading to clear skies and lower chances of precipitation.\n4. \"A sudden rise in barometric reading heralds the approach of anticyclone\":\nThis statement is correct. An anticyclone is often characterized by high atmospheric pressure at the surface. As an anticyclone approaches, the barometric (atmospheric pressure) reading tends to rise, indicating the presence of the high-pressure system.\n\nIn summary, anticyclones are areas of high pressure where air descends and spreads out, leading to divergent winds. The air movement is clockwise in the Northern Hemisphere and anticlockwise in the Southern Hemisphere. Anticyclones are associated with fair and dry weather, and a sudden rise in barometric reading indicates their approach.\n\nTherefore, the correct answer is Option A, which means only Statements 1 and 4 are correct regarding anticyclones."
+    },
+    {
+        "question": "Consider the following statements associated with Mediterranean climate:\n1. It is so named because it occurs extensively in the periphery of Mediterranean sea.\n2. These lands are exposed to hot, dry, land winds during the summer months.\n3. The seasonal range of temperatures is considerable less than that in other areas of corresponding latitudes.\nWhich of these statements are correct?",
+        "options": [
+            "1, 2 and 3",
+            "1 and 2",
+            "2 and 3",
+            "1 and 3"
+        ],
+        "correct_answer": "a",
+        "note": "All the statements are correct associated with Mediterranean climate: It is so named because it occurs extensively in the periphery of Mediterranean sea, These lands are exposed to hot, dry, land winds during the summer months and The seasonal range of temperatures is considerable less than that in other areas of corresponding latitudes."
+    },
+    {
+        "question": "The lowest winter temperature in the northern hemisphere is of ________",
+        "options": [
+            "Ottawa",
+            "Mexico city",
+            "Moscow",
+            "Verkhoyansk"
+        ],
+        "correct_answer": "d",
+        "note": "The lowest winter temperature in the northern hemisphere is of Verkhoyansk. Oymyakon and Verkhoyansk are the only two permanently populated places in the world that have recorded temperatures below -60.0° C (-76.0° F) every day of January."
+    },
+    {
+        "question": "Which country falls in all three natural regions : Hot desert, Mediterranean and Cool temperate type of climate?",
+        "options": [
+            "Chile",
+            "Israel",
+            "Lebanon",
+            "None of these"
+        ],
+        "correct_answer": "a",
+        "note": "Chile falls in all three natural regions : Hot desert, Mediterranean and Cool temperate type of climate. Places with a tropical wet climate are also known as rain forests. These equatorial regions have the most predictable weather on Earth, with warm temperatures and regular rainfall."
+    },
+    {
+        "question": "Most of the weather phenomena take place in the",
+        "options": [
+            "Ionosphere",
+            "Stratosphere",
+            "Troposphere",
+            "Mesosphere"
+        ],
+        "correct_answer": "c",
+        "note": "Most of the weather phenomena take place in the Troposphere. Most of the weather phenomena, systems, convection, turbulence and clouds occur in this layer, although some may extend into the lower portion of the stratosphere."
+    },
+    {
+        "question": "Tropical evergreen forests remain evergreen because ________",
+        "options": [
+            "There is a thick undergrowth of bushes",
+            "They do not shed their leaves.",
+            "Shedding of leaves and simultaneous growth of new ones takes place throughout the year",
+            "While plants at one level shed their leaves, those at a higher level retain their leaves"
+        ],
+        "correct_answer": "c",
+        "note": "Tropical evergreen forests remain evergreen because shedding of leaves and simultaneous growth of new ones takes place throughout the year."
+    },
+    {
+        "question": "Central and western part of California experience climate ________",
+        "options": [
+            "Monsoon",
+            "Mediterranean",
+            "Taiga",
+            "Sudan"
+        ],
+        "correct_answer": "b",
+        "note": "Central and western part of california experience mediterranean climate. The mild temperatures and winter rain of the Mediterranean climate support some of the highest species richness in the state. California's higher elevations, such as those found in the Modoc and Sierra regions, generally have two major climate types: a Cool Interior climate and a Highland climate."
+    },
+    {
+        "question": "The removal of rock, layer by layer due to weathering is called ________",
+        "options": [
+            "Block disintegration",
+            "Dellation",
+            "Exfoliation",
+            "Granular disintegration"
+        ],
+        "correct_answer": "c",
+        "note": "The removal of rock, layer by layer due to weathering is called Exfoliation. Rocks are generally poor conductors of heat. The effect of daily heating and cooling is confined to surface layers of rocks. The outer layer of rock is heated up and expands during the day while the inner layer of rock remains cool. The outer layers eventually peel off (like an onion skin), exposing the inner layers to the surface for further exfoliation."
+    },
+    {
+        "question": "Which one of the following regions has Mediterranean type of climate?",
+        "options": [
+            "Cape Town region of South Africa",
+            "Great Plains of North America",
+            "North-Eastern Australia",
+            "Southern Algeria"
+        ],
+        "correct_answer": "a",
+        "note": "Cape Town region of South Africa has Mediterranean type of climate. Cape Town has a Mediterranean-style climate: wet and cool winters, dry and warm summers. The weather in Cape Town is influenced by two currents: the warm Agulhas current from the Indian Ocean side and the cold Benguela current on the Atlantic side."
+    },
+    {
+        "question": "Which one of the following countries celebrates Christmas festival in summer season?",
+        "options": [
+            "Australia",
+            "Canada",
+            "Mexico",
+            "Italy"
+        ],
+        "correct_answer": "a",
+        "note": "Christmas is celebrated in summer in Australia because Christmas is celebrated everywhere on 25 December, and that date in most of Australia is in the summertime. And, for Christians at least, Christmas is fundamentally about the birth of Christ whenever that may have occurred and not about winter."
+    },
+    {
+        "question": "Rainfall in the doldrums is of the nature of ________",
+        "options": [
+            "Orographic precipitation",
+            "Natural precipitation",
+            "Frontal precipitation",
+            "Convectional precipitation"
+        ],
+        "correct_answer": "a",
+        "note": "Rainfall in the doldrums is of the nature of Orographic precipitation. Orographic Rainfall is a form of precipitation where warm moist parcels of air from an ocean, Sea or lake rises over a barrier such as a mountain."
+    },
+    {
+        "question": "Which of the following regions gets no rainfall throughout the year?",
+        "options": [
+            "The Equatorial Region",
+            "The Tundra Region",
+            "The Himalayan Region",
+            "The Mediterranean Region"
+        ],
+        "correct_answer": "b",
+        "note": "The Tundra Region gets no rainfall throughout the year. Rainfall and snowfall are generally slight due to the low vapor pressure of water in the chilly atmosphere, but as a rule potential evapotranspiration is extremely low, allowing soggy terrain of swamps and bogs even in places that get precipitation typical of deserts of lower and middle latitudes."
+    },
+    {
+        "question": "High mean temperature, high relative humidity and heavy rainfall (well distributed all over the year) are the characteristic features of the ________",
+        "options": [
+            "Monsoon region",
+            "Mediterranean region",
+            "Equatorial region",
+            "Savanna region"
+        ],
+        "correct_answer": "c",
+        "note": "High mean temperature, high relative humidity and heavy rainfall (well distributed all over the year) are the characteristic features of the Equatorial region. A tropical rainforest climate is a tropical climate usually found within 10° to 15° latitude of the equator, and has at least 60 mm (2.4 inches) of rainfall every month of the year."
+    },
+    {
+        "question": "Contours' are lines connecting places having ________",
+        "options": [
+            "Equal temperature",
+            "Equal pressure",
+            "Equal rainfall",
+            "Equal height"
+        ],
+        "correct_answer": "d",
+        "note": "Contours' are lines connecting places having Equal height. Contour lines are isolines joining places that have the same height value. Another common isoline is the isobar, a line that joins places with the same atmospheric pressure."
+    },
+    {
+        "question": "The equatorial regions receive rainfall throughout the year. The annual rainfall is generally about ________",
+        "options": [
+            "80 cms",
+            "160 cms",
+            "200 cms",
+            "250 cms"
+        ],
+        "correct_answer": "d",
+        "note": "The equatorial regions receive rainfall throughout the year. The annual rainfall is generally about 250 cms."
+    },
+    {
+        "question": "The Tropical Rain forest type of climate is characterised by ________",
+        "options": [
+            "Average rainfall of about 300 cm",
+            "Heavy rain and high temperatures throughout the year",
+            "Hot dry summer and mild wet winters",
+            "Hot summer and cool winters with about 100 cm of annual rainfall"
+        ],
+        "correct_answer": "b",
+        "note": "The Tropical Rain forest type of climate is characterised by Heavy rain and high temperatures throughout the year. Because tropical rain forests lie near the equator, the days do not get shorter in winter and longer in summer. A day has about 12 hours of sunlight throughout the year. The average rainfall in the rain forest is the highest for any ecoregion on Earth. The climate in tropical rain forests is constantly warm and moist."
+    },
+    {
+        "question": "In which season is the frequency of tropical cyclones in the Bay of Bengal maximum?",
+        "options": [
+            "During autumn",
+            "After summer",
+            "During winter",
+            "During monsoon"
+        ],
+        "correct_answer": "b",
+        "note": "After summer season the frequency of tropical cyclones in the Bay of Bengal maximum because at that time their is high pressure area."
+    },
+    {
+        "question": "Which one of the following characteristics is NOT found in the Mediterranean climate?",
+        "options": [
+            "Temperatures range from 21°C in summer to 10°C or below in the winter",
+            "Off-shore trade winds blow in the summer",
+            "On-shore westerly winds blow in the winter bringing cyclonic rain",
+            "The annual rainfall ranges from 1500 mm to 2000 mm"
+        ],
+        "correct_answer": "b",
+        "note": "In the Mediterranean climate off-shore trade winds doesnot blow in the summer. In summer there is a dry, warm period. Due to the movement of the sun to the top of the tropic of cancer, a warm zone or low pressure region is built on the Mediterranean region and so rain bearing winds are not seen here. But offshore trade winds blow here which don't bring much precipitation."
+    },
+    {
+        "question": "Chemical weathering includes ________",
+        "options": [
+            "Oxidation, reduction and exfoliation",
+            "Carbonation, oxidation and exfoliation",
+            "Exfoliation, solution and reduction",
+            "Solution, oxidation and reduction"
+        ],
+        "correct_answer": "d",
+        "note": "Chemical weathering includes Solution, oxidation and reduction. Chemical weathering is the weakening and subsequent disintegration of rock by chemical reactions."
+    },
+    {
+        "question": "Chemical weathering is a name given to",
+        "options": [
+            "Disintegration of rocks without any change in their chemical composition",
+            "Chemical interaction of oxygen, carbon dioxide or water with the minerals in the rocks",
+            "Removal of soil by chemical action",
+            "Artificial breaking up of rocks for man's use"
+        ],
+        "correct_answer": "b",
+        "note": "Chemical weathering is a name given to Chemical interaction of oxygen, carbon dioxide or water with the minerals in the rocks. Chemical weathering changes the molecular structure of rocks and soil. For instance, carbon dioxide from the air or soil sometimes combines with water in a process called carbonation. This produces a weak acid, called carbonic acid, that can dissolve rock."
+    },
+    {
+        "question": "The climate best suited for horticulture is ________",
+        "options": [
+            "Equatorial",
+            "Mediterranean",
+            "Monsoon",
+            "Tundra"
+        ],
+        "correct_answer": "b",
+        "note": "The climate best suited for horticulture is Mediterranean. It includes the cultivation of medicinal plants, fruits, vegetables, nuts, seeds, herbs, sprouts, mushrooms, algae, flowers, seaweeds and non-food crops such as grass and ornamental trees and plants."
+    },
+    {
+        "question": "Which of the following are Tropical Grasslands ?\nI. Campos\nII. Pampas\nIII. Savanna\nIV. Steppes",
+        "options": [
+            "I and IV",
+            "I and III",
+            "II and III",
+            "III and IV"
+        ],
+        "correct_answer": "b",
+        "note": "Campos and Savanna are tropical grassland. Campos refers to grasslands or pastures with a vegetation cover comprising mainly grasses and herbs; scattered small shrubs and trees are occasionally found, generally by the banks of streams. A savanna is a rolling grassland scattered with shrubs and isolated trees, which can be found between a tropical rainforest and desert biome. Not enough rain falls on a savanna to support forests. Savannas are also known as tropical grasslands."
+    },
+    {
+        "question": "Summer rains in Australia broadly decreases from",
+        "options": [
+            "East to west",
+            "West to east",
+            "North to south",
+            "South to north"
+        ],
+        "correct_answer": "c",
+        "note": "Summer rains in Australia broadly decreases from North to south. When long dry periods are interrupted by welcome periods of wet weather, the rain is more likely to fall as heavy downpours than as extended drizzle."
+    },
+    {
+        "question": "Although the equatorial regions have the highest annual average temperatures, the salinity in the oceans is highest near the tropics because:\n1. equatorial areas receive heavy rainfall\n2. salinity is not affected by temperature\n3. equatorial oceans experience a lot of turbulenees\n4. high relative humidity in equatorial areas checks evaporation",
+        "options": [
+            "1, 2 and 4",
+            "1 and 3",
+            "1, 3 and 4",
+            "1 and 4"
+        ],
+        "correct_answer": "a",
+        "note": "Although the equatorial regions have the highest annual average temperatures, the salinity in the oceans is highest near the tropics because equatorial areas receive heavy rainfall, salinity is not affected by temperature and high relative humidity in equatorial areas checks evaporation"
+    },
+    {
+        "question": "What could be the main reason / reasons for the formation of African and Eurasian desert belt?\n1. It is located in the sub-tropical high pressure cells.\n2. It is under the influence of warm ocean currents.\nWhich of the statements given above is/are correct in this context?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "a",
+        "note": "The main reason for the formation of African and Eurasian desert belt is that It is located in the sub-tropical high pressure cells."
+    },
+    {
+        "question": "The Veld grassland of South Africa experiences ________",
+        "options": [
+            "The Continental Savanna Climate",
+            "The Maritime Savanna Climate",
+            "The Steppe climate",
+            "The Tropical desert climate"
+        ],
+        "correct_answer": "c",
+        "note": "The Veld grassland of South Africa experiences the Steppe climate. A steppe is a dry, grassy plain. Steppes occur in temperate climates, which lie between the tropics and polar regions. Temperate regions have distinct seasonal temperature changes, with cold winters and warm summers."
+    },
+    {
+        "question": "Which of the following is a chemical weathering process ?",
+        "options": [
+            "Frost Action",
+            "Hydraulic Action",
+            "Oxidation",
+            "Thermal Expansion"
+        ],
+        "correct_answer": "c",
+        "note": "Oxidation is a chemical weathering process. Oxidation is the reaction of a substance with oxygen. This is the process that causes rust. When iron in rocks reacts with oxygen, it forms iron oxide, which weakens the rock. Carbonation is the mixing of water with carbon dioxide to make carbonic acid."
+    },
+    {
+        "question": "In USA, which one of the following regions Receives heavy rainfall throughout the year under the influence of Wester lies?",
+        "options": [
+            "North-western",
+            "North-eastern",
+            "South-western",
+            "South-eastern"
+        ],
+        "correct_answer": "a",
+        "note": "In USA, North-western regions Receives heavy rainfall throughout the year under the influence of Westerlies. The westerlies, anti-trades, or prevailing westerlies, are prevailing winds from the west toward the east in the middle latitudes between 30° and 60° latitude. They originate from the high-pressure areas in the horse latitudes and trend towards the poles and steer extratropical cyclones in this general manner."
+    },
+    {
+        "question": "The mode or life or people living in Monsoon regions is",
+        "options": [
+            "Commercial grainfarming",
+            "Cattle rearing",
+            "Intensive subsistence cultivation",
+            "Plantation agriculture"
+        ],
+        "correct_answer": "c",
+        "note": "The mode or life or people living in Monsoon regions is intensive subsistence cultivation. It is a type of farming different from subsistence as more chemical fertilizers and modern means of agriculture are practised intensively by a individual farmer working on a small field."
+    },
+    {
+        "question": "What is the full form of ITCZ?",
+        "options": [
+            "Inter Tropical Converter Zone",
+            "Inter Tropical Convergence Zone",
+            "Inter Tropical Centre Zone",
+            "None of these"
+        ],
+        "correct_answer": "b",
+        "note": "ITCZ i.e. Inter Tropical Convergence Zone is a low pressure belt generally near the equator. As trade winds converge in this zone and it is relatively a calm zone it is also known as doldrum."
+    },
+    {
+        "question": "Which of the following winds changes its direction with the change of season?",
+        "options": [
+            "Recurring trapped Winds",
+            "Monsoon Winds",
+            "Polar Winds",
+            "Cyclonic Winds"
+        ],
+        "correct_answer": "b",
+        "note": "With the movement of sun between the tropics, the Inter Tropical Convergence Zone (ITCZ) i.e. equatorial low also shifts leading to shifting of trade winds (Monsoon winds). Hence, their direction changes."
+    },
+    {
+        "question": "A line drawn on a weather map connecting points that receive equal amounts of sunshine are",
+        "options": [
+            "Isohel",
+            "Isobar",
+            "Isohyte",
+            "Isotherm"
+        ],
+        "correct_answer": "a",
+        "note": "A line drawn on a weather map connecting points that receive equal amounts of sunshine are Isohel. Joins points where the amount of sunshine is the same."
+    },
+    {
+        "question": "Which of the following has maximum diurnal temperature difference?",
+        "options": [
+            "Desert",
+            "Mountains",
+            "Plateau",
+            "Ocean"
+        ],
+        "correct_answer": "a",
+        "note": "Diurnal temperature difference represent the daily range of temperature in a given region/ location. Desert has maximum diurnal temperature range as the sand absorb and loose heat very quickly and is unable to store heat for long time."
+    },
+    {
+        "question": "Monsoon wind is different from planetary winds because it",
+        "options": [
+            "Always brings rain",
+            "Blows in tropical regions",
+            "Crosses the Equator",
+            "Is seasonal"
+        ],
+        "correct_answer": "d",
+        "note": "Monsoon wind is different from planetary winds because it is seasonal. the seasonal wind of the Indian Ocean and southern Asia, blowing from the southwest in summer and from the northeast in winter. (in India and nearby lands) the season during which the southwest monsoon blows, commonly marked by heavy rains; rainy season."
+    },
+    {
+        "question": "The Mediterranean lands are' often called the World's ________",
+        "options": [
+            "Grazing lands",
+            "Forest lands",
+            "Orchard lands",
+            "Paddy lands"
+        ],
+        "correct_answer": "c",
+        "note": "The Mediterranean lands are' often called the World's Orchard lands. Mediterranean regions are known as the 'orchards of the world' because of their fruit cultivation. The trees in this region adapt themselves to the dry summers with the help of their thick barks and wax coated leaves which reduce transpiration."
+    },
+    {
+        "question": "Any type of rainfall has the following aspects ________",
+        "options": [
+            "Ascent and descent of air",
+            "Horizontal movement of air",
+            "Ascent of air leading to cooling and condensation",
+            "All of above"
+        ],
+        "correct_answer": "c",
+        "note": "Any type of rainfall has ascent of air leading to cooling and condensation. water becomes precipitation, which is water falling from the clouds as rain, freezing rain, sleet, snow, or hail."
+    },
+    {
+        "question": "For the formation of rainfall which of the following is not essential?",
+        "options": [
+            "Dust particles in the atmosphere",
+            "Evaporation",
+            "Condensation",
+            "Wind"
+        ],
+        "correct_answer": "d",
+        "note": "Wind is not essential for the formation of rainfall. The most important factor influencing rainfall is evaporation, which is the beginning of the cycle itself. The water vapor forms into clouds which drop their moisture and start the whole cycle over again."
+    },
+    {
+        "question": "The Taiga belt lies between ________",
+        "options": [
+            "Mediterranean climate and Tundra",
+            "Monsoon climate and Tundra",
+            "Temperate grasslands and Tundra",
+            "Tibet type climate and Tundra"
+        ],
+        "correct_answer": "c",
+        "note": "The Taiga belt lies between Temperate grasslands and Tundra. The taiga lies between the tundra to the north and temperate forests to the south. Alaska, Canada, Scandinavia, and Siberia have taigas. The soil beneath the taiga often contains permafrost a layer of permanently frozen soil."
+    },
+    {
+        "question": "How can the classification of climate based region be done",
+        "options": [
+            "Distance from Equator",
+            "Height",
+            "Rain",
+            "Distance from sea"
+        ],
+        "correct_answer": "a",
+        "note": "As we move away from the equator insolation decreases which leads to decrease in temperature hence rainfall also decreases. Temperature & rainfall are two\npillers of climate thus option (A) is correct."
+    },
+    {
+        "question": "Mediterranean climate is ideal for growing",
+        "options": [
+            "Wheat and barley",
+            "Tea and coffee",
+            "Sugarcane and beet",
+            "Orange and lemons"
+        ],
+        "correct_answer": "d",
+        "note": "Mediterranean climate is ideal for growing Orange and lemons. Citrus fruits are sensitive towards low temperatures and frost. They sustain high temperatures given soil moisture is maintained. Hence, Mediterranean climate is most suitable for growing citrus fruits."
+    },
+    {
+        "question": "The type of rain in humid equatorial climate is",
+        "options": [
+            "Cyclonic",
+            "Mountaineous",
+            "Convectional",
+            "Fluctuating and Cyclonic"
+        ],
+        "correct_answer": "c",
+        "note": "In equatorial region Sun's rays fall vertically which heats up the land and sea surface hence more vapour formed and rises above due to which as expand and gets  cool down it develops clouds through convection. Hence rain occurs almost every afternoon which termed as convectional rainfall."
+    },
+    {
+        "question": "All of the following types of climates occur in the southern hemisphere except ________",
+        "options": [
+            "Hot desert",
+            "Savanna",
+            "Equatorial",
+            "Tundra"
+        ],
+        "correct_answer": "d",
+        "note": "All of the following types of climates occur in the southern hemisphere except Tundra. Tundra climate is mainly found along the coast of the Arctic Ocean."
+    },
+    {
+        "question": "The Symmetrical patterns in a natural region are of",
+        "options": [
+            "Climate and Vegetation",
+            "Climate and Industry",
+            "Soil and Water-drainage",
+            "Economic Base and Species"
+        ],
+        "correct_answer": "a",
+        "note": "When we talk about natural region, the symmetrical patterns are observed in terms of climate types and vegetations. 5 major types of vegetative regions are forest, grassland, tundra, desert and ice sheets."
+    },
+    {
+        "question": "The Mediterranean region is known for heavy rain",
+        "options": [
+            "In spring season",
+            "In autumn",
+            "In winter",
+            "In summer"
+        ],
+        "correct_answer": "c",
+        "note": "In winters the subpolar low pressure belt shifts downwards & lies in lower latitudes above Mediterranean Sea due to which weather activities such as rainfall occurs and winters are mild & rainy."
+    },
+    {
+        "question": "What is the reason of degradation of climate of Maldives?",
+        "options": [
+            "Continuous soil erosion",
+            "High population density",
+            "Industrial pollution of air and water",
+            "All of these"
+        ],
+        "correct_answer": "d",
+        "note": "All the above given reasons add to environmental hazard caused by various factors including humans."
+    },
+    {
+        "question": "The Tropical Savanna Climate located in South Brazil is known as",
+        "options": [
+            "Llanos",
+            "Sudan climate",
+            "Campos",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "The Tropical Savanna Climate located in South Brazil is known as Campos. The Campos, grassland with few trees or shrubs except near streams, lies between 24° S and 35° S; it includes parts of Brazil, Paraguay and Argentina, and all of Uruguay. Grassland -based livestock production is very important, based on the natural grassland that covers most of the area."
+    },
+    {
+        "question": "In which region China type climate is found?",
+        "options": [
+            "South Japan",
+            "South West Korea",
+            "Natalin Africa",
+            "All of the above"
+        ],
+        "correct_answer": "d",
+        "note": "In all of the above regions China type climate is found. Temperate monsoon or China type found in most parts of China and is a modified form of monsoonal climate."
+    },
+    {
+        "question": "Which type of climate is known for the maximum diurnal range of temperature?",
+        "options": [
+            "Mediterranean",
+            "Equatorial",
+            "Hot desert",
+            "Cold desert"
+        ],
+        "correct_answer": "c",
+        "note": "Hot desert type of climate is known for the maximum diurnal range of temperature. Summer day time temperatures can exceed 40° C. However, at night the temperature can drop below 0° C. The climate is very dry with less than 250 mm of rainfall a year. Hot deserts have two distinct seasons: summer, when the temperature ranges between 35-40° C, and winter, when the temperature ranges between 20-30° C."
+    },
+    {
+        "question": "Of the following countries, the one which has predominantly the Mediterranean Climate is ________",
+        "options": [
+            "USA",
+            "Italy",
+            "Chile",
+            "Australia"
+        ],
+        "correct_answer": "b",
+        "note": "Of the following countries, the one which has predominantly the Mediterranean Climate is Italy. With its hot, dry summers and cool, wet winters, Italy experiences a mediterranean climate. Winters in Italy are cool and humid in the north and the mountainous zone."
+    },
+    {
+        "question": "The most ideal conditions for the chemical weathering are found in ________",
+        "options": [
+            "Cold and dry regions",
+            "Cold and humid regions",
+            "Hot and dry regions",
+            "Hot and humid regions"
+        ],
+        "correct_answer": "d",
+        "note": "The most ideal conditions for the chemical weathering are found in Hot and humid regions. Chemical Weathering: Most intense in warm, humid climate. Very little in cold, dry climates. Many minerals are not stable at earth surface conditions."
+    },
+    {
+        "question": "The 'Climate' is the average atmospheric conditions of an area over a considerable period of time. For proper conclusions, observations are needed for a minimum period of ________",
+        "options": [
+            "5 years",
+            "10 years",
+            "31 years",
+            "35 years"
+        ],
+        "correct_answer": "c",
+        "note": "The 'Climate' is the average atmospheric conditions of an area over a considerable period of time. For proper conclusions, observations are needed for a minimum period of 31 years."
+    },
+    {
+        "question": "Which one of the following factors is not a determining fact of the climate?",
+        "options": [
+            "Latitude",
+            "Longitude",
+            "Land and Sea contrasts",
+            "Relief features"
+        ],
+        "correct_answer": "b",
+        "note": "Longitude is not a determining fact of the climate. There is a relationship between latitude and temperature around the world, as temperatures are typically warmer approaching the Equator and cooler approaching the Poles. There are variations, though, as other factors such as elevation, ocean currents, and precipitation affect climate patterns."
+    },
+    {
+        "question": "Climate change resulting in the rise of temperature may benefit which of the countries/regions?",
+        "options": [
+            "South Africa",
+            "East Indies islands comprising of Java, Sumatra and Borneo",
+            "The western coasts of South America",
+            "Russia and Northern Europe"
+        ],
+        "correct_answer": "d",
+        "note": "Climate change resulting in the rise of temperature may benefit Russia and Northern Europe. Russia can derive more potential benefits from climate change. More access to energy resources that are currently difficult to extract because of hostile, freezing climes."
+    },
+    {
+        "question": "A geographic region has the following distinct characteristics:\n1. Warm and dry climate\n2. Mild and wet winter\n3. Evergreen oak trees\nThe above features are the distinct characteristics of which one of the following regions?",
+        "options": [
+            "Mediterranean",
+            "Eastern China",
+            "Central Asia",
+            "Atlantic coast of North America"
+        ],
+        "correct_answer": "a",
+        "note": "Mediterranean region has the following distinct characteristics: Warm and dry climate, Mild and wet winter and Evergreen oak trees."
+    },
+    {
+        "question": "Which of the following is not a product of the 'Monsoon Forests'?",
+        "options": [
+            "Teak",
+            "Sal",
+            "Olive",
+            "Bamboo"
+        ],
+        "correct_answer": "c",
+        "note": "Olive is not a product of the 'Monsoon Forests'. Monsoon forest, also called dry forest or tropical deciduous forest, open woodland in tropical areas that have a long dry season followed by a season of heavy rainfall. It is a product of Mediterranean forests."
+    },
+    {
+        "question": "Which of these statements are correct?\n1. In equatorial regions, the year is divided into four main seasons.\n2. In Mediterranean region, summer receives more rain.\n3. In China type climate, rainfall occurs throughout the year.\n4. Tropical highlands exhibit vertical zonation of different climates.",
+        "options": [
+            "1, 2, 3 and 4",
+            "1, 2, and 3",
+            "1, 2 and 4",
+            "3 and 4"
+        ],
+        "correct_answer": "d",
+        "note": "The statements that are correct are: In China type climate, rainfall occurs throughout the year and Tropical highlands exhibit vertical zonation of different climates."
+    },
+    {
+        "question": "A weathering process in which layers of rocks peel off as expansion alternates with contraction, is known as ________",
+        "options": [
+            "Shattering",
+            "Block separation",
+            "Granular disintegration",
+            "Exfoliation"
+        ],
+        "correct_answer": "d",
+        "note": "A weathering process in which layers of rocks peel off as expansion alternates with contraction, is known as Exfoliation. Rocks are generally poor conductors of heat. The effect of daily heating and cooling is confined to surface layers of the rock. The outer layer of rock is heated up and expands during the day while the inner layer of rock remains cool. The outer layers eventually peel off (like an onion skin), exposing the inner layers to the surface for further exfoliation."
+    },
+    {
+        "question": "Which one among the following is not an important factor of climate of an area?",
+        "options": [
+            "Latitude",
+            "Longitude",
+            "Altitude",
+            "Distance from the sea"
+        ],
+        "correct_answer": "b",
+        "note": "Longitude is not an important factor of climate of an area. The two most important factors in the climate of an area are temperature and precipitation."
+    },
+    {
+        "question": "Tropical rain forests appear in which or the following regions?",
+        "options": [
+            "Australia, New Zealand and Fiji Islands",
+            "North and South of the Congo Basin",
+            "Central America and Guinea Coast",
+            "South America and South Africa"
+        ],
+        "correct_answer": "b",
+        "note": "Tropical rain forests appear in North and South of the Congo Basin."
+    },
+    {
+        "question": "Tropical deciduous or monsoonal forests occur in ________",
+        "options": [
+            "Siberia, Alaska, U.S.A., Canada",
+            "New Zealand, Spain, Portugal, France",
+            "Netherlands, Russia, Norway, U.K.",
+            "Burma, India, Thailand, Brazil"
+        ],
+        "correct_answer": "d",
+        "note": "Tropical deciduous or monsoonal forests occur in Burma, India, Thailand and Brazil."
+    },
+    {
+        "question": "The Tropical Rain Forest or Equatorial type of climate is found in",
+        "options": [
+            "Amazon basin",
+            "Congo basin",
+            "Indonesian Islands",
+            "All the above"
+        ],
+        "correct_answer": "d",
+        "note": "The Tropical Rain Forest or Equatorial type of climate is found in Amazon basin, Congo basin and Indonesian Islands."
+    },
+    {
+        "question": "The zones of excessively dry climate with very cold temperature throughout the year correspond to ________",
+        "options": [
+            "Alpine meadows",
+            "Antarctica",
+            "Arctic deserts",
+            "Tundra"
+        ],
+        "correct_answer": "d",
+        "note": "The zones of excessively dry climate with very cold temperature throughout the year correspond to Tundra. Polar climates like the tundra are characterized by very cold temperatures and generally dry conditions. Temperatures never rise above 10° C (50° F) during the summer."
+    },
+    {
+        "question": "What is the percentage cover of tropical rain forest in the world?",
+        "options": [
+            "2",
+            "7",
+            "1",
+            "15"
+        ],
+        "correct_answer": "a",
+        "note": "Tropical Forest comprise about 2% of Earth's total land surface. They are the most dense forests available on Earth and consists of 50% of Earth flora and fauna."
+    },
+    {
+        "question": "Which of the following winds are hot dust laden and blow from Sahara desert towards Mediterranean Region?",
+        "options": [
+            "Sirocco",
+            "Loo",
+            "Foehn",
+            "Mistral"
+        ],
+        "correct_answer": "a",
+        "note": "Sirocco is a type of local wind which affect small geographical area and is result of local level conditions (such as pressure difference between two locations). Other such local wind are loo, Harmattan (doctor winds) etc."
+    },
+    {
+        "question": "Cyclonic rainfall largely occurs in ________",
+        "options": [
+            "Egypt",
+            "India",
+            "U.K.",
+            "Mexico"
+        ],
+        "correct_answer": "b",
+        "note": "Cyclonic rainfall largely occurs in India. Cyclonic or 'frontal' rain occurs where two air masses meet and form a 'front'. The warmer, moisture laden air rises over the colder air as a 'warm front'. As. the air rises it cools, and its relative humidity increases. Clouds form as water vapour condenses, and then fall as rain."
+    },
+    {
+        "question": "The tropical rain forests are dense and varied because of ________",
+        "options": [
+            "Their remote and inaccessible locations",
+            "Very little interference from man",
+            "An abundance of moisture and warm temperature throughout the year",
+            "Poor economic development"
+        ],
+        "correct_answer": "c",
+        "note": "The tropical rain forests are dense and varied because of an abundance of moisture and warm temperature throughout the year."
+    },
+    {
+        "question": "The region which does not receive most of its rainfall during winter, is ________",
+        "options": [
+            "Central California",
+            "Central North America",
+            "South West Australia",
+            "South West Africa"
+        ],
+        "correct_answer": "b",
+        "note": "The region which does not receive most of its rainfall during winter, is Central North America."
+    },
+    {
+        "question": "Summers in Western Europe are warmer than those in Eastern Europe because of ________",
+        "options": [
+            "The influence of the warm ocean current",
+            "The influence of bright sunshine",
+            "The lower mountains terrain",
+            "Peninsular nature of the continent"
+        ],
+        "correct_answer": "a",
+        "note": "Summers in Western Europe are warmer than those in Eastern Europe because of the influence of the warm ocean current."
+    },
+    {
+        "question": "A type of rainfall which occurs when wind rises up along a hill or mountain barrier is called ________",
+        "options": [
+            "Anti-cyclonic",
+            "Convectional",
+            "Cyclonic",
+            "Orographic"
+        ],
+        "correct_answer": "d",
+        "note": "A type of rainfall which occurs when wind rises up along a hill or mountain barrier is called Orographic. Orographic rainfall is rain that is produced from the lifting of moist air over a mountain. Orographic precipitation, rain, snow, or other precipitation produced when moist air is lifted as it moves over a mountain range."
+    },
+    {
+        "question": "Which one of the following islands receives convectional rainfall ?",
+        "options": [
+            "Cyprus",
+            "Sumatra",
+            "Cuba",
+            "Greenland"
+        ],
+        "correct_answer": "b",
+        "note": "Sumatra islands receives convectional rainfall. When the land warms up, it heats the air above it. This causes the air to expand and rise. As the air rises it cools and condenses. If this process continues then rain will fall."
+    },
+    {
+        "question": "Which of the following represents the process of chemical weathering?",
+        "options": [
+            "Thermal expansion and contraction",
+            "Mass exfoliation",
+            "Hydration and Hydrolysis",
+            "Frost action and crystal growth"
+        ],
+        "correct_answer": "c",
+        "note": "Hydration and Hydrolysis represents the process of chemical weathering. In Hydration, Chemical combination of water molecules with a particular substance or mineral leading to a change in structure. In Hydrolysis, Most important process in chemical weathering. It is due to the dissociation of H2O into H+ and OH- ions which chemically combine with minerals and bring about changes, such as exchange, decomposition of crystalline structure and formation of new compounds. Water acts as a weak acid on silicate minerals."
+    },
+    {
+        "question": "'Climate is extreme, rainfall is scanty and the people used to be nomadic hoarders'. For which region is this statement correct?",
+        "options": [
+            "African Savanna",
+            "Central Asian Steppes",
+            "Siberian Tundra",
+            "North American Prairies"
+        ],
+        "correct_answer": "b",
+        "note": "'Climate is extreme, rainfall is scanty and the people used to be nomadic hoarders'. For Central Asian Steppes the statement is correct."
+    },
+    {
+        "question": "Which of the following statements is/are not true?\n1. Chemical weathering is most common in limestone rocks\n2. Chemical weathering is most active in wet regions with higher temperature\n3. Rain action is a form of chemical weathering\n4. Exfoliation is a process of chemical weathering",
+        "options": [
+            "1 and 4",
+            "2 and 3",
+            "1 and 2",
+            "4"
+        ],
+        "correct_answer": "d",
+        "note": "Exfoliation is not a process of chemical weathering. Exfoliation can occur due to several processes. During a combination of physical and chemical weathering, exfoliation may occur parallel to a rock's outer surface due to a combination of chemical breakdown of minerals , especially in the presence of water."
+    },
+    {
+        "question": "Small daily and seasonal range of temperature, comparatively cool summer and comparatively warm winter. This would be the characteristic climate of ________",
+        "options": [
+            "An island",
+            "A tropical country",
+            "The interior of a continent",
+            "Temperate latitudes"
+        ],
+        "correct_answer": "a",
+        "note": "An island"
+    },
+    {
+        "question": "Instrument for measuring rainfall is called",
+        "options": [
+            "Lucimeter",
+            "Galactometer",
+            "Hyetometer",
+            "Hygrometer"
+        ],
+        "correct_answer": "c",
+        "note": "Instrument for measuring rainfall is called Hyetometer (A rain gauge is a type of instrument used by meteorologists and hydrologists to gather and measure the amount of liquid precipitation over a set period of time)."
+    },
+    {
+        "question": "Which one of the following statements is not correct?",
+        "options": [
+            "Rainfall generally increases away from the equatorial region both northwards and southwards upto about 30° north and south",
+            "Mediterranean regions receive rainfall in winter from cyclones",
+            "Hot deserts of the world are found in the tropical regions between 15° and 30° north and south latitudes",
+            "Deserts generally receive less than 25 cm of rainfall in a year"
+        ],
+        "correct_answer": "a",
+        "note": "Option 1 is incorrect. Rainfall generally decreases away from the equatorial region both northwards and southwards upto about 30° north and south."
+    },
+    {
+        "question": "Which of the following types of rainfall is often accompanied with lightning and thunder?",
+        "options": [
+            "Orographic",
+            "Convectional",
+            "Frontal",
+            "None of these"
+        ],
+        "correct_answer": "b",
+        "note": "Convectional types of rainfall is often accompanied with lightning and thunder. Convectional rain is caused by convection where the surface layer of the atmosphere is heated causing the moisture laden air to rise. As it rises it cools to form clouds. The unequal heating of the earth's surface causes convection."
+    },
+    {
+        "question": "For short-term climatic perdictions, which one of the following events is associated with occasional weak monsoon rains in the Indian sub-continent?",
+        "options": [
+            "La Nina",
+            "Movement of Jet Streams",
+            "El Nino and Southern Oscillations",
+            "Greenhouse effect on global level"
+        ],
+        "correct_answer": "c",
+        "note": "For short-term climatic perdictions, El Nino and Southern Oscillations events is associated with occasional weak monsoon rains in the Indian sub-continent. El Nino is sometimes referred to as the cold phase of ENSO and El Niño as the warm phase of ENSO. These deviations from normal surface temperatures can have large-scale impacts not only on ocean processes, but also on global weather and climate."
+    },
+    {
+        "question": "The term Mediterranean agriculture applies to a particular blend of ________ and activities and ________ is confined to regions encircling the Mediterranean basins.",
+        "options": [
+            "Farming and grazing",
+            "Farming and fishing",
+            "Grazing and fishing",
+            "Fishing and mining"
+        ],
+        "correct_answer": "a",
+        "note": "The term Mediterranean agriculture applies to a particular blend of Farming and grazing activities  is confined to regions encircling the Mediterranean basins."
+    },
+    {
+        "question": "The problem of leaching of the soil is more pronounced in the areas where the rainfall is ________",
+        "options": [
+            "Scanty",
+            "Less than average",
+            "Average",
+            "Heavy"
+        ],
+        "correct_answer": "d",
+        "note": "The problem of leaching of the soil is more pronounced in the areas where the rainfall is heavy. Nitrate leaching is a side effect of high rainfall. Nitrate is one of the most critical nutrients in soil, and when heavy rain is actively pouring down and flooding the soil, the nitrate sinks deep down into the ground, otherwise called leaching."
+    },
+    {
+        "question": "Mild and rainy winters, warm and dry summers are the characteristic features of ________",
+        "options": [
+            "Monsoon Region",
+            "Mediterranean Region",
+            "Tropical Grasslands",
+            "Temperate Grasslands"
+        ],
+        "correct_answer": "b",
+        "note": "Mild and rainy winters, warm and dry summers are the characteristic features of Mediterranean Region. The Mediterranean climate is characterized by dry and hot summer and cold and rainy winter. The regions are located in the western parts of the continent between 30° and 45° north and south of the equator."
+    },
+    {
+        "question": "Which of the following types of rainfall occurs at places having continental type of climate?",
+        "options": [
+            "Convectional",
+            "Cyclonic",
+            "Relief",
+            "Rainfall does not occur at these places"
+        ],
+        "correct_answer": "b",
+        "note": "Cyclonic types of rainfall occurs at places having continental type of climate. Cyclonic rain originates where warm tropical air meets cold polar air. The warm air overrides the cold air. When contrasting air masses make contact, an abrupt zone or boundary is formed."
+    },
+    {
+        "question": "The country that has the greatest length of the day during summer is ________",
+        "options": [
+            "Australia",
+            "Mexico",
+            "Nigeria",
+            "Norway"
+        ],
+        "correct_answer": "d",
+        "note": "The country that has the greatest length of the day during summer is Norway."
+    },
+    {
+        "question": "Which of the following instrument is used to measure humidity?",
+        "options": [
+            "Kata Thermometer",
+            "Anemometer",
+            "Sling Psychrometer",
+            "Medical thermometer"
+        ],
+        "correct_answer": "c",
+        "note": "A hygrometer measures relative humidity. Sling pychrometer is a simple hygrometer consisting two thermometers : An ordinary thermometer & a wet bulb thermometer with its bulb covered by cloth wick; used to find relative humidity."
+    },
+    {
+        "question": "Which of the following device is used to measure humidity?",
+        "options": [
+            "Hydrometer",
+            "Hygrometer",
+            "Psychrometer",
+            "Anemometer"
+        ],
+        "correct_answer": "b",
+        "note": "List I - Instrument \nList II - Used For \n\n\nHydrometer\nMeasuring density of liquid\n\n\nHygrometer\nHumidity\n\n\nPsychrometer\nRelative humidity\n\n\nAnemometer\nSpeed of wind"
+    },
+    {
+        "question": "With reference to convectional type of rainfall, consider the following statements\n1. It is a warm weather phenomenon.\n2. This rainfall is associated with cumulo-nimbus clouds.\nWhich of the statement(s) given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "With reference to convectional type of rainfall, the statement(s) that are correct are It is a warm weather phenomenon and This rainfall is associated with cumulo-nimbus clouds."
+    },
+    {
+        "question": "Consider the following statements:\n1. In the tropical rainforest of Brazil, the average diurnal range of temperature is much greater than the average annual range of temperature.\n2. In the humid subtropical climate of Kyushu island of Japan, the rainfall for the year almost totals that of the rainfall in tropical rainforest.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "c",
+        "note": "The statements that are correct are: In the tropical rainforest of Brazil, the average diurnal range of temperature is much greater than the average annual range of temperature and In the humid subtropical climate of Kyushu island of Japan, the rainfall for the year almost totals that of the rainfall in tropical rainforest."
+    },
+    {
+        "question": "Consider the following statements:\n1. Rainfall in the doldrums is of convectional nature.\n2. Convectional rainfall is highly localized and is associated with minimum cloudiness.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "Both 1 and 2",
+            "2 only",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "a",
+        "note": "Rainfall in the doldrums is of convectional nature."
+    },
+    {
+        "question": "Though coffee and tea both are cultivated on hill slopes, there is some difference between them regarding their cultivation. In this context, consider the following statements:\n1. Coffee plant requires a hot and humid climate of tropical areas whereas tea can be cultivated in both tropical and subtropical areas.\n2. Coffee is propagated by seeds but tea is propagated by stem cuttings only.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "a",
+        "note": "The statement that is correct is Coffee plant requires a hot and humid climate of tropical areas whereas tea can be cultivated in both tropical and subtropical areas."
+    },
+    {
+        "question": "La Nina is suspected to have caused recent floods in Australia. How is La Nina different from El Nino ?\n1. La Nina is characterised by un-usually cold ocean temperature in equatorial Indian Ocean whereas El Nino IS characterised by unusually warm ocean temperature in the equatorial Pacific Ocean.\n2. El Nino has adverse effect on south-west monsoon of India, but La Nina has no effect on monsoon climate.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "d",
+        "note": "La Nina is sometimes referred to as the cold phase of ENSO and El Nino as the warm phase of ENSO."
+    },
+    {
+        "question": "What is Weathering?",
+        "options": [
+            "Removal of earth's material by river action",
+            "Removal of earth's material by wind action",
+            "Breaking up and disintegration of rocks",
+            "Hardening up of rocks due to weather conditions"
+        ],
+        "correct_answer": "c",
+        "note": "Breaking up and disintegration of rocks is known as weathering. Weathering breaks down and loosens the surface minerals of rock so they can be transported away by agents of erosion such as water, wind and ice. There are two types of weathering: mechanical and chemical. Mechanical weathering is the disintegration of rock into smaller and smaller fragments."
+    },
+    {
+        "question": "The type of rainfall shown in figure is ________",
+        "options": [
+            "Orographic",
+            "Convectional",
+            "Cyclonic",
+            "Relief"
+        ],
+        "correct_answer": "b",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Which of the following statements are true with regard to tropical monsoon climate?\nI. Temperatures range from 32° C in the hot season to about 15° C in the cool season\nII. Annual rainfall varies greatly\nIII. The climate is best developed in the southern continents\nIV. It consists of three main seasons i. e. cool, dry season; hot, dry season; hot, wet season",
+        "options": [
+            "I and IV",
+            "II, III and IV",
+            "II and III",
+            "I, II and IV"
+        ],
+        "correct_answer": "d",
+        "note": "Rhe following statements are true with regard to tropical monsoon climate are that Temperatures range from 32° C in the hot season to about 15° C in the cool season, Annual rainfall varies greatly and It consists of three main seasons i. e. cool, dry season; hot, dry season; hot, wet season."
+    }
+]

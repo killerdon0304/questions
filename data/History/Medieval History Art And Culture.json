@@ -1,0 +1,2136 @@
+[
+    {
+        "question": "Who built Hawa Mahal?",
+        "options": [
+            "Guru Ramdas",
+            "Maharaja Pratap Singh",
+            "RabindraNath Tagore",
+            "British Govt"
+        ],
+        "correct_answer": "b",
+        "note": "Hawa Mahal is a palace in Jaipur, India. It is constructed of red and pink sandstone. The palace sits on the edge of the City Palace, Jaipur, and extends to the zenana, or women's chambers. The structure was built in 1799 by Maharaja Sawai Pratap Singh."
+    },
+    {
+        "question": "Who built Jama Masjid?",
+        "options": [
+            "Guru Ramdas",
+            "Shah Jahan",
+            "Rao Jodhaji",
+            "Mahatma Gandhi"
+        ],
+        "correct_answer": "b",
+        "note": "Mughal Emperor Shah Jahan built the Jama Masjid between 1644 and 1656. It was constructed by more than 5000 workers. It was originally called Masjid-i-Jahan Numa, meaning 'mosque commanding view of the world'."
+    },
+    {
+        "question": "Who built Jodhpur Fort?",
+        "options": [
+            "Guru Ramdas",
+            "Shahjahan",
+            "Rao Jodhaji",
+            "Mahatma Gandhi"
+        ],
+        "correct_answer": "c",
+        "note": "Mehrangarh or Mehran Fort, located in Jodhpur, Rajasthan, is one of the largest forts in India. Built in around 1459 by Rao Jodha, the fort is situated 410 feet (125 m) above the city and is enclosed by imposing thick walls."
+    },
+    {
+        "question": "Who founded the Pala Empire?",
+        "options": [
+            "Devapala",
+            "Dharmapala",
+            "Dhruva",
+            "Gopala"
+        ],
+        "correct_answer": "d",
+        "note": "Dharmapala (ruled 8th century) was the second ruler of the Pala Empire of Bengal region in the Indian Subcontinent. He was the son and successor of Gopala, the founder of the Pala Dynasty. He greatly expanded the boundaries of the empire, and made the Palas a dominant power in the northern and eastern India."
+    },
+    {
+        "question": "Who wrote Akbarnama?",
+        "options": [
+            "Akbar",
+            "Birbal",
+            "Abul Fazal",
+            "Bhagavan Das"
+        ],
+        "correct_answer": "c",
+        "note": "Abul Fazl was the author of Akbarnama, the official history of Akbar's reign in 3 volumes. This book gives the history of Akbar's forefathers from Timur to Humayun and Akbar's reign till 1602 AD. Abul Fazl was one of the nine jewels in the royal court of Akbar."
+    },
+    {
+        "question": "Who wrote Tughlaqnama?",
+        "options": [
+            "Abu Nasr Utbi",
+            "Amir Khusrau",
+            "Abul Fazl",
+            "Hasan Nizami"
+        ],
+        "correct_answer": "b",
+        "note": "In 1321 Amir Khusrau began to write a historic masnavi named Tughlaq Nama (Book of the Tughlaqs) about the reign of Ghiyath al-Din Tughlaq and that of other Tughlaq rulers."
+    },
+    {
+        "question": "The Qutub Minar was completed by the famous ruler",
+        "options": [
+            "Qutubuddin Aibak",
+            "Iltutmish",
+            "Firoz Shah Tughlaq",
+            "Alauddin Khalji"
+        ],
+        "correct_answer": "b",
+        "note": "Qutab-ud-din Aibak started the construction of Qutub Minar in 1193. Its construction was completed by his son-in-law Iltutmish."
+    },
+    {
+        "question": "Which of the following architectural wonders was not constructed in the 12th Century A.D.?",
+        "options": [
+            "Suntemple of Konark",
+            "Temple of Khajuraho",
+            "Angkor Vat",
+            "Notre Darn, the Paris"
+        ],
+        "correct_answer": "a",
+        "note": "Temple of Khajuraho were built between 950 - 1050 AD\nby Chandela Rajput. Angkor Vat Temple was built in 12th century by Khener Singh Suryavannan-II Notre -  Dame the Paris was built in 1163. Sun Temple Konark was built by Ganga dynasty King Narshimdev-I in 13th century A.D."
+    },
+    {
+        "question": "The number of provinces or mandalams in the Chola Empire was",
+        "options": [
+            "Nine",
+            "Ten",
+            "Twelve",
+            "Six"
+        ],
+        "correct_answer": "a",
+        "note": "The Chola Empire was divided into nine provinces. They were also called mandalams."
+    },
+    {
+        "question": "The largest standing army of the Delhi Sultanate directly paid by the State was created by",
+        "options": [
+            "Balban",
+            "IIitutmish",
+            "Muhammad bin Tughlaq",
+            "Alauddin Khalji"
+        ],
+        "correct_answer": "d",
+        "note": "The largest standing army of the Delhi Sultanate directly paid by the State was created by Alauddin Khalji."
+    },
+    {
+        "question": "Who brought the famous Persian painter named Khwaja Abdus Samad to India?",
+        "options": [
+            "Humayun",
+            "Muhammad Bin Tughlaq",
+            "Akbar",
+            "Alauddin Khalji"
+        ],
+        "correct_answer": "a",
+        "note": "The Iranian painters were brought by Humayun were Mir Sayyid Ali and Abdus Samad. Both the painters were the founders of an independent branch of Persian art popularly known as the Mughal school of miniature painting."
+    },
+    {
+        "question": "Who founded the Vikramashila University?",
+        "options": [
+            "Devapala",
+            "Dharmapala",
+            "Dhruva",
+            "Gopala"
+        ],
+        "correct_answer": "b",
+        "note": "Vikramashila was founded by Pāla king Dharmapala in the late 8th or early 9th century. It prospered for about four centuries before it was destroyed by Bakhtiyar Khilji along with the other major centres of Buddhism in India around 1193."
+    },
+    {
+        "question": "The Delhi Sultanate reached its maximum geographical limits during the reign of __________",
+        "options": [
+            "Alauddin Khalji",
+            "Qutbuddin Mubarak Shah Khalji",
+            "Muhammad bin Tughlaq",
+            "Firuz Tughlaq"
+        ],
+        "correct_answer": "c",
+        "note": "Their most prominent sultan was Muhammad bin Tughlaq. Under his reign, the Delhi Sultanate expanded its geographical boundaries to cover most of India."
+    },
+    {
+        "question": "The foreign traveller who visited India during Vijayanagara period was",
+        "options": [
+            "Megasthenes",
+            "Yuan Chawng",
+            "Fa-Hien",
+            "Nicolo Conti"
+        ],
+        "correct_answer": "d",
+        "note": "Nicolo Conti, an Italian, was at Vijayanagar in about 1420, just after the accession of Devaraya I. The first known foreign traveller, he mentions that the fortifications of the city and the thousands of men employed in the army of the rulers."
+    },
+    {
+        "question": "Who was the first Indian ruler to organize Haj pilgrimage at the expense of the state?",
+        "options": [
+            "Alauddin Khalji",
+            "Feroz Tughlaq",
+            "Akbar",
+            "Aurangzeb"
+        ],
+        "correct_answer": "c",
+        "note": "Akbar was the first Indian ruler to organize Haj pilgrimage at the expense of the state."
+    },
+    {
+        "question": "Which one of the following sequences represents the correct chronological order?",
+        "options": [
+            "Shahji, Shivaji, Rajaram, Sambhaji",
+            "Shahji, Shivaji, Sambhaji, Rajaram",
+            "Shahji, Sambhaji, Shivaji, Rajaram",
+            "Sambhaji, Shivaji, Shahji, Rajaram"
+        ],
+        "correct_answer": "b",
+        "note": "Shahji, Shivaji, Sambhaji, Rajaram sequences represents the correct chronological order."
+    },
+    {
+        "question": "The Assam State derives its name from that of a tribe that conquered the region. Where did the tribesmen come from?",
+        "options": [
+            "Tibet",
+            "Mongolia",
+            "Burma (Now Myarnmar)",
+            "Siam (now Thailand)"
+        ],
+        "correct_answer": "d",
+        "note": "The tribe that conquered the region of Assam came from Siam (Now Thailand)."
+    },
+    {
+        "question": "Who was the founder of the Sena dynasty?",
+        "options": [
+            "Ballal Sena",
+            "Hemanta Sena",
+            "Lakshman Sena",
+            "Vijay Sena"
+        ],
+        "correct_answer": "b",
+        "note": "The dynasty's founder was Samanta Sena. After him came Hemanta Sena who usurped power and styled himself king in 1095 AD. His successor Vijaya Sena (ruled from 1096 AD to 1159 AD) helped lay the foundations of the dynasty, and had an unusually long reign of over 60 years."
+    },
+    {
+        "question": "Which of the following revolts during Aurangzeb's period had a peasant agrarian background?",
+        "options": [
+            "Rajputs",
+            "Jats and Satnamis",
+            "Marathas",
+            "Sikhs"
+        ],
+        "correct_answer": "b",
+        "note": "Satnamis, who were actually Hindus rebelled against Aurangzeb in 1672. Their leader was Birbhan. Satnamis lived in the region around Delhi.  Satnamis fought with courage but they were defeated by the imperial army of Mughals and crushed to death. Jats also rebelled against Aurangzeb under the leadership of local Zamindar Gokala. They were never subdued completely and continued to resist the Mughal rule and when Aurangzeb died, they succeeded in establishing an independent Jat kingdom in Bharatpur."
+    },
+    {
+        "question": "Chandragiri Fort is a historical fort, built in the 11th century. It is located in",
+        "options": [
+            "Karnataka",
+            "Maharashtra",
+            "Madhya Pradesh",
+            "Andhra Pradesh"
+        ],
+        "correct_answer": "d",
+        "note": "Chandragiri Fort is a historical fort, built in the 11th century located in Chandragiri, Tirupati in Andhra Pradesh, India. Though mostly associated with Vijayanagara Kings it was built much earlier in 11th century by Yadava Naidu kings."
+    },
+    {
+        "question": "The court language of the Delhi Sultanate was",
+        "options": [
+            "Urdu",
+            "Persian",
+            "Hindi",
+            "Arabic"
+        ],
+        "correct_answer": "b",
+        "note": "The Delhi Sultanate literature began with the rise of Persian speaking people to the throne of the Sultanate of Delhi, naturally resulted in the spread of the Persian language in India. It was the official language and soon literary works in the language began to appear."
+    },
+    {
+        "question": "Agra Fort was built by",
+        "options": [
+            "Humayun",
+            "Akbar",
+            "Babur",
+            "Aurangzeb"
+        ],
+        "correct_answer": "b",
+        "note": "The construction of the Agra fort was started around 1565, when the initial structures were built by the Mughal Emperor Akbar, and subsequently taken over by his grandson Shah Jahan, who added most of the marble creations to the fort."
+    },
+    {
+        "question": "Who was the Mughal emperor at the time of Ahmad Shah Abdali's invasion of India?",
+        "options": [
+            "Bahadur Shah-I",
+            "Bahadur Shah-II",
+            "Shah Alam-I",
+            "Shah Alam-II"
+        ],
+        "correct_answer": "c",
+        "note": "Ahmed Shah Abdali invaded India seven times from 1748-1767. He crossed Kyber pass in December 1747 with 40000 troops to invade india. India was being ruled by Shah Alam- I at that time."
+    },
+    {
+        "question": "The famous Peacock Throne of Shah Jahan was\ntaken away in 1739 by",
+        "options": [
+            "Afghan invader Ahmed Shah Abdali",
+            "Persian invader Nadir Shah",
+            "Mongol invader Chengiz Khan",
+            "British East India Company"
+        ],
+        "correct_answer": "b",
+        "note": "The Peacock Throne (Takht-e-TauS) was built by Mughal Emperor Shahjahan under the commission of goldsmith Bedradru Khan in the year 1628. It was first put at Diwan-i-Aam (Agra Fort) and then moved to Diwan-i-Khas (Red Fort) during the reign of Mughal Emperor Aurangzeb. Nadir Shah invaded India in 1739 and took Peacock Throne and Koh-i-noor diamond with him."
+    },
+    {
+        "question": "Alberuni came to India with",
+        "options": [
+            "Mahmud of Ghazni",
+            "Alexander",
+            "Babur",
+            "Tamur"
+        ],
+        "correct_answer": "a",
+        "note": "Alberuni (Abu Rayham Beruni) was a persian scholar who came to India with Mahmud of Ghazni in 1017. He wrote Tarikh Al-Hind (History of India.). He was given the title of 'founder of Indology' and 'al-ustadh'."
+    },
+    {
+        "question": "Who among the following built the largest number of irrigation canals in the Sultanate period?",
+        "options": [
+            "Nasiruddin Mahmud",
+            "Ghiyasuddin Balban",
+            "Ibrahim Lodi",
+            "Firuz Shah Tughlaq"
+        ],
+        "correct_answer": "d",
+        "note": "Sultan Firuz Shah Tughlaq (1309 – 20 September 1388) was a Turkic Muslim ruler of the Tughlaq Dynasty, who reigned over the Sultanate of Delhi from 1351 to 1388. He constructed four canals for irrigation."
+    },
+    {
+        "question": "The correct chronological sequence of these Mughal rulers after Aurangzeb:\nI. Alamgir-II\nII. Farrukh Siyar\nIII. Jahandar Shah\nIV. Shah Alam-II",
+        "options": [
+            "III,II,IV,I",
+            "II,III,IV,I",
+            "II,III,I,IV",
+            "III,II,I,IV"
+        ],
+        "correct_answer": "d",
+        "note": "The correct chronological sequence of these Mughal rulers after Aurangzeb : Jahandar Shah, Farrukh Siyar, Alamgir-II, Shah Alam-II.\nMirza Muizz-ud-Din Beig Muhammed Khan (9 May 1661 to 12 February 1713), more commonly known as Jahandar Shah, was a Mughal Emperor who ruled for a brief period in 1712–1713.\nFarrukh Siyar, was the Mughal emperor from 1713 to 1719 after he murdered Jahandar Shah.\nAziz-ud-din Alamgir II was the Mughal Emperor of India from 3 June 1754 to 29 November 1759. He, the second son of Jahandar Shah, was raised to the throne by Imad-ul-Mulk after he deposed Ahmad Shah Bahadur in 1754.\nAli Gohar (25 June 1728 to 19 November 1806), historically known as Shah Alam II, was the sixteenth Mughal Emperor and the son of Alamgir II."
+    },
+    {
+        "question": "Who among the following was known as a Nirguna saint and reformer?",
+        "options": [
+            "Sant Kabir",
+            "Surdas",
+            "Chaitanya Mahaprabhu",
+            "Tulsidas"
+        ],
+        "correct_answer": "a",
+        "note": "Kabir is widely believed to have become the first disciple of the Bhakti poet-saint Swami Ramananda in Varanasi, known for devotional Vaishnavism with a strong bent to monist Advaita philosophy teaching that God was inside every person, everything. Sant Kabir was known as a Nirguna saint and reformer."
+    },
+    {
+        "question": "From where the Mansabdari system was borrowed?",
+        "options": [
+            "Afghanistan",
+            "Turkey",
+            "Mongolia",
+            "Persia"
+        ],
+        "correct_answer": "c",
+        "note": "Mansabdar implies the generic term for the military-kind grading of all royal functionaries of the Mughal Empire. The Mansabdari system introduced by Akbar was borrowed from the system followed in Mongolia."
+    },
+    {
+        "question": "Sakhi, Sabad and Ramaini were the notable work of?",
+        "options": [
+            "Tansen",
+            "Rahim",
+            "Kabir",
+            "Tulsidas"
+        ],
+        "correct_answer": "c",
+        "note": "Kabir was a 15th-century Indian mystic poet and saint, whose writings, according to some scholars, influenced Hinduism's Bhakti movement. Kabir's verses are found in Sikhism's scripture Guru Granth Sahib. His most famous writings include his dohas. Sakhi, Sabad and Ramaini were the notable work of kabir."
+    },
+    {
+        "question": "The Biography of Humayun was written by",
+        "options": [
+            "Nur Jahan",
+            "Jodha",
+            "Anarkali",
+            "Gulbadan Begum"
+        ],
+        "correct_answer": "d",
+        "note": "Akbar asked his aunt to write whatever she remembered about her brother's life. Gulbadan Begum took the challenge and produced a document titled Ahwal Humayun Padshah Jamah Kardom Gulbadan Begum bint Babur Padshah amma Akbar Padshah. It came to be known as Humayun-nama."
+    },
+    {
+        "question": "Akbar established Ibadat Khana at",
+        "options": [
+            "Lahore",
+            "Delhi",
+            "Agra",
+            "Fatehpur Sikri"
+        ],
+        "correct_answer": "d",
+        "note": "Mughal Emperor Akbar the Great (r. 1556–1605) holds a religious assembly in the (House of Worship) in Fatehpur Sikri; the two men dressed in black are the Jesuit missionaries Rodolfo Acquaviva and Francisco Henriques."
+    },
+    {
+        "question": "Tulsidas composed his Ramacharitamanas during the reign of",
+        "options": [
+            "Harsha",
+            "Alauddin Khalji",
+            "Akbar",
+            "Krishnadeva Raya"
+        ],
+        "correct_answer": "c",
+        "note": "Ramcharitmanas was composed at Ayodhya, Varanasi & Chitrakoot. India was under the reign of Mughal emperor Akbar (1556-1605 CE) during this period."
+    },
+    {
+        "question": "Kandariya Mahadeva Temple of the Medieval India is dedicated to which Lord?",
+        "options": [
+            "Shiva",
+            "Brahma",
+            "Vishnu",
+            "Ram"
+        ],
+        "correct_answer": "a",
+        "note": "The Kandariya Mahadeva Temple, one of the best examples of temples preserved from the medieval period in India, is the largest of the western group of temples in the Khajuraho complex which was built by the Chandela rulers. Shiva is the chief deity in the temple deified in the sanctum sanctorum."
+    },
+    {
+        "question": "Who was the author of Gita Govinda?",
+        "options": [
+            "Jayadeva",
+            "Kalhana",
+            "Kalidasa",
+            "Raja Rao"
+        ],
+        "correct_answer": "a",
+        "note": "Gita Govinda was composed by the famous 12th century poet Jayadeva. Jayadeva wrote the Geet Govind, which contains information about the Rasleela's of Krishna in Vrindavan."
+    },
+    {
+        "question": "Who was the first Sultan of Delhi to issue regular currency and to declare Delhi as the capital of his empire?",
+        "options": [
+            "Balban",
+            "Aram Shah",
+            "Nasiruddin Mahmud",
+            "Iltutmish"
+        ],
+        "correct_answer": "d",
+        "note": "Iltutmish was the first Sultan of Delhi to issue regular currency and declare Delhi as the capital of his empire. He was the third ruler of the Delhi Sultanate (1211 – 1236), belonging to the Mamluk dynasty. He conquered Multan and Bengal from contesting rulers, and Ranthambhore and Siwalik from their rulers."
+    },
+    {
+        "question": "Who was the in-charge of a pargana?",
+        "options": [
+            "Amin",
+            "Pattidar",
+            "Shiqdar",
+            "Oanungo"
+        ],
+        "correct_answer": "c",
+        "note": "Chief Shiqdar (Shiqdar-i-Shiqdran), in charge of executive administration and chief Munsif (Munsif-i-Munsifan). Later, Sher Shah's pargana administration was reformed and he created some new posts: Shiqdar or military commander and police chief with limited powers, Amin or Munsif, Fotahdar or Treasurer and Karkuns or record keeper. During this time, Shiqdar and Amin were the responsible officers of military and revenue department in the Pargana."
+    },
+    {
+        "question": "Who among the following took greater interest in laying out gardens than others?",
+        "options": [
+            "Humayun",
+            "Babur",
+            "Jahangir",
+            "Akbar"
+        ],
+        "correct_answer": "b",
+        "note": "Emperor Babur laid out the classical Moghul-style gardens located on a high point in west Kabul which comprised a series of beautiful landscaped hillside."
+    },
+    {
+        "question": "Akbar's mausoleum is situated at",
+        "options": [
+            "Sasaram",
+            "Sikandra",
+            "Agra",
+            "Delhi"
+        ],
+        "correct_answer": "b",
+        "note": "It is located at Sikandra, in the suburbs of Agra, on the Mathura road (NH2), 8 km west-northwest of the city center. About 1 km away from the tomb, lies Mariam's Tomb, the tomb of Mariam-uz-Zamani, wife of the Mughal Emperor Akbar and the mother of Jahangir."
+    },
+    {
+        "question": "Bibi Ka Maqbara was built by",
+        "options": [
+            "Humayun",
+            "Azam Shah",
+            "Babur",
+            "Aurangzeb"
+        ],
+        "correct_answer": "b",
+        "note": "The Bibi Ka Maqbara (English:\"Tomb of the Lady\") is a tomb located in Aurangabad, Maharashtra, India. It was built by Mughal emperor Aurangzeb's son \"Azam Shah\" in the memory of his mother (posthumously known as Rabia-ud-Daurani)."
+    },
+    {
+        "question": "Assertion (A): Rana Sanga lost the battle of Khanwa in the year 1527. Reason (R): An ally of Rana Sanga, Hasan Khan Mewati betrayed him during the battle",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not a correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "c",
+        "note": "The Battle of Khanwa was fought near the village of Khanwa, in Bharatpur District of Rajasthan, on March 16, 1527. It was fought between the invading forces of the first Mughal Emperor Babur and the Rajput forces led by Rana Sanga of Mewar, after the Battle of Panipat."
+    },
+    {
+        "question": "Bijapur is known for its",
+        "options": [
+            "Sever drought condition",
+            "Gol Gumbaz",
+            "Heavy rainfall",
+            "Statue of Gomateswara"
+        ],
+        "correct_answer": "b",
+        "note": "Bijapur is largely visited by travelers from all across the world. Also known as Gol Gumbaz, this architectural feature is famous for its massive dome. It is the second largest dome in the world after St Peter's Basilica in Rome."
+    },
+    {
+        "question": "Name the poet who wrote \"Prithviraj Raso\", a poem describing Prithviraj Chauhan's life",
+        "options": [
+            "Vir Siroja",
+            "Chand Bardai",
+            "Meerja Umed",
+            "Nur Fateh"
+        ],
+        "correct_answer": "b",
+        "note": "The Prithviraj Raso is a Brajbhasha epic poem about the life of the 12th century Indian king Prithviraj Chauhan (c. 1166-1192 CE). It is attributed to Chand Bardai, who according to the text, was a court poet of the king."
+    },
+    {
+        "question": "Who among the following built the famous Alai Darwaza?",
+        "options": [
+            "Allaudin Khalji",
+            "Babur",
+            "Ibrahim Lodi",
+            "Shahjahan"
+        ],
+        "correct_answer": "a",
+        "note": "The Alai Darwaza is the main gate from the southern side of the Quwwat-ul-Islam Mosque in the Qutub Minar complex .Built by Allaudin Khilji the Sultan of Delhi in 1311 AD, the Alai Darwaza has a domed entrance which is constructed using red sandstone and is adorned with white marble."
+    },
+    {
+        "question": "What was the official language of the Sultanate?",
+        "options": [
+            "Persian",
+            "Urdu",
+            "Arabic",
+            "Hindi"
+        ],
+        "correct_answer": "a",
+        "note": "The Delhi Sultanate literature began with the rise of Persian speaking people to the throne of the Sultanate of Delhi, naturally resulted in the spread of the Persian language in India. It was the official language and soon literary works in the language began to appear."
+    },
+    {
+        "question": "The Taj Mahal is called 'a dream in marble'. Which monument is called as 'a dream in stone'?",
+        "options": [
+            "The Rang Mahal",
+            "The Panch Mahal",
+            "The Red Fort",
+            "The Bahai temple"
+        ],
+        "correct_answer": "b",
+        "note": "The Panch Mahal, one of the most famous structures of Fatehpur Sikri, is known as 'dream in stone'. It was built by Akbar for Mughal women and ladies of the harem."
+    },
+    {
+        "question": "Who among the following came to India at the instance of Sultan Mahmud of Ghazni?",
+        "options": [
+            "AI-Masudi",
+            "Al-Biruni",
+            "Sulaiman",
+            "Abdul Haq"
+        ],
+        "correct_answer": "b",
+        "note": "Sultan Mahmud of Ghazni, while seated in his four-domed summer house in the garden of a thousand trees, requested Al-Biruni to forecast, by his knowledge of the stars, which door the Sultan would leave the building. When Al-Biruni had complied with this command and had written his answers secretly on a piece of paper which he placed under a quilt, the Sultan caused a hole to be made in the eastern wall and through this he left the summer house."
+    },
+    {
+        "question": "Assertion (A): Babur won the first Battle of Panipat.\nReason (R): Babur was the first to introduce the use of cannons in India",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not a correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "a",
+        "note": "Babur introduced cannon in India but before the arrival of Babur, cannon was already present in India. In north India, cannon was known as Kashakanjir. Srivara records that what is ‘topa' in Muslim dialect is Kanda in Kashmir. Ma'asir-i Mahmud Shahi by Shihab Hakim and Riyazu'l Insha by Mahmud Gawan give details of ra'd/kaman-i ra'd (lightening/lightening bow) which are identified by Ferishta in Tarikh-i Ferishta as proper cannon. Ma'asir-i Mahmud Shahi also tells us about costly bronze artillery which could not be afforded every Rajput chieftains, with exception of Mewar. It mentions about missiles as golas."
+    },
+    {
+        "question": "Surdas was a disciple of which among the following saints?",
+        "options": [
+            "Guru Nanak",
+            "Guru Ramdas",
+            "Nimbarkacharya",
+            "Vallabhacharya"
+        ],
+        "correct_answer": "d",
+        "note": "Surdas was the disciple of Vallabhacharya and he popularized Krishna cult in north India."
+    },
+    {
+        "question": "Assertion (A): The invasions of Krishnadeva Raya into the territories of Prataparudra were inconclusive. \nReason (R): Krishnadeva Raya invaded the territories of the Gajpathi not for the latter's extinction but only for the recovery of lost territories.",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not a correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "d",
+        "note": "Krishnadevaraya had to take initiative otherwise the Gajapatis could have probably overridden the Vijayanagara Empire. After his success against the Ummattur chiefs, he was emboldened to undertake a campaign against the Gajapatis. As a result of this, he fought with the Gajapatis of Odisha and won against them. The Gajapatis lost most of their territories in Telangana and Andhra to the Vijayanagara Empire."
+    },
+    {
+        "question": "The Upanishads were translated into Persian by",
+        "options": [
+            "Akbar",
+            "Dara Shikoh",
+            "Shah Jahan",
+            "Jahangir"
+        ],
+        "correct_answer": "b",
+        "note": "Dara Shukoh subsequently developed a friendship with the seventh Sikh Guru, Guru Har Rai. Dara Shukoh devoted much effort towards finding a common mystical language between Islam and Hinduism. Towards this goal he completed the translation of fifty Upanishads from their original Sanskrit into Persian in 1657 so that they could be studied by Muslim scholars."
+    },
+    {
+        "question": "Who was the founder leader of 'Muslim Faqirs' ?",
+        "options": [
+            "Majnun Shah",
+            "Dadu Mian",
+            "Tipu",
+            "Chirag Ali Shah"
+        ],
+        "correct_answer": "a",
+        "note": "Majnu Shah was a faqir of the Madariya Sufi order founded by Syed Badiuduin Qutb-ul Shah Madar. His headquarters was at the shrine of Shah Madar in Makanpur near Kanpur."
+    },
+    {
+        "question": "Which one of the following rulers built the Bibi ka Maqbara?",
+        "options": [
+            "Akbar",
+            "Jahangir",
+            "Shahjahan",
+            "Aurangzeb"
+        ],
+        "correct_answer": "d",
+        "note": "The Bibi Ka Maqbara is a historic tomb located in Chhatrapati Sambhajinagar, Maharashtra, India. It was commissioned in 1660 by Prince Azim Shah, the son of Aurangzeb, the Mughal emperor. The mausoleum was built in memory of Azim Shah's mother, Dilras Banu Begum. While Aurangzeb did not directly build the monument, it was commissioned during his reign in honor of his wife.\nAkbar (Option A) was a renowned Mughal emperor known for his administrative reforms and contributions to art and culture.\nJahangir (Option B) was another Mughal emperor, known for his patronage of the arts and his interest in painting.\nShahjahan (Option C) is famously associated with the construction of the Taj Mahal in memory of his wife Mumtaz Mahal.\nTherefore, the correct option is Option D: Aurangzeb, whose son commissioned the Bibi Ka Maqbara in honor of his mother."
+    },
+    {
+        "question": "Qutub Minar, as we find at present, was finally re-built by",
+        "options": [
+            "Balban",
+            "Alauddin Khalji",
+            "Sikandar Lodi",
+            "Firoz Tughlaq"
+        ],
+        "correct_answer": "d",
+        "note": "The construction of Qutub Minar was started by Qutub-ud-din-Aibak in 1192 A.D. The minar's topmost storey was damaged by lightning in 1369 and was rebuilt by Firuz Shah Tughlaq, who added another storey."
+    },
+    {
+        "question": "Assertion (A): Wazir Nizam-ul-Mulk left Mughal Emperor Muhammad Shah to realize his own ambition of founding the State of Hyderabad. Reason (R): Muhammad Shah, instead of supporting his able Wazir, intrigued against him.",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not a correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "a",
+        "note": "He was weak-minded and frivolous and over-fond of a life of ease and luxury. Instead of giving full support to able wazirs such as Nizam-ul-Mulk, he fell under the evil influence of corrupt and worthless flatterers and intrigued against his own ministers."
+    },
+    {
+        "question": "Who built the famous Charminar of Hyderabad?",
+        "options": [
+            "Krishndev Rai",
+            "Muhammad Quli Qutb Shah",
+            "Nadir Shah",
+            "Aurangzeb"
+        ],
+        "correct_answer": "b",
+        "note": "The Charminar is a monument in Hyderabad, India. The structure was built in 1591 AD. It is the most famous building of Hyderabad and also one of the most famous buildings in India. It was built by Muhammad Quli Qutb Shahi to celebrate the end of a deadly plague."
+    },
+    {
+        "question": "Who among the following was Akbar's teacher?",
+        "options": [
+            "Kabir",
+            "Abul Fazl",
+            "Bairam Khan",
+            "Abdul Latif"
+        ],
+        "correct_answer": "d",
+        "note": "Akbar’s teacher Abdul Latif was an Iranian scholar. He was the patron of Akbar from Bairam Khan 1556 AD to 1560 AD, who was seated on the throne of the throne by the title of Gazluddin Muhammad Akbar Emperor Ghazi, he was lovingly called Khani Baba."
+    },
+    {
+        "question": "Moti Masjid in the Red Fort, Delhi was constructed by",
+        "options": [
+            "Sher Shah",
+            "Shahjahan",
+            "Aurangzeb",
+            "Bhahadur Shah Zafar"
+        ],
+        "correct_answer": "c",
+        "note": "The Moti Masjid is a white marble mosque inside the Red Fort complex in Delhi, India. The name translates into English as \"Pearl Mosque.\" Located to the west of the Hammam and close to the Diwan-e-Khas, it was built by the Mughal emperor Aurangzeb from 1659-1660."
+    },
+    {
+        "question": "Pushti marg is a Vaishnav sect of the Hinduism was founded by?",
+        "options": [
+            "Shankaracharya",
+            "Ramanujacharya",
+            "Vallabhacharya",
+            "Nimbarkacharya"
+        ],
+        "correct_answer": "c",
+        "note": "Pushti marg (\"the Path of Grace\") is a Vaishnav sect of the Hinduism, founded by shree Vallabhacharya ji (also known as Mahaprabhuji) around 1500 AD."
+    },
+    {
+        "question": "When was Gandhi-Irvin Pact taken place?",
+        "options": [
+            "September 23, 1932",
+            "March 15, 1933",
+            "March 5, 1931",
+            "February 10, 1930"
+        ],
+        "correct_answer": "c",
+        "note": "The Gandhi-Irwin Pact was a political agreement signed by Mahatma Gandhi and Lord Irwin, the then Viceroy of India, on 5 March 1931 before the second Round Table Conference in London."
+    },
+    {
+        "question": "Name the language that was designated as the 'Camp Language' during the Medieval Period",
+        "options": [
+            "Sanskrit",
+            "Pali",
+            "Hindi",
+            "Urdu"
+        ],
+        "correct_answer": "d",
+        "note": "Urdu was designated as the camp language of Medieval India. The word, Turkish means mildary camp 'a Lashkar'. Urdu language was developed due to contact of Hindu,Turkish an Afghan soldiers."
+    },
+    {
+        "question": "Which world Heritage Site is built on the right bank of the Yamuna River?",
+        "options": [
+            "Taj Mahal",
+            "Hawa Mahal",
+            "Hurnayurr's Tomb",
+            "Mahabodhi Temple Complex"
+        ],
+        "correct_answer": "a",
+        "note": "Mughal emperor Shah Jahan in memory of his favourite wife, built the Taj Mahal which is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. It is situated at the west bank of river Yamuna in the city of Agra, Uttar Pradesh. It was included in the list of UNESCO world Heritage site in the year 1983."
+    },
+    {
+        "question": "What was the valid reason of the decline in trade and commerce during the period of later Mughals?",
+        "options": [
+            "Deterioration in law and order situation",
+            "Closure of old routes of trade",
+            "Abuse of trade licence by European companies",
+            "Poverty of the Mughal nobility"
+        ],
+        "correct_answer": "a",
+        "note": "Law and order became worse. The valid reason of the decline in trade and commerce during the period of later Mughals was the deterioration in law and order situation."
+    },
+    {
+        "question": "Which of the following Sikh Guru compiled the Adi Granth?",
+        "options": [
+            "Guru Nanak",
+            "Guru Govind Singh",
+            "Guru Arjan Dev",
+            "Guru Har rai"
+        ],
+        "correct_answer": "c",
+        "note": "Adi Granth, the first rendition, was compiled by the fifth Sikh guru, Guru Arjan. The tenth guru, Guru Gobind Singh, added one shloka, dohra mahala 9 ang, 1429 and all 115 hymns of his father, Guru Tegh Bahadur. This second rendition came to be known as Sri Guru Granth Sahib."
+    },
+    {
+        "question": "The correct chronological order in which the given monuments were built is",
+        "options": [
+            "Qutab Minar, Buland Darwaza, Gol Gumbaz, Red Fort",
+            "Gol Gumbaz, Red Fort, Buland Darwaza, Qutab Minar",
+            "Qutab Minar, Gol Gumbaz, Buland Darwaza, Red Fort",
+            "Gol Gumbaz, Buland Darwaza, Red Fort, Qutab Minar"
+        ],
+        "correct_answer": "a",
+        "note": "The correct chronological order in which the given monuments were built is Qutab Minar, Buland Darwaza, Gol Gumbaz, Red Fort. Qutab-ud-din Aibak, the first Muslim ruler of Delhi, commenced the construction of the Qutab Minar in 1200 AD. Buland Darwaza or the \"Gate of victory\", was built in 1572 A.D. by Mughal emperor Akbar to commemorate his victory over Gujarat. Gol Gumbaz is the mausoleum of king Mohammed Adil Shah, Sultan of Bijapur. Construction of the tomb, located in Vijayapura, Karnataka, India, was started in 1626 and completed in 1656. Red Fort is a historic fort in the city of Delhi in India. It was the main residence of the emperors of the Mughal dynasty for nearly 200 years, until 1856, built from 12 May 1639 – 6 April 1648."
+    },
+    {
+        "question": "Abdul Hamid Lahori is the author of",
+        "options": [
+            "Muntakhab-ul-Tawarikh",
+            "Padshah Nama",
+            "Alamgir Nama",
+            "Muntakhab-ul-Lubab"
+        ],
+        "correct_answer": "b",
+        "note": "Abdul Hamid Lahori (died 1654) was a traveller and historian during the period of Shah Jahan who later became a court historian of Shah Jahan. He wrote the book Padshahnama also referred as Badshahnama, about the reign of Shah Jahan. He has described Shah Jahan's life and activities during the first twenty years of his reign in this book in great detail."
+    },
+    {
+        "question": "Who is the saint to have written the famous Bijak?",
+        "options": [
+            "Sant Kabir",
+            "Kalidasa",
+            "Harisena",
+            "Tulsidas"
+        ],
+        "correct_answer": "a",
+        "note": "Bijak is the best known of the compilations of the Kabir, and as such is the holy scripture for followers of the Kabirpanthi religion. The Bijak is one of the earliest of the major texts in modern Hindi."
+    },
+    {
+        "question": "What is the correct meaning of Khanqah?",
+        "options": [
+            "A form of music",
+            "A form of veena",
+            "The place where Sufi Mystics lived",
+            "None of the above"
+        ],
+        "correct_answer": "c",
+        "note": "A khanqah or khaniqah (also transliterated as khankahs , khaneqa, khanegah or khaneqah) is a building designed specifically for gatherings of a Sufi brotherhood or tariqa and is a place for spiritual retreat and character reformation. In the past, and to a lesser extent nowadays, they often served as hospices for saliks (Sufi travelers), Murids (initiates) and talibs (Islamic students). Khanqahs are very often found adjoined to dargahs (shrines of Sufi saints), mosques and madrasas (Islamic schools)."
+    },
+    {
+        "question": "Which one of the following rulers laid the foundation of a new town where the modern city of Agra stands?",
+        "options": [
+            "Muhammad bin Tughlaq",
+            "Sikandar Lodi",
+            "Akbar",
+            "Shahjahan"
+        ],
+        "correct_answer": "b",
+        "note": "He founded a new town where the modern day Agra stands. He was known to be a kind and generous ruler who cared for his subjects."
+    },
+    {
+        "question": "Who started the Indian Reforms Association?",
+        "options": [
+            "Narayan Guru",
+            "Swami Vivekananda",
+            "Krishna swami Aiyar",
+            "Keshav Chandra Sen"
+        ],
+        "correct_answer": "d",
+        "note": "The Indian Reform Association was formed on 29 October 1870 with Keshub Chunder Sen as president. It represented the secular side of the Brahmo Samaj and included many who did not belong to the Brahmo Samaj. The objective was to put into practice some of the ideas Sen was exposed to during his visit to Great Britain."
+    },
+    {
+        "question": "The first Indian Hindi Scholar of the Mughal period was",
+        "options": [
+            "Malik Muhammad Jayasi",
+            "Abdur Rahim",
+            "Mulla Wajhi",
+            "Chand Bardai"
+        ],
+        "correct_answer": "a",
+        "note": "Malik Muhammad Jayasi was the first Indian Hindi Scholar. Malik Muhammad Jayasi (died 1542) was an Indian Sufi poet and pir. He wrote in the Awadhi language, and in the Persian Nastaʿlīq script. His best known work is the epic poem Padmavat."
+    },
+    {
+        "question": "Which Mughal ruler constructed a new city called as Din Panah on the bank of Yamuna river?",
+        "options": [
+            "Humayun",
+            "Babur",
+            "Jahangir",
+            "Aurangzeb"
+        ],
+        "correct_answer": "a",
+        "note": "Humayun ascended the throne in 1530 and in 1533 founded a new city, Din Panah, on the bank of the Yamuna River. Sher Shah, who overthrew Humayun in 1540, razed Din Panah to the ground and built his new capital, the Sher Shahi, now known as Purana Qila fort, in southeastern Delhi."
+    },
+    {
+        "question": "Who was the author of the book Taj-ul-Maasir?",
+        "options": [
+            "Abul Fazl",
+            "Jahangir",
+            "Hasan Nizami",
+            "None of the above"
+        ],
+        "correct_answer": "c",
+        "note": "Hasan Nizami was a Persian language poet and historian, who lived in the 12th and 13th centuries. He migrated from Nishapur to Delhi in India, where he wrote Tajul-Ma'asir, the first official history of the Delhi Sultanate."
+    },
+    {
+        "question": "Who said Hanooz Dilli Door Ast?",
+        "options": [
+            "Nizamuddin Aulia",
+            "Farid",
+            "Todarmal",
+            "Firdausi"
+        ],
+        "correct_answer": "a",
+        "note": "Nizamuddin was most unperturbed and said, \"Hunuz Dilli door ast\"- Which means Delhi is yet very far away!"
+    },
+    {
+        "question": "During the reign of which ruler use of Halo or Divine Lights were started in paintings?",
+        "options": [
+            "Iltutmish",
+            "Aurangazeb",
+            "Jahangir",
+            "Akbar"
+        ],
+        "correct_answer": "c",
+        "note": "Jahangir, Akbar's son, continued to produce manuscript in this style, a halo because of the belief that they were special beings touched by divinity who radiated the light of Allah."
+    },
+    {
+        "question": "Humayun Nama was written by",
+        "options": [
+            "Humayun",
+            "Mirza Kamran",
+            "Bairam Khan",
+            "Gulbadan Begum"
+        ],
+        "correct_answer": "d",
+        "note": "Gulbadan Begum took the challenge and produced a document titled Ahwal Humayun Padshah Jamah Kardom Gulbadan Begum bint Babur Padshah amma Akbar Padshah. It came to be known as Humayun-nama. Gulbadan wrote in simple Persian without the erudite language used by better-known writers."
+    },
+    {
+        "question": "Humayun's Tomb was built by",
+        "options": [
+            "Humayun",
+            "Bega Begum",
+            "Babur",
+            "Akbar"
+        ],
+        "correct_answer": "b",
+        "note": "The tomb of Humayun was built by the orders of Humayun's first wife and chief consort, Empress Bega Begum (also known as Haji Begum). The construction began in 1565, nine years after his death, and completed in 1572 AD at a cost of 1.5 million ruppees at the time."
+    },
+    {
+        "question": "Jantar Mantar is in",
+        "options": [
+            "Rajasthan",
+            "Assam",
+            "Bihar",
+            "Gujrat"
+        ],
+        "correct_answer": "a",
+        "note": "The Jantar Mantar monument in Jaipur, Rajasthan is a collection of nineteen architectural astronomical instruments built by the Rajput king Sawai Jai Singh II."
+    },
+    {
+        "question": "Assertion (A): The Sultans may not have been too eager to encourage large scale conversion. \nReason (R): The increasing conversion could lead to a loss of revenue, as jizya paying citizens to Islam",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not a correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "c",
+        "note": "The increasing conversation could lead to a loss of revenue, as jizya paying citizens could cease to pay the tax on conversion to Islam."
+    },
+    {
+        "question": "Name of the Bengali poet who was conferred with the title of Gunraj Khan in the Sultanate period?",
+        "options": [
+            "Maladhar Basu",
+            "Rahim",
+            "Chaitanya",
+            "Jaydeva"
+        ],
+        "correct_answer": "a",
+        "note": "Maladhar Basu (c. 15th century) was a Bengali poet. He wrote Sri Krishna Vijaya (Triumph of Lord Krishna), the earliest Bengali narrative poem that can be assigned to a definite date. It is also the oldest Bengali narrative poem of Krishna legend. It was composed between 1473 and 1480. The long poem is a translation of the 10th and 11th cantos of the Bhagavata Purana; a part of Vishnu Purana and the story of Ramayana is also incorporated here. In the poem written in an early Bangla, Maladhar focuses on Krishna's divine life, with the 10th canto relating the legends of Krishna as a child, and his divine play with the gopis in Vrindavana. He was honoured by Rukunuddin Barbak Shah with the title 'Gunaraj Khan'."
+    },
+    {
+        "question": "Who was famously known as the Tuti-e-Hindustan?",
+        "options": [
+            "Utbi",
+            "Nakhshabi",
+            "Amir Khusarau",
+            "Tansen"
+        ],
+        "correct_answer": "c",
+        "note": "Khusrau is acknowledged as one of the four great pillars of 14th-century Persian literature. He was awarded the title of Tuti-e-Hind, Nightingale of India."
+    },
+    {
+        "question": "When was The Government of India Act 1858 passed by the Parliament of the United Kingdom?",
+        "options": [
+            "August 2, 1858",
+            "June,1857",
+            "January, 1858",
+            "December, 1857"
+        ],
+        "correct_answer": "a",
+        "note": "Government of India Act of 1858. On August 2, 1858, less than a month after Canning proclaimed the victory of British arms, Parliament passed the Government of India Act, transferring British power over India from the East India Company, whose ineptitude was primarily blamed for the mutiny, to the crown."
+    },
+    {
+        "question": "Which Sultan of Delhi died while playing the chaugan (polo)?",
+        "options": [
+            "Qutbuddin Aibak",
+            "Ghiyasuddin Balban",
+            "Shamsuddin IItutmish",
+            "Nasiruddin Mahmud"
+        ],
+        "correct_answer": "a",
+        "note": "Qutb-ud-din Aibak, who was a general at Muhammad Ghori's Delhi Sultanate, died as a result of a fall from his horse while playing Chaugan."
+    },
+    {
+        "question": "During the reign of which ruler Moroccan traveler Ibn Battuta visited India?",
+        "options": [
+            "Aurangazeb",
+            "Akbar",
+            "Muhammad Bin Tughlaq",
+            "Alauddin Khalji"
+        ],
+        "correct_answer": "c",
+        "note": "A Moroccan traveller, Ibn Bututa (1333-1347 AD) visited India during the reign of Muhammad-bin-Tughlaq. His book Rehla (the Travelogue) throws a lot of light on the reign of Muhammad-bin-Tughlaq and the geographical, economic and social conditions in India."
+    },
+    {
+        "question": "Assertion (A): Akbar dispensed with the practice of keeping revenue records in the local languages, in addition to Persian.\nReason (R): In Mughal lndia, Persian language and literature was well developed and widely in use.",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not a correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "c",
+        "note": "From the time of Akbar, Hindi poets began to be attached to the Mughal court.A leading Mughal noble, Abdur Rahim Khan-i-Khana, produced a fine blend of Bhakti poetry with Persian ideas of life and human relations. Likewise, the Persian and the Hindi literary traditions began to influence each other."
+    },
+    {
+        "question": "Which of the following saint wrote Sri-Bhasya?",
+        "options": [
+            "Ramanuja",
+            "Vallabh",
+            "Tukaram",
+            "Eknath"
+        ],
+        "correct_answer": "a",
+        "note": "Sri Bhagavad Ramanujacharya was a Hindu theologian, philosopher, and one of the most important exponents of the Sri Vaishnavism tradition within Hinduism. Ramanujacharya himself wrote influential texts, such as bhasya on the Brahma Sutras and the Bhagavad Gita, all in Sanskrit."
+    },
+    {
+        "question": "Who established Chishti order in India?",
+        "options": [
+            "Baba Farid",
+            "Nizamuddin Aulia",
+            "Al biruni",
+            "Moinuddin Chishti"
+        ],
+        "correct_answer": "d",
+        "note": "Moinuddin Chishti introduced the Chishti Order in Lahore (Punjab) and Ajmer (Rajasthan), sometime in the middle of the 12th century CE. He was eighth in the line of succession from the founder of the Chishti Order, Abu Ishaq Shami."
+    },
+    {
+        "question": "The Buland Darwaza was built to mark Akbar's conquest of",
+        "options": [
+            "Awadh",
+            "Malwa",
+            "Gujarat",
+            "Chittor"
+        ],
+        "correct_answer": "c",
+        "note": "Buland Darwaza, or the \"Gate of victory\", was built in 1601 A.D. by Akbar to commemorate his victory over Gujarat. It is the main entrance to the palace at Fatehpur Sikri, a town which is 43 km from Agra, India."
+    },
+    {
+        "question": "Who among the following was named as Zinda Pir or Living Saint in Mughal period?",
+        "options": [
+            "Babur",
+            "Akbar",
+            "Jahangir",
+            "Aurangzeb"
+        ],
+        "correct_answer": "d",
+        "note": "Aurangzeb was called \"Zinda Pir\" or \"Living Saint\" in Mughal India."
+    },
+    {
+        "question": "Which one of the following Mughal buildings is said to possess the unique feature of being exactly equal in length and breath?",
+        "options": [
+            "Agra Fort",
+            "Red Fort",
+            "Taj Mahal",
+            "Buland Darwaza"
+        ],
+        "correct_answer": "c",
+        "note": "Taj Mahal was built by Mughal Emperor Shahjahan\nin memory of his beloved wife NoorJahan. It was designed by ustad Ahmad Lahauri. The dome of Taj Mal has exactly same height and length of base i.e.  35metres."
+    },
+    {
+        "question": "Buland Darwaza is the main entrance to the palace at",
+        "options": [
+            "Amer Fort",
+            "Gwalior Fort",
+            "Fatehpur Sikri",
+            "Agra Fort"
+        ],
+        "correct_answer": "c",
+        "note": "The Gate of Magnificience is situated at the entrance of the palace. It was built by Mughal Emperor Akbar in 1601 A.D. to celebrate his victory over Khandesh (Gujarat) and Ahmednagar in Deccan. It is situated at Fatehpur Sikri, Uttar Pradesh."
+    },
+    {
+        "question": "Bibi-Ka-Maqbara is located in India at",
+        "options": [
+            "Fatehpur Sikri",
+            "Aurangabad",
+            "Hyderabad",
+            "Jaunpur"
+        ],
+        "correct_answer": "b",
+        "note": "The Bibi Ka Maqbara is a tomb located in Aurangabad, Maharashtra, India. It was built by Mughal emperor Aurangzeb's son Azam Shah in the memory of his mother. It bears a striking resemblance to the famous Taj Mahal, the mausoleum of wife of Shah Jahan."
+    },
+    {
+        "question": "The most learned medieval Muslim ruler who was well versed in various branches of learning including astronomy, mathematics and medicine was",
+        "options": [
+            "Sikandar Lodi",
+            "Iltutmish",
+            "Muhammad bin Tughlaq",
+            "Alauddin Khalji"
+        ],
+        "correct_answer": "c",
+        "note": "The most learned medieval Muslim ruler who was well versed in various branches of learning including astronomy, mathematics and medicine was Muhammad bin Tughlaq."
+    },
+    {
+        "question": "Which was the first garden tomb in the Indian subcontinent?",
+        "options": [
+            "Tomb of Jahangir",
+            "Humayun's Tomb",
+            "Taj Mahal",
+            "Tomb of Muhammad Iqbal"
+        ],
+        "correct_answer": "b",
+        "note": "Humayun's Tomb, the tomb of Mughal Emperor Humayun was built by his wife Hamida Banu Begam in 1570. It was the first garden tomb in Indian subcontinent. It was declared the UNESCO World Heritage Site in 1993."
+    },
+    {
+        "question": "Assertion (A): The Buland Darwaza at Fatehpur Sikri was built by Akbar in 1602.\nReason (R): He wanted to commemorate his conquest of Gujarat",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not a correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "a",
+        "note": "Buland Darwaza , or the \"Door of victory\", was built in 1602 A.D. by Mughal emperor Akbar to commemorate his victory over Gujarat. It is the main entrance to the Jama Masjid at Fatehpur Sikri, which is 43 km from Agra, India."
+    },
+    {
+        "question": "The famous historical monument, Atala Mosque, is associated with the",
+        "options": [
+            "Sultans of Delhi",
+            "Mughal rulers",
+            "Sharqi rulers",
+            "Rohilla rulers"
+        ],
+        "correct_answer": "c",
+        "note": "The Jaunpur Atala Masjid was built by Sultan Ibrahim (1402 - 1436), Sharqi Sultan of Jaunpur on foundations laid during the reign of Tughluq Sultan Firuz Shah III (1351 - 1388). Construction started in 1377 and was completed in 1408. A Madarsa named Madarsa Din Dunia is housed in central courtyard of the mosque"
+    },
+    {
+        "question": "Bhakta Tukaram was a contemporary of which Mughal ruler?",
+        "options": [
+            "Akbar",
+            "Babur",
+            "Shahjahan",
+            "Jahangir"
+        ],
+        "correct_answer": "d",
+        "note": "The period of Bhakta Tukaram is considered between 1608-1649. The period of Jahangir is 1627-1657."
+    },
+    {
+        "question": "Who wrote the history of Aurangzeb's reign in total secrecy because of the emperor's opposition to it and what was the name of that historical work?",
+        "options": [
+            "Khafi Khan's Muntakhab-ul-Lubab",
+            "Mirza Muhammad Kazim's Alamgir Nama",
+            "Muhammad Saqi's Masir-i-Alamgiri",
+            "Aquil Khan Razi's Zafar Nama-i-Alamgir"
+        ],
+        "correct_answer": "a",
+        "note": "During Aurangzeb’s reign, Muntakhab-ul-Lubab written by Khafi Khan, a historical writer. The book covers the history of Mughal period till the reign of Mughal emperor Aurangzeb."
+    },
+    {
+        "question": "Assertion (A): The culture of the Mughal period is generally termed as the Mughal court culture. \nReason (R): The Mughal court culture was an antithesis of Indian culture",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not a correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "a",
+        "note": "The Mughal Empire or Mogul Empire was an empire in the Indian subcontinent, founded in 1526. It was established and ruled by the Timurid dynasty, with Turco-Mongol Chagatai roots from Central Asia, claiming direct descent from both Genghis Khan (through his son Chagatai Khan) and Timur, and with significant Indian Rajput and Persian ancestry through marriage alliances; the first two Mughal emperors had both parents from Central Asian ancestry. The dynasty was Indo-Persian in culture, combining Persianate culture with local Indian cultural influences visible in its traits and customs."
+    },
+    {
+        "question": "Purana Qila at Delhi was built by",
+        "options": [
+            "Akbar",
+            "Sher Shah",
+            "Humayun",
+            "Shah Jahan"
+        ],
+        "correct_answer": "b",
+        "note": "Sher Shah's fort or the Purana Qila. It stands on the ancient site, known as 'Indraprastha', associated with the Hindu epic Mahabharata. He was temporarily deposed by Sher Shah Sur (r. 1540-45), who completed the fortress walls and built two important structures, that were used by Humayun when he took back the city."
+    },
+    {
+        "question": "Who propagated the Vaishnava Theology of Dvaitadvaita?",
+        "options": [
+            "Adi Shankaracharya",
+            "Ramanujacharya",
+            "Nimbarkacharya",
+            "Vallabhacharya"
+        ],
+        "correct_answer": "c",
+        "note": "Nimbarkacharya is known for propagating the Vaishnava Theology of 'Dvaitadvaita'. Nimbarkacharya comes in the line of the Kumara Sampradaya and is believed to have lived around the 11th and 12th centuries."
+    },
+    {
+        "question": "Shah Jahan built Taj Mahal in memory of",
+        "options": [
+            "Ruqayya Sultan Begum",
+            "Jodha Bai",
+            "Mumtaz Mahal",
+            "Nur Jahan"
+        ],
+        "correct_answer": "c",
+        "note": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage."
+    },
+    {
+        "question": "The term 'Khalisa' in the Sultanate and Mughal periods was used for",
+        "options": [
+            "Crown lands",
+            "Lands owned by the Sufi establishment",
+            "Lands revenue which was directly deposited in the imperial treasury",
+            "Land revenue which was assigned to the nobles for maintaining troops"
+        ],
+        "correct_answer": "d",
+        "note": "In the 31st year of Akbar's reign, the jama of the khalisa in the province of Delhi,\nAwadh and Allahabad amounted to less than 5% of the total revenue. Under Jahangir,\nalmost 9/10 of the temtory was assigned in jagir and only 1/10 was available for the\nkbalisa. The ratio of jagir and khalisa kept fluctuating. Under Shah Jahan, it rose to\noneeleventh and, by the 20th year, it was nearly one-seventh. The trend continued in\nthe next reign; in the 10th year of Aurangzeb, the jama of the khalisa amounted to\nalmost one-fifth of the total. However, in the later part of Aurangzeb's reign, there was\na great pressure on the khalisa as the number of claimants forjagir increased with the\nincrease of the number of mansabdars."
+    },
+    {
+        "question": "Who among the following was responsible for making \"Sikhism' a militant force?",
+        "options": [
+            "Guru Har Govind Singh",
+            "Guru Teg Bahadur",
+            "Guru Govind Singh",
+            "Guru Arjun Singh"
+        ],
+        "correct_answer": "a",
+        "note": "Guru Har Govind Singh was the first guru to engage in warfare advising the Sikhs to take part in military training and martial arts. He also constructed Akal Takht. Guru Har Govind began the transformation of Sikhs from a peaceful community to militant fighting community but it was the leadership of Guru Teg Bahadur which made Sikhs a complete political and military force."
+    },
+    {
+        "question": "Which one of the following statements is not correct?",
+        "options": [
+            "Krishnadeva Raya wrote Amuktamalyada",
+            "Tuluva Narasa Nayaka was the founder of the Tuluva dynasty",
+            "Tuluva dynasty court was adorned by the Ashtadiggajas",
+            "Tuluva Narasa Nayaka maintained friendly relations with the Portuguese"
+        ],
+        "correct_answer": "b",
+        "note": "Option B is incorrect because Tuluva Narasa Nayaka was not the founder of the Tuluva dynasty. The Tuluva dynasty was actually founded by Tuluva Narasa Nayaka's elder brother, Tuluva Vira Narasimha Raya.Option A: Krishnadeva Raya did indeed write Amuktamalyada, which is a famous Telugu composition.Option C: The Tuluva dynasty court was indeed adorned by the Ashtadiggajas, which translates to \"eight great poets\" who were patrons of literature and culture during the Vijayanagara Empire.Option D: Tuluva Narasa Nayaka did maintain friendly relations with the Portuguese, which was a significant aspect of the Vijayanagara Empire's diplomatic relations during his reign.Therefore, the correct answer is Tuluva Narasa Nayaka was the founder of the Tuluva dynasty, which is not correct."
+    },
+    {
+        "question": "Which of the following statement is not correct about Poona pact?",
+        "options": [
+            "It was signed between Madan Mohan Malaviya and Dr. Ambedkar",
+            "It was signed on January 23, 1932",
+            "It was signed in yarvada jail in Puna",
+            "This act increased the number of seats reserved for depressed class from 71 to 147"
+        ],
+        "correct_answer": "b",
+        "note": "The Poona Pact refers to an agreement between Dr. Babasaheb Ambedkar and Mahatma Gandhi signed on 24 September 1932 at Yerwada Central Jail in Pune, India."
+    },
+    {
+        "question": "Which of the following was not the saint of Varkari sect?",
+        "options": [
+            "Tukaram",
+            "Namdev",
+            "Eknath",
+            "Kabir"
+        ],
+        "correct_answer": "d",
+        "note": "Varkari or Warkari (meaning \"a pilgrim\") is a sampradaya (religious movement) within the bhakti spiritual tradition of Vaishnavite Hinduism, geographically associated with the Indian state of Maharashtra. Varkaris worship Vitthal (also known as Vithoba), the presiding deity of Pandharpur, regarded as a form of Krishna."
+    },
+    {
+        "question": "Who among the following was known as the 'Parrot of India'?",
+        "options": [
+            "Hussain Shah",
+            "Amir Khusro",
+            "Barbak Shah",
+            "Nanak"
+        ],
+        "correct_answer": "b",
+        "note": "Amir Khusro, the Parrot of India. Amir Khusro is often considered the first Urdu poet. He lived from 1263 to 1325 CE and was a Sufi poet, musician, and scholar and worked in the royals courts of various kings and sultans. He was also called 'Tut-e-Hind' (Parrot of India)."
+    },
+    {
+        "question": "Who translated Ramayana into Persian?",
+        "options": [
+            "Abul Fazal",
+            "Badauni",
+            "Abdul Latif",
+            "Isar Das"
+        ],
+        "correct_answer": "b",
+        "note": "Abdul-ul-Qader-Badauni was a great translator and historian of Mughal Era. He was appointed by Mughal Emperor Akbar to his religious offering of Royal Council. Akbar asked him to translate the Ramayana into Persian. It took him four years to complete the task."
+    },
+    {
+        "question": "Who among the following Sultans of Delhi introduced the token currency?",
+        "options": [
+            "Balban",
+            "Alauddin Khalji",
+            "Muhammad bin Tughlaq",
+            "Firuz Tughlaq"
+        ],
+        "correct_answer": "c",
+        "note": "Token Currency System was introduced by Muhammad Tughlaq in India. Muhammad Bin Tughlaq is known for his active interest in experimenting with the coinage. He implanted his character and activities on his coinage and produced abundant gold coins compared to any of his predecessors."
+    },
+    {
+        "question": "What was the most important cause of the invasion of Mahmud of Ghazni?",
+        "options": [
+            "To destroy idolatry",
+            "To gain possession of the wealth of India",
+            "To spread Islam into India",
+            "To establish a Muslim State in India"
+        ],
+        "correct_answer": "b",
+        "note": "The two main reasons that led to the conquest of India by Mahmud Ghazni was firstly, to accumulate the vast amount of wealth that existed in India, and secondly, to spread Islam."
+    },
+    {
+        "question": "Ghazni was a small principality in",
+        "options": [
+            "Mongolia",
+            "Turkey",
+            "Persia",
+            "Afghanistan"
+        ],
+        "correct_answer": "d",
+        "note": "Ghazni historically known as Ghaznin or Ghazna, is a city in central Afghanistan with a population of around 270,000 people. The city is strategically located along Highway 1, which has served as the main road between Kabul and southern Afghanistan for thousands of years."
+    },
+    {
+        "question": "Who built the Khajuraho temples?",
+        "options": [
+            "Holkars",
+            "Sindias",
+            "Bundela Rajputs",
+            "Chandela Rajputs"
+        ],
+        "correct_answer": "d",
+        "note": "The temples of Khajuraho were commissioned by the Rajput rulers of Chandella Dynasty who ruled over central India from the 10th to the 13th Century CE. The temples were built over a period of 100 years and it is believed that each Chandela ruler commissioned at least one temple in the complex during his lifetime."
+    },
+    {
+        "question": "The Kailasa temple is one of the largest rock-cut ancient Hindu temple located at Ellora was built by?",
+        "options": [
+            "Krishndev Rai",
+            "Krishna I",
+            "Nadivarman",
+            "Rajendra Chola"
+        ],
+        "correct_answer": "b",
+        "note": "The Kailasa temple (Cave 16) is one of the 34 cave temples and monasteries known collectively as the Ellora Caves. Its construction is generally attributed to the eighth century Rashtrakuta king Krishna I ( r . c. 756 – 773)."
+    },
+    {
+        "question": "The caves and rock-cut temples at Ellora are?",
+        "options": [
+            "Buddhist and Jain",
+            "Hindu and Muslim",
+            "Buddhist only",
+            "Hindu, Buddhist and Jain"
+        ],
+        "correct_answer": "d",
+        "note": "Ellora, built by Rashtrakutas is located 29 km North-West of Aurangabad in Maharashtra. It is one of the World Heritage Sites. It is well known for its monumental caves viz. 12 Buddhist (caves 1–12), 17 Hindu Caves (caves 13–29) and 5 Jain Caves (caves 30–34)."
+    },
+    {
+        "question": "Which one of the following indicates the correct chronological order of the Later Mughal Emperors?",
+        "options": [
+            "Bahadur Shah-I, Farrukh Siyar, Jahandar Shah, Muhammad Shah",
+            "Farrukh Siyar, Bahadur Shah-I, Jahandar Shah, Muhammad Shah",
+            "Bahadur Shah-l, Jahandar Shah, Farrukh Siyar, Muhammad Shah",
+            "Jahandar Shah, Bahadur Shah-l, Muhammad Shah, Farrukh Siyar"
+        ],
+        "correct_answer": "c",
+        "note": "The correct chronological order of the Later Mughal Emperors Bahadur Shah-l, Jahandar Shah, Farrukh Siyar, Muhammad Shah. Bahadur Shah, also known as Muhammad Muazzam and Shah Alam was the seventh Mughal emperor of India, ruled from 1707 until his death in 1712. Mirza Mu'izz-ud-Din Beig Muhammed Khan, more commonly known as Jahandar Shah, was a Mughal Emperor who ruled for a brief period in 1712–1713. Abu'l Muzaffar Muin ud-din Muhammad Shah Farrukh-siyar Alim Akbar Sani Wala Shan Padshah-i-bahr-u-bar, or Farrukhsiyar, was the Mughal emperor from 1713 to 1719 after he murdered Jahandar Shah. Nasir-ud-Din Muḥammad Shah was Mughal emperor from 1719 to 1748. He was son of Khujista Akhtar, the fourth son of Bahadur Shah I."
+    },
+    {
+        "question": "Jama Masjid is situated in which of these World Heritage Sites?",
+        "options": [
+            "Fatehpur Sikri",
+            "Humayun's Tomb",
+            "Qutub Minar",
+            "Agra Fort"
+        ],
+        "correct_answer": "a",
+        "note": "The Jama Masjid (Friday Mosque) is a 17th-century mosque in the World Heritage Site of Fatehpur Sikri in India. The Mughal emperor Akbar personally directed the building of the Jami Masjid (Great Mosque; 1571), which stretches some 540 feet (165 metres) in length."
+    },
+    {
+        "question": "Moti Masjid is situated in which of these World Heritage Sites?",
+        "options": [
+            "Humayun's Tomb",
+            "Mahabodhi Temple Complex",
+            "Qutub Minar",
+            "Red Fort Complex"
+        ],
+        "correct_answer": "d",
+        "note": "The Moti Masjid is a white marble mosque inside the Red Fort complex in Delhi, India. The name translates into English as \"Pearl Mosque.\" Located to the west of the Hammam and close to the Diwan-e-Khas, it was built by the Mughal emperor Aurangzeb from 1659-1660."
+    },
+    {
+        "question": "Assertion (A): The Sultans of Delhi were appointed as Viceroys of the Caliph of Baghdad.\nReason (R): The Caliph granted them recognition by way of khilat and khitab.",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not a correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "a",
+        "note": "The Sultans of Delhi were appointed as Viceroys of the Caliph of Baghdad. The Caliph granted them recognition by way of khilat and khitab."
+    },
+    {
+        "question": "Why Simon commission was established?",
+        "options": [
+            "To enquire into the working of the Government of India Act, 1919 and to suggest further reforms in the system of administration",
+            "To enquire into the working of the Marley-Minto reforms",
+            "To declare India as republic state",
+            "None of these"
+        ],
+        "correct_answer": "a",
+        "note": "The Simon Commission was a group of 7 MPs from Britain who was sent to India in 1928 to study constitutional reforms and make recommendations to the government. The Commission was originally named the Indian Statutory Commission. It came to be known as the Simon Commission after its chairman Sir John Simon."
+    },
+    {
+        "question": "Assertion (A): The Mughals, particularly Akbar, established a uniform pattern of administration in all provinces.\nReason (R): Akbar is greatly indebted to Sher Shah Sur not only in local administration but also in provincial administration",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not a correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "a",
+        "note": "Shēr Shāh Sūrī (1486 – 22 May 1545), born Farīd Khān, was the founder of the Suri Empire in the northern part of the Indian subcontinent, with its capital in Sasaram in modern-day Bihar. An ethnic Afghan Pashtun, Sher Shah took control of the Mughal Empire in 1538. After his accidental death in 1545, his son Islam Shah became his successor. He first served as a private before rising to become a commander in the Mughal army under Babur and then the governor of Bihar. In 1537, when Babur's son Humayun was elsewhere on an expedition, Sher Shah overran the state of Bengal and established the Suri dynasty."
+    },
+    {
+        "question": "Which world Heritage Monument has been acclaimed as the \"Necropolis of the Mughal dynasty\"?",
+        "options": [
+            "Humayun's Tomb",
+            "Mahabodhi Temple Complex",
+            "Qutub Minar",
+            "Red Fort Complex"
+        ],
+        "correct_answer": "a",
+        "note": "Its architecture is credited to Mirza Ghiyath and its Mughal architectural style has been acclaimed as the \"necropolis of the Mughal dynasty\" for its double domed elevation provided with Chhatris. Apart from the tomb of Humayun, the funerary also has 150 tombs of various members of the royal family."
+    },
+    {
+        "question": "Who was the author of the book Kitab-i-Yamini?",
+        "options": [
+            "Abul Fazl",
+            "Abu Nasr Utbi",
+            "Amir Khusro",
+            "Firdausi"
+        ],
+        "correct_answer": "b",
+        "note": "Tarikh Yamini, or Kitabu-l Yamini of Abu Nasr Muhammad ibn Muhammad al Jabbaru-l Utbi was the author of Kitab-i-Yamini."
+    },
+    {
+        "question": "Which of the following statement is not correct about Simon Commission?",
+        "options": [
+            "The activities of Swaraj party had induced the British Government to review the working of the diarchy system introduced by the Montague- Chelmsford reforms",
+            "The British Government appointed the Simon commission in Nov., 1927",
+            "Simon commission was opposed because its all members were the English",
+            "Lala Lajpat Rai died during the protest of Simon commission"
+        ],
+        "correct_answer": "d",
+        "note": "Prominent Indian nationalist Lala Lajpat Rai led a protest in Lahore. He suffered a police beating during the protest, and died of his injuries on 17th November,1928."
+    },
+    {
+        "question": "Who wrote famous book Kitab-ul-hind?",
+        "options": [
+            "Abul Fazl",
+            "Amir Khusrau",
+            "Al Biruni",
+            "Firdausi"
+        ],
+        "correct_answer": "c",
+        "note": "Kitab al-Hind is the result of long years of hard work and Al-Biruni’s perseverance, and in many ways mark a departure from the existing historical and narrative traditions prevalent in the country till then. Unlike the prevalent Puranic traditions of recording the genealogies or the west Asian Tarikh tradition of narrating the political history in a chronological manner, the work is of a very critical nature."
+    },
+    {
+        "question": "Which one is not situated at Fatehpur Sikri?",
+        "options": [
+            "The Panch Mahal",
+            "Moti Masjid",
+            "Tomb of Salim Chishti",
+            "The Moriam Palace"
+        ],
+        "correct_answer": "b",
+        "note": "The Moti Masjid is a white marble mosque inside the Red Fort complex in Delhi, India."
+    },
+    {
+        "question": "Which of the following ladies wrote an historical account during the Mughal period?",
+        "options": [
+            "Gulbadan Begum",
+            "Noorjahan Begum",
+            "Jahanara Begum",
+            "Zebun-nissah Begum"
+        ],
+        "correct_answer": "a",
+        "note": "Gulbadan Begum (1523-1603) was a Perso-Turkic Princess, the daughter of Emperor Babur. She is most known as the author of Humayun Nama, the account of the life of her brother, Humayun."
+    },
+    {
+        "question": "Who built the famous Shalimar bagh of Srinagar?",
+        "options": [
+            "Humayun",
+            "Akbar",
+            "Jahangir",
+            "Shahjahan"
+        ],
+        "correct_answer": "c",
+        "note": "Emperor Jahangir built his celebrated Shalimar Bagh, his dream project to please his queen. He enlarged the ancient garden in 1619 into a royal garden and called it 'Farah Baksh' ('the delightful'). He built it for his wife Nur Jahan ('light of the world')."
+    },
+    {
+        "question": "Who was the last Mughal emperor?",
+        "options": [
+            "Shah Alam-II",
+            "Akbar-II",
+            "Bahadur Shah-II",
+            "Ahmad Shah"
+        ],
+        "correct_answer": "c",
+        "note": "The last Mughal emperor, Bahadur Shah II, also known as Zafar, died in a British prison in Burma in 1862."
+    },
+    {
+        "question": "Which of the following languages was in vogue during Mughal period in the courts of India?",
+        "options": [
+            "French",
+            "Persian",
+            "Portugese",
+            "Arabic"
+        ],
+        "correct_answer": "b",
+        "note": "Early Mughals spoke Chaghatay Turkish language. But after Humayun's exile to persia. Mughals were influenced by Persian Culture and Persian language became the official language of the court and empire."
+    },
+    {
+        "question": "Which mughal emperor was a good veena player?",
+        "options": [
+            "Aurangazeb",
+            "Akbar",
+            "Jahangir",
+            "Shahjahan"
+        ],
+        "correct_answer": "a",
+        "note": "Aurangzeb was a good veena player."
+    },
+    {
+        "question": "Assertion (A): The Delhi Sultans are credited with introducing the institution of dalal in India to facilitate commercial transactions on a large scale.\nReason (R): The dalals immediately established the dalal system in the whole of India to procure goods meant for export.",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not a correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "a",
+        "note": "The Delhi Sultans are credited with introducing the institution of dalal in India to facilitate commercial transactions on a large scale. The dalals immediately established the dalal system in the whole of India to procure goods meant for export"
+    },
+    {
+        "question": "Hamza-nama paintings were produced during the reign of?",
+        "options": [
+            "Humayun",
+            "Akbar",
+            "Jahangir",
+            "Shahjahan"
+        ],
+        "correct_answer": "b",
+        "note": "In the West the work is best known for the enormous illustrated manuscript commissioned by the Mughal Emperor Akbar in about 1562. The Hamzanama contains 46 volumes and has approximately 48000 pages. It is said that Dastaan Ameer Hamza was written in the era of Mahmud of Ghazni."
+    },
+    {
+        "question": "Mughal paintings were reached its zenith of progress during the reign of?",
+        "options": [
+            "Babur",
+            "Aurangazeb",
+            "Jahangir",
+            "Shahjahan"
+        ],
+        "correct_answer": "c",
+        "note": "Jahangir had an artistic inclination and during his reign Mughal painting developed further. Brushwork became finer and the colors lighter. Jahangir was also deeply influenced by European painting. During his reign he came into direct contact with the English Crown and was sent gifts of oil paintings, which included portraits of the King and Queen. He encouraged his royal atelier to take up the single point perspective favoured by European artists, unlike the flattened multi-layered style used in traditional miniatures. He particularly encouraged paintings depicting events of his own life, individual portraits, and studies of birds, flowers and animals."
+    },
+    {
+        "question": "Brihadeshwara Temple which was built by Raja Raja Chola I is dedicated to?",
+        "options": [
+            "Vishnu",
+            "Shiva",
+            "Brahma",
+            "None of the above"
+        ],
+        "correct_answer": "b",
+        "note": "The magnum opus of Chola architecture, the Brihadeeshwara Temple, dedicated to Lord Shiva. Astoundingly, it took only about 6 years to build, and the colossal temple was consecrated by Rajaraja I himself in the year 1010 AD. It was orginally called the Peruvudaiyar Temple."
+    },
+    {
+        "question": "Rajatarangini was written by",
+        "options": [
+            "Kalhana",
+            "Alberuni",
+            "Harsha Vardhana",
+            "Kautilya"
+        ],
+        "correct_answer": "a",
+        "note": "Rajatarangini (Rajataraṃgiṇi, \"The River of Kings\") is a metrical legendary and historical chronicle of the north-western Indian subcontinent, particularly the kings of Kashmir. It was written in Sanskrit by Kashmiri historian Kalhana in the 12th century CE."
+    },
+    {
+        "question": "Ranthambhore Fort is in",
+        "options": [
+            "Maharashtra",
+            "Orissa",
+            "Rajasthan",
+            "Sikkim"
+        ],
+        "correct_answer": "c",
+        "note": "Ranthambore Fort lies within the Ranthambore National Park, near the town of Sawai Madhopur, the park being the former hunting grounds of the Maharajahs of Jaipur until the time of India's Independence. It is a formidable fort having been a focal point of the historical developments of Rajasthan."
+    },
+    {
+        "question": "Ranthambhor was",
+        "options": [
+            "A Mughal palace",
+            "A Rajput fort",
+            "Capital of the khaljis",
+            "A Buddist pilgrimage centre"
+        ],
+        "correct_answer": "b",
+        "note": "Ranthambhor was a Rajput fort it was used by\nMaharjas of Jaipur."
+    },
+    {
+        "question": "What is the correct chronological sequence of the following rulers?\nI. Muizuddin Bahram Shah\nII. Iltutmish\nIII. Raziya\nIV. Rukhnuddin Firuz",
+        "options": [
+            "I, II, III, IV",
+            "II, IV, III, I",
+            "III, II, IV, I",
+            "IV, III, I, II"
+        ],
+        "correct_answer": "b",
+        "note": "The correct chronological sequence of the following rulers were Iltutmish, Rukhnuddin Firuz, Raziya and Muizuddin Bahram Shah. Shams ud-Din Iltutmish was the third ruler of the Mamluk dynasty of Delhi of Turkic origin. He was a slave of Qutb-ud-din Aibak and later became his son-in-law and close lieutenant. Rukn ud din Firuz was the fourth Sultan of the Delhi Sultanate, Mamluk Dynasty. He ruled for a little over six months, which is said to be a very short reign compared to other rulers. Sultana Raziya, attributed as Raziya Sultana, or popularly known as Razia Sultan, was the Sultan of Delhi from 10 October 1236 to 14 October 1240. Muiz ud-Din Bahram was the sixth sultan of the Mamluk Dynasty. He was the son of Shams ud din Iltutmish and the half-brother of Razia Sultan. While his sister was in Bathinda, he declared himself king with the support of forty chiefs."
+    },
+    {
+        "question": "The medieval Indian literary work 'Darbar-i- Akbari' was written by",
+        "options": [
+            "Muhammad Hussain",
+            "Malik Muhammad Jayasi",
+            "Abul Fazl",
+            "Amir Khusrau"
+        ],
+        "correct_answer": "a",
+        "note": "Darbar-i-Akbari [Muḥammad Ḥusain Azad] -History of Mogul Empire during the reign of Akbar, Emperor of Hindustan, 1542-1605."
+    },
+    {
+        "question": "Who among the following witnessed the reigns of eight Delhi Sultans?",
+        "options": [
+            "Ziauddin Barani",
+            "Shams-i-siraj Afif",
+            "Minhaj-us-siraj",
+            "Amir Khusrau"
+        ],
+        "correct_answer": "d",
+        "note": "Amir Khusrau (1253-1325) is regarded as the \"father of qawwali\". He was an Indian musician, scholar and poet. He was an iconic figure in the cultural history of the Indian subcontinent. He is said to have witnessed the reigns of eight Delhi Sultans from 'Ghiyasuddin Balban to Sultan Muhammad bin Tughluq'."
+    },
+    {
+        "question": "Which Sanskrit poet wrote famous book Geet Govinda?",
+        "options": [
+            "Jayadeva",
+            "Kalidas",
+            "Panini",
+            "None of the above"
+        ],
+        "correct_answer": "a",
+        "note": "The Gita Govinda (Song of Govinda) is a work composed by the 12th-century Indian poet, Jayadeva. It describes the relationship between Krishna and the gopis (female cow herders) of Vrindavana, and in particular one gopi named Radha."
+    },
+    {
+        "question": "Who was the founder of Advaita vada or the doctrine of non-dualism?",
+        "options": [
+            "Adi Shankaracharya",
+            "Surdas",
+            "Ramanuj",
+            "Kapil"
+        ],
+        "correct_answer": "a",
+        "note": "Adi Shankara was the founder of the Dashanami monastic order and the Shanmata tradition of worship. His works in Sanskrit, all of which are extant today, concern themselves with establishing the doctrine of Advaita (Sanskrit, \"Non-dualism\")."
+    },
+    {
+        "question": "Bishandas a famous portrait painter resided in the court of?",
+        "options": [
+            "Babur",
+            "Humayun",
+            "Jahangir",
+            "Aurangzeb"
+        ],
+        "correct_answer": "c",
+        "note": "Bishandas was a 17th-century portrait painter at the court of the Mughal emperor Jahangir. Though little is known of Bishandas' life, his name can indicate that he was a Hindu. In 1613 he was sent on a diplomatic mission to Persia, to paint the Shah's portrait."
+    },
+    {
+        "question": "Which noted scholar wrote Vikramankadevacharita?",
+        "options": [
+            "Kalhan",
+            "Bilhana",
+            "Kalidas",
+            "Jaydeva"
+        ],
+        "correct_answer": "b",
+        "note": "Kavi Bilhana was an 11th-century Kashmiri poet. Bilhana rewarded his patron by composing in his honor an epic Vikramankadevacharita."
+    },
+    {
+        "question": "Mausoleum (Dargah) of Salim Chishti is situated in?",
+        "options": [
+            "Humayun's Tomb",
+            "Fatehpur Sikri",
+            "Gwalior Fort",
+            "Agra Fort"
+        ],
+        "correct_answer": "b",
+        "note": "The Tomb of Sheikh Salim Chishti is famed as one of the finest examples of Mughal architecture in India, built during the years 1580 and 1581, along with the imperial complex at Fatehpur Sikri near Zenana Rauza and facing south towards Buland Darwaza, within the quadrangle of the Jama Masjid."
+    },
+    {
+        "question": "During the reign of which Pallava ruler Ratha temples at Mahabalipuram were built?",
+        "options": [
+            "Narasimhavarman I",
+            "Adivarman",
+            "Nadivarman",
+            "None of the above"
+        ],
+        "correct_answer": "a",
+        "note": "The construction of the five rathas is traced back to the 7th century during the reign of King Mahendravarman I from 600–630 CE and his son Narasimhavarman I from 630–668 AD of the Pallava dynasty. Construction work of the structures stopped after the demise of Narasimhavarman I in 668 AD."
+    },
+    {
+        "question": "Who among the following was first initiated disciple of Akbar's Din-i-Ilahi?",
+        "options": [
+            "Todarmal",
+            "Tansen",
+            "Birbal",
+            "Mansingh"
+        ],
+        "correct_answer": "c",
+        "note": "The theory of Din-i-Ilahi was introduced by Mughal Emperor Akbar. It is based on Monotheism(believe in one God).(Chief priest : Abul Fazal).The first initiated disciples of Din-i-ilahi during emperor Akbar the Great's time included Birbal, Prince Salim and Abu'l-Fazl ibn Mubarak."
+    },
+    {
+        "question": "As per government of India Act-1858, how many members were appointed to assist the Secretary of State for India?",
+        "options": [
+            "10",
+            "15",
+            "13",
+            "14"
+        ],
+        "correct_answer": "b",
+        "note": "As per government of India Act-1858, 15 members were appointed to assist the Secretary of State for India."
+    },
+    {
+        "question": "Identify, among the following, the saint who had preached non-sectarianism in Medieval times",
+        "options": [
+            "Tukaram",
+            "Ramananda",
+            "Dadu",
+            "Raghunandan"
+        ],
+        "correct_answer": "c",
+        "note": "Dadu, the saint had preached non-sectarianism in Medieval times."
+    },
+    {
+        "question": "Who was the author of famous Persian series of 52 stories Tutinama?",
+        "options": [
+            "Nakhshabi",
+            "Amir Khusrau",
+            "Abul Fazl",
+            "Hasan Nizami"
+        ],
+        "correct_answer": "a",
+        "note": "The authorship of the text of the Tutinama is credited to Ziya'al-Din Nakhshabi or just Nakhshabi, an ethnic Persian physician and a Sufi saint who had migrated to Badayun, Uttar Pradesh in India in the 14th century, who wrote in the Persian language."
+    },
+    {
+        "question": "Which world heritage site comprises of the Alai Darwaza Gate?",
+        "options": [
+            "Humayun's Tomb",
+            "Mahabodhi Temple Complex",
+            "Qutub Minar",
+            "Red Fort Complex"
+        ],
+        "correct_answer": "c",
+        "note": "The Alai Darwaza is the main gate from the southern side of the Quwwat-ul-Islam Mosque in the Qutub Minar complex .Built by Allaudin Khilji the Sultan of Delhi in 1311 AD, the Alai Darwaza has a domed entrance which is constructed using red sandstone and is adorned with white marble."
+    },
+    {
+        "question": "Which world heritage site comprises of the tomb of Iltutmish?",
+        "options": [
+            "Humayun's Tomb",
+            "Mahabodhi Temple Complex",
+            "Qutub Minar",
+            "Red Fort Complex"
+        ],
+        "correct_answer": "c",
+        "note": "The tomb of Iltutmish is situated near the Quwat-ul-Islam Mosque inside the Qutub Complex. The Qutub Complex was declared the part of UNESCO World Heritage Site in 1993. Monuments present in the Qutub complex are Qutub Minar, Quwwat-ul-Islam Mosque, Alai Darwaja, the Iron Pillar and the Alai Minar."
+    },
+    {
+        "question": "Which book described the Arab invasion of Sindh for the very first time?",
+        "options": [
+            "Shahnama",
+            "Baburnama",
+            "Akbarnama",
+            "Chachnama"
+        ],
+        "correct_answer": "d",
+        "note": "Chach Nama ‎(\"Story of the Chach\"), also known as the Fateh nama Sindh (Sindhi:‎ \"Story of the conquest of Sindh\"), and as Tareekh al-Hind wa a's-Sind (Arabic:‎ \"History of India and Sindh\"), is one of the main historical sources for the history of Sindh in the seventh to eighth centuries CE, written in Persian."
+    },
+    {
+        "question": "Which of the following is in the World Heritage list?",
+        "options": [
+            "Khajuraho",
+            "Hampi",
+            "Nalanda ruins",
+            "All of the Above"
+        ],
+        "correct_answer": "d",
+        "note": "Khajuraho Group of Monuments were declared UNESCO world Heritage site in 1986. Nalanda Ruins were declared UNESCO world Heritage site in 2016. Hampi ruins were declared UNESCO world Heritage site in 1986."
+    },
+    {
+        "question": "Diwan-i-Khas is in which of these monuments?",
+        "options": [
+            "Humayun's Tomb",
+            "Mahabodhi Temple Complex",
+            "Qutub Minar",
+            "Red Fort Complex"
+        ],
+        "correct_answer": "d",
+        "note": "The Diwan-i-Khas, or Hall of Private Audiences, in the Red Fort of Delhi built in 1571 was the place where the Mughal emperor Akbar received courtiers and state guests. It was also known as the Shah Mahal."
+    },
+    {
+        "question": "Quwwat-ul-Islam mosque was built by which ruler?",
+        "options": [
+            "Iltutmish",
+            "Qutubuddin Aibak",
+            "Muhammad bin Tughluq",
+            "Aurangzeb"
+        ],
+        "correct_answer": "b",
+        "note": "Quwwat-ul-Islam mosque  (Might of Islam) (also known as the Qutub Mosque or the Great Mosque of Delhi) was commissioned by Qutb-ud-din Aibak, founder of the Mamluk or Slave dynasty and built using the ruins of 27 temples."
+    },
+    {
+        "question": "What was the unique system developed by the Mughals?",
+        "options": [
+            "Centralised autocracy",
+            "Ryotwari settlement",
+            "Mansabdari system",
+            "Local responsibilities for crime detection"
+        ],
+        "correct_answer": "c",
+        "note": "The Mansabdari System, as it developed under the Mughals, was a distinctive and unique system. The origins of the Mansabdari system, however, can be traced back to Changez Khan."
+    },
+    {
+        "question": "Who was the author of Kitab-ul-Hind?",
+        "options": [
+            "Abu Said",
+            "Abul Fazl",
+            "Firdausi",
+            "AI-Beruni"
+        ],
+        "correct_answer": "d",
+        "note": "Alberuni stayed in Mahmud of Ghazni's court and wrote the famous Kitab-ul-Hind, an account on India."
+    },
+    {
+        "question": "Who is the author of \"Shahnama\"?",
+        "options": [
+            "Utbi",
+            "Firdausi",
+            "Hasan Nizami",
+            "AI-Beruni"
+        ],
+        "correct_answer": "b",
+        "note": "The Shahnameh or Shahnama (\"The Book of Kings\", also transliterated Shahnama) is a long epic poem written by the Persian poet Firdausi between c. 977 and 1010 CE and is the national epic of Greater Iran."
+    },
+    {
+        "question": "Where is the Bada Imambara located?",
+        "options": [
+            "Agra",
+            "Lucknow",
+            "Patna",
+            "Allahabad"
+        ],
+        "correct_answer": "b",
+        "note": "The Asafi Imambara, also known as the large Imambara or Bara Imambara is a mosque complex in Lucknow, India, built by Asaf-ud-Daula, Nawab of Awadh, in 1784. It is also called the Asafi Imambara."
+    },
+    {
+        "question": "Tax on plunder during war in the Sultanate period was known as",
+        "options": [
+            "Kharaj",
+            "Jizya",
+            "Khums",
+            "Zakat"
+        ],
+        "correct_answer": "c",
+        "note": "In Islamic tradition, khums, (literally 'one fifth') refers to the required religious obligation of any Muslim to pay one-fifth of their acquired wealth from certain sources toward specified causes. It is treated differently in Shia and Sunni Islam, and it is closely related to ghanima (spoils of war). This tax is paid to the imam, caliph or sultan, representing the state of Islam, for distribution between the orphans, the needy, and the [stranded] traveler."
+    },
+    {
+        "question": "Atala Masjid which was built by Sultan Ibrahim is located at?",
+        "options": [
+            "Jaunpur",
+            "Kanpur",
+            "Agra",
+            "Mysore"
+        ],
+        "correct_answer": "a",
+        "note": "Located 2.2 km in the north-east of Jaunpur, Atala Masjid was built by Sultan Ibrahim Sharqi, the ruler of Jaunpur in the year 1408; although, its foundation was laid in 1377 during the time of Firoz Shah Tughlak III, the Sultan of Delhi."
+    },
+    {
+        "question": "In the Delhi Sultanate an administrative unit called Pargana was headed by",
+        "options": [
+            "Shiqdar",
+            "Barid",
+            "Ariz",
+            "Amil"
+        ],
+        "correct_answer": "d",
+        "note": "Parganas, also spelt pergunnah during the time of the Sultanate period, Mughal times and British Raj, is a former administrative unit of the Indian subcontinent, used primarily, but not exclusively, by the Muslim kingdoms. Parganas were introduced by the Delhi Sultanate, and the word is of Persian origin. As a revenue unit, a pargana consists of several mouzas, which are the smallest revenue units, consisting of one or more villages and the surrounding countryside. Subdivisions of parganas were called Mouzas (area, settlements). Under the reign of Sher Shah Suri, administration of parganas was strengthened by the addition of other officers, including a shiqdar (police chief), an amin or munsif (an arbitrator who assessed and collected revenue) and a karkun (record keeper)."
+    },
+    {
+        "question": "Assertion (A): Akbar's official historian Abul Fazl neither gives the prices of slaves nor does he mention slave markets. \nReason (R): Akbar prohibited slave trade in his empire",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not a correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "c",
+        "note": "Far more than today, women then lived in a man’s world. In peace time they existed within the constraints of religious dogma and ritual, accentuated among the Hindus by the rigid caste system. In war, if they were not slaughtered ― and sometimes they were ― they became the bounty of the victor or were taken into slavery."
+    },
+    {
+        "question": "The portion of the actual produce fixed as state's share under the Zabti System of Mughals was __________",
+        "options": [
+            "One-half",
+            "One-third",
+            "One-fourth",
+            "One-fifth"
+        ],
+        "correct_answer": "b",
+        "note": "One-third of the average produce was the state share. In this system, the produce was divided between the peasants and the state in fixed proportion."
+    },
+    {
+        "question": "Which Tamil poet wrote Ramayana in Tamil language?",
+        "options": [
+            "Kamban",
+            "Kapilar",
+            "Pulamaipithan",
+            "Perumal Rasu"
+        ],
+        "correct_answer": "a",
+        "note": "Kambar (Kamban in casual address) was a medieval Tamil Hindu poet and the author of the Ramavataram, popularly known as Kambaramayanam, the Tamil version of the epic Ramayana. The original version of Ramayana was written by Valmiki."
+    },
+    {
+        "question": "Assertion (A): Akbar claimed divinity for himself.\nReason (R): He thought that in the country of many beliefs such as India, the sovereign should not be associated with any one particular religion.",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not a correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "c",
+        "note": "Akbar claimed divinity for himself because he thought that in a country of many beliefs such as India, the sovereign should not be associated with any one particular religion."
+    },
+    {
+        "question": "Gangaikonda Cholapuram was built during medieval India and was erected as the capital of the Cholas by?",
+        "options": [
+            "Rajendra Chola I",
+            "Gajendra Chola",
+            "Vikram Chola",
+            "Rajendra Chola III"
+        ],
+        "correct_answer": "a",
+        "note": "Gangaikonda Cholapuram was built during medieval India and was erected as the capital of the Cholas by Rajendra Chola I, the son and successor of Rajaraja Chola, the great Chola who conquered a large area in South India, Sri Lanka, Bangladesh, Sumatra, Kadaram (Kedah in Malaysia), Cambodia and others at the beginning of the 11th century A.D."
+    },
+    {
+        "question": "The tomb of Jahangir was built at",
+        "options": [
+            "Gujrat",
+            "Delhi",
+            "Lahore",
+            "Agra"
+        ],
+        "correct_answer": "c",
+        "note": "The tomb of Jahangir is located at Shahdara Bag (Lahore, Pakistan). The Dilkusha Garden in which he was buried was a \"favourite spot\" of Jahangir and his wife Nur Jahan, when they lived in Lahore. His son, the new Mughal Emperor Shah Jahan, ordered that a \"mausoleum befitting an Emperor\" should be built in his father's honour to inter his remains."
+    },
+    {
+        "question": "The foreign traveller who visited India during the Mughal Period and who left us and expert's description of the Peacok Throne, was",
+        "options": [
+            "Geronimo Verroneo",
+            "Omrah' Danishmand khan",
+            "Tavernier",
+            "Austinof Bordeaux"
+        ],
+        "correct_answer": "c",
+        "note": "Jean-Baptiste Tavernier, a French jeweller and traveller of the Mughal period has left a detailed account of Takht-i-Taus (Peacock throne). Peacock throne was a dazzling and spectacular display of Mughal architecture. Its construction was undertaken by the Emperor Shah Jahan and he personally spent a great deal of time and energy in the designing of the Throne."
+    },
+    {
+        "question": "Who was the last Mughal emperor to sit on the peacock throne?",
+        "options": [
+            "Jahandar Shah",
+            "Muhammad Shah",
+            "Shah Alam-I",
+            "Bahadur Shah Zafar"
+        ],
+        "correct_answer": "b",
+        "note": "After the death of Aurangzeb, came his son Bahadur Shah-I, and his succession- Farrukhsiyar, Rafi-ud-Darajat, Shah Jahan-II and then came Muhammad Shah. Under his patronage, the Mughal Empire was continuously declining in its powers and was becoming vulnerable, ultimately resulting to the Mughal-Maratha war. Meanwhile, the Persian forces saw their chance to invade. In February 1739, The Persian forces with Nadir Shah Afshar as their leader captured Delhi. However they left the city in May 1739, But taking with them, the precious Peacock Throne as the trophy of victory. Hence, Muhammad Shah is said to be the last Mughal Emperor who sat on the Peacock throne."
+    },
+    {
+        "question": "The seven pagodas of Mahabalipuram are a witness to the art patronised by the?",
+        "options": [
+            "Chola",
+            "Pallavas",
+            "Pandyas",
+            "Kaktiya"
+        ],
+        "correct_answer": "b",
+        "note": "The temples’ origins have been obscured by time, lack of complete written records, and storytelling. Englishman D. R. Fyson, a long-time resident of Madras (now Chennai), wrote a concise book on the city titled Mahabalipuram or Seven Pagodas, which he intended as a souvenir volume for Western visitors. In it, he states that the Pallava King Narasimharavarman I either began or greatly enlarged upon Mahabalipuram, circa 630. Archaeological evidence has not yet clearly proven whether Narasimharavarman I's city was the earliest to inhabit this location."
+    },
+    {
+        "question": "Assertion (A): The largest number of Persian works on classical Indian music was written in Aurangzeb's reign.\nReason (R): Aurangzeb was a great patron of Classical Indian Music.",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not a correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "c",
+        "note": "It is interesting to note that the largest number of Persian works on classical Indian music were written during Aurangzeb's reign. Aurangzeb himself was proficient in playing the Veena."
+    },
+    {
+        "question": "Chahalghani under IItutmish represented __________",
+        "options": [
+            "His Turkish slaves",
+            "Slaves inherited by him from his predecessors",
+            "General cadre of slaves",
+            "The elite cadre of slave officers under him"
+        ],
+        "correct_answer": "a",
+        "note": "Chahalgani was the system of nobles introduced by Iltutmish in India during Mamluk rule in India. It was a corp of 40 loyal slaves Amirs also known as Turkan-i-Chihalgani."
+    },
+    {
+        "question": "Adilabad fort and the city of Jahanpanah was built by?",
+        "options": [
+            "Alauddin Khalji",
+            "Ghiyasuddin Tughlaq",
+            "Muhammad bin Tughluq",
+            "None of the above"
+        ],
+        "correct_answer": "c",
+        "note": "Jahanpanah was the fourth medieval city of Delhi established in 1326–1327 by Muhammad bin Tughlaq (1321–51), of the Delhi Sultanate. To address the constant threat of the Mongols, Tughlaq built the fortified city of Jahanpanah (meaning in Persian: \"Refuge of the World\") subsuming the Adilabad fort that had been built in the 14th century and also all the establishments lying between Qila Rai Pithora and Siri Fort. Neither the city nor the fort has survived. Many reasons have been offered for such a situation. One of which is stated as the idiosyncratic rule of Mohammed bin Tughlaq when inexplicably he shifted the capital to Daulatabad in the Deccan and came back to Delhi soon after."
+    },
+    {
+        "question": "The Sultans of which dynasty ruled for the longest time?",
+        "options": [
+            "Khalji dynasty",
+            "Tughlaq dynasty",
+            "Slave dynasty",
+            "Lodi dynasty"
+        ],
+        "correct_answer": "b",
+        "note": "The sultans of Tughlaq dynasty ruled for the longest\ntime (between 1320-1414)."
+    },
+    {
+        "question": "Which one of the following monuments in Delhi is not included as a World Heritage Site?",
+        "options": [
+            "Red Fort",
+            "Humayun's Tomb",
+            "Qutub Minar",
+            "Jantar Mantar"
+        ],
+        "correct_answer": "d",
+        "note": "The significant world heritage sites in the country include Taj Mahal, Agra Fort, Humayun's Tomb, Red Fort, Qutab Minar archaeological complex, rock shelters of Bhimbetka, Khajuraho and the Hampi monument clusters."
+    },
+    {
+        "question": "\"Quwwat-ul-Islam\" Mosque was built by",
+        "options": [
+            "Qutub-ud-din-Aibak",
+            "Alauddin Khalji",
+            "Iltutmish",
+            "Mohammad Adilshah"
+        ],
+        "correct_answer": "a",
+        "note": "Quwwat-ul-Islam mosque (Might of Islam) (also known as the Qutub Mosque or the Great Mosque of Delhi) was commissioned by Qutb-ud-din Aibak, founder of the Mamluk or Slave dynasty and built using the ruins of 27 temples."
+    },
+    {
+        "question": "Which among the following was the most appropriate cause for the failure of Raziya?",
+        "options": [
+            "Her gender",
+            "Her intention to be the ruler not only in name but also in fact",
+            "Her unpopularity with the people of Delhi",
+            "Her incompetence"
+        ],
+        "correct_answer": "b",
+        "note": "The most appropriate cause for the failure of Raziya was her intention to be the ruler not only in name but also in fact."
+    },
+    {
+        "question": "Which ruler of India issued Mahzarnama to take all the religious matters into his own hands?",
+        "options": [
+            "Iltutmish",
+            "Akbar",
+            "Nadir Shah",
+            "Shahjahan"
+        ],
+        "correct_answer": "b",
+        "note": "Akbar declared or issued Mahzarnama to take all the religious matters into his own hands. This made him supreme in the religious matters. He issued Mahzarnama to curb the dominance of Ulema. It was written by Faizi in 1579."
+    },
+    {
+        "question": "Who introduced the famous Persian festival of Nauroz?",
+        "options": [
+            "Alauddin Khalji",
+            "IItutmish",
+            "Balban",
+            "Firuz Tughlaq"
+        ],
+        "correct_answer": "c",
+        "note": "Balban was the first who introduced the famous Persian Festival of Nauroz."
+    },
+    {
+        "question": "The sun saint who maintained that devotional music was one way of coming close to God was",
+        "options": [
+            "Muin-ud-din Chishti",
+            "Baba Farid",
+            "Saiyid Muhammad Gesudaraz",
+            "Shah Alam Bukhari"
+        ],
+        "correct_answer": "a",
+        "note": "The sun saint who maintained that devotional music was one way of coming close to God was Muin-ud-din Chishti."
+    },
+    {
+        "question": "What is meant by Mughalai?",
+        "options": [
+            "Infantry of the Mughals",
+            "Very rich food",
+            "Royal household",
+            "Mughal territories from which Chauth was claimed"
+        ],
+        "correct_answer": "d",
+        "note": "Chauth (from Sanskrit meaning one-fourth) was a regular tax or tribute imposed, from early 18th century, by the Maratha Empire in India. It was an annual tax nominally levied at 25% on revenue or produce, hence the name. It was levied on the lands which were under nominal Mughal rule."
+    },
+    {
+        "question": "What is meant by \"The Forty\"?",
+        "options": [
+            "The cream of Afghan nobles",
+            "The pick of the intellectuals among the Khaljis",
+            "The select body of the Turkish aristocracy",
+            "The Ulema or the Muslim divines"
+        ],
+        "correct_answer": "c",
+        "note": "The Forty a select body of Turkish nobles was created by Iltutmish for better and effective administration. But after Iltutmish, the members of the Forty enjoyed unlimited power due to his weak and incompetent successors."
+    },
+    {
+        "question": "What is pietra dura?",
+        "options": [
+            "A form of music",
+            "Pictorial mosaic work using semi-precious stones",
+            "Armour",
+            "None of the above"
+        ],
+        "correct_answer": "b",
+        "note": "Pietre dure is an Italian plural meaning \"hard rocks\" or hardstones; the singular pietra dura is also encountered in Italian. In Italian, but not in English, the term embraces all gem engraving and hardstone carving, which is the artistic carving of three-dimensional objects in semi-precious stone, normally from a single piece, for example in Chinese jade. The traditional convention in English has been to use the singular pietra dura just to denote multi-colored inlay work."
+    },
+    {
+        "question": "Akbar defeated Hemu in which of the following battle?",
+        "options": [
+            "Battle of Haldighati",
+            "Second Battle of Panipat",
+            "Battle of Talikota",
+            "Third Battle of Panipat"
+        ],
+        "correct_answer": "b",
+        "note": "The defeat of Hemu, a c. 1590s painting by Kankar of the Second Battle of Panipat taken from the Akbarnama. The Second Battle of Panipat was fought on November 5, 1556, between the forces of Hem Chandra Vikramaditya, the king at Delhi and forces of Emperor Akbar."
+    },
+    {
+        "question": "Akbar's tomb is located at which of the following places?",
+        "options": [
+            "Sikandara",
+            "Agra",
+            "Fatehpursikri",
+            "Allahabad"
+        ],
+        "correct_answer": "a",
+        "note": "The Akbar started the construction of his tomb at  Sikandara during his reign. It is located at Sikandra, in the suburbs of Agra, on the Mathura road (NH2), 8 km west-northwest of the city center."
+    },
+    {
+        "question": "Famous mosque Adhai Din Ka Jhonpra was built by which of the following ruler?",
+        "options": [
+            "Qutub-ud-Din-Aibak",
+            "Muhammad Bin Tughlaq",
+            "Alauddin Khalji",
+            "None of the above"
+        ],
+        "correct_answer": "a",
+        "note": "Adhai Din Ka Jhonpra is a mosque in the Ajmer city of Rajasthan, India. It was commissioned by Qutb-ud-Din-Aibak, on orders of Muhammad Ghori, in 1192 CE. It was completed in 1199 CE, and further beautified by Iltutmish of Delhi in 1213 CE."
+    },
+    {
+        "question": "Khas Mahal and the Shish Mahal are built in which World Heritage Monument?",
+        "options": [
+            "Humayun's Tomb",
+            "Mahabodhi Temple Complex",
+            "Qutub Minar",
+            "Agra Fort"
+        ],
+        "correct_answer": "d",
+        "note": "The Sheesh Mahal (The Glass palace) is inside the Agra Fort. It was built by Shahjahan for royal bath and dressing. The mirrors used in the Mahal were brought from Halebs in Alleppo, Syria. Shahjahan built The Khas Mahal also known as 'Amangarh-i-Mualla (the holy resting place) at Agra Fort."
+    },
+    {
+        "question": "Which of the following is not correctly matched?",
+        "options": [
+            "Dev Raya II : Sangama",
+            "Vira Narasimha : Tuluva",
+            "Venkata II : Aravidu",
+            "Narsimha : Chalukya"
+        ],
+        "correct_answer": "d",
+        "note": "Kovvali was a popular novelist of Telugu language in the early 20th century. He is one of the most prolific writer of modern Telugu language. His complete name is Kovvali Lakshmi Narasimha Rao (1912–1975), born in Tanuku. He wrote about thousand Novels, which is a record not surpassed by any Telugu writer till now."
+    },
+    {
+        "question": "In which of the following towns is \"Moti Masjid\" situated?",
+        "options": [
+            "Agra",
+            "Jaipur",
+            "Lahore",
+            "Ahmedabad"
+        ],
+        "correct_answer": "a",
+        "note": "The Moti Masjid (translation: Pearl Mosque) in Agra was built by Shah Jahan. During the rule of Shah Jahan the Mughal emperor, numerous architectural wonders were built, the most famous of them being the Taj Mahal. Moti Masjid earned the epithet Pearl Mosque for it shone like a pearl."
+    },
+    {
+        "question": "Who has written the famous book Padmavat?",
+        "options": [
+            "Nakhshabi",
+            "Malik Muhammad Jayasi",
+            "Al Biruni",
+            "Hasan Nizami"
+        ],
+        "correct_answer": "b",
+        "note": "Padmavat (or Padmawat) is an epic poem written in 1540 by Sufi poet Malik Muhammad Jayasi, who wrote it in the Hindustani language of Awadhi, and originally in the Persian Nastaʿlīq script. It is the oldest extant text among the important works in Awadhi."
+    },
+    {
+        "question": "Humayun restored his Indian kingdom with the help of the ruler of",
+        "options": [
+            "Arabia",
+            "Kabul",
+            "Persia",
+            "Turkey"
+        ],
+        "correct_answer": "c",
+        "note": "Due to a quarrel with the Rana of Amarkot, Humayun had to flee from there and at last he reached Persia. The Persian king Shah Tahmasp gave him military help to conquer Kabul and Kandahar from from his brother Kamran. Later on Humayun defeated the weakened Afghan forces of Sikander Sur and occupied Agra and Delhi in 1555."
+    }
+]

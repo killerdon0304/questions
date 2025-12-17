@@ -1,0 +1,409 @@
+[
+    {
+        "question": "Which was the oldest University?",
+        "options": [
+            "Gandhara",
+            "Kanauj",
+            "Nalanda",
+            "Vaishali"
+        ],
+        "correct_answer": "c",
+        "note": "Nalanda was a Mahavihara, a large Buddhist monastery, in the ancient kingdom of Magadha in India. The site is located about 95 kilometres southeast of Patna near the city of Bihar Sharif, and was a centre of learning from the fifth century CE to c. 1200 CE. It is a UNESCO World Heritage Site."
+    },
+    {
+        "question": "Who was the court poet of Harsha-vardhana?",
+        "options": [
+            "Bhani",
+            "Ravi Kirti",
+            "Banabhatta",
+            "Vishnu Sharma"
+        ],
+        "correct_answer": "c",
+        "note": "Banabhatta was the court poet of king Harshavardhana. His biography Harshacharita (\"Deeds of Harsha\") written by Sanskrit poet Banabhatta, describes his association with Thanesar, besides mentioning the defence wall, a moat and the palace with a two-storied Dhavalagriha (white mansion)."
+    },
+    {
+        "question": "Banabhatta was the court poet of which emperor?",
+        "options": [
+            "Vikramaditya",
+            "Kumaragupta",
+            "Harshavardhana",
+            "Kanishka"
+        ],
+        "correct_answer": "c",
+        "note": "Banabhatta was the court poet of king Harshavardhana. His biography Harshacharita (\"Deeds of Harsha\") written by Sanskrit poet Banabhatta, describes his association with Thanesar, besides mentioning the defence wall, a moat and the palace with a two-storied Dhavalagriha (white mansion)."
+    },
+    {
+        "question": "Poet Kalidasa lived in the court of",
+        "options": [
+            "Chandragupta Maurya",
+            "Samudragupta",
+            "Chandragupta Vikrmaditya",
+            "Harsha"
+        ],
+        "correct_answer": "c",
+        "note": "Chandragupta II (also known as Chandragupta Vikramaditya) was one of the most powerful emperors of the Gupta Empire in India. His rule spanned c. 380 – c. 415 CE during which the Gupta Empire reached its peak. Kālidāsa was a Classical Sanskrit writer, widely regarded as the greatest poet and dramatist in the Sanskrit language of India. His plays and poetry are primarily based on the Vedas, the Mahabharata and the Puranas."
+    },
+    {
+        "question": "Who was called India's Napoleon because of his victories?",
+        "options": [
+            "Skandagupta",
+            "Chandragupta",
+            "Brahmagupta",
+            "Samudragupta"
+        ],
+        "correct_answer": "d",
+        "note": "Samudragupta (335-375 AD) of the Gupta dynasty is known as the Napoleon of India. Historian A V Smith called him so because of his great military conquests known from the 'Prayag Prashasti' written by his courtier and poet Harisena, who also describes him as the hero of a hundred battles."
+    },
+    {
+        "question": "Which of the following statements about the\nGuptas is NOT true?",
+        "options": [
+            "They ruled mainly over parts of north and\ncentral India",
+            "Kingship was hereditary and the throne\nalways went to the eldest son",
+            "The judicial system was far more developed\nthan in earlier times",
+            "Land taxes increased and taxes on trade and\ncommerce decreased"
+        ],
+        "correct_answer": "b",
+        "note": "Although, the Succession of throne was given to the eldest son of the king but sometimes nobles and councellors  elected the king."
+    },
+    {
+        "question": "Whose achievements are recorded in the Allahabad Pillar inscription?",
+        "options": [
+            "Chandra Gupta Maurya",
+            "Samudragupta",
+            "Vikrarnaditya",
+            "Skand Gupta"
+        ],
+        "correct_answer": "b",
+        "note": "The Allahabad pillar inscription of Samudragupta is one of the important epigraphic sources for the study of the political history of the Imperial Guptas. Written in excellent Sanskrit it is in the form of a panegyric. It therefore popularly called as Allahabad prasasti in the academic circles."
+    },
+    {
+        "question": "Whose reign in Indian History was called the Golden Age of India?",
+        "options": [
+            "Mughal Empire",
+            "Maratha Empire",
+            "Gupta Empire",
+            "Maurya Empire"
+        ],
+        "correct_answer": "c",
+        "note": "Gupta Dynasty reign in Indian History is called the Golden Age of India. Gupta reign is Golden age because of their various advancement in the field of medical science, astronomy , architecture and civil engineering. The prosperity of the Gupta Empire produced a golden age of cultural and scientific advancements."
+    },
+    {
+        "question": "A great astronomer and mathematician during the Gupta period was",
+        "options": [
+            "Bhanugupta",
+            "Vagabhatta",
+            "Aryabhatta",
+            "Varahamihira"
+        ],
+        "correct_answer": "c",
+        "note": "Aryabhata, a noted mathematician-astronomer of the Gupta period proposed that the earth is round and rotates about its own axis. His famous works are Aryabhatiya and the Arya-siddhanta."
+    },
+    {
+        "question": "Harshacharita the biography of Harsha, was written by",
+        "options": [
+            "Banabhatta",
+            "Sudraka",
+            "Sri Harsha",
+            "Gunadhva"
+        ],
+        "correct_answer": "a",
+        "note": "The Harshacharita is the biography of Indian emperor Harsha by Banabhatta, also known as Bana, who was a Sanskrit writer of seventh-century CE India. He was the Asthana Kavi, meaning Court Poet, of Harsha."
+    },
+    {
+        "question": "What was Chandragupta-II also known as?",
+        "options": [
+            "Samudra Gupta",
+            "Skanda Gupta",
+            "Vikramaditya",
+            "Rama Gupta"
+        ],
+        "correct_answer": "c",
+        "note": "Chandragupta II (also known as Chandragupta Vikramaditya) was one of the most powerful emperors of the Gupta Empire in India. His rule spanned c. 380 – c. 415 CE during which the Gupta Empire reached its peak."
+    },
+    {
+        "question": "The coins of which of the following reveal their love for music?",
+        "options": [
+            "Mauryas",
+            "Nandas",
+            "Guptas",
+            "Cholas"
+        ],
+        "correct_answer": "c",
+        "note": "The Guptas minted gold coins in abundance. These coins were depicted with the images of rulers in various pose. Some coins depicted Samudragupta playing veena. Gupta coins, mainly the silver ones, carried the images of Garuda, a mythical bird of Hindu tradition.  These coins are found in large numbers in western India. In some cases, the Garuda is replaced by a peacock."
+    },
+    {
+        "question": "Gupta Dynasty was famous for",
+        "options": [
+            "Art and architecture",
+            "Imperialism",
+            "Revenue and land reform",
+            "None of these"
+        ],
+        "correct_answer": "a",
+        "note": "The Guptas were the first architects of purpose-built Hindu (but sometimes also Buddhist) temples which evolved from the earlier tradition of rock-cut shrines. Gupta architecture is very diverse in style, design and features."
+    },
+    {
+        "question": "Harsha was defeated by",
+        "options": [
+            "Sasanka",
+            "King of Valabhi",
+            "Bhaskarvarman",
+            "Pulakeshin II"
+        ],
+        "correct_answer": "d",
+        "note": "Pulakeshin II defeated Harsha on the banks of Narmada in the winter of 618-619 CE. Pulakeshin entered into a treaty with Harsha, with the Narmada River designated as the border between the Chalukya Empire and that of Harshavardhana."
+    },
+    {
+        "question": "The Gupta king who assumed the title of 'Vikramaditya' was",
+        "options": [
+            "Skandagupta",
+            "Samudragupta",
+            "Chandragupta-II",
+            "Kumaragupta"
+        ],
+        "correct_answer": "c",
+        "note": "Chandragupta II (also known as Chandragupta Vikramaditya) was one of the most powerful emperors of the Gupta Empire in India. His rule spanned c. 380 – c. 415 CE during which the Gupta Empire reached its peak. Art, architecture, and sculpture flourished, and the cultural development of ancient India achieved new heights. The period of prominence of the Gupta dynasty is often referred to as the \"Golden Age\" of India."
+    },
+    {
+        "question": "Which one of the following coins was issued in silver during the Gupta period?",
+        "options": [
+            "Kakini",
+            "Nishka",
+            "Rupyaka",
+            "Dinar"
+        ],
+        "correct_answer": "c",
+        "note": "The Gupta issued silver coins known as 'Rupyaka' derived from Sanskrit word 'Rupak' which means silver. Rupayka coins was issued in silver during the Gupta period."
+    },
+    {
+        "question": "The university which became famous in the post-Gupta Era was",
+        "options": [
+            "Kanchi",
+            "Taxila",
+            "Nalanda",
+            "Vallabhi"
+        ],
+        "correct_answer": "c",
+        "note": "The post-Gupta period saw a long succession of kings who continued building at Nalanda \"using all the skill of the sculptor\". At some point, a \"king of central India\" built a high wall along with a gate around the now numerous edifices in the complex. Another monarch (possibly of the Maukhari dynasty) named Purnavarman who is described as \"the last of the race of Ashoka-raja\", erected an 80 ft (24 m) high copper image of Buddha to cover which he also constructed a pavilion of six stages."
+    },
+    {
+        "question": "The title 'Indian Napoleon' has been attached to",
+        "options": [
+            "Chandra Gupta Maurya",
+            "Samudragupta",
+            "Chandragupta-I",
+            "Harshavardhana"
+        ],
+        "correct_answer": "b",
+        "note": "Samudragupta (335-375 AD) of the Gupta dynasty is known as the Napoleon of India. Historian A V Smith called him so because of his great military conquests known from the 'Prayag Prashati' written by his courtier and poet Harisena, who also describes him as the hero of a hundred battles."
+    },
+    {
+        "question": "Chinese pilgrim who visited India during Harsha Vardhan's period was",
+        "options": [
+            "Fa-hien",
+            "I-tsang",
+            "Nishka",
+            "Hiuen Tsang"
+        ],
+        "correct_answer": "d",
+        "note": "The period of Harsha is well documented in Harshacharitra written by Banabhatta. The writings of Chinese scholar Hiuen-Tsang who visited Harsha's court also provide the great detail about Harsha and India of Harsha's time."
+    },
+    {
+        "question": "Where was the introductory capital of Harsha?",
+        "options": [
+            "Paryag",
+            "Kannoj",
+            "Thaneshwar",
+            "Mathura"
+        ],
+        "correct_answer": "c",
+        "note": "Prabhakar Vardhana was the first king of the Vardhana dynasty with his capital at Thaneswar. After Prabhakar Vardhana's death in 605, his eldest son, Rajya Vardhana, ascended the throne. According to major evidences, Harsha, like the Guptas, was of the Vaishya Varna."
+    },
+    {
+        "question": "In the Gupta period, the largest number of coins were issued in",
+        "options": [
+            "Gold",
+            "Silver",
+            "Copper",
+            "Iron"
+        ],
+        "correct_answer": "a",
+        "note": "The Gupta monarchs were famous for their gold coins. They also issued silver coins. However, coins made of copper, bronze or any other alloy metals are scarce. The abundance of gold coins from the Gupta era has led some scholars to regard this phenomenon as the 'rain of gold'. The Gupta gold coin is known as dinaras. The gold coins of the Gupta rulers are the extraordinary examples of artistic excellence."
+    },
+    {
+        "question": "Who among the following, propounded the theory of zero?",
+        "options": [
+            "Charak",
+            "Chanakya",
+            "Aryabhatta",
+            "Varahamihira"
+        ],
+        "correct_answer": "c",
+        "note": "Aryabhatta is considered to be one of the mathematicians who changed the course of mathematics and astronomy to a great extent. He is known to have considerable influence on Arabic science world too, where he is referred to as Arjehir. His notable contributions to the world of science and mathematics includes the theory that the earth rotates on its axis, explanations of the solar and lunar eclipses, solving of quadratic equations, place value system with zero, and approximation of pie (π)."
+    },
+    {
+        "question": "When did the first Huna invasion take place?",
+        "options": [
+            "358 AD",
+            "458 AD",
+            "558 AD",
+            "658 AD"
+        ],
+        "correct_answer": "b",
+        "note": "The Huns were the nomadic tribes of Mangolia. They first invaded India (Gupta empire under Skandgupta] in  458 A.D."
+    },
+    {
+        "question": "The last Buddhist king who was a great Sanskrit scholar and a writer was",
+        "options": [
+            "Kanishka",
+            "Ashoka",
+            "Bimbisara",
+            "Harshavardhana"
+        ],
+        "correct_answer": "d",
+        "note": "Harsha (c. 590–647 CE), also known as Harshavardhana, was an Indian emperor who ruled North India from 606 to 647 CE. He was a member of the Vardhana dynasty; and was the son of Prabhakarvardhana who defeated the Alchon Huna invaders, and the younger brother of Rajyavardhana, a king of Thanesar, present-day Haryana. The last Buddhist king who was a great Sanskrit scholar and a writer was Harshavardhana."
+    },
+    {
+        "question": "After the death of Harsha, a tripartite struggle ensued between the three contemporary powers for the supremacy of Kannauj. Which of the following was not a party in the struggle?",
+        "options": [
+            "Gurjar Partiharas",
+            "Rastrakutas",
+            "Palas",
+            "Paramaras"
+        ],
+        "correct_answer": "d",
+        "note": "The Tripartite Struggle for control of northern India took place in the ninth century. The struggle was between the Pratihara Empire, the Pala Empire and the Rashtrakuta Empire."
+    },
+    {
+        "question": "Who was the first known Gupta ruler?",
+        "options": [
+            "Sri Gupta",
+            "Chandragupta - I",
+            "Ghatotkacha",
+            "Kumaragupta - I"
+        ],
+        "correct_answer": "a",
+        "note": "Sri Gupta was the first ruler of gupta dynasty, He reigned from 240 - 280 A.D. The Poona Copper inscription describes him as the \"Adhiraja of Gupta dynasty\"."
+    },
+    {
+        "question": "What was the extent of Harsha's empire?",
+        "options": [
+            "The entire Indian subcontinent",
+            "The whole of India",
+            "The entire Deccan region",
+            "A part of northern India"
+        ],
+        "correct_answer": "d",
+        "note": "At the height of Harsha's power, his Empire covered much of North and Northwestern India, extended East till Kamarupa, and South until Narmada River; and eventually made Kannauj (in present Uttar Pradesh state) his capital, and ruled till 647 CE."
+    },
+    {
+        "question": "The Gupta Saka was founded by",
+        "options": [
+            "Chandra Gupta, the First",
+            "Chandra Gupta, the Second",
+            "Samudra Gupta",
+            "Kumara Gupta"
+        ],
+        "correct_answer": "a",
+        "note": "The first Gupta ruler of consequence was Chandragupta I, son of Ghatotkacha. By marrying a Lichchhavi Princess Kumaradevi he sought to gain in prestige, though Vaishali does not appear to have been a part of his kingdom. His rule remained confined to Magadha and parts of eastern Uttar Pradesh (Saketa and Prayaga). He took the title of Maharajadhiraja, and his accession in about A.D. 319-20 marked the beginning of Gupta era. The difference between Gupta Era and Saka Era is 241 years."
+    },
+    {
+        "question": "Which of the following Gupta kings stopped the Huns from invading India?",
+        "options": [
+            "Kumaragupta",
+            "Samudragupta",
+            "Skandgupta",
+            "Chandragupta"
+        ],
+        "correct_answer": "c",
+        "note": "The Gupta Empire in India reigned in the Ganges basin during the 5th century, and the Kushan dynasty occupied the area along the Indus. After defeating the Kushanas, the Hunas entered the subcontinent from the Kabul valley. They entered Punjab and the Gupta Empire failed to protect the northeast frontier of the empire and this made easier for the Huns to enter an unguarded entrance in the Gangetic valley, just into the heart of the Gupta Empire. This was in 458 AD. The Hephthalites, known as the Hunas in India kept on invading India until the Gupta ruler Skandagupta repulsed them. The Hunas, under the leadership of Toramana, suffered a crushing defeat by the Gupta emperor Skandagupta."
+    },
+    {
+        "question": "Harsha was the last great royal patron of",
+        "options": [
+            "Jainism",
+            "Buddhism",
+            "Shaivism",
+            "Bhagavatism"
+        ],
+        "correct_answer": "b",
+        "note": "Harsha is called the last great Hindu emperor of India. A Shaiva in his early years, he gradually became a great patron of Buddhism."
+    },
+    {
+        "question": "India's trade with the Roman Empire came to an end with the invasion of Rome by the",
+        "options": [
+            "Arabs",
+            "Hungarians",
+            "Hunas",
+            "Turks"
+        ],
+        "correct_answer": "c",
+        "note": "The nomadic savages or tribes who lived in the neighbourhood of China were the Hephthalites (the Sanskrit name of which is Hunas). Studies show that the Hunas extended their kingdom from the border of Persia to Khotan in Central Asia. There were two branches of Hunas that advanced towards the west. One branch of the Hunas moved towards the Roman Empire and the other towards India. This branch of the Hunas, which came to India, was referred to as the White Hunas. The invasion of India by the Hunas began about a hundred years after the Kushanas’ invasion. India's trade with the Roman Empire came to an end with the invasion of Rome by the Hunas."
+    },
+    {
+        "question": "Emperor Harsha's southward march was stopped on the Narmada river by",
+        "options": [
+            "Pulakesin-I",
+            "Pulakesin-Il",
+            "Vikramaditya-I",
+            "Vikramaditya-II"
+        ],
+        "correct_answer": "b",
+        "note": "Pulakesin II stopped Harsha's southward march on Narmada river."
+    },
+    {
+        "question": "During which Gupta King's reign did the Chinese traveller Fahien visit India?",
+        "options": [
+            "Chandra Gupta-I",
+            "Samudra Gupta",
+            "Chandragupta II",
+            "Kumara Gupta"
+        ],
+        "correct_answer": "c",
+        "note": "Fa-hien, a Chinese pilgrim, visited India during the reign of Chandra Gupta II. His primary aim was to visit the Buddhist religious places and to take with him the copies of the Buddhist religious texts. He, therefore, travelled through the Gupta empire and also wrote down his impressions about India. As his main interest was religion, we know nothing about the political condition of India from his account."
+    },
+    {
+        "question": "Nalanda University was a great centre of learning, especially in",
+        "options": [
+            "Buddhism",
+            "Jainism",
+            "Vaishnavism",
+            "Tantra"
+        ],
+        "correct_answer": "a",
+        "note": "Nalanda was a Mahavihara, a large Buddhist monastery, in the ancient kingdom of Magadha (modern-day Bihar) in India. The site is located about 95 kilometres (59 mi) southeast of Patna near the city of Bihar Sharif, and was a centre of learning from the fifth century CE to c. 1200 CE. It is a UNESCO World Heritage Site."
+    },
+    {
+        "question": "The official court language of the Guptas was",
+        "options": [
+            "Pali",
+            "Prakrit",
+            "Hindi",
+            "Sanskrit"
+        ],
+        "correct_answer": "d",
+        "note": "Sanskrit was the official language of Gupta period. Sanskrit language and literature were reached its peak during the Gupta era."
+    },
+    {
+        "question": "Varahamihira is",
+        "options": [
+            "An astronaut",
+            "A space shuttle",
+            "A power station",
+            "An ancient astronomer"
+        ],
+        "correct_answer": "d",
+        "note": "Varahamihira was one of the only renowned Indian Astronomer, Mathematician and Astrologer whose name became a household word throughout India and it is said his near contemporaries Aryabhata and Brahmagupta even did not match with the popularity of Varahamihira. Varahamihira was born in 499 A.D. into a family of Brahmins settled at Kapittha, a village near Ujjain. His father, Adityadasa was a worshipper of the Sun god and it was he who taught Varahamihira astrology."
+    },
+    {
+        "question": "Who was called Lichchavi Dauhitra?",
+        "options": [
+            "Chandragupta-I",
+            "Skandagupta",
+            "Kumaragupta",
+            "Samudragupta"
+        ],
+        "correct_answer": "d",
+        "note": "Chandragupta-I married the daughter of Licchhavis, a royal influential family .His son and successor Samudragupta calls himself Lichchavi- dauhitra the son of the daughter of the Lichchavis."
+    }
+]

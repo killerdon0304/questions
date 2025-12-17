@@ -8,7 +8,7 @@ from nextPage import find_next_page
 from parsePage import parse_page
 # from translateHindi import translate_questions_to_hindi, save_to_csv_hindi
 
-url = 'https://www.examveda.com/history/practice-mcq-question-on-indian-history/'
+url = 'https://www.examveda.com/general-knowledge/practice-mcq-question-on-indian-politics/'
 category = 1
 subcategory = 6
 language_id = 14  # 14 for english ur 22 for hindi
@@ -48,7 +48,7 @@ def scrape_site(start_url):
     return all_questions, page_title, folder
 
 def scrap_category():
-    url = 'https://www.examveda.com/mcq-question-on-geography/'
+    url = 'https://www.examveda.com/mcq-question-on-history/'
 
     html = get_page(url)
     if not html:
@@ -79,9 +79,9 @@ def scrap_category():
 
 if __name__ == '__main__':
     start_url = url  # Replace with the starting URL of the quiz site
-    scrap_category()
-    # questions, name, category = scrape_site(start_url)
-    # save_questions_to_json(questions, category, name)
+    # scrap_category()
+    questions, name, category = scrape_site(start_url)
+    save_questions_to_json(questions, category, name)
     # save_to_csv(all_questions, 'questions.csv')
 
     # Hindi translate + save

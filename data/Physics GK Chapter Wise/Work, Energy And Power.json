@@ -1,0 +1,68 @@
+[
+    {
+        "question": "10 kg ms-1 changes in the momentum of an object in 0.02 seconds, then the force acting on the object is:",
+        "options": [
+            "200 N",
+            "550 N",
+            "500 N",
+            "100 N"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "An object with the mass of 2 kg is thrown upward with the initial velocity 20 m/s after 2 seconds its kinetic energy will be-",
+        "options": [
+            "100J",
+            "0J",
+            "400J",
+            "200J"
+        ],
+        "correct_answer": "b",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "A body rolling down on a hill has",
+        "options": [
+            "kinetic energy only",
+            "only friction force",
+            "potential energy only",
+            "Both kinetic energy and potential energy"
+        ],
+        "correct_answer": "d",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "A car is moving with a high speed. Which energy does is posses?",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Frictional force",
+            "Gravitational force"
+        ],
+        "correct_answer": "a",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "An object of mass 15 kg is moving with uniform velocity that of 7 ms-1. What is the kinetic energy of that object?",
+        "options": [
+            "367.5ms",
+            "17.5J",
+            "367.5J",
+            "180.5J"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "What will be the kinetic energy of an object of mass 20kg moving at a speed of 5ms-1?",
+        "options": [
+            "250kg",
+            "250J",
+            "250N",
+            "250Pa"
+        ],
+        "correct_answer": "b",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    }
+]

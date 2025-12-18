@@ -1,0 +1,101 @@
+[
+    {
+        "question": "Lens is made up of",
+        "options": [
+            "pyrex glass",
+            "flint glass",
+            "ordinary glass",
+            "cobalt glass"
+        ],
+        "correct_answer": "b",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "In fibre optics communication, the signal travels in the form of",
+        "options": [
+            "Light wave",
+            "Radio wave",
+            "Micro wave",
+            "Electric wave"
+        ],
+        "correct_answer": "a",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Persistance of vision is the principle behind",
+        "options": [
+            "camera",
+            "spectroscope",
+            "cinema",
+            "periscope"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Red light is used in traffic signals because",
+        "options": [
+            "colour of blood is red",
+            "animals can identify red",
+            "red light disperses least",
+            "red is the symbol of danger"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "A lady is standing in front of a plane mirror at a distance of 1 m from it. She walks 60 cm towards the mirror. The distance of her image now from herself (ignoring the thickness of the mirror) is",
+        "options": [
+            "40 cm",
+            "60 cm",
+            "80 cm",
+            "120 cm"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "An object is placed in front of a concave mirror at a point between its center of curvature and the focus point. Where will the image be formed?",
+        "options": [
+            "focus",
+            "at the point between the center of curvature and the point of focus",
+            "Between the center of curvature and infinity",
+            "Center of curvature"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Assertion (A): The danger signal is made up of red colour.\nReason (R): Red colour is scattered the least.\nSelect the correct answer:",
+        "options": [
+            "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "(A) is true, but (R) is false",
+            "(A) is false, but (R) is true"
+        ],
+        "correct_answer": "a",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Consider the following natural phenomena.\n1. Terrestrial heating\n2. Reflection of light\n3. Refraction of light\n4. Diffraction of light\nDue to which of these phenomena is mirage formed?",
+        "options": [
+            "Only 1 and 2",
+            "Only 2, 3 and 4",
+            "Only 1 and 3",
+            "Only 4"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "If a convex mirror is used to create a reflection of a real object, which of the following statements is false?",
+        "options": [
+            "The image is real",
+            "The image is small",
+            "The image is erect",
+            "The image is formed between P and F"
+        ],
+        "correct_answer": "a",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    }
+]

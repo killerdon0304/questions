@@ -1,0 +1,46 @@
+[
+    {
+        "question": "Echoes may be heard more than once due to successive or multiple:",
+        "options": [
+            "rarefaction",
+            "reflection",
+            "diffraction",
+            "refraction"
+        ],
+        "correct_answer": "b",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Visible radiation was discovered by:",
+        "options": [
+            "Henri Becquerel",
+            "Wilhelm Rontgen",
+            "Isaac Newton",
+            "Guglielmo Marconi"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Statement I The pitch of sound wave depends upon its frequency.\nStatement II The loudness of the sound wave depends upon its amplitude.",
+        "options": [
+            "Both the statements are true and statement II is the correct explanation of statement I",
+            "Both the statements are true, but statement II is not the correct explanation of statement I",
+            "Statement I is true, but statement II is false",
+            "Statement I is false, but statement II is true"
+        ],
+        "correct_answer": "b",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Which one of the following statements is correct?",
+        "options": [
+            "The speed of sound waves in a medium depends upon the elastic property of the medium, but not on an inertia property",
+            "The speed of sound waves in a medium depends upon the inertia property of the medium, but not on an elastic property",
+            "The speed of sound waves in a medium depends neither on its elastic property nor on its inertia property",
+            "The speed of sound waves in a medium depends on both elastic and inertia properties of themedium"
+        ],
+        "correct_answer": "d",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    }
+]

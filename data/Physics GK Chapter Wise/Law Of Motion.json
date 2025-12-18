@@ -1,0 +1,68 @@
+[
+    {
+        "question": "Which of the following statements is false?",
+        "options": [
+            "A body can have zero velocity and still be accelerated",
+            "A body can have a constant velocity and still have a varying speed",
+            "A body can have a constant speed and still have varying velocity",
+            "the direction of the velocity of a body can change when its acceleration is constant"
+        ],
+        "correct_answer": "b",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Consider the following statements.\n1. Negative acceleration means velocity increasing with time.\n2. A body is said to have non-uniform acceleration, if either magnitude or direction or both of them change during motion.\n3. Zero acceleration means, velocity is uniform.\nWhich of the statements given above is/are correct?",
+        "options": [
+            "1 and 2",
+            "2 and 3",
+            "1 and 3",
+            "Only 2"
+        ],
+        "correct_answer": "b",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Conservation of momentum in a collision between particles can be understood on the basis of",
+        "options": [
+            "Newton's First Law of Motion",
+            "Newton's Second Law of Motion",
+            "Both Newton's Second Law of Motion and Newton's Third Law of Motion",
+            "Conservation of Energy"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "The tendency of undisturbed objects to stay at rest or to keep moving with the same velocity is called",
+        "options": [
+            "velocity",
+            "force",
+            "momentum",
+            "inertia"
+        ],
+        "correct_answer": "d",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Change in velocity/time taken=",
+        "options": [
+            "impulse",
+            "speed",
+            "acceleration",
+            "displacement"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "The force between the two objects is always equal and opposite. Which Newton's law gives idea about the statement:",
+        "options": [
+            "Third law of motion",
+            "Second law of motion",
+            "First and second law of motion",
+            "First law of motion"
+        ],
+        "correct_answer": "a",
+        "note": "The statement \"The force between two objects is always equal and opposite\" refers to Newton's third law of motion. This law states that for every action, there is an equal and opposite reaction. In other words, when one object exerts a force on another object, the second object exerts a force of equal magnitude but in the opposite direction on the first object.\n\nOption B: Second law of motion\nNewton's second law of motion states that the acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass. This law does not specifically address the concept of equal and opposite forces between two objects.\n\nOption C: First and second law of motion\nWhile both the first and second laws of motion are fundamental principles in classical mechanics, neither of them directly addresses the idea of forces being equal and opposite between two objects.\n\nOption D: First law of motion\nNewton's first law of motion, also known as the law of inertia, states that an object at rest will remain at rest, and an object in motion will remain in motion with the same velocity unless acted upon by an external force. This law does not directly address the concept of equal and opposite forces between two objects.\n\nTherefore, the correct answer is Option A: Third law of motion."
+    }
+]

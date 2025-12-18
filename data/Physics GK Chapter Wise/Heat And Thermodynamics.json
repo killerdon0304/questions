@@ -1,0 +1,90 @@
+[
+    {
+        "question": "At boiling point of liquids, its",
+        "options": [
+            "temperature increases",
+            "atmospheric pressure increases",
+            "temperature remains constant",
+            "vapour pressure decreases"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Mud houses are cooler in summers and warmer in winters as compared to brick houses because",
+        "options": [
+            "mud is a good conductor",
+            "mud is a bad conductor",
+            "mud is a poor insulator",
+            "evaporation of water causes cooling in summers and sunlight coming through holes causes warming in winters"
+        ],
+        "correct_answer": "d",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Water is used in a hot water bag because",
+        "options": [
+            "it is easily available",
+            "it has high specific gravity",
+            "it has high specific heat",
+            "it has a liquid substance"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Transfer of heat is mainly due to conduction, convection and radiation in-",
+        "options": [
+            "Insulated pipes carrying hot water",
+            "In the refrigerator",
+            "In boiler furnaces",
+            "Actual condensation in a condenser is the transfer of heat"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Temperature reaches zero absolute value-",
+        "options": [
+            "-273 K temperature",
+            "In a state of vacuum",
+            "At the center of the earth",
+            "When the molecular speed of the system decreases to zero"
+        ],
+        "correct_answer": "d",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Assertion and Reason are given below.\nAssertion (A): We prefer the white dress in winters.\nReason (R): White dresses are good reflectors of heat.\nWhich one among these is the right answer.",
+        "options": [
+            "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "(A) is true, but (R) is false",
+            "(A) is false, but (R) is true"
+        ],
+        "correct_answer": "d",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "For which of the following process is the entropy change zero?",
+        "options": [
+            "Isobaric",
+            "Isothermal",
+            "Adiabatic",
+            "None of these"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "The temperature which has the same reading on both Fahrenheit and Celsius scales is",
+        "options": [
+            "40°",
+            "-40°",
+            "-34°",
+            "-140°"
+        ],
+        "correct_answer": "b",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    }
+]

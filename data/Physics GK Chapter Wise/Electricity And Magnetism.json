@@ -1,0 +1,46 @@
+[
+    {
+        "question": "Which of the following statements are correct?\n1. Change in magnetic field produces induced current.\n2. Flow of current in a conductor produces magnetic field.\n3. Magnetic field related to coil can be produced by motion between conductor and coil.",
+        "options": [
+            "Only 1 and 2",
+            "Only 1 and 3",
+            "Only 2 and 3",
+            "All statements are correct"
+        ],
+        "correct_answer": "d",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "What will be the reverse of permeability?",
+        "options": [
+            "Conductance",
+            "sensing",
+            "Reluctivity",
+            "Permittivity"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "The potential difference between the terminals of an electric heater is 60V when it draw of current of 4A from the source. What current will the heater draw if the potential difference is increased to 172.5 V?",
+        "options": [
+            "10 A",
+            "8.5 A",
+            "11.5 A",
+            "24 A"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "A fuse wire is made of",
+        "options": [
+            "an alloy of tin and copper",
+            "an alloy of tin and lead",
+            "an alloy of tin and aluminium",
+            "an alloy of nickel and chromium"
+        ],
+        "correct_answer": "b",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    }
+]

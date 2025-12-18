@@ -1,0 +1,46 @@
+[
+    {
+        "question": "In which year was the International Atomic Energy Agency created?",
+        "options": [
+            "1957",
+            "1958",
+            "1955",
+            "1956"
+        ],
+        "correct_answer": "a",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Negative feedback in amplifiers",
+        "options": [
+            "increases bandwidth and decreases noise",
+            "decreases bandwidth and decreases noise",
+            "increases bandwidth and increases noise",
+            "decreases bandwidth and increases noise"
+        ],
+        "correct_answer": "a",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Heavy water is used as a coolant in nuclear reactors. Heavy water is",
+        "options": [
+            "water rich in minerals",
+            "ozonised water",
+            "water containing minerals of heavy metal",
+            "water containing heavy isotope of hydrogen"
+        ],
+        "correct_answer": "d",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Wich Uranium isotope is used in nuclear power plants to produce electricity?",
+        "options": [
+            "U-233",
+            "U-234",
+            "U-235",
+            "U-239"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    }
+]

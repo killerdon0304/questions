@@ -1,0 +1,68 @@
+[
+    {
+        "question": "According to . . . . . . . ., pressure is equal to the force divided by the area on which it acts.",
+        "options": [
+            "Pascal's Law",
+            "Hooke's Law",
+            "Stefan-Boltzmann Law",
+            "Newton's Law"
+        ],
+        "correct_answer": "a",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "If you fill water in glass and ice cube. What happens when ice cube completely melts?",
+        "options": [
+            "Water will flow out",
+            "All the snow will sit in the bottom",
+            "Water level will remain the same",
+            "Water level will decrease with change"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "Surface tension depends on",
+        "options": [
+            "atmospheric pressure",
+            "nature of the liquid",
+            "temperature of the liquid",
+            "All of the above"
+        ],
+        "correct_answer": "d",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "The force acting on an object perpendicular to the surface is called . . . . . . . .",
+        "options": [
+            "pressure",
+            "work",
+            "thrust",
+            "friction"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "A body floats at 4°C water. If temperature reaches 100°C, then",
+        "options": [
+            "The body will sink",
+            "No change",
+            "More part of the body will submerge",
+            "The body will float freely"
+        ],
+        "correct_answer": "a",
+        "note": "The key to understanding this lies in how water's density changes with temperature.\nWater has a unique property: Its density is maximum at 4°C.\nWhen water is at 4°C, it's at its densest.\nAs the temperature increases from 4°C to 100°C, the density of water decreases.\n\nArchimedes' Principle: A body floats when the buoyant force (upward force exerted by the fluid) equals the weight of the body.\nThe buoyant force depends on the volume of fluid displaced and the density of the fluid.\n\nSince the water density decreases when heated to 100°C, a larger volume of water needs to be displaced to provide the same buoyant force to support the body's weight.\nTherefore, more of the body will submerge to displace the necessary volume of the less dense (warmer) water.\nSo, the correct answer is (C)."
+    },
+    {
+        "question": "A liquid does not wet the sides of a solid, if the angle of contact is",
+        "options": [
+            "zero",
+            "obtuse (more than 90)",
+            "acute",
+            "90°"
+        ],
+        "correct_answer": "b",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "question": "What is the value of the acceleration due to gravity (g) of Earth?",
+        "options": [
+            "5.4 m s-2",
+            "9.8 m s-2",
+            "3.8 m s-2",
+            "6.8 m s-2"
+        ],
+        "correct_answer": "b",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "The known forces of nature can be divided into four classes, viz., gravity, electromagnetism, weak nuclear force and strong nuclear force. With reference to them which one of the following statements is not correct?",
+        "options": [
+            "Gravity is the strongest of the four",
+            "Electromagnetism acts only on particles with an electric charge",
+            "Weak nuclear force causes, radioactivity",
+            "Strong nuclear force holds protons and neutrons inside the nucleus of an atom"
+        ],
+        "correct_answer": "a",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    }
+]

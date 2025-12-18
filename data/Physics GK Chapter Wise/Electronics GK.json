@@ -1,0 +1,24 @@
+[
+    {
+        "question": "Eca-Silicon is known as-",
+        "options": [
+            "silicon",
+            "gallium",
+            "Germanium",
+            "Aluminum"
+        ],
+        "correct_answer": "c",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    },
+    {
+        "question": "MOS stands for-",
+        "options": [
+            "Metal Oxide Semiconductor",
+            "Most often Store",
+            "Method organized Stack",
+            "None of these"
+        ],
+        "correct_answer": "a",
+        "note": "No explanation is given for this question  Let's Discuss on Board"
+    }
+]

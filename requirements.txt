@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+googletrans==4.0.0-rc1
+indic-transliteration
+jinja2
+python-multipart

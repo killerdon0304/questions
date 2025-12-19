@@ -1,0 +1,16 @@
+<div id="alertModal"
+     class="fixed inset-0 z-50 hidden items-center justify-center bg-black/50">
+  <div class="bg-white dark:bg-slate-800 w-72 rounded-xl p-4 text-center">
+    <p class="mb-4">Clear all translation history?</p>
+    <div class="flex gap-2">
+      <button onclick="closeAlert()"
+        class="flex-1 bg-slate-300 dark:bg-slate-600 rounded py-1">
+        Cancel
+      </button>
+      <button onclick="confirmClearHistory()"
+        class="flex-1 bg-red-600 text-white rounded py-1">
+        Clear
+      </button>
+    </div>
+  </div>
+</div>

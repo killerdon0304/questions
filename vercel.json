@@ -8,11 +8,11 @@
   ],
   "routes": [
     {
-      "src": "/static/(.*)",
+      "src": "^/static/(.*)",
       "dest": "/web/static/$1"
     },
     {
-      "src": "/(.*)",
+      "src": "^/(.*)",
       "dest": "/api/index.py"
     }
   ]

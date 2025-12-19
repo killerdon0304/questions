@@ -17,11 +17,11 @@ WEB_DIR = os.path.join(BASE_DIR, "web")
 app = FastAPI()
 
 # ---- STATIC & TEMPLATES (FROM web/) ----
-app.mount(
-    "/static",
-    StaticFiles(directory=os.path.join(WEB_DIR, "static")),
-    name="static"
-)
+# app.mount(
+ #   "/static",
+  #  StaticFiles(directory=os.path.join(WEB_DIR, "static")),
+  #  name="static"
+#)
 
 templates = Jinja2Templates(
     directory=os.path.join(WEB_DIR, "templates")
